@@ -1,0 +1,16 @@
+
+
+Ronda 0
+Company: Company A -> Student: Student A -> Matching: {'weight': 0.2976219668756096}
+Company: Company B -> Student: Student C -> Matching: {'weight': 0.29010668240950166}
+Company: Company C -> Student: Student B -> Matching: {'weight': 0.27034169478103814}
+
+Ronda 1
+Company: Company A -> Student: Student C -> Matching: {'weight': 0.2821354029540483}
+Company: Company B -> Student: Student B -> Matching: {'weight': 0.30077349567129635}
+Company: Company C -> Student: Student A -> Matching: {'weight': 0.26101564910133185}
+
+Ronda 2
+Company: Company A -> Student: Student B -> Matching: {'weight': 0.3132288751594143}
+Company: Company B -> Student: Student A -> Matching: {'weight': 0.285036754119446}
+Company: Company C -> Student: Student C -> Matching: {'weight': 0.24127429245212265}
