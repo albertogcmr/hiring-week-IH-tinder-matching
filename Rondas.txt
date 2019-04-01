@@ -1,16 +1,64 @@
 
 
 Ronda 0
-Company: Company A -> Student: Student A -> Matching: {'weight': 0.2976219668756096}
-Company: Company B -> Student: Student C -> Matching: {'weight': 0.29010668240950166}
-Company: Company C -> Student: Student B -> Matching: {'weight': 0.27034169478103814}
+Company: Company A -> Student: Student A -> Matching: {'weight': 0.3543668661943274}
+Company: Company B -> Student: Student C -> Matching: {'weight': 0.3109656469047956}
+Company: Company C -> Student: Student B -> Matching: {'weight': 0.3479359290687624}
+Company: Company Falsa 2 -> Student: Student Falso 1 -> Matching: {'weight': 0.3299230723708768}
+Company: Company Falsa 3 -> Student: Student Falso 2 -> Matching: {'weight': 0.2597106754733817}
+Company: Company Falsa -> Student: Student Falso 3 -> Matching: {'weight': 0.17001194913688772}
+Company: COMPANY MAX -> Student: Student Falso 4 -> Matching: {'weight': 0.1640311249718782}
 
 Ronda 1
-Company: Company A -> Student: Student C -> Matching: {'weight': 0.2821354029540483}
-Company: Company B -> Student: Student B -> Matching: {'weight': 0.30077349567129635}
-Company: Company C -> Student: Student A -> Matching: {'weight': 0.26101564910133185}
+Company: Company A -> Student: Student C -> Matching: {'weight': 0.32745463222264953}
+Company: Company B -> Student: Student B -> Matching: {'weight': 0.32242249032721787}
+Company: Company C -> Student: Student Falso 1 -> Matching: {'weight': 0.29457944301324035}
+Company: Company Falsa 2 -> Student: Student Falso 2 -> Matching: {'weight': 0.2321903525674172}
+Company: Company Falsa 3 -> Student: Student Falso 3 -> Matching: {'weight': 0.26586267989385887}
+Company: Company Falsa -> Student: Student Falso 4 -> Matching: {'weight': 0.1640311249718782}
+Company: COMPANY MAX -> Student: Nombre Falso 1 -> Matching: {'weight': 0.16494850026120464}
 
 Ronda 2
-Company: Company A -> Student: Student B -> Matching: {'weight': 0.3132288751594143}
-Company: Company B -> Student: Student A -> Matching: {'weight': 0.285036754119446}
-Company: Company C -> Student: Student C -> Matching: {'weight': 0.24127429245212265}
+Company: Company A -> Student: Student B -> Matching: {'weight': 0.3850013172507184}
+Company: Company B -> Student: Student Falso 1 -> Matching: {'weight': 0.28923815148034127}
+Company: Company C -> Student: Student Falso 2 -> Matching: {'weight': 0.29651348005590716}
+Company: Company Falsa 2 -> Student: Student Falso 3 -> Matching: {'weight': 0.313729005395703}
+Company: Company Falsa 3 -> Student: Student Falso 4 -> Matching: {'weight': 0.2503654719794066}
+Company: Company Falsa -> Student: Nombre Falso 1 -> Matching: {'weight': 0.16494850026120464}
+Company: COMPANY MAX -> Student: Nombre Falso 2 -> Matching: {'weight': 0.16936140274430247}
+
+Ronda 3
+Company: Company A -> Student: Student Falso 1 -> Matching: {'weight': 0.33124229844946834}
+Company: Company B -> Student: Student Falso 2 -> Matching: {'weight': 0.25883161219592904}
+Company: Company C -> Student: Student Falso 3 -> Matching: {'weight': 0.28197153779864537}
+Company: Company Falsa 2 -> Student: Student Falso 4 -> Matching: {'weight': 0.3296554834980145}
+Company: Company Falsa 3 -> Student: Nombre Falso 1 -> Matching: {'weight': 0.2523691031505982}
+Company: Company Falsa -> Student: Nombre Falso 2 -> Matching: {'weight': 0.16936140274430247}
+Company: COMPANY MAX -> Student: TODO MAX -> Matching: {'weight': 0.20521309615767264}
+
+Ronda 4
+Company: Company A -> Student: Student Falso 2 -> Matching: {'weight': 0.26659128164651563}
+Company: Company B -> Student: Student Falso 3 -> Matching: {'weight': 0.2795990366198376}
+Company: Company C -> Student: Student Falso 4 -> Matching: {'weight': 0.2951247270006478}
+Company: Company Falsa 2 -> Student: Nombre Falso 1 -> Matching: {'weight': 0.3259584165635993}
+Company: Company Falsa 3 -> Student: Nombre Falso 2 -> Matching: {'weight': 0.2447333470696463}
+Company: Company Falsa -> Student: TODO MAX -> Matching: {'weight': 0.20521309615767264}
+Company: COMPANY MAX -> Student: Nombre Falso 3 -> Matching: {'weight': 0.16936140274430247}
+
+Ronda 5
+Company: Company A -> Student: Student Falso 3 -> Matching: {'weight': 0.31460815812247256}
+Company: Company B -> Student: Student Falso 4 -> Matching: {'weight': 0.29148030894747246}
+Company: Company C -> Student: Nombre Falso 1 -> Matching: {'weight': 0.2898979485566356}
+Company: Company Falsa 2 -> Student: Nombre Falso 2 -> Matching: {'weight': 0.3068257554278028}
+Company: Company Falsa 3 -> Student: TODO MAX -> Matching: {'weight': 0.2597106754733817}
+Company: Company Falsa -> Student: Nombre Falso 3 -> Matching: {'weight': 0.16936140274430247}
+Company: COMPANY MAX -> Student: Nombre Falso 4 -> Matching: {'weight': 0.16936140274430247}
+
+Ronda 6
+Company: Company A -> Student: Student Falso 4 -> Matching: {'weight': 0.3326107741848354}
+Company: Company B -> Student: Nombre Falso 1 -> Matching: {'weight': 0.2840306136110249}
+Company: Company C -> Student: Nombre Falso 2 -> Matching: {'weight': 0.2842041472205512}
+Company: Company Falsa 2 -> Student: TODO MAX -> Matching: {'weight': 0.2321903525674172}
+Company: Company Falsa 3 -> Student: Nombre Falso 3 -> Matching: {'weight': 0.2447333470696463}
+Company: Company Falsa -> Student: Nombre Falso 4 -> Matching: {'weight': 0.16936140274430247}
+Company: COMPANY MAX -> Student: Nombre Falso 5 -> Matching: {'weight': 0.16936140274430247}
