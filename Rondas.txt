@@ -1,81 +1,141 @@
 
 
 Ronda 0
-Company: FAKE II -> Student: Nombre falso 1 -> Matching: 0.25280865505349787
-Company: Company ALL MAX -> Student: Student ALL MAX -> Matching: 1.0
-Company: Company ALL MID -> Student: Student ALL MID -> Matching: 1.0
-Company: Company ALL MIN -> Student: Student ALL MIN -> Matching: 1.0
-Company: The Hotels Network -> Student: Fake 123 -> Matching: 0.1940814536803966
-Company: Exoticca -> Student: Fake 124 -> Matching: 0.22048651402738337
-Company: FAKE -> Student: Fake 125 -> Matching: 0.19385440682067676
-Company: Movetia -> Student: Fake 126 -> Matching: 0.20600247719582415
+Company: Soprasteria -> Student: Miguel Erja González Solís -> Matching: 0.26561637760193174
+Company: AKKA -> Student: David Redondo Muñoz AKA Hiring Material -> Matching: 0.20820125192651984
+Company: InboundCycle -> Student: Edu Cortada -> Matching: 0.20675032981713737
+Company: SEAT -> Student: Joan Sánchez Vich -> Matching: 0.20889559033836536
+Company: Vidneo -> Student: Marcos Tagliabue -> Matching: 0.1859917360763588
+Company: ONEBOX -> Student: Llorenç Martinez -> Matching: 0.17542005624013876
+Company: Visyon (Estudio Bay SL) -> Student: Miguel Sánchez Díaz -> Matching: 0.19745710703143393
+Company: Exoticca -> Student: Edgar Rosendo Pulido -> Matching: 0.19305793581190375
+Company: Bluekik -> Student: Ester Fernández Padrós -> Matching: 0.20847889375046755
+Company: IBM -> Student: Ivan Quevedo Burgos -> Matching: 0.19004224638525818
+Company: The Hotels Network -> Student: Dídac Bigordà Arruego -> Matching: 0.15659560333633607
+Company: CAPITOLE CONSULTING -> Student: YOSHITSUGU NAGAO -> Matching: 0.14000610507214925
 
 Ronda 1
-Company: FAKE II -> Student: Fake 127 -> Matching: 0.25280865505349787
-Company: Company ALL MAX -> Student: Fake 128 -> Matching: 1.0
-Company: Company ALL MID -> Student: Fake 129 -> Matching: 1.0
-Company: Company ALL MIN -> Student: Fake 130 -> Matching: 1.0
-Company: The Hotels Network -> Student: Fake 131 -> Matching: 0.1940814536803966
-Company: Exoticca -> Student: Fake 132 -> Matching: 0.22048651402738337
-Company: FAKE -> Student: Fake 133 -> Matching: 0.19385440682067676
-Company: Movetia -> Student: Fake 134 -> Matching: 0.20600247719582415
+Company: InboundCycle -> Student: Marc Benaiges Torres -> Matching: 0.23513013859916274
+Company: Soprasteria -> Student: Madhur Mata -> Matching: 0.22787645167334694
+Company: AKKA -> Student: Pablo Grau -> Matching: 0.1859066641228563
+Company: IBM -> Student: Tomas Yaya -> Matching: 0.1950580534215075
+Company: Vidneo -> Student: Alejandro Gómez Pernía -> Matching: 0.1942462356015895
+Company: SEAT -> Student: Miguel Ribeiro Neto -> Matching: 0.17292715965381703
+Company: ONEBOX -> Student: Adriana Perez pinto -> Matching: 0.1787327638374545
+Company: The Hotels Network -> Student: Pedro Bonilla Miralles -> Matching: 0.17606212711257893
+Company: Visyon (Estudio Bay SL) -> Student: Andreu Camps Corcoll -> Matching: 0.23395959036474984
+Company: Exoticca -> Student: Matías Ferreiro -> Matching: 0.15595803611745912
+Company: Bluekik -> Student: Nicolas Lacaze -> Matching: 0.15623973627997317
+Company: CAPITOLE CONSULTING -> Student: Jesús Benages Elena -> Matching: 0.1421296080219444
 
 Ronda 2
-Company: The Hotels Network -> Student: Nombre falso 1 -> Matching: 0.22869247140318172
-Company: Movetia -> Student: Student ALL MAX -> Matching: 0.20600247719582415
-Company: Exoticca -> Student: Student ALL MID -> Matching: 0.2980283741603004
-Company: FAKE II -> Student: Student ALL MIN -> Matching: 0.3014857402018891
-Company: Company ALL MID -> Student: Fake 123 -> Matching: 0.251534664644183
-Company: Company ALL MIN -> Student: Fake 124 -> Matching: 0.19395559825437506
-Company: Company ALL MAX -> Student: Fake 125 -> Matching: 0.12760808106938265
-Company: FAKE -> Student: Fake 126 -> Matching: 0.1256249158160733
+Company: Soprasteria -> Student: Raúl Delgado Díaz -> Matching: 0.3316128774121265
+Company: InboundCycle -> Student: Daniel Téllez Llinás -> Matching: 0.3013496283140402
+Company: Vidneo -> Student: Francesc Muñoz Gonzalez -> Matching: 0.22014784808417004
+Company: AKKA -> Student: Ismael Jaouhar Babiano -> Matching: 0.29033425542249486
+Company: IBM -> Student: Florencia Dutari -> Matching: 0.17795735645456875
+Company: ONEBOX -> Student: Miguel Angel Moreno Sierra -> Matching: 0.17516551044282058
+Company: SEAT -> Student: Miguel Erja González Solís -> Matching: 0.17645262180280274
+Company: Visyon (Estudio Bay SL) -> Student: David Redondo Muñoz AKA Hiring Material -> Matching: 0.16738333454394996
+Company: The Hotels Network -> Student: Edu Cortada -> Matching: 0.1654965487623587
+Company: Bluekik -> Student: Joan Sánchez Vich -> Matching: 0.19004224638525818
+Company: Exoticca -> Student: Marcos Tagliabue -> Matching: 0.15351490145247015
+Company: CAPITOLE CONSULTING -> Student: Llorenç Martinez -> Matching: 0.14049908547324724
 
 Ronda 3
-Company: The Hotels Network -> Student: Fake 127 -> Matching: 0.22869247140318172
-Company: Movetia -> Student: Fake 128 -> Matching: 0.20600247719582415
-Company: Exoticca -> Student: Fake 129 -> Matching: 0.2980283741603004
-Company: FAKE II -> Student: Fake 130 -> Matching: 0.3014857402018891
-Company: Company ALL MID -> Student: Fake 131 -> Matching: 0.251534664644183
-Company: Company ALL MIN -> Student: Fake 132 -> Matching: 0.19395559825437506
-Company: Company ALL MAX -> Student: Fake 133 -> Matching: 0.12760808106938265
-Company: FAKE -> Student: Fake 134 -> Matching: 0.1256249158160733
+Company: InboundCycle -> Student: Miguel Sánchez Díaz -> Matching: 0.23656562897407868
+Company: Visyon (Estudio Bay SL) -> Student: Edgar Rosendo Pulido -> Matching: 0.20747125465634314
+Company: SEAT -> Student: Ester Fernández Padrós -> Matching: 0.2122440837002357
+Company: Soprasteria -> Student: Ivan Quevedo Burgos -> Matching: 0.2920697289657773
+Company: AKKA -> Student: Dídac Bigordà Arruego -> Matching: 0.24291932673651176
+Company: Vidneo -> Student: YOSHITSUGU NAGAO -> Matching: 0.17626951091035847
+Company: IBM -> Student: Marc Benaiges Torres -> Matching: 0.19525830795228297
+Company: ONEBOX -> Student: Madhur Mata -> Matching: 0.1681581418606164
+Company: The Hotels Network -> Student: Pablo Grau -> Matching: 0.16919595955754185
+Company: Exoticca -> Student: Tomas Yaya -> Matching: 0.14703183867517242
+Company: Bluekik -> Student: Alejandro Gómez Pernía -> Matching: 0.1531239822576608
+Company: CAPITOLE CONSULTING -> Student: Miguel Ribeiro Neto -> Matching: 0.1327650488745651
 
 Ronda 4
-Company: Company ALL MID -> Student: Nombre falso 1 -> Matching: 0.22144288180531518
-Company: Exoticca -> Student: Student ALL MAX -> Matching: 0.18539171210726552
-Company: Movetia -> Student: Student ALL MID -> Matching: 0.24489795918367344
-Company: FAKE -> Student: Student ALL MIN -> Matching: 0.21640680251009767
-Company: FAKE II -> Student: Fake 123 -> Matching: 0.1688685874285039
-Company: The Hotels Network -> Student: Fake 124 -> Matching: 0.24085413752894708
-Company: Company ALL MIN -> Student: Fake 125 -> Matching: 0.21812546432393193
-Company: Company ALL MAX -> Student: Fake 126 -> Matching: 1.0
+Company: Soprasteria -> Student: Adriana Perez pinto -> Matching: 0.3844998779892558
+Company: AKKA -> Student: Pedro Bonilla Miralles -> Matching: 0.3217137652840761
+Company: Vidneo -> Student: Andreu Camps Corcoll -> Matching: 0.34539313109175535
+Company: InboundCycle -> Student: Matías Ferreiro -> Matching: 0.3272276095011527
+Company: IBM -> Student: Nicolas Lacaze -> Matching: 0.19006927426208164
+Company: SEAT -> Student: Jesús Benages Elena -> Matching: 0.19683020557558437
+Company: ONEBOX -> Student: Raúl Delgado Díaz -> Matching: 0.1804985244921543
+Company: The Hotels Network -> Student: Daniel Téllez Llinás -> Matching: 0.17789666372347812
+Company: Visyon (Estudio Bay SL) -> Student: Francesc Muñoz Gonzalez -> Matching: 0.19796154061199056
+Company: Exoticca -> Student: Ismael Jaouhar Babiano -> Matching: 0.14867201931191282
+Company: Bluekik -> Student: Florencia Dutari -> Matching: 0.1425628484968952
+Company: CAPITOLE CONSULTING -> Student: Miguel Angel Moreno Sierra -> Matching: 0.1362031094184316
 
 Ronda 5
-Company: Company ALL MID -> Student: Fake 127 -> Matching: 0.22144288180531518
-Company: Exoticca -> Student: Fake 128 -> Matching: 0.18539171210726552
-Company: Movetia -> Student: Fake 129 -> Matching: 0.24489795918367344
-Company: FAKE -> Student: Fake 130 -> Matching: 0.21640680251009767
-Company: FAKE II -> Student: Fake 131 -> Matching: 0.1688685874285039
-Company: The Hotels Network -> Student: Fake 132 -> Matching: 0.24085413752894708
-Company: Company ALL MIN -> Student: Fake 133 -> Matching: 0.21812546432393193
-Company: Company ALL MAX -> Student: Fake 134 -> Matching: 1.0
+Company: AKKA -> Student: Miguel Erja González Solís -> Matching: 0.26451921279230906
+Company: InboundCycle -> Student: David Redondo Muñoz AKA Hiring Material -> Matching: 0.20706373611205958
+Company: Soprasteria -> Student: Edu Cortada -> Matching: 0.1982087933867007
+Company: Exoticca -> Student: Joan Sánchez Vich -> Matching: 0.18954178279011388
+Company: ONEBOX -> Student: Marcos Tagliabue -> Matching: 0.1756497006884881
+Company: Vidneo -> Student: Llorenç Martinez -> Matching: 0.1874781579324786
+Company: SEAT -> Student: Miguel Sánchez Díaz -> Matching: 0.19597642555041
+Company: Bluekik -> Student: Edgar Rosendo Pulido -> Matching: 0.19247504877472374
+Company: The Hotels Network -> Student: Ester Fernández Padrós -> Matching: 0.18190257614335809
+Company: Visyon (Estudio Bay SL) -> Student: Ivan Quevedo Burgos -> Matching: 0.15510250805991824
+Company: IBM -> Student: Dídac Bigordà Arruego -> Matching: 0.1705025585001211
+Company: CAPITOLE CONSULTING -> Student: Florencia Dutari -> Matching: 0.1344915200395134
 
 Ronda 6
-Company: Company ALL MIN -> Student: Nombre falso 1 -> Matching: 0.21812546432393193
-Company: Company ALL MID -> Student: Student ALL MAX -> Matching: 0.1880029727694983
-Company: The Hotels Network -> Student: Student ALL MID -> Matching: 0.2427022936759756
-Company: Exoticca -> Student: Student ALL MIN -> Matching: 0.16799075722441553
-Company: Movetia -> Student: Fake 123 -> Matching: 0.1884657611926615
-Company: FAKE II -> Student: Fake 124 -> Matching: 0.2185054944717305
-Company: Company ALL MAX -> Student: Fake 129 -> Matching: 0.1880029727694983
-Company: FAKE -> Student: Fake 131 -> Matching: 0.17196846645237646
+Company: Soprasteria -> Student: Marc Benaiges Torres -> Matching: 0.2122440837002357
+Company: InboundCycle -> Student: Madhur Mata -> Matching: 0.22355805625875264
+Company: Visyon (Estudio Bay SL) -> Student: Pablo Grau -> Matching: 0.18136090432603597
+Company: AKKA -> Student: Tomas Yaya -> Matching: 0.3018004369749661
+Company: IBM -> Student: Alejandro Gómez Pernía -> Matching: 0.1779792221476953
+Company: Vidneo -> Student: Miguel Ribeiro Neto -> Matching: 0.17874853090978465
+Company: The Hotels Network -> Student: Adriana Perez pinto -> Matching: 0.17698273015440333
+Company: ONEBOX -> Student: Pedro Bonilla Miralles -> Matching: 0.18918327140821506
+Company: SEAT -> Student: Andreu Camps Corcoll -> Matching: 0.20237943879133638
+Company: Bluekik -> Student: Matías Ferreiro -> Matching: 0.15465983644221165
+Company: Exoticca -> Student: Nicolas Lacaze -> Matching: 0.1632197174632505
+Company: CAPITOLE CONSULTING -> Student: Edu Cortada -> Matching: 0.14444632174381275
 
 Ronda 7
-Company: Company ALL MIN -> Student: Fake 127 -> Matching: 0.21812546432393193
-Company: Company ALL MID -> Student: Fake 128 -> Matching: 0.1880029727694983
-Company: The Hotels Network -> Student: Fake 129 -> Matching: 0.2427022936759756
-Company: Exoticca -> Student: Fake 130 -> Matching: 0.16799075722441553
-Company: Movetia -> Student: Fake 131 -> Matching: 0.1884657611926615
-Company: FAKE II -> Student: Fake 132 -> Matching: 0.2185054944717305
-Company: FAKE -> Student: Student ALL MAX -> Matching: 0.1256249158160733
-Company: Company ALL MAX -> Student: Student ALL MID -> Matching: 0.1880029727694983
+Company: InboundCycle -> Student: Raúl Delgado Díaz -> Matching: 0.29022679932554135
+Company: AKKA -> Student: Daniel Téllez Llinás -> Matching: 0.28438970199786334
+Company: Soprasteria -> Student: Francesc Muñoz Gonzalez -> Matching: 0.2251916719832084
+Company: IBM -> Student: Ismael Jaouhar Babiano -> Matching: 0.20847889375046755
+Company: ONEBOX -> Student: Florencia Dutari -> Matching: 0.17225308179763696
+Company: Vidneo -> Student: Miguel Angel Moreno Sierra -> Matching: 0.18418555510880444
+Company: Visyon (Estudio Bay SL) -> Student: Miguel Erja González Solís -> Matching: 0.1696069615871148
+Company: SEAT -> Student: David Redondo Muñoz AKA Hiring Material -> Matching: 0.16935608183548578
+Company: Bluekik -> Student: Edu Cortada -> Matching: 0.160199424020921
+Company: The Hotels Network -> Student: Joan Sánchez Vich -> Matching: 0.17985694032375668
+Company: CAPITOLE CONSULTING -> Student: Marcos Tagliabue -> Matching: 0.14051372196905418
+Company: Exoticca -> Student: Llorenç Martinez -> Matching: 0.15653756294630247
+
+Ronda 8
+Company: Soprasteria -> Student: Miguel Sánchez Díaz -> Matching: 0.20959836996203288
+Company: InboundCycle -> Student: Edgar Rosendo Pulido -> Matching: 0.2187841884486319
+Company: Exoticca -> Student: Ester Fernández Padrós -> Matching: 0.21015802625472205
+Company: AKKA -> Student: Ivan Quevedo Burgos -> Matching: 0.25026472149907625
+Company: Vidneo -> Student: Dídac Bigordà Arruego -> Matching: 0.18258230715675808
+Company: SEAT -> Student: YOSHITSUGU NAGAO -> Matching: 0.18440142778389404
+Company: Visyon (Estudio Bay SL) -> Student: Marc Benaiges Torres -> Matching: 0.20138012540430048
+Company: IBM -> Student: Madhur Mata -> Matching: 0.17771788636982305
+Company: Bluekik -> Student: Pablo Grau -> Matching: 0.16087486719518465
+Company: ONEBOX -> Student: Tomas Yaya -> Matching: 0.18358789099723563
+Company: The Hotels Network -> Student: Alejandro Gómez Pernía -> Matching: 0.15842925398012578
+Company: CAPITOLE CONSULTING -> Student: Andreu Camps Corcoll -> Matching: 0.14840934999548921
+
+Ronda 9
+Company: InboundCycle -> Student: Adriana Perez pinto -> Matching: 0.3094264586979863
+Company: Soprasteria -> Student: Pedro Bonilla Miralles -> Matching: 0.3537242376883224
+Company: The Hotels Network -> Student: Andreu Camps Corcoll -> Matching: 0.19481745330333633
+Company: AKKA -> Student: Matías Ferreiro -> Matching: 0.3124560995650228
+Company: ONEBOX -> Student: Nicolas Lacaze -> Matching: 0.17836156345064325
+Company: Exoticca -> Student: Jesús Benages Elena -> Matching: 0.16942366898394692
+Company: IBM -> Student: Raúl Delgado Díaz -> Matching: 0.19826456359728048
+Company: Vidneo -> Student: Daniel Téllez Llinás -> Matching: 0.1703465392576093
+Company: SEAT -> Student: Francesc Muñoz Gonzalez -> Matching: 0.18770617968142952
+Company: Visyon (Estudio Bay SL) -> Student: Ismael Jaouhar Babiano -> Matching: 0.1609572088897861
+Company: Bluekik -> Student: YOSHITSUGU NAGAO -> Matching: 0.1599530292403706
+Company: CAPITOLE CONSULTING -> Student: Pablo Grau -> Matching: 0.14665811268186243

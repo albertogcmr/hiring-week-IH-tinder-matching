@@ -1,17 +1,31 @@
-name,english,spanish,portuguese,french,dutch,catalan,location,offsite,position,java,caspnet,python,php,sql,angular,vue,firebase,aws,dockerkubernetes,design,motivation,coachability,teamwork
-Nombre falso 1,5,5,1,1,1,5,1,2,5,1,1,1,2,2,2,1,1,1,1,3,1,2,3
-Student ALL MAX,5,5,5,5,5,5,3,4,10,3,3,3,3,3,3,3,3,3,3,3,3,2,1
-Student ALL MID,3,3,3,3,3,3,2,3,5,2,2,2,2,2,2,2,2,2,2,2,2,1,3
-Student ALL MIN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3
-Fake 123,1,2,3,4,5,4,2,2,8,1,2,3,2,1,2,3,2,1,2,3,2,1,3
-Fake 124,1,2,3,2,3,4,1,2,7,1,2,2,2,3,1,2,2,2,1,2,1,2,3
-Fake 125,5,5,1,1,1,5,1,2,5,1,1,1,2,2,2,1,1,1,1,3,1,2,3
-Fake 126,5,5,5,5,5,5,3,4,10,3,3,3,3,3,3,3,3,3,3,3,3,2,1
-Fake 127,5,5,1,1,1,5,1,2,5,1,1,1,2,2,2,1,1,1,1,3,1,2,3
-Fake 128,5,5,5,5,5,5,3,4,10,3,3,3,3,3,3,3,3,3,3,3,3,2,1
-Fake 129,3,3,3,3,3,3,2,3,5,2,2,2,2,2,2,2,2,2,2,2,2,1,3
-Fake 130,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3
-Fake 131,1,2,3,4,5,4,2,2,8,1,2,3,2,1,2,3,2,1,2,3,2,1,3
-Fake 132,1,2,3,2,3,4,1,2,7,1,2,2,2,3,1,2,2,2,1,2,1,2,3
-Fake 133,5,5,1,1,1,5,1,2,5,1,1,1,2,2,2,1,1,1,1,3,1,2,3
-Fake 134,5,5,5,5,5,5,3,4,10,3,3,3,3,3,3,3,3,3,3,3,3,2,1
+name,english,spanish,portuguese,french,dutch,catalan,location,offsite,position,java,caspnet,python,php,sql,angular,vue,firebase,aws,dockerkubernetes,design,motivation,coachability,"From this list of soft skills, please rank in order the ones you consider you're stronger at [Teamwork: I'm able to receive and provide value in a team environment]"
+Miguel Erja González Solís,5,5,1,1,1,2,1,1,7,1,1,1,1,1,1,1,2,1,1,1,3,2,1
+David Redondo Muñoz AKA Hiring Material,5,5,1,1,1,5,1,2,9,1,1,1,1,1,1,1,2,1,1,3,1,3,2
+Edu Cortada,3,5,1,1,1,5,1,2,10,1,1,1,2,1,1,1,2,1,1,3,3,2,1
+Joan Sánchez Vich,3,5,1,1,1,5,1,2,8,2,1,2,1,2,1,1,2,1,1,2,2,3,1
+Marcos Tagliabue,5,5,1,1,1,5,1,1,9,1,1,1,1,1,1,1,2,1,1,2,3,1,2
+Llorenç Martinez,3,4,3,1,1,4,1,2,8,1,1,1,1,1,1,1,2,1,1,2,3,2,1
+Miguel Sánchez Díaz,3,5,1,1,1,5,1,2,7,2,2,1,2,2,1,1,2,1,1,2,1,3,2
+Edgar Rosendo Pulido,4,5,1,1,1,5,3,2,8,2,1,1,3,2,1,2,2,1,1,2,1,3,2
+Ester Fernández Padrós,3,5,1,1,1,5,1,2,6,2,2,2,2,2,1,1,2,1,1,3,1,2,3
+Ivan Quevedo Burgos,3,5,1,2,2,5,3,2,5,1,1,1,1,1,1,1,1,1,1,2,3,2,1
+Dídac Bigordà Arruego,5,5,1,1,1,5,3,2,9,1,1,1,1,1,1,1,2,1,1,2,3,1,2
+YOSHITSUGU NAGAO,5,1,1,1,1,1,1,1,5,1,1,1,1,1,1,1,2,1,1,2,1,3,2
+Marc Benaiges Torres,2,5,1,2,1,5,3,1,6,2,1,1,2,2,1,1,2,1,1,2,1,3,2
+Madhur Mata,5,5,3,1,1,5,3,2,8,1,1,1,1,1,1,1,2,1,1,2,1,3,2
+Pablo Grau,5,5,2,2,1,5,3,1,5,1,1,1,2,1,1,1,2,1,1,3,1,3,2
+Tomas Yaya,5,5,1,1,1,1,3,1,9,1,1,1,1,1,1,2,1,1,1,2,3,2,1
+Alejandro Gómez Pernía,3,5,1,2,1,3,2,3,8,1,1,1,1,1,1,1,2,1,1,1,3,1,2
+Miguel Ribeiro Neto,5,5,5,1,1,2,3,4,5,1,1,1,1,1,1,1,2,1,1,1,2,3,1
+Adriana Perez pinto,3,5,1,1,1,1,3,2,5,1,1,1,1,1,1,1,1,1,1,1,1,3,2
+Pedro Bonilla Miralles,5,5,1,1,1,2,3,1,6,1,1,1,1,1,1,1,1,1,1,1,3,2,1
+Andreu Camps Corcoll,2,5,1,1,1,5,1,1,3,1,1,1,2,2,1,1,2,2,2,1,3,1,2
+Matías Ferreiro,5,5,1,1,1,2,3,2,7,2,1,1,1,2,1,1,1,1,1,1,1,2,3
+Nicolas Lacaze,5,5,5,5,1,1,1,2,8,2,1,1,1,1,1,1,2,1,1,1,1,3,2
+Jesús Benages Elena,4,5,1,2,1,1,3,2,4,1,1,2,1,1,1,1,2,1,1,1,1,3,2
+Raúl Delgado Díaz,3,5,1,1,1,5,1,2,5,1,2,1,1,2,1,1,1,1,1,1,3,1,2
+Daniel Téllez Llinás,3,5,1,1,1,2,3,2,8,2,1,1,1,2,1,1,1,1,1,2,1,3,2
+Francesc Muñoz Gonzalez,3,5,2,1,1,5,2,1,6,2,1,1,2,2,1,1,2,1,1,1,1,3,2
+Ismael Jaouhar Babiano,5,5,1,1,1,2,1,2,5,1,1,1,1,1,1,1,1,1,1,1,1,3,2
+Florencia Dutari,4,5,1,1,1,2,3,1,7,1,1,1,1,1,1,1,1,1,1,3,3,1,2
+Miguel Angel Moreno Sierra,3,5,1,1,1,5,1,1,10,1,1,1,1,1,1,1,2,1,1,1,1,2,3
