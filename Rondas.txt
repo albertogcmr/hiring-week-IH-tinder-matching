@@ -1,81 +1,81 @@
 
 
 Ronda 0
-Company: FAKE II -> Student: Nombre falso 1 -> Matching: {'weight': 0.25280865505349787}
-Company: Company ALL MAX -> Student: Student ALL MAX -> Matching: {'weight': 1.0}
-Company: Company ALL MID -> Student: Student ALL MID -> Matching: {'weight': 1.0}
-Company: Company ALL MIN -> Student: Student ALL MIN -> Matching: {'weight': 1.0}
-Company: The Hotels Network -> Student: Fake 123 -> Matching: {'weight': 0.1940814536803966}
-Company: Exoticca -> Student: Fake 124 -> Matching: {'weight': 0.22048651402738337}
-Company: FAKE -> Student: Fake 125 -> Matching: {'weight': 0.19385440682067676}
-Company: Movetia -> Student: Fake 126 -> Matching: {'weight': 0.20600247719582415}
+Company: FAKE II -> Student: Nombre falso 1 -> Matching: 0.25280865505349787
+Company: Company ALL MAX -> Student: Student ALL MAX -> Matching: 1.0
+Company: Company ALL MID -> Student: Student ALL MID -> Matching: 1.0
+Company: Company ALL MIN -> Student: Student ALL MIN -> Matching: 1.0
+Company: The Hotels Network -> Student: Fake 123 -> Matching: 0.1940814536803966
+Company: Exoticca -> Student: Fake 124 -> Matching: 0.22048651402738337
+Company: FAKE -> Student: Fake 125 -> Matching: 0.19385440682067676
+Company: Movetia -> Student: Fake 126 -> Matching: 0.20600247719582415
 
 Ronda 1
-Company: FAKE II -> Student: Fake 127 -> Matching: {'weight': 0.25280865505349787}
-Company: Company ALL MAX -> Student: Fake 128 -> Matching: {'weight': 1.0}
-Company: Company ALL MID -> Student: Fake 129 -> Matching: {'weight': 1.0}
-Company: Company ALL MIN -> Student: Fake 130 -> Matching: {'weight': 1.0}
-Company: The Hotels Network -> Student: Fake 131 -> Matching: {'weight': 0.1940814536803966}
-Company: Exoticca -> Student: Fake 132 -> Matching: {'weight': 0.22048651402738337}
-Company: FAKE -> Student: Fake 133 -> Matching: {'weight': 0.19385440682067676}
-Company: Movetia -> Student: Fake 134 -> Matching: {'weight': 0.20600247719582415}
+Company: FAKE II -> Student: Fake 127 -> Matching: 0.25280865505349787
+Company: Company ALL MAX -> Student: Fake 128 -> Matching: 1.0
+Company: Company ALL MID -> Student: Fake 129 -> Matching: 1.0
+Company: Company ALL MIN -> Student: Fake 130 -> Matching: 1.0
+Company: The Hotels Network -> Student: Fake 131 -> Matching: 0.1940814536803966
+Company: Exoticca -> Student: Fake 132 -> Matching: 0.22048651402738337
+Company: FAKE -> Student: Fake 133 -> Matching: 0.19385440682067676
+Company: Movetia -> Student: Fake 134 -> Matching: 0.20600247719582415
 
 Ronda 2
-Company: The Hotels Network -> Student: Nombre falso 1 -> Matching: {'weight': 0.22869247140318172}
-Company: Movetia -> Student: Student ALL MAX -> Matching: {'weight': 0.20600247719582415}
-Company: Exoticca -> Student: Student ALL MID -> Matching: {'weight': 0.2980283741603004}
-Company: FAKE II -> Student: Student ALL MIN -> Matching: {'weight': 0.3014857402018891}
-Company: Company ALL MID -> Student: Fake 123 -> Matching: {'weight': 0.251534664644183}
-Company: Company ALL MIN -> Student: Fake 124 -> Matching: {'weight': 0.19395559825437506}
-Company: Company ALL MAX -> Student: Fake 125 -> Matching: {'weight': 0.12760808106938265}
-Company: FAKE -> Student: Fake 126 -> Matching: {'weight': 0.1256249158160733}
+Company: The Hotels Network -> Student: Nombre falso 1 -> Matching: 0.22869247140318172
+Company: Movetia -> Student: Student ALL MAX -> Matching: 0.20600247719582415
+Company: Exoticca -> Student: Student ALL MID -> Matching: 0.2980283741603004
+Company: FAKE II -> Student: Student ALL MIN -> Matching: 0.3014857402018891
+Company: Company ALL MID -> Student: Fake 123 -> Matching: 0.251534664644183
+Company: Company ALL MIN -> Student: Fake 124 -> Matching: 0.19395559825437506
+Company: Company ALL MAX -> Student: Fake 125 -> Matching: 0.12760808106938265
+Company: FAKE -> Student: Fake 126 -> Matching: 0.1256249158160733
 
 Ronda 3
-Company: The Hotels Network -> Student: Fake 127 -> Matching: {'weight': 0.22869247140318172}
-Company: Movetia -> Student: Fake 128 -> Matching: {'weight': 0.20600247719582415}
-Company: Exoticca -> Student: Fake 129 -> Matching: {'weight': 0.2980283741603004}
-Company: FAKE II -> Student: Fake 130 -> Matching: {'weight': 0.3014857402018891}
-Company: Company ALL MID -> Student: Fake 131 -> Matching: {'weight': 0.251534664644183}
-Company: Company ALL MIN -> Student: Fake 132 -> Matching: {'weight': 0.19395559825437506}
-Company: Company ALL MAX -> Student: Fake 133 -> Matching: {'weight': 0.12760808106938265}
-Company: FAKE -> Student: Fake 134 -> Matching: {'weight': 0.1256249158160733}
+Company: The Hotels Network -> Student: Fake 127 -> Matching: 0.22869247140318172
+Company: Movetia -> Student: Fake 128 -> Matching: 0.20600247719582415
+Company: Exoticca -> Student: Fake 129 -> Matching: 0.2980283741603004
+Company: FAKE II -> Student: Fake 130 -> Matching: 0.3014857402018891
+Company: Company ALL MID -> Student: Fake 131 -> Matching: 0.251534664644183
+Company: Company ALL MIN -> Student: Fake 132 -> Matching: 0.19395559825437506
+Company: Company ALL MAX -> Student: Fake 133 -> Matching: 0.12760808106938265
+Company: FAKE -> Student: Fake 134 -> Matching: 0.1256249158160733
 
 Ronda 4
-Company: Company ALL MID -> Student: Nombre falso 1 -> Matching: {'weight': 0.22144288180531518}
-Company: Exoticca -> Student: Student ALL MAX -> Matching: {'weight': 0.18539171210726552}
-Company: Movetia -> Student: Student ALL MID -> Matching: {'weight': 0.24489795918367344}
-Company: FAKE -> Student: Student ALL MIN -> Matching: {'weight': 0.21640680251009767}
-Company: FAKE II -> Student: Fake 123 -> Matching: {'weight': 0.1688685874285039}
-Company: The Hotels Network -> Student: Fake 124 -> Matching: {'weight': 0.24085413752894708}
-Company: Company ALL MIN -> Student: Fake 125 -> Matching: {'weight': 0.21812546432393193}
-Company: Company ALL MAX -> Student: Fake 126 -> Matching: {'weight': 1.0}
+Company: Company ALL MID -> Student: Nombre falso 1 -> Matching: 0.22144288180531518
+Company: Exoticca -> Student: Student ALL MAX -> Matching: 0.18539171210726552
+Company: Movetia -> Student: Student ALL MID -> Matching: 0.24489795918367344
+Company: FAKE -> Student: Student ALL MIN -> Matching: 0.21640680251009767
+Company: FAKE II -> Student: Fake 123 -> Matching: 0.1688685874285039
+Company: The Hotels Network -> Student: Fake 124 -> Matching: 0.24085413752894708
+Company: Company ALL MIN -> Student: Fake 125 -> Matching: 0.21812546432393193
+Company: Company ALL MAX -> Student: Fake 126 -> Matching: 1.0
 
 Ronda 5
-Company: Company ALL MID -> Student: Fake 127 -> Matching: {'weight': 0.22144288180531518}
-Company: Exoticca -> Student: Fake 128 -> Matching: {'weight': 0.18539171210726552}
-Company: Movetia -> Student: Fake 129 -> Matching: {'weight': 0.24489795918367344}
-Company: FAKE -> Student: Fake 130 -> Matching: {'weight': 0.21640680251009767}
-Company: FAKE II -> Student: Fake 131 -> Matching: {'weight': 0.1688685874285039}
-Company: The Hotels Network -> Student: Fake 132 -> Matching: {'weight': 0.24085413752894708}
-Company: Company ALL MIN -> Student: Fake 133 -> Matching: {'weight': 0.21812546432393193}
-Company: Company ALL MAX -> Student: Fake 134 -> Matching: {'weight': 1.0}
+Company: Company ALL MID -> Student: Fake 127 -> Matching: 0.22144288180531518
+Company: Exoticca -> Student: Fake 128 -> Matching: 0.18539171210726552
+Company: Movetia -> Student: Fake 129 -> Matching: 0.24489795918367344
+Company: FAKE -> Student: Fake 130 -> Matching: 0.21640680251009767
+Company: FAKE II -> Student: Fake 131 -> Matching: 0.1688685874285039
+Company: The Hotels Network -> Student: Fake 132 -> Matching: 0.24085413752894708
+Company: Company ALL MIN -> Student: Fake 133 -> Matching: 0.21812546432393193
+Company: Company ALL MAX -> Student: Fake 134 -> Matching: 1.0
 
 Ronda 6
-Company: Company ALL MIN -> Student: Nombre falso 1 -> Matching: {'weight': 0.21812546432393193}
-Company: Company ALL MID -> Student: Student ALL MAX -> Matching: {'weight': 0.1880029727694983}
-Company: The Hotels Network -> Student: Student ALL MID -> Matching: {'weight': 0.2427022936759756}
-Company: Exoticca -> Student: Student ALL MIN -> Matching: {'weight': 0.16799075722441553}
-Company: Movetia -> Student: Fake 123 -> Matching: {'weight': 0.1884657611926615}
-Company: FAKE II -> Student: Fake 124 -> Matching: {'weight': 0.2185054944717305}
-Company: Company ALL MAX -> Student: Fake 130 -> Matching: {'weight': 0.10676232268609791}
-Company: FAKE -> Student: Fake 128 -> Matching: {'weight': 0.1256249158160733}
+Company: Company ALL MIN -> Student: Nombre falso 1 -> Matching: 0.21812546432393193
+Company: Company ALL MID -> Student: Student ALL MAX -> Matching: 0.1880029727694983
+Company: The Hotels Network -> Student: Student ALL MID -> Matching: 0.2427022936759756
+Company: Exoticca -> Student: Student ALL MIN -> Matching: 0.16799075722441553
+Company: Movetia -> Student: Fake 123 -> Matching: 0.1884657611926615
+Company: FAKE II -> Student: Fake 124 -> Matching: 0.2185054944717305
+Company: Company ALL MAX -> Student: Fake 131 -> Matching: 0.16494858319989944
+Company: FAKE -> Student: Fake 132 -> Matching: 0.19077335367632686
 
 Ronda 7
-Company: Company ALL MIN -> Student: Fake 127 -> Matching: {'weight': 0.21812546432393193}
-Company: Company ALL MID -> Student: Fake 128 -> Matching: {'weight': 0.1880029727694983}
-Company: The Hotels Network -> Student: Fake 129 -> Matching: {'weight': 0.2427022936759756}
-Company: Exoticca -> Student: Fake 130 -> Matching: {'weight': 0.16799075722441553}
-Company: Movetia -> Student: Fake 131 -> Matching: {'weight': 0.1884657611926615}
-Company: FAKE II -> Student: Fake 132 -> Matching: {'weight': 0.2185054944717305}
-Company: FAKE -> Student: Fake 124 -> Matching: {'weight': 0.19077335367632686}
-Company: Company ALL MAX -> Student: Student ALL MID -> Matching: {'weight': 0.1880029727694983}
+Company: Company ALL MIN -> Student: Fake 127 -> Matching: 0.21812546432393193
+Company: Company ALL MID -> Student: Fake 128 -> Matching: 0.1880029727694983
+Company: The Hotels Network -> Student: Fake 129 -> Matching: 0.2427022936759756
+Company: Exoticca -> Student: Fake 130 -> Matching: 0.16799075722441553
+Company: Movetia -> Student: Fake 131 -> Matching: 0.1884657611926615
+Company: FAKE II -> Student: Fake 132 -> Matching: 0.2185054944717305
+Company: Nombre falso 1 -> Student: Company ALL MAX -> Matching: 0.12760808106938265
+Company: FAKE -> Student: Fake 123 -> Matching: 0.17196846645237646
