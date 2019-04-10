@@ -67,8 +67,8 @@ Company: The Hotels Network -> Student: Student ALL MID -> Matching: 0.242702293
 Company: Exoticca -> Student: Student ALL MIN -> Matching: 0.16799075722441553
 Company: Movetia -> Student: Fake 123 -> Matching: 0.1884657611926615
 Company: FAKE II -> Student: Fake 124 -> Matching: 0.2185054944717305
-Company: Company ALL MAX -> Student: Fake 131 -> Matching: 0.16494858319989944
-Company: FAKE -> Student: Fake 132 -> Matching: 0.19077335367632686
+Company: Company ALL MAX -> Student: Fake 129 -> Matching: 0.1880029727694983
+Company: FAKE -> Student: Fake 131 -> Matching: 0.17196846645237646
 
 Ronda 7
 Company: Company ALL MIN -> Student: Fake 127 -> Matching: 0.21812546432393193
@@ -77,5 +77,5 @@ Company: The Hotels Network -> Student: Fake 129 -> Matching: 0.2427022936759756
 Company: Exoticca -> Student: Fake 130 -> Matching: 0.16799075722441553
 Company: Movetia -> Student: Fake 131 -> Matching: 0.1884657611926615
 Company: FAKE II -> Student: Fake 132 -> Matching: 0.2185054944717305
-Company: Nombre falso 1 -> Student: Company ALL MAX -> Matching: 0.12760808106938265
-Company: FAKE -> Student: Fake 123 -> Matching: 0.17196846645237646
+Company: FAKE -> Student: Student ALL MAX -> Matching: 0.1256249158160733
+Company: Company ALL MAX -> Student: Student ALL MID -> Matching: 0.1880029727694983
