@@ -82,7 +82,7 @@ Company: Bluekik -> Student: Edgar Rosendo Pulido -> Matching: 0.192475048774723
 Company: The Hotels Network -> Student: Ester Fernández Padrós -> Matching: 0.18190257614335809
 Company: Visyon (Estudio Bay SL) -> Student: Ivan Quevedo Burgos -> Matching: 0.15510250805991824
 Company: IBM -> Student: Dídac Bigordà Arruego -> Matching: 0.1705025585001211
-Company: CAPITOLE CONSULTING -> Student: Florencia Dutari -> Matching: 0.1344915200395134
+Company: CAPITOLE CONSULTING -> Student: Tomas Yaya -> Matching: 0.13854096320584947
 
 Ronda 6
 Company: Soprasteria -> Student: Marc Benaiges Torres -> Matching: 0.2122440837002357
@@ -96,7 +96,7 @@ Company: ONEBOX -> Student: Pedro Bonilla Miralles -> Matching: 0.18918327140821
 Company: SEAT -> Student: Andreu Camps Corcoll -> Matching: 0.20237943879133638
 Company: Bluekik -> Student: Matías Ferreiro -> Matching: 0.15465983644221165
 Company: Exoticca -> Student: Nicolas Lacaze -> Matching: 0.1632197174632505
-Company: CAPITOLE CONSULTING -> Student: Edu Cortada -> Matching: 0.14444632174381275
+Company: CAPITOLE CONSULTING -> Student: Edgar Rosendo Pulido -> Matching: 0.1620562381973695
 
 Ronda 7
 Company: InboundCycle -> Student: Raúl Delgado Díaz -> Matching: 0.29022679932554135
@@ -124,7 +124,7 @@ Company: IBM -> Student: Madhur Mata -> Matching: 0.17771788636982305
 Company: Bluekik -> Student: Pablo Grau -> Matching: 0.16087486719518465
 Company: ONEBOX -> Student: Tomas Yaya -> Matching: 0.18358789099723563
 Company: The Hotels Network -> Student: Alejandro Gómez Pernía -> Matching: 0.15842925398012578
-Company: CAPITOLE CONSULTING -> Student: Andreu Camps Corcoll -> Matching: 0.14840934999548921
+Company: CAPITOLE CONSULTING -> Student: Matías Ferreiro -> Matching: 0.1365813926741302
 
 Ronda 9
 Company: InboundCycle -> Student: Adriana Perez pinto -> Matching: 0.3094264586979863
@@ -137,5 +137,75 @@ Company: IBM -> Student: Raúl Delgado Díaz -> Matching: 0.19826456359728048
 Company: Vidneo -> Student: Daniel Téllez Llinás -> Matching: 0.1703465392576093
 Company: SEAT -> Student: Francesc Muñoz Gonzalez -> Matching: 0.18770617968142952
 Company: Visyon (Estudio Bay SL) -> Student: Ismael Jaouhar Babiano -> Matching: 0.1609572088897861
+Company: CAPITOLE CONSULTING -> Student: Florencia Dutari -> Matching: 0.1344915200395134
+Company: Bluekik -> Student: Miguel Angel Moreno Sierra -> Matching: 0.15364864840127443
+
+Ronda 10
+Company: InboundCycle -> Student: Miguel Erja González Solís -> Matching: 0.2372310582352437
+Company: Soprasteria -> Student: David Redondo Muñoz AKA Hiring Material -> Matching: 0.2068925953458002
+Company: AKKA -> Student: Edu Cortada -> Matching: 0.20878545532396023
+Company: IBM -> Student: Joan Sánchez Vich -> Matching: 0.17771788636982305
+Company: SEAT -> Student: Marcos Tagliabue -> Matching: 0.17042258901072369
+Company: Visyon (Estudio Bay SL) -> Student: Llorenç Martinez -> Matching: 0.1728350830106323
+Company: Vidneo -> Student: Miguel Sánchez Díaz -> Matching: 0.20671481324555213
+Company: The Hotels Network -> Student: Edgar Rosendo Pulido -> Matching: 0.17919580834491264
+Company: CAPITOLE CONSULTING -> Student: Ester Fernández Padrós -> Matching: 0.18151861381504691
+Company: ONEBOX -> Student: Ivan Quevedo Burgos -> Matching: 0.17938839090895659
+Company: Exoticca -> Student: Dídac Bigordà Arruego -> Matching: 0.15165192564300722
 Company: Bluekik -> Student: YOSHITSUGU NAGAO -> Matching: 0.1599530292403706
-Company: CAPITOLE CONSULTING -> Student: Pablo Grau -> Matching: 0.14665811268186243
+
+Ronda 11
+Company: Vidneo -> Student: Marc Benaiges Torres -> Matching: 0.20807053956751975
+Company: AKKA -> Student: Madhur Mata -> Matching: 0.22208638431405753
+Company: InboundCycle -> Student: Pablo Grau -> Matching: 0.20272429170315717
+Company: Soprasteria -> Student: Tomas Yaya -> Matching: 0.270050565469644
+Company: ONEBOX -> Student: Alejandro Gómez Pernía -> Matching: 0.1769178550456728
+Company: IBM -> Student: Miguel Ribeiro Neto -> Matching: 0.17788598869111272
+Company: SEAT -> Student: Adriana Perez pinto -> Matching: 0.1622152071281082
+Company: Visyon (Estudio Bay SL) -> Student: Pedro Bonilla Miralles -> Matching: 0.1551225404665115
+Company: Bluekik -> Student: Andreu Camps Corcoll -> Matching: 0.1876381401010043
+Company: The Hotels Network -> Student: Matías Ferreiro -> Matching: 0.17224170703858624
+Company: CAPITOLE CONSULTING -> Student: Nicolas Lacaze -> Matching: 0.1359072994345955
+Company: Exoticca -> Student: Miguel Angel Moreno Sierra -> Matching: 0.15253281025621115
+
+Ronda 12
+Company: AKKA -> Student: Raúl Delgado Díaz -> Matching: 0.2653888689121934
+Company: Soprasteria -> Student: Daniel Téllez Llinás -> Matching: 0.270224732964303
+Company: InboundCycle -> Student: Francesc Muñoz Gonzalez -> Matching: 0.2537997188608546
+Company: ONEBOX -> Student: Ismael Jaouhar Babiano -> Matching: 0.1839667107958877
+Company: The Hotels Network -> Student: Florencia Dutari -> Matching: 0.17209187293552475
+Company: IBM -> Student: Miguel Angel Moreno Sierra -> Matching: 0.17742649626570345
+Company: Vidneo -> Student: Miguel Erja González Solís -> Matching: 0.1917134502488053
+Company: Exoticca -> Student: David Redondo Muñoz AKA Hiring Material -> Matching: 0.15539095347108126
+Company: Visyon (Estudio Bay SL) -> Student: Edu Cortada -> Matching: 0.17359676598677268
+Company: CAPITOLE CONSULTING -> Student: Joan Sánchez Vich -> Matching: 0.1635051539178482
+Company: Bluekik -> Student: Marcos Tagliabue -> Matching: 0.15313750281959257
+Company: SEAT -> Student: Llorenç Martinez -> Matching: 0.17625679137371172
+
+Ronda 13
+Company: AKKA -> Student: Miguel Sánchez Díaz -> Matching: 0.20925669079314582
+Company: Vidneo -> Student: Edgar Rosendo Pulido -> Matching: 0.2053727931117685
+Company: InboundCycle -> Student: Ester Fernández Padrós -> Matching: 0.1867227959122325
+Company: The Hotels Network -> Student: Ivan Quevedo Burgos -> Matching: 0.17431248188334014
+Company: Soprasteria -> Student: Dídac Bigordà Arruego -> Matching: 0.23210763639284968
+Company: Visyon (Estudio Bay SL) -> Student: YOSHITSUGU NAGAO -> Matching: 0.18368518446174903
+Company: SEAT -> Student: Marc Benaiges Torres -> Matching: 0.1905742704977634
+Company: Exoticca -> Student: Madhur Mata -> Matching: 0.15653756294630247
+Company: IBM -> Student: Pablo Grau -> Matching: 0.16372892745296075
+Company: Bluekik -> Student: Tomas Yaya -> Matching: 0.14670266443106705
+Company: CAPITOLE CONSULTING -> Student: Alejandro Gómez Pernía -> Matching: 0.1342743811068924
+Company: ONEBOX -> Student: Miguel Ribeiro Neto -> Matching: 0.16364420154286385
+
+Ronda 14
+Company: AKKA -> Student: Adriana Perez pinto -> Matching: 0.27201884449353275
+Company: InboundCycle -> Student: Pedro Bonilla Miralles -> Matching: 0.27951316618827293
+Company: Soprasteria -> Student: Andreu Camps Corcoll -> Matching: 0.2011645590413599
+Company: IBM -> Student: Matías Ferreiro -> Matching: 0.2410372478331577
+Company: Vidneo -> Student: Nicolas Lacaze -> Matching: 0.17243496730586433
+Company: The Hotels Network -> Student: Jesús Benages Elena -> Matching: 0.17664014010503515
+Company: SEAT -> Student: Raúl Delgado Díaz -> Matching: 0.1635051539178482
+Company: ONEBOX -> Student: Daniel Téllez Llinás -> Matching: 0.19389981854225194
+Company: Exoticca -> Student: Francesc Muñoz Gonzalez -> Matching: 0.1816399106023163
+Company: Bluekik -> Student: Ismael Jaouhar Babiano -> Matching: 0.1467926849823205
+Company: Visyon (Estudio Bay SL) -> Student: Florencia Dutari -> Matching: 0.15431498373107536
+Company: CAPITOLE CONSULTING -> Student: Madhur Mata -> Matching: 0.14341566500802871
