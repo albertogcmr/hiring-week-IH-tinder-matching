@@ -1,271 +1,406 @@
 
 
 Ronda 0
-Company: Project Lobster -> Student: Miguel Erja González Solís -> Matching: 0.30383243470068705
-Company: Ondho -> Student: David Redondo Muñoz AKA Hiring Material -> Matching: 0.2857142857142857
-Company: C14TORCE -> Student: Edu Cortada -> Matching: 0.27429188517743175
-Company: TALNTD -> Student: Joan Sánchez Vich -> Matching: 0.266676643600682
-Company: Amaris -> Student: Marcos Tagliabue -> Matching: 0.24257131419419417
-Company: Optimissa Capital Markets -> Student: Llorenç Martinez -> Matching: 0.24085413752894708
-Company: Wisestate LTD -> Student: Miguel Sánchez Díaz -> Matching: 0.3237998720400827
-Company: Atomian -> Student: Edgar Rosendo Pulido -> Matching: 0.3483314773547883
-Company: Farmaconnect -> Student: Ester Fernández Padrós -> Matching: 0.3025822873792978
-Company: Bit Genoma Digital Solutions -> Student: Ivan Quevedo Burgos -> Matching: 0.23166247903554
-Company: Volcanic Internet -> Student: Dídac Bigordà Arruego -> Matching: 0.20197573211702732
-Company: Norwegian -> Student: YOSHITSUGU NAGAO -> Matching: 0.1827439976315568
-Company: Abalit Technologies S.L. -> Student: Marc Benaiges Torres -> Matching: 0.26049056508156304
-Company: Adidea -> Student: Madhur Mata -> Matching: 0.17411239489546831
-Company: BOEHRINGER INGELHEIM ESPAÑA -> Student: Pablo Grau -> Matching: 0.17375849795918413
-Company: Movetia -> Student: Tomas Yaya -> Matching: 0.15704189261648438
+Company: Alterna -> Student: Maria Cristina Blanco -> Matching: 1.0
+Company: BinPar Team SL -> Student: Eugenio Ruiz Cepeda -> Matching: 0.6666666666666666
+Company: Influencity -> Student: Moisés García Almeida -> Matching: 0.48922945434505577
+Company: NEORIS -> Student: Nira Alonso Rodríguez -> Matching: 0.44066539250833864
+Company: Mintyhost -> Student: Nerea Aparicio -> Matching: 0.37499999999999994
+Company: Decathlon -> Student: Francisco Leston Ramos -> Matching: 0.36259228344434496
+Company: BuscoExtra -> Student: Sergio Ortega Gil -> Matching: 0.4076696830622021
+Company: ADIDEA -> Student: Mario Quiroga Cuervo -> Matching: 0.33647074420380185
+Company: The Phone House  -> Student: Daniel García Martínez -> Matching: 0.3244997998398398
+Company: Cires21 -> Student: Carlos Eduardo Lores Hernández  -> Matching: 0.3043487450163209
+Company: Sopra Steria -> Student: Javier Requejo Melchor -> Matching: 0.341009331522263
+Company: Page Personnel -> Student: Enrique Anaya Marin -> Matching: 0.31578947368421056
+Company: Flexicar -> Student: Maria Isabel Llanes Agudelo -> Matching: 0.3264808145851663
+Company: Claire Joster -> Student: Daniel Herrero Hernando -> Matching: 0.48133650010121937
+Company: VT-LAB -> Student: Thilo Sperber -> Matching: 0.3028309038707599
+Company: Dhr Global Human Resources S. L. -> Student: Carlos Martínez Crespo -> Matching: 0.3218676481962061
+Company: Sipay Plus -> Student: Dan Mihai Grigoriciuc -> Matching: 0.2856236316863612
+Company: Excibit Solutions Spain -> Student: Rodrigo Otero Montero -> Matching: 0.276713048278499
+Company: BMind -> Student: Verónica Celemín Lominchar -> Matching: 0.28001728575865875
+Company: UXSmobile -> Student: Abel Colmenares Napolitano -> Matching: 0.2485670405573458
+Company: Minsait  -> Student: Javier Pérez-Chao Rodríguez -> Matching: 0.32848995902671635
+Company: BICG -> Student: Jaime Jacobo Rodríguez del Valle -> Matching: 0.27548546022702813
+Company: Deloitte -> Student: Patricia Defez Díaz de Sarralde -> Matching: 0.21473250327376026
+Company: Optimissa Capital Markets -> Student: Isabel Rodríguez Godoy -> Matching: 0.22159609019044607
+Company: Winning Scientific Management  -> Student: Roberto Muñoz Aragón -> Matching: 0.17893462434242996
 
 Ronda 1
-Company: Project Lobster -> Student: Alejandro Gómez Pernía -> Matching: 0.3090169943749474
-Company: Ondho -> Student: Miguel Ribeiro Neto -> Matching: 0.2527836309527156
-Company: C14TORCE -> Student: Adriana Perez pinto -> Matching: 0.25
-Company: Amaris -> Student: Pedro Bonilla Miralles -> Matching: 0.23582845781094
-Company: Atomian -> Student: Andreu Camps Corcoll -> Matching: 0.2779721913987052
-Company: Optimissa Capital Markets -> Student: Matías Ferreiro -> Matching: 0.26515482282700764
-Company: TALNTD -> Student: Nicolas Lacaze -> Matching: 0.24935973861346583
-Company: Wisestate LTD -> Student: Jesús Benages Elena -> Matching: 0.23648702657881535
-Company: Bit Genoma Digital Solutions -> Student: Raúl Delgado Díaz -> Matching: 0.23582845781094
-Company: Volcanic Internet -> Student: Daniel Téllez Llinás -> Matching: 0.22456477083433937
-Company: Abalit Technologies S.L. -> Student: Francesc Muñoz Gonzalez -> Matching: 0.24747122649891037
-Company: Norwegian -> Student: Ismael Jaouhar Babiano -> Matching: 0.1827439976315568
-Company: Adidea -> Student: Florencia Dutari -> Matching: 0.17081980984983489
-Company: Farmaconnect -> Student: Miguel Angel Moreno Sierra -> Matching: 0.16901408450704225
-Company: BOEHRINGER INGELHEIM ESPAÑA -> Student: Miguel Erja González Solís -> Matching: 0.16847219350717021
-Company: Movetia -> Student: David Redondo Muñoz AKA Hiring Material -> Matching: 0.15718568098673166
+Company: BinPar Team SL -> Student: Sofia Jordan -> Matching: 0.6666666666666666
+Company: Alterna -> Student: Alfonso Silva Feria -> Matching: 0.6666666666666666
+Company: Influencity -> Student: Alfredo Hinarejos Corbeá -> Matching: 0.5209578888631418
+Company: NEORIS -> Student: Baltasar Torres Garcia -> Matching: 0.21145384857328503
+Company: BuscoExtra -> Student: Maria Cristina Blanco -> Matching: 0.3797958971132712
+Company: Mintyhost -> Student: Eugenio Ruiz Cepeda -> Matching: 0.35442431978797223
+Company: The Phone House  -> Student: Moisés García Almeida -> Matching: 0.3863762846340083
+Company: Decathlon -> Student: Nira Alonso Rodríguez -> Matching: 0.33691830251162463
+Company: Cires21 -> Student: Nerea Aparicio -> Matching: 0.31042780281997634
+Company: Flexicar -> Student: Francisco Leston Ramos -> Matching: 0.33627161337133876
+Company: VT-LAB -> Student: Sergio Ortega Gil -> Matching: 0.356358576668609
+Company: Sopra Steria -> Student: Mario Quiroga Cuervo -> Matching: 0.33647074420380185
+Company: ADIDEA -> Student: Daniel García Martínez -> Matching: 0.30383243470068705
+Company: Page Personnel -> Student: Carlos Eduardo Lores Hernández  -> Matching: 0.2933005420162183
+Company: Dhr Global Human Resources S. L. -> Student: Javier Requejo Melchor -> Matching: 0.2989350844248255
+Company: Sipay Plus -> Student: Enrique Anaya Marin -> Matching: 0.3059847454006649
+Company: BMind -> Student: Maria Isabel Llanes Agudelo -> Matching: 0.2732519570430996
+Company: Excibit Solutions Spain -> Student: Daniel Herrero Hernando -> Matching: 0.42629829354956295
+Company: Claire Joster -> Student: Thilo Sperber -> Matching: 0.25109298508017475
+Company: Minsait  -> Student: Carlos Martínez Crespo -> Matching: 0.2824935556840295
+Company: UXSmobile -> Student: Dan Mihai Grigoriciuc -> Matching: 0.2466060555964672
+Company: Deloitte -> Student: Rodrigo Otero Montero -> Matching: 0.25710613122653764
+Company: BICG -> Student: Verónica Celemín Lominchar -> Matching: 0.2485670405573458
+Company: Optimissa Capital Markets -> Student: Abel Colmenares Napolitano -> Matching: 0.20552193081797185
+Company: Winning Scientific Management  -> Student: Javier Pérez-Chao Rodríguez -> Matching: 0.2511664187323588
 
 Ronda 2
-Company: Project Lobster -> Student: Edu Cortada -> Matching: 0.3761785115301142
-Company: Ondho -> Student: Joan Sánchez Vich -> Matching: 0.3025976137844635
-Company: C14TORCE -> Student: Marcos Tagliabue -> Matching: 0.2553967929896867
-Company: Amaris -> Student: Llorenç Martinez -> Matching: 0.24744015335140723
-Company: Atomian -> Student: Miguel Sánchez Díaz -> Matching: 0.31311241884538504
-Company: TALNTD -> Student: Edgar Rosendo Pulido -> Matching: 0.3299437511994395
-Company: Wisestate LTD -> Student: Ester Fernández Padrós -> Matching: 0.3715425282172137
-Company: Optimissa Capital Markets -> Student: Ivan Quevedo Burgos -> Matching: 0.23817757444793733
-Company: Bit Genoma Digital Solutions -> Student: Dídac Bigordà Arruego -> Matching: 0.23582845781094
-Company: Volcanic Internet -> Student: YOSHITSUGU NAGAO -> Matching: 0.19430233903172683
-Company: Farmaconnect -> Student: Marc Benaiges Torres -> Matching: 0.22688557539676765
-Company: Abalit Technologies S.L. -> Student: Madhur Mata -> Matching: 0.18660549686337075
-Company: Norwegian -> Student: Pablo Grau -> Matching: 0.1827439976315568
-Company: Adidea -> Student: Tomas Yaya -> Matching: 0.1725377965142145
-Company: BOEHRINGER INGELHEIM ESPAÑA -> Student: Alejandro Gómez Pernía -> Matching: 0.16666666666666666
-Company: Movetia -> Student: Miguel Ribeiro Neto -> Matching: 0.148748395941096
+Company: BinPar Team SL -> Student: Jaime Jacobo Rodríguez del Valle -> Matching: 0.6666666666666666
+Company: Alterna -> Student: Patricia Defez Díaz de Sarralde -> Matching: 1.0
+Company: NEORIS -> Student: Isabel Rodríguez Godoy -> Matching: 0.559858662096741
+Company: Influencity -> Student: Roberto Muñoz Aragón -> Matching: 0.5120538787266662
+Company: BuscoExtra -> Student: Sofia Jordan -> Matching: 0.37804395931664575
+Company: Mintyhost -> Student: Alfonso Silva Feria -> Matching: 0.3577747210701756
+Company: Decathlon -> Student: Alfredo Hinarejos Corbeá -> Matching: 0.3444112597341415
+Company: The Phone House  -> Student: Baltasar Torres Garcia -> Matching: 0.18842682155299714
+Company: Cires21 -> Student: Maria Cristina Blanco -> Matching: 0.3157894736842105
+Company: Flexicar -> Student: Eugenio Ruiz Cepeda -> Matching: 0.3157894736842105
+Company: ADIDEA -> Student: Moisés García Almeida -> Matching: 0.32955162561417894
+Company: VT-LAB -> Student: Nira Alonso Rodríguez -> Matching: 0.30403411048394324
+Company: Sopra Steria -> Student: Nerea Aparicio -> Matching: 0.3058472547285611
+Company: Page Personnel -> Student: Francisco Leston Ramos -> Matching: 0.32789798921902874
+Company: Dhr Global Human Resources S. L. -> Student: Sergio Ortega Gil -> Matching: 0.3102111576391408
+Company: BMind -> Student: Mario Quiroga Cuervo -> Matching: 0.30795568035170945
+Company: Sipay Plus -> Student: Daniel García Martínez -> Matching: 0.2807832036788362
+Company: Excibit Solutions Spain -> Student: Carlos Eduardo Lores Hernández  -> Matching: 0.25802672258373033
+Company: Claire Joster -> Student: Javier Requejo Melchor -> Matching: 0.2791745113185196
+Company: Minsait  -> Student: Enrique Anaya Marin -> Matching: 0.2544702380493834
+Company: BICG -> Student: Maria Isabel Llanes Agudelo -> Matching: 0.24350638747042505
+Company: UXSmobile -> Student: Daniel Herrero Hernando -> Matching: 0.32324369448048096
+Company: Deloitte -> Student: Thilo Sperber -> Matching: 0.21582555751747257
+Company: Optimissa Capital Markets -> Student: Carlos Martínez Crespo -> Matching: 0.2301594729611826
+Company: Winning Scientific Management  -> Student: Dan Mihai Grigoriciuc -> Matching: 0.18485704618053528
 
 Ronda 3
-Company: Project Lobster -> Student: Adriana Perez pinto -> Matching: 0.2898979485566356
-Company: Ondho -> Student: Pedro Bonilla Miralles -> Matching: 0.25477784062024067
-Company: C14TORCE -> Student: Andreu Camps Corcoll -> Matching: 0.29781041983739803
-Company: Wisestate LTD -> Student: Matías Ferreiro -> Matching: 0.25146087136731626
-Company: Optimissa Capital Markets -> Student: Nicolas Lacaze -> Matching: 0.26124110924965055
-Company: Amaris -> Student: Jesús Benages Elena -> Matching: 0.23969188504790678
-Company: Atomian -> Student: Raúl Delgado Díaz -> Matching: 0.23968489766757295
-Company: TALNTD -> Student: Daniel Téllez Llinás -> Matching: 0.26046290577841164
-Company: Volcanic Internet -> Student: Francesc Muñoz Gonzalez -> Matching: 0.2560208009140902
-Company: Bit Genoma Digital Solutions -> Student: Ismael Jaouhar Babiano -> Matching: 0.22772999919644132
-Company: Norwegian -> Student: Florencia Dutari -> Matching: 0.1789104018777049
-Company: Abalit Technologies S.L. -> Student: Miguel Angel Moreno Sierra -> Matching: 0.1827439976315568
-Company: Adidea -> Student: Miguel Erja González Solís -> Matching: 0.16879264089884094
-Company: Farmaconnect -> Student: David Redondo Muñoz AKA Hiring Material -> Matching: 0.17411239489546831
-Company: BOEHRINGER INGELHEIM ESPAÑA -> Student: Edu Cortada -> Matching: 0.17176743283130236
-Company: Movetia -> Student: Joan Sánchez Vich -> Matching: 0.1809073112342927
+Company: BinPar Team SL -> Student: Rodrigo Otero Montero -> Matching: 0.8172560023684432
+Company: Alterna -> Student: Verónica Celemín Lominchar -> Matching: 0.5
+Company: NEORIS -> Student: Abel Colmenares Napolitano -> Matching: 0.46153846153846145
+Company: Influencity -> Student: Javier Pérez-Chao Rodríguez -> Matching: 0.6499767877275346
+Company: The Phone House  -> Student: Jaime Jacobo Rodríguez del Valle -> Matching: 0.4076696830622021
+Company: Mintyhost -> Student: Patricia Defez Díaz de Sarralde -> Matching: 0.38875258098754006
+Company: Decathlon -> Student: Isabel Rodríguez Godoy -> Matching: 0.39608603958878524
+Company: BuscoExtra -> Student: Roberto Muñoz Aragón -> Matching: 0.4154845120114155
+Company: Cires21 -> Student: Sofia Jordan -> Matching: 0.3090169943749474
+Company: Flexicar -> Student: Alfonso Silva Feria -> Matching: 0.3560076411470984
+Company: ADIDEA -> Student: Alfredo Hinarejos Corbeá -> Matching: 0.30383243470068705
+Company: Sopra Steria -> Student: Baltasar Torres Garcia -> Matching: 0.16958851216297555
+Company: Page Personnel -> Student: Maria Cristina Blanco -> Matching: 0.2933005420162183
+Company: VT-LAB -> Student: Eugenio Ruiz Cepeda -> Matching: 0.3016438946234048
+Company: Claire Joster -> Student: Moisés García Almeida -> Matching: 0.3
+Company: Dhr Global Human Resources S. L. -> Student: Nira Alonso Rodríguez -> Matching: 0.27548546022702813
+Company: Sipay Plus -> Student: Nerea Aparicio -> Matching: 0.2807832036788362
+Company: BMind -> Student: Francisco Leston Ramos -> Matching: 0.2846104639558362
+Company: Excibit Solutions Spain -> Student: Sergio Ortega Gil -> Matching: 0.27333388130211494
+Company: UXSmobile -> Student: Mario Quiroga Cuervo -> Matching: 0.2808687448721165
+Company: Minsait  -> Student: Daniel García Martínez -> Matching: 0.23292328152892156
+Company: BICG -> Student: Carlos Eduardo Lores Hernández  -> Matching: 0.23089360163824005
+Company: Deloitte -> Student: Javier Requejo Melchor -> Matching: 0.22213605335443323
+Company: Optimissa Capital Markets -> Student: Enrique Anaya Marin -> Matching: 0.21731841389728415
+Company: Winning Scientific Management  -> Student: Maria Isabel Llanes Agudelo -> Matching: 0.17928460222854642
 
 Ronda 4
-Company: Project Lobster -> Student: Marcos Tagliabue -> Matching: 0.3405424265831667
-Company: Ondho -> Student: Llorenç Martinez -> Matching: 0.27610008803397107
-Company: Amaris -> Student: Miguel Sánchez Díaz -> Matching: 0.4721359549995794
-Company: C14TORCE -> Student: Edgar Rosendo Pulido -> Matching: 0.3386888600805915
-Company: Atomian -> Student: Ester Fernández Padrós -> Matching: 0.31311241884538504
-Company: Wisestate LTD -> Student: Ivan Quevedo Burgos -> Matching: 0.2197216615214715
-Company: Optimissa Capital Markets -> Student: Dídac Bigordà Arruego -> Matching: 0.23691602226253317
-Company: Bit Genoma Digital Solutions -> Student: YOSHITSUGU NAGAO -> Matching: 0.237455908152084
-Company: TALNTD -> Student: Marc Benaiges Torres -> Matching: 0.2838086601726278
-Company: Volcanic Internet -> Student: Madhur Mata -> Matching: 0.20327990753512218
-Company: Abalit Technologies S.L. -> Student: Pablo Grau -> Matching: 0.20386840968093525
-Company: Norwegian -> Student: Tomas Yaya -> Matching: 0.1809073112342927
-Company: Adidea -> Student: Alejandro Gómez Pernía -> Matching: 0.16666666666666666
-Company: BOEHRINGER INGELHEIM ESPAÑA -> Student: Miguel Ribeiro Neto -> Matching: 0.16952084719853722
-Company: Farmaconnect -> Student: Adriana Perez pinto -> Matching: 0.1671901191094097
-Company: Movetia -> Student: Pedro Bonilla Miralles -> Matching: 0.1424339656566283
+Company: Alterna -> Student: Daniel Herrero Hernando -> Matching: 0.8172560023684431
+Company: Influencity -> Student: Thilo Sperber -> Matching: 0.5176800710532957
+Company: BinPar Team SL -> Student: Carlos Martínez Crespo -> Matching: 0.5741781139787416
+Company: NEORIS -> Student: Dan Mihai Grigoriciuc -> Matching: 0.46153846153846145
+Company: The Phone House  -> Student: Rodrigo Otero Montero -> Matching: 0.4535927585604904
+Company: BuscoExtra -> Student: Verónica Celemín Lominchar -> Matching: 0.4364916731037085
+Company: Mintyhost -> Student: Abel Colmenares Napolitano -> Matching: 0.36495669936251096
+Company: Decathlon -> Student: Javier Pérez-Chao Rodríguez -> Matching: 0.5209578888631418
+Company: Sopra Steria -> Student: Jaime Jacobo Rodríguez del Valle -> Matching: 0.37041520828107966
+Company: Cires21 -> Student: Patricia Defez Díaz de Sarralde -> Matching: 0.3313178092503516
+Company: Sipay Plus -> Student: Isabel Rodríguez Godoy -> Matching: 0.35757683660120887
+Company: VT-LAB -> Student: Roberto Muñoz Aragón -> Matching: 0.314873570498099
+Company: ADIDEA -> Student: Sofia Jordan -> Matching: 0.3081669386297933
+Company: Page Personnel -> Student: Alfonso Silva Feria -> Matching: 0.2990409935747589
+Company: Flexicar -> Student: Alfredo Hinarejos Corbeá -> Matching: 0.2989350844248255
+Company: Dhr Global Human Resources S. L. -> Student: Baltasar Torres Garcia -> Matching: 0.16358941247847067
+Company: BMind -> Student: Maria Cristina Blanco -> Matching: 0.27548546022702813
+Company: Excibit Solutions Spain -> Student: Eugenio Ruiz Cepeda -> Matching: 0.2606829772154432
+Company: UXSmobile -> Student: Moisés García Almeida -> Matching: 0.29330054201621825
+Company: Claire Joster -> Student: Nira Alonso Rodríguez -> Matching: 0.2466060555964672
+Company: Minsait  -> Student: Nerea Aparicio -> Matching: 0.2350131250319695
+Company: BICG -> Student: Francisco Leston Ramos -> Matching: 0.2638444800683694
+Company: Deloitte -> Student: Sergio Ortega Gil -> Matching: 0.2350131250319695
+Company: Optimissa Capital Markets -> Student: Mario Quiroga Cuervo -> Matching: 0.21988045425986294
+Company: Winning Scientific Management  -> Student: Daniel García Martínez -> Matching: 0.17500736581776358
 
 Ronda 5
-Company: Project Lobster -> Student: Andreu Camps Corcoll -> Matching: 0.37367384954480376
-Company: Ondho -> Student: Matías Ferreiro -> Matching: 0.2779721913987052
-Company: C14TORCE -> Student: Nicolas Lacaze -> Matching: 0.252650308587072
-Company: Bit Genoma Digital Solutions -> Student: Jesús Benages Elena -> Matching: 0.2272595996093377
-Company: Wisestate LTD -> Student: Raúl Delgado Díaz -> Matching: 0.2923144815885926
-Company: Optimissa Capital Markets -> Student: Daniel Téllez Llinás -> Matching: 0.27171139507839315
-Company: Atomian -> Student: Francesc Muñoz Gonzalez -> Matching: 0.2888324840393138
-Company: Amaris -> Student: Ismael Jaouhar Babiano -> Matching: 0.2402530733520421
-Company: TALNTD -> Student: Florencia Dutari -> Matching: 0.21513672296865
-Company: Volcanic Internet -> Student: Miguel Angel Moreno Sierra -> Matching: 0.19430233903172683
-Company: Norwegian -> Student: Miguel Erja González Solís -> Matching: 0.1809073112342927
-Company: Abalit Technologies S.L. -> Student: David Redondo Muñoz AKA Hiring Material -> Matching: 0.18660549686337075
-Company: Farmaconnect -> Student: Edu Cortada -> Matching: 0.18537059155285932
-Company: BOEHRINGER INGELHEIM ESPAÑA -> Student: Joan Sánchez Vich -> Matching: 0.21712927295533244
-Company: Adidea -> Student: Marcos Tagliabue -> Matching: 0.17100799366294794
-Company: Movetia -> Student: Llorenç Martinez -> Matching: 0.15647090113895612
+Company: Alterna -> Student: Carlos Eduardo Lores Hernández  -> Matching: 0.7142857142857143
+Company: BinPar Team SL -> Student: Javier Requejo Melchor -> Matching: 0.585786437626905
+Company: Influencity -> Student: Enrique Anaya Marin -> Matching: 0.5270015938847108
+Company: NEORIS -> Student: Maria Isabel Llanes Agudelo -> Matching: 0.42817034761281486
+Company: Sopra Steria -> Student: Daniel Herrero Hernando -> Matching: 0.5985083759092056
+Company: BuscoExtra -> Student: Thilo Sperber -> Matching: 0.40384458807663287
+Company: Mintyhost -> Student: Carlos Martínez Crespo -> Matching: 0.46153846153846145
+Company: The Phone House  -> Student: Dan Mihai Grigoriciuc -> Matching: 0.4076696830622021
+Company: ADIDEA -> Student: Rodrigo Otero Montero -> Matching: 0.3634371620904665
+Company: Decathlon -> Student: Verónica Celemín Lominchar -> Matching: 0.35442431978797223
+Company: Flexicar -> Student: Abel Colmenares Napolitano -> Matching: 0.3090169943749474
+Company: Page Personnel -> Student: Javier Pérez-Chao Rodríguez -> Matching: 0.46153846153846145
+Company: Sipay Plus -> Student: Jaime Jacobo Rodríguez del Valle -> Matching: 0.3521890719620361
+Company: BMind -> Student: Patricia Defez Díaz de Sarralde -> Matching: 0.29520580367290733
+Company: Cires21 -> Student: Isabel Rodríguez Godoy -> Matching: 0.35399422163791616
+Company: Dhr Global Human Resources S. L. -> Student: Roberto Muñoz Aragón -> Matching: 0.2727272727272727
+Company: VT-LAB -> Student: Sofia Jordan -> Matching: 0.28921451299382966
+Company: Claire Joster -> Student: Alfonso Silva Feria -> Matching: 0.28391956322554057
+Company: Excibit Solutions Spain -> Student: Alfredo Hinarejos Corbeá -> Matching: 0.2590757018195632
+Company: UXSmobile -> Student: Baltasar Torres Garcia -> Matching: 0.1544669360662556
+Company: Minsait  -> Student: Maria Cristina Blanco -> Matching: 0.23325353410735442
+Company: BICG -> Student: Eugenio Ruiz Cepeda -> Matching: 0.24815939461669348
+Company: Deloitte -> Student: Moisés García Almeida -> Matching: 0.2666702582182764
+Company: Optimissa Capital Markets -> Student: Nira Alonso Rodríguez -> Matching: 0.19825288206137573
+Company: Winning Scientific Management  -> Student: Nerea Aparicio -> Matching: 0.17420123135825963
 
 Ronda 6
-Company: Project Lobster -> Student: Miguel Sánchez Díaz -> Matching: 0.4
-Company: Ondho -> Student: Edgar Rosendo Pulido -> Matching: 0.3845355147667304
-Company: Amaris -> Student: Ester Fernández Padrós -> Matching: 0.44948974278317805
-Company: C14TORCE -> Student: Ivan Quevedo Burgos -> Matching: 0.25824569976124334
-Company: TALNTD -> Student: Dídac Bigordà Arruego -> Matching: 0.22584440001865316
-Company: Optimissa Capital Markets -> Student: YOSHITSUGU NAGAO -> Matching: 0.2207096953836366
-Company: Atomian -> Student: Marc Benaiges Torres -> Matching: 0.3090169943749474
-Company: Bit Genoma Digital Solutions -> Student: Madhur Mata -> Matching: 0.23800671553691075
-Company: Volcanic Internet -> Student: Pablo Grau -> Matching: 0.22441281248722417
-Company: Wisestate LTD -> Student: Tomas Yaya -> Matching: 0.21915760085176178
-Company: Abalit Technologies S.L. -> Student: Alejandro Gómez Pernía -> Matching: 0.1806818804756173
-Company: Norwegian -> Student: Miguel Ribeiro Neto -> Matching: 0.18181818181818182
-Company: Adidea -> Student: Adriana Perez pinto -> Matching: 0.16952084719853722
-Company: Farmaconnect -> Student: Pedro Bonilla Miralles -> Matching: 0.1668792912731517
-Company: BOEHRINGER INGELHEIM ESPAÑA -> Student: Andreu Camps Corcoll -> Matching: 0.18494980440714257
-Company: Movetia -> Student: Matías Ferreiro -> Matching: 0.15493412373279503
+Company: Alterna -> Student: Francisco Leston Ramos -> Matching: 1.0
+Company: BinPar Team SL -> Student: Sergio Ortega Gil -> Matching: 0.585786437626905
+Company: Influencity -> Student: Mario Quiroga Cuervo -> Matching: 0.585786437626905
+Company: NEORIS -> Student: Daniel García Martínez -> Matching: 0.46153846153846145
+Company: Mintyhost -> Student: Carlos Eduardo Lores Hernández  -> Matching: 0.3590103651097255
+Company: BuscoExtra -> Student: Javier Requejo Melchor -> Matching: 0.3797958971132712
+Company: The Phone House  -> Student: Enrique Anaya Marin -> Matching: 0.3797958971132712
+Company: Decathlon -> Student: Maria Isabel Llanes Agudelo -> Matching: 0.34481889462941845
+Company: ADIDEA -> Student: Daniel Herrero Hernando -> Matching: 0.5270015938847108
+Company: Cires21 -> Student: Thilo Sperber -> Matching: 0.2950791548116662
+Company: Flexicar -> Student: Carlos Martínez Crespo -> Matching: 0.40179240734944077
+Company: Sopra Steria -> Student: Dan Mihai Grigoriciuc -> Matching: 0.3444112597341415
+Company: Dhr Global Human Resources S. L. -> Student: Rodrigo Otero Montero -> Matching: 0.3508494683013985
+Company: VT-LAB -> Student: Verónica Celemín Lominchar -> Matching: 0.33532938151677566
+Company: Page Personnel -> Student: Abel Colmenares Napolitano -> Matching: 0.28391956322554057
+Company: Claire Joster -> Student: Javier Pérez-Chao Rodríguez -> Matching: 0.37499999999999994
+Company: BMind -> Student: Jaime Jacobo Rodríguez del Valle -> Matching: 0.29694690056684475
+Company: Sipay Plus -> Student: Patricia Defez Díaz de Sarralde -> Matching: 0.3059847454006649
+Company: Excibit Solutions Spain -> Student: Isabel Rodríguez Godoy -> Matching: 0.2962052156095691
+Company: UXSmobile -> Student: Roberto Muñoz Aragón -> Matching: 0.2537826433651738
+Company: Minsait  -> Student: Sofia Jordan -> Matching: 0.2304504322163273
+Company: BICG -> Student: Alfonso Silva Feria -> Matching: 0.26533119314590375
+Company: Deloitte -> Student: Alfredo Hinarejos Corbeá -> Matching: 0.21132076319584198
+Company: Optimissa Capital Markets -> Student: Baltasar Torres Garcia -> Matching: 0.12741387839437773
+Company: Winning Scientific Management  -> Student: Maria Cristina Blanco -> Matching: 0.17500736581776358
 
 Ronda 7
-Company: Project Lobster -> Student: Nicolas Lacaze -> Matching: 0.2898979485566356
-Company: C14TORCE -> Student: Jesús Benages Elena -> Matching: 0.2513216808752189
-Company: Amaris -> Student: Raúl Delgado Díaz -> Matching: 0.2898979485566356
-Company: Ondho -> Student: Daniel Téllez Llinás -> Matching: 0.3077085428019735
-Company: TALNTD -> Student: Francesc Muñoz Gonzalez -> Matching: 0.27006012529233975
-Company: Optimissa Capital Markets -> Student: Ismael Jaouhar Babiano -> Matching: 0.23031459827799503
-Company: Bit Genoma Digital Solutions -> Student: Florencia Dutari -> Matching: 0.23582845781094
-Company: Wisestate LTD -> Student: Miguel Angel Moreno Sierra -> Matching: 0.22441281248722417
-Company: Atomian -> Student: Miguel Erja González Solís -> Matching: 0.20942771453851886
-Company: Volcanic Internet -> Student: David Redondo Muñoz AKA Hiring Material -> Matching: 0.20197573211702732
-Company: Abalit Technologies S.L. -> Student: Edu Cortada -> Matching: 0.2
-Company: Norwegian -> Student: Joan Sánchez Vich -> Matching: 0.21712927295533244
-Company: Farmaconnect -> Student: Marcos Tagliabue -> Matching: 0.17067390275842628
-Company: Adidea -> Student: Llorenç Martinez -> Matching: 0.1715765592809856
-Company: BOEHRINGER INGELHEIM ESPAÑA -> Student: Miguel Sánchez Díaz -> Matching: 0.23800671553691075
-Company: Movetia -> Student: Edgar Rosendo Pulido -> Matching: 0.19404996501286384
+Company: Alterna -> Student: Eugenio Ruiz Cepeda -> Matching: 0.5
+Company: BinPar Team SL -> Student: Moisés García Almeida -> Matching: 0.8172560023684432
+Company: Influencity -> Student: Nira Alonso Rodríguez -> Matching: 0.4418614165854198
+Company: NEORIS -> Student: Nerea Aparicio -> Matching: 0.48683298050513796
+Company: Mintyhost -> Student: Francisco Leston Ramos -> Matching: 0.3857903986177086
+Company: The Phone House  -> Student: Sergio Ortega Gil -> Matching: 0.4076696830622021
+Company: BuscoExtra -> Student: Mario Quiroga Cuervo -> Matching: 0.4048465304038247
+Company: Decathlon -> Student: Daniel García Martínez -> Matching: 0.3444112597341415
+Company: ADIDEA -> Student: Carlos Eduardo Lores Hernández  -> Matching: 0.3006668185765536
+Company: Cires21 -> Student: Javier Requejo Melchor -> Matching: 0.314873570498099
+Company: Sopra Steria -> Student: Enrique Anaya Marin -> Matching: 0.3607905828104922
+Company: Page Personnel -> Student: Maria Isabel Llanes Agudelo -> Matching: 0.30100755923656786
+Company: Dhr Global Human Resources S. L. -> Student: Daniel Herrero Hernando -> Matching: 0.42629829354956295
+Company: Flexicar -> Student: Thilo Sperber -> Matching: 0.2888324840393138
+Company: VT-LAB -> Student: Carlos Martínez Crespo -> Matching: 0.3601395963670126
+Company: Claire Joster -> Student: Dan Mihai Grigoriciuc -> Matching: 0.3090169943749474
+Company: Sipay Plus -> Student: Rodrigo Otero Montero -> Matching: 0.28010203828427116
+Company: Excibit Solutions Spain -> Student: Verónica Celemín Lominchar -> Matching: 0.2698953970863204
+Company: BMind -> Student: Abel Colmenares Napolitano -> Matching: 0.27548546022702813
+Company: UXSmobile -> Student: Javier Pérez-Chao Rodríguez -> Matching: 0.33971422738143603
+Company: Minsait  -> Student: Jaime Jacobo Rodríguez del Valle -> Matching: 0.26393116059052896
+Company: BICG -> Student: Patricia Defez Díaz de Sarralde -> Matching: 0.2407618868650528
+Company: Deloitte -> Student: Isabel Rodríguez Godoy -> Matching: 0.2186558444986943
+Company: Optimissa Capital Markets -> Student: Roberto Muñoz Aragón -> Matching: 0.20249268241985358
+Company: Winning Scientific Management  -> Student: Sofia Jordan -> Matching: 0.1723278476523004
 
 Ronda 8
-Company: Project Lobster -> Student: Ester Fernández Padrós -> Matching: 0.4
-Company: Ondho -> Student: Ivan Quevedo Burgos -> Matching: 0.26443386130675367
-Company: C14TORCE -> Student: Dídac Bigordà Arruego -> Matching: 0.2553967929896867
-Company: Amaris -> Student: YOSHITSUGU NAGAO -> Matching: 0.24681370272883313
-Company: Volcanic Internet -> Student: Marc Benaiges Torres -> Matching: 0.2673882319600494
-Company: Optimissa Capital Markets -> Student: Madhur Mata -> Matching: 0.24938364989129397
-Company: Bit Genoma Digital Solutions -> Student: Pablo Grau -> Matching: 0.25
-Company: TALNTD -> Student: Tomas Yaya -> Matching: 0.2222222222222222
-Company: Wisestate LTD -> Student: Alejandro Gómez Pernía -> Matching: 0.22400923773979584
-Company: Atomian -> Student: Miguel Ribeiro Neto -> Matching: 0.20799159651347807
-Company: Norwegian -> Student: Adriana Perez pinto -> Matching: 0.18181818181818182
-Company: Adidea -> Student: Pedro Bonilla Miralles -> Matching: 0.16879264089884094
-Company: Abalit Technologies S.L. -> Student: Andreu Camps Corcoll -> Matching: 0.21484370328573202
-Company: Farmaconnect -> Student: Matías Ferreiro -> Matching: 0.1949060177721137
-Company: BOEHRINGER INGELHEIM ESPAÑA -> Student: Nicolas Lacaze -> Matching: 0.1827439976315568
-Company: Movetia -> Student: Jesús Benages Elena -> Matching: 0.14948050591597764
+Company: Influencity -> Student: Alfonso Silva Feria -> Matching: 0.5623745019838728
+Company: Alterna -> Student: Alfredo Hinarejos Corbeá -> Matching: 1.0
+Company: BinPar Team SL -> Student: Baltasar Torres Garcia -> Matching: 0.23833183253854948
+Company: NEORIS -> Student: Maria Cristina Blanco -> Matching: 0.46153846153846145
+Company: BuscoExtra -> Student: Eugenio Ruiz Cepeda -> Matching: 0.44455423532570043
+Company: Mintyhost -> Student: Moisés García Almeida -> Matching: 0.4193861568941954
+Company: The Phone House  -> Student: Nira Alonso Rodríguez -> Matching: 0.35388936786452296
+Company: Decathlon -> Student: Nerea Aparicio -> Matching: 0.3525268153907815
+Company: ADIDEA -> Student: Francisco Leston Ramos -> Matching: 0.32955162561417894
+Company: Flexicar -> Student: Sergio Ortega Gil -> Matching: 0.40453726661826384
+Company: Cires21 -> Student: Mario Quiroga Cuervo -> Matching: 0.33504615409924515
+Company: Sopra Steria -> Student: Daniel García Martínez -> Matching: 0.30083972775218454
+Company: VT-LAB -> Student: Carlos Eduardo Lores Hernández  -> Matching: 0.28330039409901914
+Company: Page Personnel -> Student: Javier Requejo Melchor -> Matching: 0.30383243470068705
+Company: Dhr Global Human Resources S. L. -> Student: Enrique Anaya Marin -> Matching: 0.3102111576391408
+Company: Sipay Plus -> Student: Maria Isabel Llanes Agudelo -> Matching: 0.27994954627290286
+Company: Minsait  -> Student: Daniel Herrero Hernando -> Matching: 0.3795508174277126
+Company: BMind -> Student: Thilo Sperber -> Matching: 0.2620629130256094
+Company: Claire Joster -> Student: Carlos Martínez Crespo -> Matching: 0.32173116003258956
+Company: Excibit Solutions Spain -> Student: Dan Mihai Grigoriciuc -> Matching: 0.26667025821827645
+Company: UXSmobile -> Student: Rodrigo Otero Montero -> Matching: 0.254029461989279
+Company: Deloitte -> Student: Verónica Celemín Lominchar -> Matching: 0.2440411630451585
+Company: BICG -> Student: Abel Colmenares Napolitano -> Matching: 0.23076923076923073
+Company: Optimissa Capital Markets -> Student: Javier Pérez-Chao Rodríguez -> Matching: 0.2731311725877692
+Company: Winning Scientific Management  -> Student: Jaime Jacobo Rodríguez del Valle -> Matching: 0.19558037024613747
 
 Ronda 9
-Company: Project Lobster -> Student: Raúl Delgado Díaz -> Matching: 0.3405424265831667
-Company: C14TORCE -> Student: Daniel Téllez Llinás -> Matching: 0.28172904669025317
-Company: Ondho -> Student: Francesc Muñoz Gonzalez -> Matching: 0.29788301062430306
-Company: Wisestate LTD -> Student: Ismael Jaouhar Babiano -> Matching: 0.22688557539676765
-Company: Amaris -> Student: Florencia Dutari -> Matching: 0.24257131419419417
-Company: Optimissa Capital Markets -> Student: Miguel Angel Moreno Sierra -> Matching: 0.24037994236522792
-Company: Bit Genoma Digital Solutions -> Student: Miguel Erja González Solís -> Matching: 0.2222222222222222
-Company: TALNTD -> Student: David Redondo Muñoz AKA Hiring Material -> Matching: 0.22772999919644132
-Company: Atomian -> Student: Edu Cortada -> Matching: 0.2493517698850324
-Company: Volcanic Internet -> Student: Joan Sánchez Vich -> Matching: 0.22688557539676765
-Company: Abalit Technologies S.L. -> Student: Marcos Tagliabue -> Matching: 0.1856154626682773
-Company: Norwegian -> Student: Llorenç Martinez -> Matching: 0.18001097668719743
-Company: Farmaconnect -> Student: Miguel Sánchez Díaz -> Matching: 0.2847000292292184
-Company: Adidea -> Student: Edgar Rosendo Pulido -> Matching: 0.2048742168224004
-Company: BOEHRINGER INGELHEIM ESPAÑA -> Student: Ester Fernández Padrós -> Matching: 0.27792629762666365
-Company: Movetia -> Student: Ivan Quevedo Burgos -> Matching: 0.14923419446018063
+Company: BinPar Team SL -> Student: Patricia Defez Díaz de Sarralde -> Matching: 0.585786437626905
+Company: Alterna -> Student: Isabel Rodríguez Godoy -> Matching: 0.6666666666666666
+Company: NEORIS -> Student: Roberto Muñoz Aragón -> Matching: 0.4041519062452638
+Company: Influencity -> Student: Sofia Jordan -> Matching: 0.488594280075057
+Company: BuscoExtra -> Student: Alfonso Silva Feria -> Matching: 0.39173052272618414
+Company: Mintyhost -> Student: Alfredo Hinarejos Corbeá -> Matching: 0.36495669936251096
+Company: Flexicar -> Student: Baltasar Torres Garcia -> Matching: 0.17909767351584754
+Company: Decathlon -> Student: Maria Cristina Blanco -> Matching: 0.3456655930064869
+Company: The Phone House  -> Student: Eugenio Ruiz Cepeda -> Matching: 0.3525268153907815
+Company: Page Personnel -> Student: Moisés García Almeida -> Matching: 0.32822640138015685
+Company: Cires21 -> Student: Nira Alonso Rodríguez -> Matching: 0.3001930699545737
+Company: ADIDEA -> Student: Nerea Aparicio -> Matching: 0.3090169943749474
+Company: VT-LAB -> Student: Francisco Leston Ramos -> Matching: 0.307138836381151
+Company: Sopra Steria -> Student: Sergio Ortega Gil -> Matching: 0.341009331522263
+Company: Excibit Solutions Spain -> Student: Mario Quiroga Cuervo -> Matching: 0.29788301062430306
+Company: BMind -> Student: Daniel García Martínez -> Matching: 0.2726498305115389
+Company: Sipay Plus -> Student: Carlos Eduardo Lores Hernández  -> Matching: 0.2747036772976446
+Company: Minsait  -> Student: Javier Requejo Melchor -> Matching: 0.24815939461669348
+Company: Claire Joster -> Student: Enrique Anaya Marin -> Matching: 0.2791745113185196
+Company: Dhr Global Human Resources S. L. -> Student: Maria Isabel Llanes Agudelo -> Matching: 0.26661281290919303
+Company: BICG -> Student: Daniel Herrero Hernando -> Matching: 0.33663034699918853
+Company: UXSmobile -> Student: Thilo Sperber -> Matching: 0.24793106973482734
+Company: Deloitte -> Student: Carlos Martínez Crespo -> Matching: 0.24044600212444892
+Company: Optimissa Capital Markets -> Student: Dan Mihai Grigoriciuc -> Matching: 0.22106426693346448
+Company: Winning Scientific Management  -> Student: Rodrigo Otero Montero -> Matching: 0.18941983264987267
 
 Ronda 10
-Company: Project Lobster -> Student: Dídac Bigordà Arruego -> Matching: 0.3405424265831667
-Company: Ondho -> Student: YOSHITSUGU NAGAO -> Matching: 0.2583891588155408
-Company: C14TORCE -> Student: Marc Benaiges Torres -> Matching: 0.2977523907976221
-Company: Amaris -> Student: Madhur Mata -> Matching: 0.252650308587072
-Company: Optimissa Capital Markets -> Student: Pablo Grau -> Matching: 0.24824445130520936
-Company: Bit Genoma Digital Solutions -> Student: Tomas Yaya -> Matching: 0.23166247903554
-Company: TALNTD -> Student: Alejandro Gómez Pernía -> Matching: 0.21512204089584042
-Company: Wisestate LTD -> Student: Miguel Ribeiro Neto -> Matching: 0.2222222222222222
-Company: Atomian -> Student: Adriana Perez pinto -> Matching: 0.20320673289318472
-Company: Volcanic Internet -> Student: Pedro Bonilla Miralles -> Matching: 0.1865777652361588
-Company: Norwegian -> Student: Andreu Camps Corcoll -> Matching: 0.21052631578947367
-Company: Adidea -> Student: Matías Ferreiro -> Matching: 0.1975496259559987
-Company: Abalit Technologies S.L. -> Student: Nicolas Lacaze -> Matching: 0.1949060177721137
-Company: BOEHRINGER INGELHEIM ESPAÑA -> Student: Jesús Benages Elena -> Matching: 0.18228205283216808
-Company: Farmaconnect -> Student: Raúl Delgado Díaz -> Matching: 0.19968829115155845
-Company: Movetia -> Student: Daniel Téllez Llinás -> Matching: 0.16396078054371138
+Company: BinPar Team SL -> Student: Verónica Celemín Lominchar -> Matching: 0.6666666666666666
+Company: Alterna -> Student: Abel Colmenares Napolitano -> Matching: 0.5
+Company: NEORIS -> Student: Javier Pérez-Chao Rodríguez -> Matching: 0.5270015938847108
+Company: Influencity -> Student: Jaime Jacobo Rodríguez del Valle -> Matching: 0.4932420089069293
+Company: Decathlon -> Student: Patricia Defez Díaz de Sarralde -> Matching: 0.3634371620904665
+Company: Mintyhost -> Student: Isabel Rodríguez Godoy -> Matching: 0.3981637068465116
+Company: The Phone House  -> Student: Roberto Muñoz Aragón -> Matching: 0.3437127078670614
+Company: Sopra Steria -> Student: Sofia Jordan -> Matching: 0.3081669386297933
+Company: VT-LAB -> Student: Alfonso Silva Feria -> Matching: 0.30096963372879426
+Company: BuscoExtra -> Student: Alfredo Hinarejos Corbeá -> Matching: 0.3797958971132712
+Company: ADIDEA -> Student: Baltasar Torres Garcia -> Matching: 0.1751981000222324
+Company: Flexicar -> Student: Maria Cristina Blanco -> Matching: 0.2989350844248255
+Company: Sipay Plus -> Student: Eugenio Ruiz Cepeda -> Matching: 0.30096963372879426
+Company: Cires21 -> Student: Moisés García Almeida -> Matching: 0.30946890716044323
+Company: Page Personnel -> Student: Nira Alonso Rodríguez -> Matching: 0.2889502107769253
+Company: Dhr Global Human Resources S. L. -> Student: Nerea Aparicio -> Matching: 0.27548546022702813
+Company: Claire Joster -> Student: Francisco Leston Ramos -> Matching: 0.2782365793824983
+Company: BMind -> Student: Sergio Ortega Gil -> Matching: 0.29330054201621825
+Company: Minsait  -> Student: Mario Quiroga Cuervo -> Matching: 0.2572842744474721
+Company: Excibit Solutions Spain -> Student: Daniel García Martínez -> Matching: 0.26039066925526205
+Company: UXSmobile -> Student: Carlos Eduardo Lores Hernández  -> Matching: 0.24090499645882948
+Company: BICG -> Student: Javier Requejo Melchor -> Matching: 0.23121443110375692
+Company: Deloitte -> Student: Enrique Anaya Marin -> Matching: 0.22646721143623746
+Company: Optimissa Capital Markets -> Student: Maria Isabel Llanes Agudelo -> Matching: 0.20649304070306718
+Company: Winning Scientific Management  -> Student: Daniel Herrero Hernando -> Matching: 0.2614723598276724
 
 Ronda 11
-Company: Project Lobster -> Student: Francesc Muñoz Gonzalez -> Matching: 0.3483314773547883
-Company: Ondho -> Student: Ismael Jaouhar Babiano -> Matching: 0.2555350219922244
-Company: C14TORCE -> Student: Florencia Dutari -> Matching: 0.2547008234948636
-Company: Amaris -> Student: Miguel Angel Moreno Sierra -> Matching: 0.23800671553691075
-Company: Optimissa Capital Markets -> Student: Miguel Erja González Solís -> Matching: 0.23336856756471533
-Company: Bit Genoma Digital Solutions -> Student: David Redondo Muñoz AKA Hiring Material -> Matching: 0.23800671553691075
-Company: TALNTD -> Student: Edu Cortada -> Matching: 0.22966848451216434
-Company: Atomian -> Student: Joan Sánchez Vich -> Matching: 0.26045368819824943
-Company: Wisestate LTD -> Student: Marcos Tagliabue -> Matching: 0.22261528793682825
-Company: Volcanic Internet -> Student: Llorenç Martinez -> Matching: 0.1967213114754098
-Company: Abalit Technologies S.L. -> Student: Miguel Sánchez Díaz -> Matching: 0.2635082956155773
-Company: Farmaconnect -> Student: Edgar Rosendo Pulido -> Matching: 0.2402530733520421
-Company: Adidea -> Student: Ester Fernández Padrós -> Matching: 0.23582845781094
-Company: Norwegian -> Student: Ivan Quevedo Burgos -> Matching: 0.18001097668719743
-Company: BOEHRINGER INGELHEIM ESPAÑA -> Student: Dídac Bigordà Arruego -> Matching: 0.16736577623297264
-Company: Movetia -> Student: YOSHITSUGU NAGAO -> Matching: 0.15212887159757132
+Company: Alterna -> Student: Thilo Sperber -> Matching: 0.585786437626905
+Company: NEORIS -> Student: Carlos Martínez Crespo -> Matching: 0.5194906497638733
+Company: BinPar Team SL -> Student: Dan Mihai Grigoriciuc -> Matching: 0.585786437626905
+Company: Influencity -> Student: Rodrigo Otero Montero -> Matching: 0.42941637979634967
+Company: The Phone House  -> Student: Verónica Celemín Lominchar -> Matching: 0.48683298050513796
+Company: BuscoExtra -> Student: Abel Colmenares Napolitano -> Matching: 0.4193861568941954
+Company: Mintyhost -> Student: Javier Pérez-Chao Rodríguez -> Matching: 0.5270015938847108
+Company: Decathlon -> Student: Jaime Jacobo Rodríguez del Valle -> Matching: 0.4014916240907944
+Company: Sopra Steria -> Student: Patricia Defez Díaz de Sarralde -> Matching: 0.314873570498099
+Company: Page Personnel -> Student: Isabel Rodríguez Godoy -> Matching: 0.32020938785855035
+Company: Cires21 -> Student: Roberto Muñoz Aragón -> Matching: 0.3092010523464815
+Company: Flexicar -> Student: Sofia Jordan -> Matching: 0.303030303030303
+Company: Sipay Plus -> Student: Alfonso Silva Feria -> Matching: 0.2954088290046915
+Company: VT-LAB -> Student: Alfredo Hinarejos Corbeá -> Matching: 0.28921451299382966
+Company: BMind -> Student: Baltasar Torres Garcia -> Matching: 0.159138544003272
+Company: ADIDEA -> Student: Maria Cristina Blanco -> Matching: 0.30383243470068705
+Company: Dhr Global Human Resources S. L. -> Student: Eugenio Ruiz Cepeda -> Matching: 0.2832827708491074
+Company: BICG -> Student: Moisés García Almeida -> Matching: 0.2880129448105867
+Company: Excibit Solutions Spain -> Student: Nira Alonso Rodríguez -> Matching: 0.25563331656682725
+Company: Claire Joster -> Student: Nerea Aparicio -> Matching: 0.2544702380493834
+Company: UXSmobile -> Student: Francisco Leston Ramos -> Matching: 0.25784364627272927
+Company: Minsait  -> Student: Sergio Ortega Gil -> Matching: 0.26039066925526205
+Company: Deloitte -> Student: Mario Quiroga Cuervo -> Matching: 0.22730649559533372
+Company: Optimissa Capital Markets -> Student: Daniel García Martínez -> Matching: 0.20129687700518223
+Company: Winning Scientific Management  -> Student: Carlos Eduardo Lores Hernández  -> Matching: 0.17449006442581796
 
 Ronda 12
-Company: Project Lobster -> Student: Marc Benaiges Torres -> Matching: 0.3967166724377561
-Company: Ondho -> Student: Madhur Mata -> Matching: 0.2847124764269849
-Company: C14TORCE -> Student: Pablo Grau -> Matching: 0.2857142857142857
-Company: Optimissa Capital Markets -> Student: Tomas Yaya -> Matching: 0.2501528691372558
-Company: Amaris -> Student: Alejandro Gómez Pernía -> Matching: 0.23166247903554
-Company: Bit Genoma Digital Solutions -> Student: Miguel Ribeiro Neto -> Matching: 0.2222222222222222
-Company: Wisestate LTD -> Student: Adriana Perez pinto -> Matching: 0.2250226852138899
-Company: Atomian -> Student: Pedro Bonilla Miralles -> Matching: 0.20942771453851886
-Company: Volcanic Internet -> Student: Andreu Camps Corcoll -> Matching: 0.2467521170048826
-Company: TALNTD -> Student: Matías Ferreiro -> Matching: 0.2500321570983799
-Company: Norwegian -> Student: Nicolas Lacaze -> Matching: 0.19876254912454258
-Company: Abalit Technologies S.L. -> Student: Jesús Benages Elena -> Matching: 0.1763959767453354
-Company: Adidea -> Student: Raúl Delgado Díaz -> Matching: 0.1987625491245426
-Company: Farmaconnect -> Student: Daniel Téllez Llinás -> Matching: 0.20190407351866488
-Company: BOEHRINGER INGELHEIM ESPAÑA -> Student: Francesc Muñoz Gonzalez -> Matching: 0.20327990753512218
-Company: Movetia -> Student: Ismael Jaouhar Babiano -> Matching: 0.14037600977966974
+Company: Alterna -> Student: Javier Requejo Melchor -> Matching: 1.0
+Company: BinPar Team SL -> Student: Enrique Anaya Marin -> Matching: 0.585786437626905
+Company: Influencity -> Student: Maria Isabel Llanes Agudelo -> Matching: 0.4591035819162643
+Company: NEORIS -> Student: Daniel Herrero Hernando -> Matching: 0.5985083759092056
+Company: The Phone House  -> Student: Thilo Sperber -> Matching: 0.3437127078670614
+Company: Decathlon -> Student: Carlos Martínez Crespo -> Matching: 0.41380989144872704
+Company: Mintyhost -> Student: Dan Mihai Grigoriciuc -> Matching: 0.38875258098754006
+Company: BuscoExtra -> Student: Rodrigo Otero Montero -> Matching: 0.37761050990882455
+Company: Flexicar -> Student: Verónica Celemín Lominchar -> Matching: 0.3456655930064869
+Company: VT-LAB -> Student: Abel Colmenares Napolitano -> Matching: 0.30383243470068705
+Company: ADIDEA -> Student: Javier Pérez-Chao Rodríguez -> Matching: 0.46153846153846145
+Company: Page Personnel -> Student: Jaime Jacobo Rodríguez del Valle -> Matching: 0.33647074420380185
+Company: Excibit Solutions Spain -> Student: Patricia Defez Díaz de Sarralde -> Matching: 0.2726343509719667
+Company: Sopra Steria -> Student: Isabel Rodríguez Godoy -> Matching: 0.33532938151677566
+Company: Sipay Plus -> Student: Roberto Muñoz Aragón -> Matching: 0.2808687448721165
+Company: BMind -> Student: Sofia Jordan -> Matching: 0.2791745113185196
+Company: Cires21 -> Student: Alfonso Silva Feria -> Matching: 0.2954088290046915
+Company: Dhr Global Human Resources S. L. -> Student: Alfredo Hinarejos Corbeá -> Matching: 0.27195617308673
+Company: Claire Joster -> Student: Baltasar Torres Garcia -> Matching: 0.15814728364201952
+Company: UXSmobile -> Student: Maria Cristina Blanco -> Matching: 0.24127429245212265
+Company: Minsait  -> Student: Eugenio Ruiz Cepeda -> Matching: 0.23446848276013474
+Company: Optimissa Capital Markets -> Student: Moisés García Almeida -> Matching: 0.2145017473585907
+Company: BICG -> Student: Nira Alonso Rodríguez -> Matching: 0.23325353410735442
+Company: Deloitte -> Student: Nerea Aparicio -> Matching: 0.21198894298441015
+Company: Winning Scientific Management  -> Student: Francisco Leston Ramos -> Matching: 0.19417601913675475
 
 Ronda 13
-Company: Project Lobster -> Student: Florencia Dutari -> Matching: 0.3405424265831667
-Company: Ondho -> Student: Miguel Angel Moreno Sierra -> Matching: 0.2642788416911127
-Company: C14TORCE -> Student: Miguel Erja González Solís -> Matching: 0.24744015335140723
-Company: Amaris -> Student: David Redondo Muñoz AKA Hiring Material -> Matching: 0.252650308587072
-Company: Bit Genoma Digital Solutions -> Student: Edu Cortada -> Matching: 0.24257131419419417
-Company: Optimissa Capital Markets -> Student: Joan Sánchez Vich -> Matching: 0.26590219183081276
-Company: TALNTD -> Student: Marcos Tagliabue -> Matching: 0.22584440001865316
-Company: Wisestate LTD -> Student: Llorenç Martinez -> Matching: 0.21929817056457576
-Company: Volcanic Internet -> Student: Miguel Sánchez Díaz -> Matching: 0.2727272727272727
-Company: Abalit Technologies S.L. -> Student: Edgar Rosendo Pulido -> Matching: 0.28172904669025317
-Company: Norwegian -> Student: Ester Fernández Padrós -> Matching: 0.21712927295533244
-Company: Atomian -> Student: Ivan Quevedo Burgos -> Matching: 0.21836658334976405
-Company: Farmaconnect -> Student: Dídac Bigordà Arruego -> Matching: 0.17100799366294794
-Company: Adidea -> Student: YOSHITSUGU NAGAO -> Matching: 0.17100799366294794
-Company: BOEHRINGER INGELHEIM ESPAÑA -> Student: Marc Benaiges Torres -> Matching: 0.2016539181119478
-Company: Movetia -> Student: Madhur Mata -> Matching: 0.15493412373279503
+Company: Alterna -> Student: Sergio Ortega Gil -> Matching: 1.0
+Company: BinPar Team SL -> Student: Mario Quiroga Cuervo -> Matching: 0.6666666666666666
+Company: Influencity -> Student: Daniel García Martínez -> Matching: 0.5209578888631418
+Company: NEORIS -> Student: Carlos Eduardo Lores Hernández  -> Matching: 0.44776119402985076
+Company: The Phone House  -> Student: Javier Requejo Melchor -> Matching: 0.3797958971132712
+Company: BuscoExtra -> Student: Enrique Anaya Marin -> Matching: 0.38456403281063095
+Company: Mintyhost -> Student: Maria Isabel Llanes Agudelo -> Matching: 0.3685816440108706
+Company: Decathlon -> Student: Daniel Herrero Hernando -> Matching: 0.4993074778958812
+Company: ADIDEA -> Student: Thilo Sperber -> Matching: 0.2898979485566356
+Company: Sopra Steria -> Student: Carlos Martínez Crespo -> Matching: 0.35753730639742104
+Company: Flexicar -> Student: Dan Mihai Grigoriciuc -> Matching: 0.3380788308512194
+Company: VT-LAB -> Student: Rodrigo Otero Montero -> Matching: 0.328109501186124
+Company: Cires21 -> Student: Verónica Celemín Lominchar -> Matching: 0.3221138347763291
+Company: Sipay Plus -> Student: Abel Colmenares Napolitano -> Matching: 0.28391956322554057
+Company: Dhr Global Human Resources S. L. -> Student: Javier Pérez-Chao Rodríguez -> Matching: 0.40453726661826384
+Company: Claire Joster -> Student: Jaime Jacobo Rodríguez del Valle -> Matching: 0.30383243470068705
+Company: Page Personnel -> Student: Patricia Defez Díaz de Sarralde -> Matching: 0.2933005420162183
+Company: BMind -> Student: Isabel Rodríguez Godoy -> Matching: 0.3099410831250683
+Company: Excibit Solutions Spain -> Student: Roberto Muñoz Aragón -> Matching: 0.2568270237651122
+Company: UXSmobile -> Student: Sofia Jordan -> Matching: 0.24127429245212265
+Company: Minsait  -> Student: Alfonso Silva Feria -> Matching: 0.23587614926322287
+Company: BICG -> Student: Alfredo Hinarejos Corbeá -> Matching: 0.23121443110375692
+Company: Deloitte -> Student: Baltasar Torres Garcia -> Matching: 0.13862693895776104
+Company: Optimissa Capital Markets -> Student: Maria Cristina Blanco -> Matching: 0.20708916133347943
+Company: Winning Scientific Management  -> Student: Eugenio Ruiz Cepeda -> Matching: 0.1770819842621076
 
 Ronda 14
-Company: Project Lobster -> Student: Pablo Grau -> Matching: 0.3483314773547883
-Company: Ondho -> Student: Tomas Yaya -> Matching: 0.2989350844248255
-Company: C14TORCE -> Student: Alejandro Gómez Pernía -> Matching: 0.2402530733520421
-Company: Amaris -> Student: Miguel Ribeiro Neto -> Matching: 0.23800671553691075
-Company: Optimissa Capital Markets -> Student: Adriana Perez pinto -> Matching: 0.23031459827799503
-Company: Bit Genoma Digital Solutions -> Student: Pedro Bonilla Miralles -> Matching: 0.2222222222222222
-Company: Wisestate LTD -> Student: Andreu Camps Corcoll -> Matching: 0.24992769690273944
-Company: Atomian -> Student: Matías Ferreiro -> Matching: 0.2402530733520421
-Company: Volcanic Internet -> Student: Nicolas Lacaze -> Matching: 0.20069838830688272
-Company: TALNTD -> Student: Jesús Benages Elena -> Matching: 0.20881652773641102
-Company: Norwegian -> Student: Raúl Delgado Díaz -> Matching: 0.19292728076790167
-Company: Adidea -> Student: Daniel Téllez Llinás -> Matching: 0.20386840968093525
-Company: Farmaconnect -> Student: Francesc Muñoz Gonzalez -> Matching: 0.21929817056457576
-Company: Abalit Technologies S.L. -> Student: Ismael Jaouhar Babiano -> Matching: 0.16720960743268054
-Company: BOEHRINGER INGELHEIM ESPAÑA -> Student: Florencia Dutari -> Matching: 0.1635051539178482
-Company: Movetia -> Student: Miguel Angel Moreno Sierra -> Matching: 0.14685419906293512
+Company: Alterna -> Student: Moisés García Almeida -> Matching: 0.5
+Company: BinPar Team SL -> Student: Nira Alonso Rodríguez -> Matching: 0.6666666666666666
+Company: Influencity -> Student: Nerea Aparicio -> Matching: 0.488594280075057
+Company: NEORIS -> Student: Francisco Leston Ramos -> Matching: 0.4559647993330531
+Company: Mintyhost -> Student: Sergio Ortega Gil -> Matching: 0.4193861568941954
+Company: Decathlon -> Student: Mario Quiroga Cuervo -> Matching: 0.4014916240907944
+Company: BuscoExtra -> Student: Daniel García Martínez -> Matching: 0.3713160785143067
+Company: The Phone House  -> Student: Carlos Eduardo Lores Hernández  -> Matching: 0.3205386677704063
+Company: ADIDEA -> Student: Javier Requejo Melchor -> Matching: 0.3456655930064869
+Company: Flexicar -> Student: Enrique Anaya Marin -> Matching: 0.3102111576391408
+Company: Cires21 -> Student: Maria Isabel Llanes Agudelo -> Matching: 0.30963000464325036
+Company: Page Personnel -> Student: Daniel Herrero Hernando -> Matching: 0.44455423532570043
+Company: Sopra Steria -> Student: Thilo Sperber -> Matching: 0.2880129448105867
+Company: BMind -> Student: Carlos Martínez Crespo -> Matching: 0.3103314516485174
+Company: VT-LAB -> Student: Dan Mihai Grigoriciuc -> Matching: 0.30630638594606124
+Company: Claire Joster -> Student: Rodrigo Otero Montero -> Matching: 0.2898979485566356
+Company: Dhr Global Human Resources S. L. -> Student: Verónica Celemín Lominchar -> Matching: 0.30383243470068705
+Company: Excibit Solutions Spain -> Student: Abel Colmenares Napolitano -> Matching: 0.2544702380493834
+Company: Sipay Plus -> Student: Javier Pérez-Chao Rodríguez -> Matching: 0.33241188269855243
+Company: UXSmobile -> Student: Jaime Jacobo Rodríguez del Valle -> Matching: 0.25235118931352524
+Company: Minsait  -> Student: Patricia Defez Díaz de Sarralde -> Matching: 0.24271802700026626
+Company: BICG -> Student: Isabel Rodríguez Godoy -> Matching: 0.26702662933901644
+Company: Deloitte -> Student: Roberto Muñoz Aragón -> Matching: 0.21556965057422145
+Company: Optimissa Capital Markets -> Student: Sofia Jordan -> Matching: 0.21013517993927788
+Company: Winning Scientific Management  -> Student: Alfonso Silva Feria -> Matching: 0.18808891256226346
