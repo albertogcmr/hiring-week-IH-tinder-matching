@@ -1,502 +1,505 @@
 +----------------------------------+---------------------------+-------+-------+
 |             student              |          company          | ronda | match |
 +----------------------------------+---------------------------+-------+-------+
-|     Cristina Alonso Amiñoso      |          vt-lab           |   0   | 0.625 |
+|     Cristina Alonso Amiñoso      |         Syntonize         |   0   | 0.48  |
 +----------------------------------+---------------------------+-------+-------+
-|     Cristina Alonso Amiñoso      |         Barrabes          |   3   | 0.625 |
+|     Cristina Alonso Amiñoso      |         Sentisis          |   3   | 0.561 |
 +----------------------------------+---------------------------+-------+-------+
-|     Cristina Alonso Amiñoso      |         UXSmobile         |   5   | 0.458 |
+|     Cristina Alonso Amiñoso      |       EPSNWORKFORCE       |   6   | 0.625 |
 +----------------------------------+---------------------------+-------+-------+
-|     Cristina Alonso Amiñoso      |       EPSNWORKFORCE       |   8   | 0.625 |
+|     Cristina Alonso Amiñoso      |         UXSmobile         |   8   | 0.458 |
 +----------------------------------+---------------------------+-------+-------+
-|     Cristina Alonso Amiñoso      |         Sentisis          |  11   | 0.561 |
+|     Cristina Alonso Amiñoso      |         Habitant          |  11   | 0.612 |
 +----------------------------------+---------------------------+-------+-------+
-|     Cristina Alonso Amiñoso      |         Habitant          |  14   | 0.612 |
+|     Cristina Alonso Amiñoso      |         Barrabes          |  14   | 0.625 |
 +----------------------------------+---------------------------+-------+-------+
-|        Marleny Francisco         | Crepes and Texas (Making  |   2   | 0.586 |
+|        Marleny Francisco         |         Syntonize         |   2   | 0.303 |
++----------------------------------+---------------------------+-------+-------+
+|        Marleny Francisco         | Crepes and Texas (Making  |   5   | 0.586 |
 |                                  |         Science)          |       |       |
 +----------------------------------+---------------------------+-------+-------+
-|        Marleny Francisco         |         Syntonize         |   5   | 0.303 |
+|        Marleny Francisco         |      F. Iniciativas       |   7   | 0.236 |
 +----------------------------------+---------------------------+-------+-------+
-|        Marleny Francisco         |      Making Science       |   8   | 0.472 |
+|        Marleny Francisco         |          Fontown          |  10   | 0.279 |
 +----------------------------------+---------------------------+-------+-------+
-|        Marleny Francisco         |          Minsait          |  10   | 0.23  |
+|        Marleny Francisco         |         Bravent           |  13   | 0.529 |
 +----------------------------------+---------------------------+-------+-------+
-|        Marleny Francisco         |          Fontown          |  13   | 0.279 |
+|        Marleny Francisco         |          Minsait          |  15   | 0.23  |
 +----------------------------------+---------------------------+-------+-------+
-|         Carmen Bustillos         |         Bravent           |   1   | 0.513 |
+|         Carmen Bustillos         |      F. Iniciativas       |   1   | 0.297 |
 +----------------------------------+---------------------------+-------+-------+
-|         Carmen Bustillos         |          vt-lab           |   4   | 0.419 |
+|         Carmen Bustillos         |          Fontown          |   4   | 0.371 |
 +----------------------------------+---------------------------+-------+-------+
-|         Carmen Bustillos         |         UXSmobile         |   6   | 0.287 |
+|         Carmen Bustillos         |          vt-lab           |   7   | 0.419 |
 +----------------------------------+---------------------------+-------+-------+
-|         Carmen Bustillos         |          Fontown          |   9   | 0.371 |
+|         Carmen Bustillos         |          Minsait          |   9   | 0.228 |
 +----------------------------------+---------------------------+-------+-------+
-|         Carmen Bustillos         |      Garaje de Ideas      |  12   | 0.297 |
+|         Carmen Bustillos         |         Bravent           |  12   | 0.513 |
 +----------------------------------+---------------------------+-------+-------+
-|      Karla Imbert Lamiquiz       |       EPSNWORKFORCE       |   0   | 0.303 |
+|         Carmen Bustillos         |      Garaje de Ideas      |  15   | 0.297 |
 +----------------------------------+---------------------------+-------+-------+
-|      Karla Imbert Lamiquiz       |      Making Science       |   3   | 0.293 |
+|  Carlota Sánchez-Robles Herrero  |         Syntonize         |   1   |  0.3  |
 +----------------------------------+---------------------------+-------+-------+
-|      Karla Imbert Lamiquiz       |         Bravent           |   6   | 0.572 |
+|  Carlota Sánchez-Robles Herrero  |      Garaje de Ideas      |   4   | 0.235 |
 +----------------------------------+---------------------------+-------+-------+
-|      Karla Imbert Lamiquiz       |         Habitant          |   8   | 0.238 |
-+----------------------------------+---------------------------+-------+-------+
-|      Karla Imbert Lamiquiz       |          vt-lab           |  11   | 0.303 |
-+----------------------------------+---------------------------+-------+-------+
-|      Karla Imbert Lamiquiz       |          Chiara           |  14   | 0.293 |
-+----------------------------------+---------------------------+-------+-------+
-|  Carlota Sánchez-Robles Herrero  |         Bravent           |   2   | 0.441 |
-+----------------------------------+---------------------------+-------+-------+
-|  Carlota Sánchez-Robles Herrero  |         UXSmobile         |   4   | 0.302 |
-+----------------------------------+---------------------------+-------+-------+
-|  Carlota Sánchez-Robles Herrero  |          Fontown          |   7   | 0.25  |
-+----------------------------------+---------------------------+-------+-------+
-|  Carlota Sánchez-Robles Herrero  | Crepes and Texas (Making  |  10   | 0.395 |
+|  Carlota Sánchez-Robles Herrero  | Crepes and Texas (Making  |   7   | 0.395 |
 |                                  |         Science)          |       |       |
 +----------------------------------+---------------------------+-------+-------+
-|  Carlota Sánchez-Robles Herrero  |      Making Science       |  13   | 0.424 |
+|  Carlota Sánchez-Robles Herrero  |          Fontown          |   9   | 0.25  |
 +----------------------------------+---------------------------+-------+-------+
-|       Maruxa Moreira Pérez       |          vt-lab           |   2   | 0.667 |
+|  Carlota Sánchez-Robles Herrero  |         UXSmobile         |  12   | 0.302 |
 +----------------------------------+---------------------------+-------+-------+
-|       Maruxa Moreira Pérez       |         Barrabes          |   5   | 0.667 |
+|  Carlota Sánchez-Robles Herrero  |         Bravent           |  15   | 0.441 |
 +----------------------------------+---------------------------+-------+-------+
-|       Maruxa Moreira Pérez       |       EPSNWORKFORCE       |   7   | 0.667 |
+|       Maruxa Moreira Pérez       |         Barrabes          |   1   | 0.667 |
 +----------------------------------+---------------------------+-------+-------+
-|       Maruxa Moreira Pérez       |         Sentisis          |  10   | 0.586 |
+|       Maruxa Moreira Pérez       |      Garaje de Ideas      |   3   | 0.472 |
 +----------------------------------+---------------------------+-------+-------+
-|       Maruxa Moreira Pérez       |         Bravent           |  13   | 0.552 |
+|       Maruxa Moreira Pérez       |      F. Iniciativas       |   6   | 0.536 |
 +----------------------------------+---------------------------+-------+-------+
-|     Barbara Lopez Mauriello      |         Syntonize         |   1   | 0.469 |
+|       Maruxa Moreira Pérez       |       EPSNWORKFORCE       |   9   | 0.667 |
 +----------------------------------+---------------------------+-------+-------+
-|     Barbara Lopez Mauriello      |         Habitant          |   4   | 0.519 |
+|       Maruxa Moreira Pérez       |          Minsait          |  11   | 0.458 |
 +----------------------------------+---------------------------+-------+-------+
-|     Barbara Lopez Mauriello      |      Making Science       |   7   | 0.487 |
+|       Maruxa Moreira Pérez       |         Sentisis          |  14   | 0.586 |
 +----------------------------------+---------------------------+-------+-------+
-|     Barbara Lopez Mauriello      | Crepes and Texas (Making  |   9   | 0.441 |
+|     Barbara Lopez Mauriello      |         Habitant          |   2   | 0.519 |
++----------------------------------+---------------------------+-------+-------+
+|     Barbara Lopez Mauriello      |         Barrabes          |   4   | 0.457 |
++----------------------------------+---------------------------+-------+-------+
+|     Barbara Lopez Mauriello      |         Syntonize         |   7   | 0.469 |
++----------------------------------+---------------------------+-------+-------+
+|     Barbara Lopez Mauriello      | Crepes and Texas (Making  |  10   | 0.441 |
 |                                  |         Science)          |       |       |
 +----------------------------------+---------------------------+-------+-------+
 |     Barbara Lopez Mauriello      |          Minsait          |  12   | 0.402 |
 +----------------------------------+---------------------------+-------+-------+
+|     Barbara Lopez Mauriello      |          Fontown          |  15   | 0.339 |
++----------------------------------+---------------------------+-------+-------+
 |     Víctor Andrés Hernández      |         Barrabes          |   0   | 0.667 |
 +----------------------------------+---------------------------+-------+-------+
-|     Víctor Andrés Hernández      |         Sentisis          |   3   | 0.573 |
+|     Víctor Andrés Hernández      |          Minsait          |   2   | 0.448 |
 +----------------------------------+---------------------------+-------+-------+
-|     Víctor Andrés Hernández      |          vt-lab           |   6   | 0.527 |
+|     Víctor Andrés Hernández      |          vt-lab           |   5   | 0.527 |
 +----------------------------------+---------------------------+-------+-------+
-|     Víctor Andrés Hernández      |          Minsait          |   8   | 0.448 |
+|     Víctor Andrés Hernández      |       Sopra Steria        |   8   | 0.527 |
 +----------------------------------+---------------------------+-------+-------+
-|     Víctor Andrés Hernández      |       Sopra Steria        |  11   | 0.527 |
+|     Víctor Andrés Hernández      |         Sentisis          |  10   | 0.573 |
 +----------------------------------+---------------------------+-------+-------+
-|     Víctor Andrés Hernández      |      Garaje de Ideas      |  14   | 0.527 |
+|     Víctor Andrés Hernández      |         Syntonize         |  13   | 0.527 |
 +----------------------------------+---------------------------+-------+-------+
-|        Luis Camacho Cabo         |      Garaje de Ideas      |   1   | 0.549 |
+|        Luis Camacho Cabo         |       Sopra Steria        |   1   | 0.549 |
 +----------------------------------+---------------------------+-------+-------+
-|        Luis Camacho Cabo         |       Sopra Steria        |   4   | 0.549 |
+|        Luis Camacho Cabo         |         UXSmobile         |   3   | 0.399 |
 +----------------------------------+---------------------------+-------+-------+
-|        Luis Camacho Cabo         |      F. Iniciativas       |   6   | 0.456 |
+|        Luis Camacho Cabo         |      Garaje de Ideas      |   6   | 0.549 |
 +----------------------------------+---------------------------+-------+-------+
-|        Luis Camacho Cabo         |         Syntonize         |   9   | 0.405 |
+|        Luis Camacho Cabo         |         Sentisis          |   9   | 0.511 |
 +----------------------------------+---------------------------+-------+-------+
-|        Luis Camacho Cabo         |         Sentisis          |  12   | 0.511 |
+|        Luis Camacho Cabo         |          Fontown          |  11   | 0.33  |
 +----------------------------------+---------------------------+-------+-------+
-|         Marta Aboy Otero         |         Syntonize         |   0   | 0.492 |
+|        Luis Camacho Cabo         |          Chiara           |  14   | 0.456 |
 +----------------------------------+---------------------------+-------+-------+
-|         Marta Aboy Otero         |       EPSNWORKFORCE       |   3   | 0.527 |
+|         Marta Aboy Otero         |          vt-lab           |   0   | 0.667 |
 +----------------------------------+---------------------------+-------+-------+
-|         Marta Aboy Otero         |      Making Science       |   6   | 0.587 |
+|         Marta Aboy Otero         |         UXSmobile         |   2   | 0.468 |
 +----------------------------------+---------------------------+-------+-------+
-|         Marta Aboy Otero         |          vt-lab           |   9   | 0.667 |
+|         Marta Aboy Otero         |         Barrabes          |   5   | 0.527 |
 +----------------------------------+---------------------------+-------+-------+
-|         Marta Aboy Otero         |          Minsait          |  11   | 0.489 |
+|         Marta Aboy Otero         |       EPSNWORKFORCE       |   8   | 0.527 |
 +----------------------------------+---------------------------+-------+-------+
-|         Marta Aboy Otero         |         Barrabes          |  14   | 0.527 |
+|         Marta Aboy Otero         |          Minsait          |  10   | 0.489 |
 +----------------------------------+---------------------------+-------+-------+
-|          Sara Salguero           |      F. Iniciativas       |   0   | 0.297 |
+|         Marta Aboy Otero         |         Sentisis          |  13   | 0.493 |
 +----------------------------------+---------------------------+-------+-------+
-|          Sara Salguero           |          Chiara           |   3   | 0.297 |
+|          Sara Salguero           |          Chiara           |   0   | 0.297 |
 +----------------------------------+---------------------------+-------+-------+
-|          Sara Salguero           |       EPSNWORKFORCE       |   6   | 0.297 |
+|          Sara Salguero           |       EPSNWORKFORCE       |   3   | 0.297 |
 +----------------------------------+---------------------------+-------+-------+
-|          Sara Salguero           |         Bravent           |   9   | 0.541 |
+|          Sara Salguero           |         UXSmobile         |   5   | 0.228 |
 +----------------------------------+---------------------------+-------+-------+
-|          Sara Salguero           |          Fontown          |  11   | 0.268 |
+|          Sara Salguero           |      F. Iniciativas       |   8   | 0.297 |
 +----------------------------------+---------------------------+-------+-------+
-|          Sara Salguero           |          vt-lab           |  14   | 0.297 |
+|          Sara Salguero           |       Sopra Steria        |  11   | 0.284 |
 +----------------------------------+---------------------------+-------+-------+
-|       Luis Pelayo González       |       Sopra Steria        |   1   | 0.527 |
+|          Sara Salguero           |          Minsait          |  13   | 0.232 |
 +----------------------------------+---------------------------+-------+-------+
-|       Luis Pelayo González       |         Syntonize         |   3   | 0.48  |
+|       Adrian Muñoz Lobato        |         Sentisis          |   1   | 0.643 |
 +----------------------------------+---------------------------+-------+-------+
-|       Luis Pelayo González       |      Garaje de Ideas      |   6   | 0.527 |
+|       Adrian Muñoz Lobato        |         UXSmobile         |   4   | 0.627 |
 +----------------------------------+---------------------------+-------+-------+
-|       Luis Pelayo González       |       EPSNWORKFORCE       |   9   | 0.467 |
+|       Adrian Muñoz Lobato        |         Habitant          |   7   | 0.564 |
 +----------------------------------+---------------------------+-------+-------+
-|       Luis Pelayo González       |      Making Science       |  12   | 0.495 |
+|       Adrian Muñoz Lobato        |         Syntonize         |   9   | 0.527 |
 +----------------------------------+---------------------------+-------+-------+
-|       Luis Pelayo González       |         UXSmobile         |  14   | 0.448 |
+|       Adrian Muñoz Lobato        |          vt-lab           |  12   | 0.518 |
 +----------------------------------+---------------------------+-------+-------+
-|       Adrian Muñoz Lobato        |         UXSmobile         |   2   | 0.627 |
+|       Adrian Muñoz Lobato        |       Sopra Steria        |  15   | 0.518 |
 +----------------------------------+---------------------------+-------+-------+
-|       Adrian Muñoz Lobato        |          Fontown          |   4   | 0.362 |
+|        Alberto Toca Muñoz        |          Fontown          |   0   |  0.4  |
 +----------------------------------+---------------------------+-------+-------+
-|       Adrian Muñoz Lobato        |         Sentisis          |   7   | 0.643 |
+|        Alberto Toca Muñoz        |          Chiara           |   3   | 0.287 |
 +----------------------------------+---------------------------+-------+-------+
-|       Adrian Muñoz Lobato        |         Syntonize         |  10   | 0.527 |
+|        Alberto Toca Muñoz        |         Bravent           |   6   | 0.301 |
 +----------------------------------+---------------------------+-------+-------+
-|       Adrian Muñoz Lobato        |         Habitant          |  13   | 0.564 |
+|        Alberto Toca Muñoz        |          Minsait          |   8   | 0.235 |
 +----------------------------------+---------------------------+-------+-------+
-|        Alberto Toca Muñoz        |         Barrabes          |   2   | 0.297 |
+|        Alberto Toca Muñoz        |         Sentisis          |  11   | 0.283 |
 +----------------------------------+---------------------------+-------+-------+
-|        Alberto Toca Muñoz        |          Fontown          |   5   |  0.4  |
+|        Alberto Toca Muñoz        |          vt-lab           |  14   | 0.481 |
 +----------------------------------+---------------------------+-------+-------+
-|        Alberto Toca Muñoz        |          vt-lab           |   8   | 0.481 |
+|    Nico Fernández Díaz-Pavón     |         UXSmobile         |   1   | 0.576 |
 +----------------------------------+---------------------------+-------+-------+
-|        Alberto Toca Muñoz        |       EPSNWORKFORCE       |  10   | 0.287 |
+|    Nico Fernández Díaz-Pavón     |         Syntonize         |   4   | 0.572 |
 +----------------------------------+---------------------------+-------+-------+
-|        Alberto Toca Muñoz        |          Chiara           |  13   | 0.287 |
-+----------------------------------+---------------------------+-------+-------+
-|    Nico Fernández Díaz-Pavón     |          Fontown          |   0   | 0.401 |
-+----------------------------------+---------------------------+-------+-------+
-|    Nico Fernández Díaz-Pavón     |         UXSmobile         |   3   | 0.576 |
-+----------------------------------+---------------------------+-------+-------+
-|    Nico Fernández Díaz-Pavón     |         Syntonize         |   6   | 0.572 |
+|    Nico Fernández Díaz-Pavón     | Crepes and Texas (Making  |   6   | 0.451 |
+|                                  |         Science)          |       |       |
 +----------------------------------+---------------------------+-------+-------+
 |    Nico Fernández Díaz-Pavón     |       Sopra Steria        |   9   | 0.536 |
 +----------------------------------+---------------------------+-------+-------+
-|    Nico Fernández Díaz-Pavón     |      F. Iniciativas       |  11   | 0.536 |
+|    Nico Fernández Díaz-Pavón     |      Garaje de Ideas      |  12   | 0.536 |
 +----------------------------------+---------------------------+-------+-------+
-|    Nico Fernández Díaz-Pavón     |       EPSNWORKFORCE       |  14   | 0.45  |
+|    Nico Fernández Díaz-Pavón     |      F. Iniciativas       |  14   | 0.536 |
 +----------------------------------+---------------------------+-------+-------+
 |        Magda Kupidlowska         |         UXSmobile         |   0   | 0.586 |
 +----------------------------------+---------------------------+-------+-------+
-|        Magda Kupidlowska         |         Syntonize         |   2   | 0.536 |
+|        Magda Kupidlowska         |         Bravent           |   3   | 0.587 |
 +----------------------------------+---------------------------+-------+-------+
-|        Magda Kupidlowska         |         Sentisis          |   5   | 0.289 |
+|        Magda Kupidlowska         |          Fontown          |   5   | 0.463 |
 +----------------------------------+---------------------------+-------+-------+
-|        Magda Kupidlowska         |      F. Iniciativas       |   8   | 0.238 |
+|        Magda Kupidlowska         |         Syntonize         |   8   | 0.536 |
 +----------------------------------+---------------------------+-------+-------+
-|        Magda Kupidlowska         |         Bravent           |  11   | 0.587 |
-+----------------------------------+---------------------------+-------+-------+
-|        Magda Kupidlowska         |       Sopra Steria        |  13   | 0.234 |
-+----------------------------------+---------------------------+-------+-------+
-|    Ángel María Pulido Samper     |      Making Science       |   1   | 0.302 |
-+----------------------------------+---------------------------+-------+-------+
-|    Ángel María Pulido Samper     |         Barrabes          |   4   | 0.302 |
-+----------------------------------+---------------------------+-------+-------+
-|    Ángel María Pulido Samper     |          Minsait          |   6   | 0.301 |
-+----------------------------------+---------------------------+-------+-------+
-|    Ángel María Pulido Samper     |         Habitant          |   9   | 0.301 |
-+----------------------------------+---------------------------+-------+-------+
-|    Ángel María Pulido Samper     | Crepes and Texas (Making  |  12   | 0.292 |
+|        Magda Kupidlowska         | Crepes and Texas (Making  |  11   | 0.502 |
 |                                  |         Science)          |       |       |
 +----------------------------------+---------------------------+-------+-------+
-|      ELENA CORBACHO NAVARRO      |          Chiara           |   0   | 0.486 |
+|        Magda Kupidlowska         |      F. Iniciativas       |  13   | 0.238 |
 +----------------------------------+---------------------------+-------+-------+
-|      ELENA CORBACHO NAVARRO      |         Habitant          |   3   | 0.489 |
+|    Ángel María Pulido Samper     |         Barrabes          |   2   | 0.302 |
 +----------------------------------+---------------------------+-------+-------+
-|      ELENA CORBACHO NAVARRO      |         Sentisis          |   6   | 0.536 |
+|    Ángel María Pulido Samper     |       EPSNWORKFORCE       |   5   | 0.302 |
 +----------------------------------+---------------------------+-------+-------+
-|      ELENA CORBACHO NAVARRO      |         UXSmobile         |   8   | 0.468 |
+|    Ángel María Pulido Samper     |          Minsait          |   7   | 0.301 |
 +----------------------------------+---------------------------+-------+-------+
-|      ELENA CORBACHO NAVARRO      |         Barrabes          |  11   | 0.486 |
+|    Ángel María Pulido Samper     |          Chiara           |  10   | 0.292 |
 +----------------------------------+---------------------------+-------+-------+
-|      ELENA CORBACHO NAVARRO      | Crepes and Texas (Making  |  14   | 0.493 |
-|                                  |         Science)          |       |       |
+|    Ángel María Pulido Samper     |         Habitant          |  13   | 0.301 |
 +----------------------------------+---------------------------+-------+-------+
-|        Carolina Timhagen         |         Barrabes          |   1   | 0.625 |
+|    Ángel María Pulido Samper     |         Sentisis          |  15   | 0.235 |
++----------------------------------+---------------------------+-------+-------+
+|      ELENA CORBACHO NAVARRO      |          Chiara           |   2   | 0.486 |
++----------------------------------+---------------------------+-------+-------+
+|      ELENA CORBACHO NAVARRO      |         Bravent           |   5   | 0.593 |
++----------------------------------+---------------------------+-------+-------+
+|      ELENA CORBACHO NAVARRO      |         Sentisis          |   7   | 0.536 |
++----------------------------------+---------------------------+-------+-------+
+|      ELENA CORBACHO NAVARRO      |       EPSNWORKFORCE       |  10   | 0.486 |
++----------------------------------+---------------------------+-------+-------+
+|      ELENA CORBACHO NAVARRO      |          vt-lab           |  13   | 0.486 |
++----------------------------------+---------------------------+-------+-------+
+|      ELENA CORBACHO NAVARRO      |         UXSmobile         |  15   | 0.468 |
++----------------------------------+---------------------------+-------+-------+
+|        Carolina Timhagen         |          vt-lab           |   1   | 0.625 |
 +----------------------------------+---------------------------+-------+-------+
 |        Carolina Timhagen         |          Minsait          |   3   | 0.562 |
 +----------------------------------+---------------------------+-------+-------+
-|        Carolina Timhagen         |         Habitant          |   6   | 0.625 |
+|        Carolina Timhagen         |         Sentisis          |   6   | 0.561 |
 +----------------------------------+---------------------------+-------+-------+
-|        Carolina Timhagen         |          Chiara           |   9   | 0.519 |
+|        Carolina Timhagen         |         Barrabes          |   9   | 0.625 |
 +----------------------------------+---------------------------+-------+-------+
-|        Carolina Timhagen         |          vt-lab           |  12   | 0.625 |
+|        Carolina Timhagen         |         Syntonize         |  11   | 0.48  |
 +----------------------------------+---------------------------+-------+-------+
-|        Carolina Timhagen         |          Fontown          |  14   | 0.376 |
+|        Carolina Timhagen         |         Habitant          |  14   | 0.625 |
 +----------------------------------+---------------------------+-------+-------+
-|     Circe Serrano Gutiérrez      |         Sentisis          |   1   | 0.586 |
+|     Circe Serrano Gutiérrez      |       Sopra Steria        |   0   | 0.667 |
 +----------------------------------+---------------------------+-------+-------+
-|     Circe Serrano Gutiérrez      |      Garaje de Ideas      |   4   | 0.667 |
+|     Circe Serrano Gutiérrez      |       EPSNWORKFORCE       |   2   | 0.536 |
 +----------------------------------+---------------------------+-------+-------+
-|     Circe Serrano Gutiérrez      |       Sopra Steria        |   7   | 0.667 |
+|     Circe Serrano Gutiérrez      |      Garaje de Ideas      |   5   | 0.667 |
 +----------------------------------+---------------------------+-------+-------+
-|     Circe Serrano Gutiérrez      |      F. Iniciativas       |   9   | 0.472 |
+|     Circe Serrano Gutiérrez      |         Sentisis          |   8   | 0.586 |
 +----------------------------------+---------------------------+-------+-------+
-|     Circe Serrano Gutiérrez      |         Barrabes          |  12   | 0.536 |
+|     Circe Serrano Gutiérrez      |         Syntonize         |  10   | 0.48  |
 +----------------------------------+---------------------------+-------+-------+
-|       Satory Asensio Gómez       |         Bravent           |   0   | 0.403 |
+|     Circe Serrano Gutiérrez      |          Chiara           |  13   | 0.472 |
 +----------------------------------+---------------------------+-------+-------+
-|       Satory Asensio Gómez       |          Minsait          |   2   | 0.257 |
+|    Sara satory Asensio Gómez     |          Minsait          |   1   | 0.257 |
 +----------------------------------+---------------------------+-------+-------+
-|       Satory Asensio Gómez       |         Habitant          |   5   | 0.229 |
-+----------------------------------+---------------------------+-------+-------+
-|       Satory Asensio Gómez       |          Fontown          |   8   | 0.241 |
-+----------------------------------+---------------------------+-------+-------+
-|       Satory Asensio Gómez       |      Making Science       |  11   | 0.258 |
-+----------------------------------+---------------------------+-------+-------+
-|       Satory Asensio Gómez       |      F. Iniciativas       |  13   | 0.222 |
-+----------------------------------+---------------------------+-------+-------+
-|     Francisco García Hurtado     |      F. Iniciativas       |   1   |  0.5  |
-+----------------------------------+---------------------------+-------+-------+
-|     Francisco García Hurtado     |       EPSNWORKFORCE       |   4   | 0.587 |
-+----------------------------------+---------------------------+-------+-------+
-|     Francisco García Hurtado     |          vt-lab           |   7   | 0.587 |
-+----------------------------------+---------------------------+-------+-------+
-|     Francisco García Hurtado     |         UXSmobile         |   9   | 0.468 |
-+----------------------------------+---------------------------+-------+-------+
-|     Francisco García Hurtado     |         Habitant          |  12   | 0.628 |
-+----------------------------------+---------------------------+-------+-------+
-|      Joxan Bueno Fernández       |         Habitant          |   2   | 0.561 |
-+----------------------------------+---------------------------+-------+-------+
-|      Joxan Bueno Fernández       |      Making Science       |   5   | 0.561 |
-+----------------------------------+---------------------------+-------+-------+
-|      Joxan Bueno Fernández       | Crepes and Texas (Making  |   8   | 0.561 |
+|    Sara satory Asensio Gómez     | Crepes and Texas (Making  |   4   | 0.252 |
 |                                  |         Science)          |       |       |
 +----------------------------------+---------------------------+-------+-------+
-|      Joxan Bueno Fernández       |      F. Iniciativas       |  10   | 0.481 |
+|    Sara satory Asensio Gómez     |          Fontown          |   7   | 0.241 |
 +----------------------------------+---------------------------+-------+-------+
-|      Joxan Bueno Fernández       |          Minsait          |  13   | 0.432 |
+|    Sara satory Asensio Gómez     |         Bravent           |   9   | 0.403 |
 +----------------------------------+---------------------------+-------+-------+
-|            Ana Fraile            |          vt-lab           |   1   | 0.573 |
+|    Sara satory Asensio Gómez     |         Habitant          |  12   | 0.229 |
 +----------------------------------+---------------------------+-------+-------+
-|            Ana Fraile            |          Fontown          |   3   |  0.5  |
+|    Sara satory Asensio Gómez     |          vt-lab           |  15   | 0.226 |
 +----------------------------------+---------------------------+-------+-------+
-|            Ana Fraile            |         Barrabes          |   6   | 0.573 |
+|     Francisco García Hurtado     |       EPSNWORKFORCE       |   1   | 0.587 |
 +----------------------------------+---------------------------+-------+-------+
-|            Ana Fraile            |         Sentisis          |   9   | 0.462 |
+|     Francisco García Hurtado     |          vt-lab           |   4   | 0.587 |
 +----------------------------------+---------------------------+-------+-------+
-|            Ana Fraile            |       EPSNWORKFORCE       |  12   | 0.487 |
+|     Francisco García Hurtado     |         UXSmobile         |   6   | 0.468 |
 +----------------------------------+---------------------------+-------+-------+
-|            Ana Fraile            |      F. Iniciativas       |  14   | 0.441 |
+|     Francisco García Hurtado     |         Habitant          |   9   | 0.628 |
 +----------------------------------+---------------------------+-------+-------+
-|      Jose Moreno Fernández       |         Sentisis          |   0   |  1.0  |
+|     Francisco García Hurtado     |         Barrabes          |  12   | 0.587 |
 +----------------------------------+---------------------------+-------+-------+
-|      Jose Moreno Fernández       |          vt-lab           |   3   | 0.667 |
+|     Francisco García Hurtado     |          Minsait          |  14   | 0.425 |
 +----------------------------------+---------------------------+-------+-------+
-|      Jose Moreno Fernández       |       Sopra Steria        |   6   | 0.667 |
+|      Joxan Bueno Fernández       |         Bravent           |   2   | 0.511 |
 +----------------------------------+---------------------------+-------+-------+
-|      Jose Moreno Fernández       |         Barrabes          |   8   | 0.667 |
+|      Joxan Bueno Fernández       |          Chiara           |   4   | 0.481 |
 +----------------------------------+---------------------------+-------+-------+
-|      Jose Moreno Fernández       |      Garaje de Ideas      |  11   | 0.667 |
+|      Joxan Bueno Fernández       |       EPSNWORKFORCE       |   7   | 0.481 |
 +----------------------------------+---------------------------+-------+-------+
-|      Jose Moreno Fernández       |         Syntonize         |  14   | 0.667 |
+|      Joxan Bueno Fernández       |         Barrabes          |  10   | 0.481 |
 +----------------------------------+---------------------------+-------+-------+
-|   Jose Joaquin Martinez Abenza   |          Chiara           |   2   | 0.265 |
+|      Joxan Bueno Fernández       |      F. Iniciativas       |  12   | 0.481 |
 +----------------------------------+---------------------------+-------+-------+
-|   Jose Joaquin Martinez Abenza   |          vt-lab           |   5   | 0.265 |
+|      Joxan Bueno Fernández       |         Habitant          |  15   | 0.561 |
 +----------------------------------+---------------------------+-------+-------+
-|   Jose Joaquin Martinez Abenza   |         UXSmobile         |   7   | 0.219 |
+|      Jose Moreno Fernández       |         Sentisis          |   2   |  1.0  |
 +----------------------------------+---------------------------+-------+-------+
-|   Jose Joaquin Martinez Abenza   |         Bravent           |  10   | 0.382 |
+|      Jose Moreno Fernández       |          Minsait          |   4   | 0.497 |
++----------------------------------+---------------------------+-------+-------+
+|      Jose Moreno Fernández       |       Sopra Steria        |   7   | 0.667 |
++----------------------------------+---------------------------+-------+-------+
+|      Jose Moreno Fernández       |          vt-lab           |  10   | 0.667 |
++----------------------------------+---------------------------+-------+-------+
+|      Jose Moreno Fernández       |          Fontown          |  12   | 0.43  |
++----------------------------------+---------------------------+-------+-------+
+|      Jose Moreno Fernández       |         Barrabes          |  15   | 0.667 |
++----------------------------------+---------------------------+-------+-------+
+|   Jose Joaquin Martinez Abenza   |         Bravent           |   0   | 0.382 |
++----------------------------------+---------------------------+-------+-------+
+|   Jose Joaquin Martinez Abenza   |      F. Iniciativas       |   2   | 0.265 |
++----------------------------------+---------------------------+-------+-------+
+|   Jose Joaquin Martinez Abenza   |          Chiara           |   5   | 0.265 |
++----------------------------------+---------------------------+-------+-------+
+|   Jose Joaquin Martinez Abenza   |          vt-lab           |   8   | 0.265 |
++----------------------------------+---------------------------+-------+-------+
+|   Jose Joaquin Martinez Abenza   |      Garaje de Ideas      |  10   | 0.256 |
 +----------------------------------+---------------------------+-------+-------+
 |   Jose Joaquin Martinez Abenza   |       EPSNWORKFORCE       |  13   | 0.265 |
 +----------------------------------+---------------------------+-------+-------+
-|       Pablo Arribas García       |         Habitant          |   0   | 0.519 |
+|       Pablo Arribas García       |      Garaje de Ideas      |   0   | 0.606 |
 +----------------------------------+---------------------------+-------+-------+
 |       Pablo Arribas García       |       Sopra Steria        |   3   | 0.606 |
 +----------------------------------+---------------------------+-------+-------+
-|       Pablo Arribas García       |          Minsait          |   5   | 0.416 |
+|       Pablo Arribas García       |      F. Iniciativas       |   5   | 0.456 |
 +----------------------------------+---------------------------+-------+-------+
-|       Pablo Arribas García       |      Garaje de Ideas      |   8   | 0.606 |
+|       Pablo Arribas García       |         Habitant          |   8   | 0.519 |
 +----------------------------------+---------------------------+-------+-------+
 |       Pablo Arribas García       |       EPSNWORKFORCE       |  11   | 0.51  |
 +----------------------------------+---------------------------+-------+-------+
-|       Pablo Arribas García       |         Sentisis          |  14   | 0.481 |
+|       Pablo Arribas García       |         UXSmobile         |  13   | 0.452 |
 +----------------------------------+---------------------------+-------+-------+
-| Carlota Fernández de Villavicenc |       EPSNWORKFORCE       |   2   | 0.304 |
+| Carlota Fernández de Villavicenc |       EPSNWORKFORCE       |   0   | 0.304 |
 |            io Guerra             |                           |       |       |
 +----------------------------------+---------------------------+-------+-------+
-| Carlota Fernández de Villavicenc |         Bravent           |   5   | 0.586 |
+| Carlota Fernández de Villavicenc |          vt-lab           |   3   | 0.304 |
 |            io Guerra             |                           |       |       |
 +----------------------------------+---------------------------+-------+-------+
-| Carlota Fernández de Villavicenc |      F. Iniciativas       |   7   | 0.294 |
+| Carlota Fernández de Villavicenc |          Minsait          |   5   | 0.237 |
 |            io Guerra             |                           |       |       |
 +----------------------------------+---------------------------+-------+-------+
-| Carlota Fernández de Villavicenc |          Chiara           |  10   | 0.294 |
+| Carlota Fernández de Villavicenc |          Chiara           |   8   | 0.294 |
 |            io Guerra             |                           |       |       |
 +----------------------------------+---------------------------+-------+-------+
-| Carlota Fernández de Villavicenc | Crepes and Texas (Making  |  13   | 0.293 |
-|            io Guerra             |         Science)          |       |       |
+| Carlota Fernández de Villavicenc |         Bravent           |  11   | 0.586 |
+|            io Guerra             |                           |       |       |
++----------------------------------+---------------------------+-------+-------+
+| Carlota Fernández de Villavicenc |          Fontown          |  13   | 0.281 |
+|            io Guerra             |                           |       |       |
 +----------------------------------+---------------------------+-------+-------+
 |       Irene Fabelo Santana       |          Chiara           |   1   | 0.452 |
 +----------------------------------+---------------------------+-------+-------+
-|       Irene Fabelo Santana       |      F. Iniciativas       |   4   | 0.452 |
+|       Irene Fabelo Santana       |          Fontown          |   3   | 0.273 |
 +----------------------------------+---------------------------+-------+-------+
-|       Irene Fabelo Santana       |          Fontown          |   6   | 0.273 |
+|       Irene Fabelo Santana       |       Sopra Steria        |   6   | 0.416 |
 +----------------------------------+---------------------------+-------+-------+
-|       Irene Fabelo Santana       |      Garaje de Ideas      |   9   | 0.416 |
+|       Irene Fabelo Santana       |      F. Iniciativas       |   9   | 0.452 |
 +----------------------------------+---------------------------+-------+-------+
-|       Irene Fabelo Santana       |       Sopra Steria        |  12   | 0.416 |
+|       Irene Fabelo Santana       |         UXSmobile         |  11   | 0.198 |
 +----------------------------------+---------------------------+-------+-------+
-|       Gurutz Gorrotxategi        |         Habitant          |   1   | 0.667 |
+|       Irene Fabelo Santana       |      Garaje de Ideas      |  14   | 0.416 |
 +----------------------------------+---------------------------+-------+-------+
-|       Gurutz Gorrotxategi        |      F. Iniciativas       |   3   | 0.467 |
+|       Gurutz Gorrotxategi        |          Minsait          |   0   | 0.456 |
 +----------------------------------+---------------------------+-------+-------+
-|       Gurutz Gorrotxategi        |          Chiara           |   6   | 0.467 |
+|       Gurutz Gorrotxategi        |         Barrabes          |   3   | 0.527 |
 +----------------------------------+---------------------------+-------+-------+
-|       Gurutz Gorrotxategi        |         Barrabes          |   9   | 0.527 |
+|       Gurutz Gorrotxategi        |         Habitant          |   6   | 0.667 |
 +----------------------------------+---------------------------+-------+-------+
-|       Gurutz Gorrotxategi        |         Bravent           |  12   | 0.576 |
+|       Gurutz Gorrotxategi        |      Garaje de Ideas      |   8   | 0.427 |
 +----------------------------------+---------------------------+-------+-------+
-|       Gurutz Gorrotxategi        |          Minsait          |  14   | 0.456 |
+|       Gurutz Gorrotxategi        |      F. Iniciativas       |  11   | 0.467 |
 +----------------------------------+---------------------------+-------+-------+
-|       Ignacio Romaní Vidal       |         UXSmobile         |   1   | 0.667 |
+|       Gurutz Gorrotxategi        | Crepes and Texas (Making  |  14   | 0.526 |
+|                                  |         Science)          |       |       |
 +----------------------------------+---------------------------+-------+-------+
-|       Ignacio Romaní Vidal       |         Sentisis          |   4   |  1.0  |
+|       Ignacio Romaní Vidal       |          vt-lab           |   2   | 0.667 |
 +----------------------------------+---------------------------+-------+-------+
-|       Ignacio Romaní Vidal       |         Syntonize         |   7   | 0.667 |
+|       Ignacio Romaní Vidal       |         Sentisis          |   5   |  1.0  |
++----------------------------------+---------------------------+-------+-------+
+|       Ignacio Romaní Vidal       |         UXSmobile         |   7   | 0.667 |
 +----------------------------------+---------------------------+-------+-------+
 |       Ignacio Romaní Vidal       |       Sopra Steria        |  10   | 0.667 |
 +----------------------------------+---------------------------+-------+-------+
-|       Ignacio Romaní Vidal       |          Fontown          |  12   | 0.45  |
+|       Ignacio Romaní Vidal       |         Barrabes          |  13   | 0.667 |
 +----------------------------------+---------------------------+-------+-------+
-|       Ignacio Romaní Vidal       |      Garaje de Ideas      |  13   | 0.667 |
+|       Ignacio Romaní Vidal       |          Chiara           |  15   |  0.5  |
 +----------------------------------+---------------------------+-------+-------+
-|           Marta Hierro           |      Making Science       |   0   | 0.389 |
+|           Marta Hierro           |       Sopra Steria        |   2   | 0.296 |
 +----------------------------------+---------------------------+-------+-------+
-|           Marta Hierro           | Crepes and Texas (Making  |   3   | 0.432 |
+|           Marta Hierro           |      F. Iniciativas       |   4   | 0.296 |
++----------------------------------+---------------------------+-------+-------+
+|           Marta Hierro           |      Garaje de Ideas      |   7   | 0.296 |
++----------------------------------+---------------------------+-------+-------+
+|           Marta Hierro           |         Bravent           |  10   | 0.51  |
++----------------------------------+---------------------------+-------+-------+
+|           Marta Hierro           |       EPSNWORKFORCE       |  12   | 0.283 |
++----------------------------------+---------------------------+-------+-------+
+|           Marta Hierro           | Crepes and Texas (Making  |  15   | 0.432 |
 |                                  |         Science)          |       |       |
 +----------------------------------+---------------------------+-------+-------+
-|           Marta Hierro           |      Garaje de Ideas      |   5   | 0.296 |
-+----------------------------------+---------------------------+-------+-------+
-|           Marta Hierro           |       Sopra Steria        |   8   | 0.296 |
-+----------------------------------+---------------------------+-------+-------+
-|           Marta Hierro           |          Chiara           |  11   | 0.296 |
-+----------------------------------+---------------------------+-------+-------+
-|           Marta Hierro           |         Bravent           |  14   | 0.51  |
-+----------------------------------+---------------------------+-------+-------+
-|     Galo Franganillo Arrese      |          Minsait          |   0   | 0.233 |
-+----------------------------------+---------------------------+-------+-------+
-|     Galo Franganillo Arrese      |      Garaje de Ideas      |   3   | 0.293 |
-+----------------------------------+---------------------------+-------+-------+
-|     Galo Franganillo Arrese      | Crepes and Texas (Making  |   6   | 0.472 |
+|     Galo Franganillo Arrese      | Crepes and Texas (Making  |   1   | 0.472 |
 |                                  |         Science)          |       |       |
 +----------------------------------+---------------------------+-------+-------+
-|     Galo Franganillo Arrese      |      Making Science       |   9   | 0.536 |
+|     Galo Franganillo Arrese      |         Habitant          |   4   | 0.463 |
 +----------------------------------+---------------------------+-------+-------+
-|     Galo Franganillo Arrese      |         UXSmobile         |  11   | 0.204 |
+|     Galo Franganillo Arrese      |          Fontown          |   6   | 0.268 |
 +----------------------------------+---------------------------+-------+-------+
-|     Galo Franganillo Arrese      |       Sopra Steria        |  14   | 0.293 |
+|     Galo Franganillo Arrese      |      Garaje de Ideas      |   9   | 0.293 |
++----------------------------------+---------------------------+-------+-------+
+|     Galo Franganillo Arrese      |       Sopra Steria        |  12   | 0.293 |
++----------------------------------+---------------------------+-------+-------+
+|     Galo Franganillo Arrese      |         Syntonize         |  14   | 0.24  |
 +----------------------------------+---------------------------+-------+-------+
 |          Leticia serra           | Crepes and Texas (Making  |   0   | 0.561 |
 |                                  |         Science)          |       |       |
 +----------------------------------+---------------------------+-------+-------+
-|          Leticia serra           |         Bravent           |   3   | 0.519 |
+|          Leticia serra           |          Fontown          |   2   | 0.271 |
 +----------------------------------+---------------------------+-------+-------+
-|          Leticia serra           |       Sopra Steria        |   5   | 0.235 |
+|          Leticia serra           |         Syntonize         |   5   |  0.3  |
 +----------------------------------+---------------------------+-------+-------+
-|          Leticia serra           |         Syntonize         |   8   |  0.3  |
+|          Leticia serra           |         Bravent           |   8   | 0.519 |
 +----------------------------------+---------------------------+-------+-------+
-|          Leticia serra           |         Habitant          |  11   | 0.284 |
+|          Leticia serra           |         UXSmobile         |  10   | 0.235 |
 +----------------------------------+---------------------------+-------+-------+
-|          Leticia serra           |      Making Science       |  14   | 0.462 |
-+----------------------------------+---------------------------+-------+-------+
-|          Santi Beneitez          |       Sopra Steria        |   0   | 0.297 |
+|          Leticia serra           |       Sopra Steria        |  13   | 0.235 |
 +----------------------------------+---------------------------+-------+-------+
 |          Santi Beneitez          |      Garaje de Ideas      |   2   | 0.297 |
 +----------------------------------+---------------------------+-------+-------+
-|          Santi Beneitez          |      F. Iniciativas       |   5   | 0.297 |
+|          Santi Beneitez          |       Sopra Steria        |   5   | 0.297 |
 +----------------------------------+---------------------------+-------+-------+
-|          Santi Beneitez          |          Chiara           |   8   | 0.297 |
+|          Santi Beneitez          |          Chiara           |   7   | 0.297 |
 +----------------------------------+---------------------------+-------+-------+
-|          Santi Beneitez          | Crepes and Texas (Making  |  11   | 0.296 |
+|          Santi Beneitez          |      F. Iniciativas       |  10   | 0.297 |
++----------------------------------+---------------------------+-------+-------+
+|          Santi Beneitez          | Crepes and Texas (Making  |  13   | 0.296 |
 |                                  |         Science)          |       |       |
 +----------------------------------+---------------------------+-------+-------+
-|          Santi Beneitez          |         Sentisis          |  13   | 0.229 |
+|          Santi Beneitez          |       EPSNWORKFORCE       |  15   | 0.284 |
 +----------------------------------+---------------------------+-------+-------+
-|        Bibiana Mora Gómez        |         Sentisis          |   2   | 0.472 |
+|        Bibiana Mora Gómez        |         Sentisis          |   0   | 0.472 |
 +----------------------------------+---------------------------+-------+-------+
-|        Bibiana Mora Gómez        |         Syntonize         |   4   | 0.466 |
+|        Bibiana Mora Gómez        |         Syntonize         |   3   | 0.466 |
 +----------------------------------+---------------------------+-------+-------+
-|        Bibiana Mora Gómez        |      Garaje de Ideas      |   7   | 0.437 |
+|        Bibiana Mora Gómez        |         Habitant          |   5   | 0.406 |
 +----------------------------------+---------------------------+-------+-------+
-|        Bibiana Mora Gómez        |         Barrabes          |  10   | 0.449 |
+|        Bibiana Mora Gómez        |         Barrabes          |   8   | 0.449 |
 +----------------------------------+---------------------------+-------+-------+
-|        Bibiana Mora Gómez        |          vt-lab           |  13   | 0.449 |
+|        Bibiana Mora Gómez        |          vt-lab           |  11   | 0.449 |
 +----------------------------------+---------------------------+-------+-------+
-|        Silvia Ambrós Muro        |          Minsait          |   1   | 0.413 |
+|        Bibiana Mora Gómez        |      Garaje de Ideas      |  13   | 0.437 |
 +----------------------------------+---------------------------+-------+-------+
-|        Silvia Ambrós Muro        |          Chiara           |   4   | 0.441 |
+|        Silvia Ambrós Muro        |         Habitant          |   0   | 0.476 |
 +----------------------------------+---------------------------+-------+-------+
-|        Silvia Ambrós Muro        | Crepes and Texas (Making  |   7   | 0.536 |
+|        Silvia Ambrós Muro        | Crepes and Texas (Making  |   3   | 0.536 |
 |                                  |         Science)          |       |       |
 +----------------------------------+---------------------------+-------+-------+
-|        Silvia Ambrós Muro        |      Making Science       |  10   | 0.53  |
+|        Silvia Ambrós Muro        |          vt-lab           |   6   | 0.493 |
 +----------------------------------+---------------------------+-------+-------+
-|        Silvia Ambrós Muro        |         UXSmobile         |  12   | 0.386 |
+|        Silvia Ambrós Muro        |          Fontown          |   8   | 0.418 |
 +----------------------------------+---------------------------+-------+-------+
-|    Carolina Casal Goicoechea     |      Making Science       |   2   | 0.348 |
+|        Silvia Ambrós Muro        |         Barrabes          |  11   | 0.493 |
 +----------------------------------+---------------------------+-------+-------+
-|    Carolina Casal Goicoechea     | Crepes and Texas (Making  |   5   | 0.326 |
+|        Silvia Ambrós Muro        |         Bravent           |  14   | 0.481 |
++----------------------------------+---------------------------+-------+-------+
+|    Carolina Casal Goicoechea     |         Habitant          |   1   | 0.282 |
++----------------------------------+---------------------------+-------+-------+
+|    Carolina Casal Goicoechea     |         Bravent           |   4   | 0.374 |
++----------------------------------+---------------------------+-------+-------+
+|    Carolina Casal Goicoechea     |          Minsait          |   6   | 0.249 |
++----------------------------------+---------------------------+-------+-------+
+|    Carolina Casal Goicoechea     | Crepes and Texas (Making  |   9   | 0.326 |
 |                                  |         Science)          |       |       |
 +----------------------------------+---------------------------+-------+-------+
-|    Carolina Casal Goicoechea     |          Minsait          |   7   | 0.249 |
+|    Carolina Casal Goicoechea     |         Syntonize         |  12   | 0.276 |
 +----------------------------------+---------------------------+-------+-------+
-|    Carolina Casal Goicoechea     |          Fontown          |  10   | 0.236 |
+|    Carolina Casal Goicoechea     |          Fontown          |  14   | 0.236 |
 +----------------------------------+---------------------------+-------+-------+
-|    Carolina Casal Goicoechea     |         UXSmobile         |  13   | 0.234 |
+|          Joyfer Iborra           |      Garaje de Ideas      |   1   | 0.457 |
 +----------------------------------+---------------------------+-------+-------+
-|          Joyfer Iborra           |      Garaje de Ideas      |   0   | 0.457 |
+|          Joyfer Iborra           |       Sopra Steria        |   4   | 0.457 |
 +----------------------------------+---------------------------+-------+-------+
-|          Joyfer Iborra           |       Sopra Steria        |   2   | 0.457 |
+|          Joyfer Iborra           |         Syntonize         |   6   | 0.44  |
 +----------------------------------+---------------------------+-------+-------+
-|          Joyfer Iborra           |       EPSNWORKFORCE       |   5   | 0.42  |
+|          Joyfer Iborra           |          Chiara           |   9   | 0.392 |
 +----------------------------------+---------------------------+-------+-------+
-|          Joyfer Iborra           |         Sentisis          |   8   | 0.449 |
+|          Joyfer Iborra           |         Sentisis          |  12   | 0.449 |
 +----------------------------------+---------------------------+-------+-------+
-|          Joyfer Iborra           |         Syntonize         |  11   | 0.44  |
+|          Joyfer Iborra           |         UXSmobile         |  14   | 0.39  |
 +----------------------------------+---------------------------+-------+-------+
-|          Zoe Geidelberg          |       EPSNWORKFORCE       |   1   | 0.527 |
+|          Zoe Geidelberg          |      F. Iniciativas       |   0   | 0.467 |
 +----------------------------------+---------------------------+-------+-------+
-|          Zoe Geidelberg          |      Making Science       |   4   | 0.587 |
+|          Zoe Geidelberg          |         Habitant          |   3   | 0.667 |
 +----------------------------------+---------------------------+-------+-------+
-|          Zoe Geidelberg          |         Habitant          |   7   | 0.667 |
+|          Zoe Geidelberg          |         Barrabes          |   6   | 0.527 |
 +----------------------------------+---------------------------+-------+-------+
-|          Zoe Geidelberg          |          Minsait          |   9   | 0.441 |
+|          Zoe Geidelberg          | Crepes and Texas (Making  |   8   |  0.5  |
+|                                  |         Science)          |       |       |
 +----------------------------------+---------------------------+-------+-------+
-|          Zoe Geidelberg          |          Chiara           |  12   | 0.467 |
+|          Zoe Geidelberg          |          Chiara           |  11   | 0.467 |
 +----------------------------------+---------------------------+-------+-------+
-|     SANDRA DE LA TORRE PEREZ     |          Fontown          |   2   | 0.333 |
+|          Zoe Geidelberg          |       EPSNWORKFORCE       |  14   | 0.527 |
 +----------------------------------+---------------------------+-------+-------+
-|     SANDRA DE LA TORRE PEREZ     |          Minsait          |   4   | 0.189 |
+|     SANDRA DE LA TORRE PEREZ     |          Fontown          |   1   | 0.333 |
++----------------------------------+---------------------------+-------+-------+
+|     SANDRA DE LA TORRE PEREZ     |         Sentisis          |   4   | 0.269 |
 +----------------------------------+---------------------------+-------+-------+
 |     SANDRA DE LA TORRE PEREZ     |         Bravent           |   7   | 0.431 |
 +----------------------------------+---------------------------+-------+-------+
-|     SANDRA DE LA TORRE PEREZ     |         UXSmobile         |  10   | 0.288 |
+|     SANDRA DE LA TORRE PEREZ     |         UXSmobile         |   9   | 0.288 |
 +----------------------------------+---------------------------+-------+-------+
-|     SANDRA DE LA TORRE PEREZ     |         Syntonize         |  13   | 0.276 |
-+----------------------------------+---------------------------+-------+-------+
-|        IRENE CEREZO UCETA        |      F. Iniciativas       |   2   | 0.493 |
-+----------------------------------+---------------------------+-------+-------+
-|        IRENE CEREZO UCETA        |          Chiara           |   5   | 0.493 |
-+----------------------------------+---------------------------+-------+-------+
-|        IRENE CEREZO UCETA        |         Bravent           |   8   | 0.504 |
-+----------------------------------+---------------------------+-------+-------+
-|        IRENE CEREZO UCETA        |      Garaje de Ideas      |  10   | 0.427 |
-+----------------------------------+---------------------------+-------+-------+
-|        IRENE CEREZO UCETA        |         Barrabes          |  13   | 0.493 |
-+----------------------------------+---------------------------+-------+-------+
-|      Antonio J. Gasent Gras      |          Fontown          |   1   | 0.272 |
-+----------------------------------+---------------------------+-------+-------+
-|      Antonio J. Gasent Gras      | Crepes and Texas (Making  |   4   |  0.5  |
+|     SANDRA DE LA TORRE PEREZ     | Crepes and Texas (Making  |  12   | 0.265 |
 |                                  |         Science)          |       |       |
++----------------------------------+---------------------------+-------+-------+
+|     SANDRA DE LA TORRE PEREZ     |         Syntonize         |  15   | 0.276 |
++----------------------------------+---------------------------+-------+-------+
+|      Antonio J. Gasent Gras      | Crepes and Texas (Making  |   2   |  0.5  |
+|                                  |         Science)          |       |       |
++----------------------------------+---------------------------+-------+-------+
+|      Antonio J. Gasent Gras      |       EPSNWORKFORCE       |   4   | 0.304 |
 +----------------------------------+---------------------------+-------+-------+
 |      Antonio J. Gasent Gras      |         Barrabes          |   7   | 0.304 |
 +----------------------------------+---------------------------+-------+-------+
 |      Antonio J. Gasent Gras      |         Habitant          |  10   | 0.667 |
 +----------------------------------+---------------------------+-------+-------+
-|      Antonio J. Gasent Gras      |         Syntonize         |  12   | 0.231 |
+|      Antonio J. Gasent Gras      |          Chiara           |  12   | 0.294 |
 +----------------------------------+---------------------------+-------+-------+
-|      Carmen Ruiz Montesinos      | Crepes and Texas (Making  |   1   | 0.294 |
-|                                  |         Science)          |       |       |
+|      Antonio J. Gasent Gras      |      F. Iniciativas       |  15   | 0.294 |
 +----------------------------------+---------------------------+-------+-------+
-|      Carmen Ruiz Montesinos      |         Bravent           |   4   | 0.61  |
+|      Carmen Ruiz Montesinos      |         Bravent           |   1   | 0.61  |
 +----------------------------------+---------------------------+-------+-------+
-|      Carmen Ruiz Montesinos      |          Chiara           |   7   | 0.299 |
+|      Carmen Ruiz Montesinos      |      F. Iniciativas       |   3   | 0.299 |
 +----------------------------------+---------------------------+-------+-------+
-|      Carmen Ruiz Montesinos      |          vt-lab           |  10   | 0.299 |
+|      Carmen Ruiz Montesinos      |          Chiara           |   6   | 0.299 |
 +----------------------------------+---------------------------+-------+-------+
-|      Carmen Ruiz Montesinos      |      F. Iniciativas       |  12   | 0.299 |
+|      Carmen Ruiz Montesinos      |          vt-lab           |   9   | 0.299 |
++----------------------------------+---------------------------+-------+-------+
+|      Carmen Ruiz Montesinos      |      Garaje de Ideas      |  11   | 0.286 |
++----------------------------------+---------------------------+-------+-------+
+|      Carmen Ruiz Montesinos      |       Sopra Steria        |  14   | 0.286 |
 +----------------------------------+---------------------------+-------+-------+

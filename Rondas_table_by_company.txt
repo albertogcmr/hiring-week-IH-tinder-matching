@@ -1,502 +1,505 @@
 +---------------------------+-------+----------------------------------+-------+
 |          company          | ronda |             student              | match |
 +---------------------------+-------+----------------------------------+-------+
-|       Sopra Steria        |   0   |          Santi Beneitez          | 0.297 |
+|       Sopra Steria        |   0   |     Circe Serrano Gutiérrez      | 0.667 |
 +---------------------------+-------+----------------------------------+-------+
-|       Sopra Steria        |   1   |       Luis Pelayo González       | 0.527 |
+|       Sopra Steria        |   1   |        Luis Camacho Cabo         | 0.549 |
 +---------------------------+-------+----------------------------------+-------+
-|       Sopra Steria        |   2   |          Joyfer Iborra           | 0.457 |
+|       Sopra Steria        |   2   |           Marta Hierro           | 0.296 |
 +---------------------------+-------+----------------------------------+-------+
 |       Sopra Steria        |   3   |       Pablo Arribas García       | 0.606 |
 +---------------------------+-------+----------------------------------+-------+
-|       Sopra Steria        |   4   |        Luis Camacho Cabo         | 0.549 |
+|       Sopra Steria        |   4   |          Joyfer Iborra           | 0.457 |
 +---------------------------+-------+----------------------------------+-------+
-|       Sopra Steria        |   5   |          Leticia serra           | 0.235 |
+|       Sopra Steria        |   5   |          Santi Beneitez          | 0.297 |
 +---------------------------+-------+----------------------------------+-------+
-|       Sopra Steria        |   6   |      Jose Moreno Fernández       | 0.667 |
+|       Sopra Steria        |   6   |       Irene Fabelo Santana       | 0.416 |
 +---------------------------+-------+----------------------------------+-------+
-|       Sopra Steria        |   7   |     Circe Serrano Gutiérrez      | 0.667 |
+|       Sopra Steria        |   7   |      Jose Moreno Fernández       | 0.667 |
 +---------------------------+-------+----------------------------------+-------+
-|       Sopra Steria        |   8   |           Marta Hierro           | 0.296 |
+|       Sopra Steria        |   8   |     Víctor Andrés Hernández      | 0.527 |
 +---------------------------+-------+----------------------------------+-------+
 |       Sopra Steria        |   9   |    Nico Fernández Díaz-Pavón     | 0.536 |
 +---------------------------+-------+----------------------------------+-------+
 |       Sopra Steria        |  10   |       Ignacio Romaní Vidal       | 0.667 |
 +---------------------------+-------+----------------------------------+-------+
-|       Sopra Steria        |  11   |     Víctor Andrés Hernández      | 0.527 |
+|       Sopra Steria        |  11   |          Sara Salguero           | 0.284 |
 +---------------------------+-------+----------------------------------+-------+
-|       Sopra Steria        |  12   |       Irene Fabelo Santana       | 0.416 |
+|       Sopra Steria        |  12   |     Galo Franganillo Arrese      | 0.293 |
 +---------------------------+-------+----------------------------------+-------+
-|       Sopra Steria        |  13   |        Magda Kupidlowska         | 0.234 |
+|       Sopra Steria        |  13   |          Leticia serra           | 0.235 |
 +---------------------------+-------+----------------------------------+-------+
-|       Sopra Steria        |  14   |     Galo Franganillo Arrese      | 0.293 |
+|       Sopra Steria        |  14   |      Carmen Ruiz Montesinos      | 0.286 |
 +---------------------------+-------+----------------------------------+-------+
-|          vt-lab           |   0   |     Cristina Alonso Amiñoso      | 0.625 |
+|       Sopra Steria        |  15   |       Adrian Muñoz Lobato        | 0.518 |
 +---------------------------+-------+----------------------------------+-------+
-|          vt-lab           |   1   |            Ana Fraile            | 0.573 |
+|          vt-lab           |   0   |         Marta Aboy Otero         | 0.667 |
 +---------------------------+-------+----------------------------------+-------+
-|          vt-lab           |   2   |       Maruxa Moreira Pérez       | 0.667 |
+|          vt-lab           |   1   |        Carolina Timhagen         | 0.625 |
 +---------------------------+-------+----------------------------------+-------+
-|          vt-lab           |   3   |      Jose Moreno Fernández       | 0.667 |
+|          vt-lab           |   2   |       Ignacio Romaní Vidal       | 0.667 |
 +---------------------------+-------+----------------------------------+-------+
-|          vt-lab           |   4   |         Carmen Bustillos         | 0.419 |
+|          vt-lab           |   3   | Carlota Fernández de Villavicenc | 0.304 |
+|                           |       |            io Guerra             |       |
 +---------------------------+-------+----------------------------------+-------+
-|          vt-lab           |   5   |   Jose Joaquin Martinez Abenza   | 0.265 |
+|          vt-lab           |   4   |     Francisco García Hurtado     | 0.587 |
 +---------------------------+-------+----------------------------------+-------+
-|          vt-lab           |   6   |     Víctor Andrés Hernández      | 0.527 |
+|          vt-lab           |   5   |     Víctor Andrés Hernández      | 0.527 |
 +---------------------------+-------+----------------------------------+-------+
-|          vt-lab           |   7   |     Francisco García Hurtado     | 0.587 |
+|          vt-lab           |   6   |        Silvia Ambrós Muro        | 0.493 |
 +---------------------------+-------+----------------------------------+-------+
-|          vt-lab           |   8   |        Alberto Toca Muñoz        | 0.481 |
+|          vt-lab           |   7   |         Carmen Bustillos         | 0.419 |
 +---------------------------+-------+----------------------------------+-------+
-|          vt-lab           |   9   |         Marta Aboy Otero         | 0.667 |
+|          vt-lab           |   8   |   Jose Joaquin Martinez Abenza   | 0.265 |
 +---------------------------+-------+----------------------------------+-------+
-|          vt-lab           |  10   |      Carmen Ruiz Montesinos      | 0.299 |
+|          vt-lab           |   9   |      Carmen Ruiz Montesinos      | 0.299 |
 +---------------------------+-------+----------------------------------+-------+
-|          vt-lab           |  11   |      Karla Imbert Lamiquiz       | 0.303 |
+|          vt-lab           |  10   |      Jose Moreno Fernández       | 0.667 |
 +---------------------------+-------+----------------------------------+-------+
-|          vt-lab           |  12   |        Carolina Timhagen         | 0.625 |
+|          vt-lab           |  11   |        Bibiana Mora Gómez        | 0.449 |
 +---------------------------+-------+----------------------------------+-------+
-|          vt-lab           |  13   |        Bibiana Mora Gómez        | 0.449 |
+|          vt-lab           |  12   |       Adrian Muñoz Lobato        | 0.518 |
 +---------------------------+-------+----------------------------------+-------+
-|          vt-lab           |  14   |          Sara Salguero           | 0.297 |
+|          vt-lab           |  13   |      ELENA CORBACHO NAVARRO      | 0.486 |
++---------------------------+-------+----------------------------------+-------+
+|          vt-lab           |  14   |        Alberto Toca Muñoz        | 0.481 |
++---------------------------+-------+----------------------------------+-------+
+|          vt-lab           |  15   |    Sara satory Asensio Gómez     | 0.226 |
 +---------------------------+-------+----------------------------------+-------+
 |         Barrabes          |   0   |     Víctor Andrés Hernández      | 0.667 |
 +---------------------------+-------+----------------------------------+-------+
-|         Barrabes          |   1   |        Carolina Timhagen         | 0.625 |
+|         Barrabes          |   1   |       Maruxa Moreira Pérez       | 0.667 |
 +---------------------------+-------+----------------------------------+-------+
-|         Barrabes          |   2   |        Alberto Toca Muñoz        | 0.297 |
+|         Barrabes          |   2   |    Ángel María Pulido Samper     | 0.302 |
 +---------------------------+-------+----------------------------------+-------+
-|         Barrabes          |   3   |     Cristina Alonso Amiñoso      | 0.625 |
+|         Barrabes          |   3   |       Gurutz Gorrotxategi        | 0.527 |
 +---------------------------+-------+----------------------------------+-------+
-|         Barrabes          |   4   |    Ángel María Pulido Samper     | 0.302 |
+|         Barrabes          |   4   |     Barbara Lopez Mauriello      | 0.457 |
 +---------------------------+-------+----------------------------------+-------+
-|         Barrabes          |   5   |       Maruxa Moreira Pérez       | 0.667 |
+|         Barrabes          |   5   |         Marta Aboy Otero         | 0.527 |
 +---------------------------+-------+----------------------------------+-------+
-|         Barrabes          |   6   |            Ana Fraile            | 0.573 |
+|         Barrabes          |   6   |          Zoe Geidelberg          | 0.527 |
 +---------------------------+-------+----------------------------------+-------+
 |         Barrabes          |   7   |      Antonio J. Gasent Gras      | 0.304 |
 +---------------------------+-------+----------------------------------+-------+
-|         Barrabes          |   8   |      Jose Moreno Fernández       | 0.667 |
+|         Barrabes          |   8   |        Bibiana Mora Gómez        | 0.449 |
 +---------------------------+-------+----------------------------------+-------+
-|         Barrabes          |   9   |       Gurutz Gorrotxategi        | 0.527 |
+|         Barrabes          |   9   |        Carolina Timhagen         | 0.625 |
 +---------------------------+-------+----------------------------------+-------+
-|         Barrabes          |  10   |        Bibiana Mora Gómez        | 0.449 |
+|         Barrabes          |  10   |      Joxan Bueno Fernández       | 0.481 |
 +---------------------------+-------+----------------------------------+-------+
-|         Barrabes          |  11   |      ELENA CORBACHO NAVARRO      | 0.486 |
+|         Barrabes          |  11   |        Silvia Ambrós Muro        | 0.493 |
 +---------------------------+-------+----------------------------------+-------+
-|         Barrabes          |  12   |     Circe Serrano Gutiérrez      | 0.536 |
+|         Barrabes          |  12   |     Francisco García Hurtado     | 0.587 |
 +---------------------------+-------+----------------------------------+-------+
-|         Barrabes          |  13   |        IRENE CEREZO UCETA        | 0.493 |
+|         Barrabes          |  13   |       Ignacio Romaní Vidal       | 0.667 |
 +---------------------------+-------+----------------------------------+-------+
-|         Barrabes          |  14   |         Marta Aboy Otero         | 0.527 |
+|         Barrabes          |  14   |     Cristina Alonso Amiñoso      | 0.625 |
 +---------------------------+-------+----------------------------------+-------+
-|         Sentisis          |   0   |      Jose Moreno Fernández       |  1.0  |
+|         Barrabes          |  15   |      Jose Moreno Fernández       | 0.667 |
 +---------------------------+-------+----------------------------------+-------+
-|         Sentisis          |   1   |     Circe Serrano Gutiérrez      | 0.586 |
+|         Sentisis          |   0   |        Bibiana Mora Gómez        | 0.472 |
 +---------------------------+-------+----------------------------------+-------+
-|         Sentisis          |   2   |        Bibiana Mora Gómez        | 0.472 |
+|         Sentisis          |   1   |       Adrian Muñoz Lobato        | 0.643 |
 +---------------------------+-------+----------------------------------+-------+
-|         Sentisis          |   3   |     Víctor Andrés Hernández      | 0.573 |
+|         Sentisis          |   2   |      Jose Moreno Fernández       |  1.0  |
 +---------------------------+-------+----------------------------------+-------+
-|         Sentisis          |   4   |       Ignacio Romaní Vidal       |  1.0  |
+|         Sentisis          |   3   |     Cristina Alonso Amiñoso      | 0.561 |
 +---------------------------+-------+----------------------------------+-------+
-|         Sentisis          |   5   |        Magda Kupidlowska         | 0.289 |
+|         Sentisis          |   4   |     SANDRA DE LA TORRE PEREZ     | 0.269 |
 +---------------------------+-------+----------------------------------+-------+
-|         Sentisis          |   6   |      ELENA CORBACHO NAVARRO      | 0.536 |
+|         Sentisis          |   5   |       Ignacio Romaní Vidal       |  1.0  |
 +---------------------------+-------+----------------------------------+-------+
-|         Sentisis          |   7   |       Adrian Muñoz Lobato        | 0.643 |
+|         Sentisis          |   6   |        Carolina Timhagen         | 0.561 |
 +---------------------------+-------+----------------------------------+-------+
-|         Sentisis          |   8   |          Joyfer Iborra           | 0.449 |
+|         Sentisis          |   7   |      ELENA CORBACHO NAVARRO      | 0.536 |
 +---------------------------+-------+----------------------------------+-------+
-|         Sentisis          |   9   |            Ana Fraile            | 0.462 |
+|         Sentisis          |   8   |     Circe Serrano Gutiérrez      | 0.586 |
 +---------------------------+-------+----------------------------------+-------+
-|         Sentisis          |  10   |       Maruxa Moreira Pérez       | 0.586 |
+|         Sentisis          |   9   |        Luis Camacho Cabo         | 0.511 |
 +---------------------------+-------+----------------------------------+-------+
-|         Sentisis          |  11   |     Cristina Alonso Amiñoso      | 0.561 |
+|         Sentisis          |  10   |     Víctor Andrés Hernández      | 0.573 |
 +---------------------------+-------+----------------------------------+-------+
-|         Sentisis          |  12   |        Luis Camacho Cabo         | 0.511 |
+|         Sentisis          |  11   |        Alberto Toca Muñoz        | 0.283 |
 +---------------------------+-------+----------------------------------+-------+
-|         Sentisis          |  13   |          Santi Beneitez          | 0.229 |
+|         Sentisis          |  12   |          Joyfer Iborra           | 0.449 |
 +---------------------------+-------+----------------------------------+-------+
-|         Sentisis          |  14   |       Pablo Arribas García       | 0.481 |
+|         Sentisis          |  13   |         Marta Aboy Otero         | 0.493 |
 +---------------------------+-------+----------------------------------+-------+
-|         Habitant          |   0   |       Pablo Arribas García       | 0.519 |
+|         Sentisis          |  14   |       Maruxa Moreira Pérez       | 0.586 |
 +---------------------------+-------+----------------------------------+-------+
-|         Habitant          |   1   |       Gurutz Gorrotxategi        | 0.667 |
+|         Sentisis          |  15   |    Ángel María Pulido Samper     | 0.235 |
 +---------------------------+-------+----------------------------------+-------+
-|         Habitant          |   2   |      Joxan Bueno Fernández       | 0.561 |
+|         Habitant          |   0   |        Silvia Ambrós Muro        | 0.476 |
 +---------------------------+-------+----------------------------------+-------+
-|         Habitant          |   3   |      ELENA CORBACHO NAVARRO      | 0.489 |
+|         Habitant          |   1   |    Carolina Casal Goicoechea     | 0.282 |
 +---------------------------+-------+----------------------------------+-------+
-|         Habitant          |   4   |     Barbara Lopez Mauriello      | 0.519 |
+|         Habitant          |   2   |     Barbara Lopez Mauriello      | 0.519 |
 +---------------------------+-------+----------------------------------+-------+
-|         Habitant          |   5   |       Satory Asensio Gómez       | 0.229 |
+|         Habitant          |   3   |          Zoe Geidelberg          | 0.667 |
 +---------------------------+-------+----------------------------------+-------+
-|         Habitant          |   6   |        Carolina Timhagen         | 0.625 |
+|         Habitant          |   4   |     Galo Franganillo Arrese      | 0.463 |
 +---------------------------+-------+----------------------------------+-------+
-|         Habitant          |   7   |          Zoe Geidelberg          | 0.667 |
+|         Habitant          |   5   |        Bibiana Mora Gómez        | 0.406 |
 +---------------------------+-------+----------------------------------+-------+
-|         Habitant          |   8   |      Karla Imbert Lamiquiz       | 0.238 |
+|         Habitant          |   6   |       Gurutz Gorrotxategi        | 0.667 |
 +---------------------------+-------+----------------------------------+-------+
-|         Habitant          |   9   |    Ángel María Pulido Samper     | 0.301 |
+|         Habitant          |   7   |       Adrian Muñoz Lobato        | 0.564 |
++---------------------------+-------+----------------------------------+-------+
+|         Habitant          |   8   |       Pablo Arribas García       | 0.519 |
++---------------------------+-------+----------------------------------+-------+
+|         Habitant          |   9   |     Francisco García Hurtado     | 0.628 |
 +---------------------------+-------+----------------------------------+-------+
 |         Habitant          |  10   |      Antonio J. Gasent Gras      | 0.667 |
 +---------------------------+-------+----------------------------------+-------+
-|         Habitant          |  11   |          Leticia serra           | 0.284 |
+|         Habitant          |  11   |     Cristina Alonso Amiñoso      | 0.612 |
 +---------------------------+-------+----------------------------------+-------+
-|         Habitant          |  12   |     Francisco García Hurtado     | 0.628 |
+|         Habitant          |  12   |    Sara satory Asensio Gómez     | 0.229 |
 +---------------------------+-------+----------------------------------+-------+
-|         Habitant          |  13   |       Adrian Muñoz Lobato        | 0.564 |
+|         Habitant          |  13   |    Ángel María Pulido Samper     | 0.301 |
 +---------------------------+-------+----------------------------------+-------+
-|         Habitant          |  14   |     Cristina Alonso Amiñoso      | 0.612 |
+|         Habitant          |  14   |        Carolina Timhagen         | 0.625 |
 +---------------------------+-------+----------------------------------+-------+
-|          Minsait          |   0   |     Galo Franganillo Arrese      | 0.233 |
+|         Habitant          |  15   |      Joxan Bueno Fernández       | 0.561 |
 +---------------------------+-------+----------------------------------+-------+
-|          Minsait          |   1   |        Silvia Ambrós Muro        | 0.413 |
+|          Minsait          |   0   |       Gurutz Gorrotxategi        | 0.456 |
 +---------------------------+-------+----------------------------------+-------+
-|          Minsait          |   2   |       Satory Asensio Gómez       | 0.257 |
+|          Minsait          |   1   |    Sara satory Asensio Gómez     | 0.257 |
++---------------------------+-------+----------------------------------+-------+
+|          Minsait          |   2   |     Víctor Andrés Hernández      | 0.448 |
 +---------------------------+-------+----------------------------------+-------+
 |          Minsait          |   3   |        Carolina Timhagen         | 0.562 |
 +---------------------------+-------+----------------------------------+-------+
-|          Minsait          |   4   |     SANDRA DE LA TORRE PEREZ     | 0.189 |
+|          Minsait          |   4   |      Jose Moreno Fernández       | 0.497 |
 +---------------------------+-------+----------------------------------+-------+
-|          Minsait          |   5   |       Pablo Arribas García       | 0.416 |
+|          Minsait          |   5   | Carlota Fernández de Villavicenc | 0.237 |
+|                           |       |            io Guerra             |       |
 +---------------------------+-------+----------------------------------+-------+
-|          Minsait          |   6   |    Ángel María Pulido Samper     | 0.301 |
+|          Minsait          |   6   |    Carolina Casal Goicoechea     | 0.249 |
 +---------------------------+-------+----------------------------------+-------+
-|          Minsait          |   7   |    Carolina Casal Goicoechea     | 0.249 |
+|          Minsait          |   7   |    Ángel María Pulido Samper     | 0.301 |
 +---------------------------+-------+----------------------------------+-------+
-|          Minsait          |   8   |     Víctor Andrés Hernández      | 0.448 |
+|          Minsait          |   8   |        Alberto Toca Muñoz        | 0.235 |
 +---------------------------+-------+----------------------------------+-------+
-|          Minsait          |   9   |          Zoe Geidelberg          | 0.441 |
+|          Minsait          |   9   |         Carmen Bustillos         | 0.228 |
 +---------------------------+-------+----------------------------------+-------+
-|          Minsait          |  10   |        Marleny Francisco         | 0.23  |
+|          Minsait          |  10   |         Marta Aboy Otero         | 0.489 |
 +---------------------------+-------+----------------------------------+-------+
-|          Minsait          |  11   |         Marta Aboy Otero         | 0.489 |
+|          Minsait          |  11   |       Maruxa Moreira Pérez       | 0.458 |
 +---------------------------+-------+----------------------------------+-------+
 |          Minsait          |  12   |     Barbara Lopez Mauriello      | 0.402 |
 +---------------------------+-------+----------------------------------+-------+
-|          Minsait          |  13   |      Joxan Bueno Fernández       | 0.432 |
+|          Minsait          |  13   |          Sara Salguero           | 0.232 |
 +---------------------------+-------+----------------------------------+-------+
-|          Minsait          |  14   |       Gurutz Gorrotxategi        | 0.456 |
+|          Minsait          |  14   |     Francisco García Hurtado     | 0.425 |
 +---------------------------+-------+----------------------------------+-------+
-|         Syntonize         |   0   |         Marta Aboy Otero         | 0.492 |
+|          Minsait          |  15   |        Marleny Francisco         | 0.23  |
 +---------------------------+-------+----------------------------------+-------+
-|         Syntonize         |   1   |     Barbara Lopez Mauriello      | 0.469 |
+|         Syntonize         |   0   |     Cristina Alonso Amiñoso      | 0.48  |
 +---------------------------+-------+----------------------------------+-------+
-|         Syntonize         |   2   |        Magda Kupidlowska         | 0.536 |
+|         Syntonize         |   1   |  Carlota Sánchez-Robles Herrero  |  0.3  |
 +---------------------------+-------+----------------------------------+-------+
-|         Syntonize         |   3   |       Luis Pelayo González       | 0.48  |
+|         Syntonize         |   2   |        Marleny Francisco         | 0.303 |
 +---------------------------+-------+----------------------------------+-------+
-|         Syntonize         |   4   |        Bibiana Mora Gómez        | 0.466 |
+|         Syntonize         |   3   |        Bibiana Mora Gómez        | 0.466 |
 +---------------------------+-------+----------------------------------+-------+
-|         Syntonize         |   5   |        Marleny Francisco         | 0.303 |
+|         Syntonize         |   4   |    Nico Fernández Díaz-Pavón     | 0.572 |
 +---------------------------+-------+----------------------------------+-------+
-|         Syntonize         |   6   |    Nico Fernández Díaz-Pavón     | 0.572 |
+|         Syntonize         |   5   |          Leticia serra           |  0.3  |
 +---------------------------+-------+----------------------------------+-------+
-|         Syntonize         |   7   |       Ignacio Romaní Vidal       | 0.667 |
+|         Syntonize         |   6   |          Joyfer Iborra           | 0.44  |
 +---------------------------+-------+----------------------------------+-------+
-|         Syntonize         |   8   |          Leticia serra           |  0.3  |
+|         Syntonize         |   7   |     Barbara Lopez Mauriello      | 0.469 |
 +---------------------------+-------+----------------------------------+-------+
-|         Syntonize         |   9   |        Luis Camacho Cabo         | 0.405 |
+|         Syntonize         |   8   |        Magda Kupidlowska         | 0.536 |
 +---------------------------+-------+----------------------------------+-------+
-|         Syntonize         |  10   |       Adrian Muñoz Lobato        | 0.527 |
+|         Syntonize         |   9   |       Adrian Muñoz Lobato        | 0.527 |
 +---------------------------+-------+----------------------------------+-------+
-|         Syntonize         |  11   |          Joyfer Iborra           | 0.44  |
+|         Syntonize         |  10   |     Circe Serrano Gutiérrez      | 0.48  |
 +---------------------------+-------+----------------------------------+-------+
-|         Syntonize         |  12   |      Antonio J. Gasent Gras      | 0.231 |
+|         Syntonize         |  11   |        Carolina Timhagen         | 0.48  |
 +---------------------------+-------+----------------------------------+-------+
-|         Syntonize         |  13   |     SANDRA DE LA TORRE PEREZ     | 0.276 |
+|         Syntonize         |  12   |    Carolina Casal Goicoechea     | 0.276 |
 +---------------------------+-------+----------------------------------+-------+
-|         Syntonize         |  14   |      Jose Moreno Fernández       | 0.667 |
+|         Syntonize         |  13   |     Víctor Andrés Hernández      | 0.527 |
++---------------------------+-------+----------------------------------+-------+
+|         Syntonize         |  14   |     Galo Franganillo Arrese      | 0.24  |
++---------------------------+-------+----------------------------------+-------+
+|         Syntonize         |  15   |     SANDRA DE LA TORRE PEREZ     | 0.276 |
 +---------------------------+-------+----------------------------------+-------+
 |         UXSmobile         |   0   |        Magda Kupidlowska         | 0.586 |
 +---------------------------+-------+----------------------------------+-------+
-|         UXSmobile         |   1   |       Ignacio Romaní Vidal       | 0.667 |
+|         UXSmobile         |   1   |    Nico Fernández Díaz-Pavón     | 0.576 |
 +---------------------------+-------+----------------------------------+-------+
-|         UXSmobile         |   2   |       Adrian Muñoz Lobato        | 0.627 |
+|         UXSmobile         |   2   |         Marta Aboy Otero         | 0.468 |
 +---------------------------+-------+----------------------------------+-------+
-|         UXSmobile         |   3   |    Nico Fernández Díaz-Pavón     | 0.576 |
+|         UXSmobile         |   3   |        Luis Camacho Cabo         | 0.399 |
 +---------------------------+-------+----------------------------------+-------+
-|         UXSmobile         |   4   |  Carlota Sánchez-Robles Herrero  | 0.302 |
+|         UXSmobile         |   4   |       Adrian Muñoz Lobato        | 0.627 |
 +---------------------------+-------+----------------------------------+-------+
-|         UXSmobile         |   5   |     Cristina Alonso Amiñoso      | 0.458 |
+|         UXSmobile         |   5   |          Sara Salguero           | 0.228 |
 +---------------------------+-------+----------------------------------+-------+
-|         UXSmobile         |   6   |         Carmen Bustillos         | 0.287 |
+|         UXSmobile         |   6   |     Francisco García Hurtado     | 0.468 |
 +---------------------------+-------+----------------------------------+-------+
-|         UXSmobile         |   7   |   Jose Joaquin Martinez Abenza   | 0.219 |
+|         UXSmobile         |   7   |       Ignacio Romaní Vidal       | 0.667 |
 +---------------------------+-------+----------------------------------+-------+
-|         UXSmobile         |   8   |      ELENA CORBACHO NAVARRO      | 0.468 |
+|         UXSmobile         |   8   |     Cristina Alonso Amiñoso      | 0.458 |
 +---------------------------+-------+----------------------------------+-------+
-|         UXSmobile         |   9   |     Francisco García Hurtado     | 0.468 |
+|         UXSmobile         |   9   |     SANDRA DE LA TORRE PEREZ     | 0.288 |
 +---------------------------+-------+----------------------------------+-------+
-|         UXSmobile         |  10   |     SANDRA DE LA TORRE PEREZ     | 0.288 |
+|         UXSmobile         |  10   |          Leticia serra           | 0.235 |
 +---------------------------+-------+----------------------------------+-------+
-|         UXSmobile         |  11   |     Galo Franganillo Arrese      | 0.204 |
+|         UXSmobile         |  11   |       Irene Fabelo Santana       | 0.198 |
 +---------------------------+-------+----------------------------------+-------+
-|         UXSmobile         |  12   |        Silvia Ambrós Muro        | 0.386 |
+|         UXSmobile         |  12   |  Carlota Sánchez-Robles Herrero  | 0.302 |
 +---------------------------+-------+----------------------------------+-------+
-|         UXSmobile         |  13   |    Carolina Casal Goicoechea     | 0.234 |
+|         UXSmobile         |  13   |       Pablo Arribas García       | 0.452 |
 +---------------------------+-------+----------------------------------+-------+
-|         UXSmobile         |  14   |       Luis Pelayo González       | 0.448 |
+|         UXSmobile         |  14   |          Joyfer Iborra           | 0.39  |
 +---------------------------+-------+----------------------------------+-------+
-|         Bravent           |   0   |       Satory Asensio Gómez       | 0.403 |
+|         UXSmobile         |  15   |      ELENA CORBACHO NAVARRO      | 0.468 |
 +---------------------------+-------+----------------------------------+-------+
-|         Bravent           |   1   |         Carmen Bustillos         | 0.513 |
+|         Bravent           |   0   |   Jose Joaquin Martinez Abenza   | 0.382 |
 +---------------------------+-------+----------------------------------+-------+
-|         Bravent           |   2   |  Carlota Sánchez-Robles Herrero  | 0.441 |
+|         Bravent           |   1   |      Carmen Ruiz Montesinos      | 0.61  |
 +---------------------------+-------+----------------------------------+-------+
-|         Bravent           |   3   |          Leticia serra           | 0.519 |
+|         Bravent           |   2   |      Joxan Bueno Fernández       | 0.511 |
 +---------------------------+-------+----------------------------------+-------+
-|         Bravent           |   4   |      Carmen Ruiz Montesinos      | 0.61  |
+|         Bravent           |   3   |        Magda Kupidlowska         | 0.587 |
 +---------------------------+-------+----------------------------------+-------+
-|         Bravent           |   5   | Carlota Fernández de Villavicenc | 0.586 |
-|                           |       |            io Guerra             |       |
+|         Bravent           |   4   |    Carolina Casal Goicoechea     | 0.374 |
 +---------------------------+-------+----------------------------------+-------+
-|         Bravent           |   6   |      Karla Imbert Lamiquiz       | 0.572 |
+|         Bravent           |   5   |      ELENA CORBACHO NAVARRO      | 0.593 |
++---------------------------+-------+----------------------------------+-------+
+|         Bravent           |   6   |        Alberto Toca Muñoz        | 0.301 |
 +---------------------------+-------+----------------------------------+-------+
 |         Bravent           |   7   |     SANDRA DE LA TORRE PEREZ     | 0.431 |
 +---------------------------+-------+----------------------------------+-------+
-|         Bravent           |   8   |        IRENE CEREZO UCETA        | 0.504 |
+|         Bravent           |   8   |          Leticia serra           | 0.519 |
 +---------------------------+-------+----------------------------------+-------+
-|         Bravent           |   9   |          Sara Salguero           | 0.541 |
+|         Bravent           |   9   |    Sara satory Asensio Gómez     | 0.403 |
 +---------------------------+-------+----------------------------------+-------+
-|         Bravent           |  10   |   Jose Joaquin Martinez Abenza   | 0.382 |
+|         Bravent           |  10   |           Marta Hierro           | 0.51  |
 +---------------------------+-------+----------------------------------+-------+
-|         Bravent           |  11   |        Magda Kupidlowska         | 0.587 |
+|         Bravent           |  11   | Carlota Fernández de Villavicenc | 0.586 |
+|                           |       |            io Guerra             |       |
 +---------------------------+-------+----------------------------------+-------+
-|         Bravent           |  12   |       Gurutz Gorrotxategi        | 0.576 |
+|         Bravent           |  12   |         Carmen Bustillos         | 0.513 |
 +---------------------------+-------+----------------------------------+-------+
-|         Bravent           |  13   |       Maruxa Moreira Pérez       | 0.552 |
+|         Bravent           |  13   |        Marleny Francisco         | 0.529 |
 +---------------------------+-------+----------------------------------+-------+
-|         Bravent           |  14   |           Marta Hierro           | 0.51  |
+|         Bravent           |  14   |        Silvia Ambrós Muro        | 0.481 |
 +---------------------------+-------+----------------------------------+-------+
-|      Making Science       |   0   |           Marta Hierro           | 0.389 |
+|         Bravent           |  15   |  Carlota Sánchez-Robles Herrero  | 0.441 |
 +---------------------------+-------+----------------------------------+-------+
-|      Making Science       |   1   |    Ángel María Pulido Samper     | 0.302 |
+|          Fontown          |   0   |        Alberto Toca Muñoz        |  0.4  |
 +---------------------------+-------+----------------------------------+-------+
-|      Making Science       |   2   |    Carolina Casal Goicoechea     | 0.348 |
+|          Fontown          |   1   |     SANDRA DE LA TORRE PEREZ     | 0.333 |
 +---------------------------+-------+----------------------------------+-------+
-|      Making Science       |   3   |      Karla Imbert Lamiquiz       | 0.293 |
+|          Fontown          |   2   |          Leticia serra           | 0.271 |
 +---------------------------+-------+----------------------------------+-------+
-|      Making Science       |   4   |          Zoe Geidelberg          | 0.587 |
+|          Fontown          |   3   |       Irene Fabelo Santana       | 0.273 |
 +---------------------------+-------+----------------------------------+-------+
-|      Making Science       |   5   |      Joxan Bueno Fernández       | 0.561 |
+|          Fontown          |   4   |         Carmen Bustillos         | 0.371 |
 +---------------------------+-------+----------------------------------+-------+
-|      Making Science       |   6   |         Marta Aboy Otero         | 0.587 |
+|          Fontown          |   5   |        Magda Kupidlowska         | 0.463 |
 +---------------------------+-------+----------------------------------+-------+
-|      Making Science       |   7   |     Barbara Lopez Mauriello      | 0.487 |
+|          Fontown          |   6   |     Galo Franganillo Arrese      | 0.268 |
 +---------------------------+-------+----------------------------------+-------+
-|      Making Science       |   8   |        Marleny Francisco         | 0.472 |
+|          Fontown          |   7   |    Sara satory Asensio Gómez     | 0.241 |
 +---------------------------+-------+----------------------------------+-------+
-|      Making Science       |   9   |     Galo Franganillo Arrese      | 0.536 |
+|          Fontown          |   8   |        Silvia Ambrós Muro        | 0.418 |
 +---------------------------+-------+----------------------------------+-------+
-|      Making Science       |  10   |        Silvia Ambrós Muro        | 0.53  |
+|          Fontown          |   9   |  Carlota Sánchez-Robles Herrero  | 0.25  |
 +---------------------------+-------+----------------------------------+-------+
-|      Making Science       |  11   |       Satory Asensio Gómez       | 0.258 |
+|          Fontown          |  10   |        Marleny Francisco         | 0.279 |
 +---------------------------+-------+----------------------------------+-------+
-|      Making Science       |  12   |       Luis Pelayo González       | 0.495 |
+|          Fontown          |  11   |        Luis Camacho Cabo         | 0.33  |
 +---------------------------+-------+----------------------------------+-------+
-|      Making Science       |  13   |  Carlota Sánchez-Robles Herrero  | 0.424 |
+|          Fontown          |  12   |      Jose Moreno Fernández       | 0.43  |
 +---------------------------+-------+----------------------------------+-------+
-|      Making Science       |  14   |          Leticia serra           | 0.462 |
+|          Fontown          |  13   | Carlota Fernández de Villavicenc | 0.281 |
+|                           |       |            io Guerra             |       |
 +---------------------------+-------+----------------------------------+-------+
-|          Fontown          |   0   |    Nico Fernández Díaz-Pavón     | 0.401 |
+|          Fontown          |  14   |    Carolina Casal Goicoechea     | 0.236 |
 +---------------------------+-------+----------------------------------+-------+
-|          Fontown          |   1   |      Antonio J. Gasent Gras      | 0.272 |
-+---------------------------+-------+----------------------------------+-------+
-|          Fontown          |   2   |     SANDRA DE LA TORRE PEREZ     | 0.333 |
-+---------------------------+-------+----------------------------------+-------+
-|          Fontown          |   3   |            Ana Fraile            |  0.5  |
-+---------------------------+-------+----------------------------------+-------+
-|          Fontown          |   4   |       Adrian Muñoz Lobato        | 0.362 |
-+---------------------------+-------+----------------------------------+-------+
-|          Fontown          |   5   |        Alberto Toca Muñoz        |  0.4  |
-+---------------------------+-------+----------------------------------+-------+
-|          Fontown          |   6   |       Irene Fabelo Santana       | 0.273 |
-+---------------------------+-------+----------------------------------+-------+
-|          Fontown          |   7   |  Carlota Sánchez-Robles Herrero  | 0.25  |
-+---------------------------+-------+----------------------------------+-------+
-|          Fontown          |   8   |       Satory Asensio Gómez       | 0.241 |
-+---------------------------+-------+----------------------------------+-------+
-|          Fontown          |   9   |         Carmen Bustillos         | 0.371 |
-+---------------------------+-------+----------------------------------+-------+
-|          Fontown          |  10   |    Carolina Casal Goicoechea     | 0.236 |
-+---------------------------+-------+----------------------------------+-------+
-|          Fontown          |  11   |          Sara Salguero           | 0.268 |
-+---------------------------+-------+----------------------------------+-------+
-|          Fontown          |  12   |       Ignacio Romaní Vidal       | 0.45  |
-+---------------------------+-------+----------------------------------+-------+
-|          Fontown          |  13   |        Marleny Francisco         | 0.279 |
-+---------------------------+-------+----------------------------------+-------+
-|          Fontown          |  14   |        Carolina Timhagen         | 0.376 |
+|          Fontown          |  15   |     Barbara Lopez Mauriello      | 0.339 |
 +---------------------------+-------+----------------------------------+-------+
 | Crepes and Texas (Making  |   0   |          Leticia serra           | 0.561 |
 |         Science)          |       |                                  |       |
 +---------------------------+-------+----------------------------------+-------+
-| Crepes and Texas (Making  |   1   |      Carmen Ruiz Montesinos      | 0.294 |
+| Crepes and Texas (Making  |   1   |     Galo Franganillo Arrese      | 0.472 |
 |         Science)          |       |                                  |       |
 +---------------------------+-------+----------------------------------+-------+
-| Crepes and Texas (Making  |   2   |        Marleny Francisco         | 0.586 |
+| Crepes and Texas (Making  |   2   |      Antonio J. Gasent Gras      |  0.5  |
 |         Science)          |       |                                  |       |
 +---------------------------+-------+----------------------------------+-------+
-| Crepes and Texas (Making  |   3   |           Marta Hierro           | 0.432 |
+| Crepes and Texas (Making  |   3   |        Silvia Ambrós Muro        | 0.536 |
 |         Science)          |       |                                  |       |
 +---------------------------+-------+----------------------------------+-------+
-| Crepes and Texas (Making  |   4   |      Antonio J. Gasent Gras      |  0.5  |
+| Crepes and Texas (Making  |   4   |    Sara satory Asensio Gómez     | 0.252 |
 |         Science)          |       |                                  |       |
 +---------------------------+-------+----------------------------------+-------+
-| Crepes and Texas (Making  |   5   |    Carolina Casal Goicoechea     | 0.326 |
+| Crepes and Texas (Making  |   5   |        Marleny Francisco         | 0.586 |
 |         Science)          |       |                                  |       |
 +---------------------------+-------+----------------------------------+-------+
-| Crepes and Texas (Making  |   6   |     Galo Franganillo Arrese      | 0.472 |
+| Crepes and Texas (Making  |   6   |    Nico Fernández Díaz-Pavón     | 0.451 |
 |         Science)          |       |                                  |       |
 +---------------------------+-------+----------------------------------+-------+
-| Crepes and Texas (Making  |   7   |        Silvia Ambrós Muro        | 0.536 |
+| Crepes and Texas (Making  |   7   |  Carlota Sánchez-Robles Herrero  | 0.395 |
 |         Science)          |       |                                  |       |
 +---------------------------+-------+----------------------------------+-------+
-| Crepes and Texas (Making  |   8   |      Joxan Bueno Fernández       | 0.561 |
+| Crepes and Texas (Making  |   8   |          Zoe Geidelberg          |  0.5  |
 |         Science)          |       |                                  |       |
 +---------------------------+-------+----------------------------------+-------+
-| Crepes and Texas (Making  |   9   |     Barbara Lopez Mauriello      | 0.441 |
+| Crepes and Texas (Making  |   9   |    Carolina Casal Goicoechea     | 0.326 |
 |         Science)          |       |                                  |       |
 +---------------------------+-------+----------------------------------+-------+
-| Crepes and Texas (Making  |  10   |  Carlota Sánchez-Robles Herrero  | 0.395 |
+| Crepes and Texas (Making  |  10   |     Barbara Lopez Mauriello      | 0.441 |
 |         Science)          |       |                                  |       |
 +---------------------------+-------+----------------------------------+-------+
-| Crepes and Texas (Making  |  11   |          Santi Beneitez          | 0.296 |
+| Crepes and Texas (Making  |  11   |        Magda Kupidlowska         | 0.502 |
 |         Science)          |       |                                  |       |
 +---------------------------+-------+----------------------------------+-------+
-| Crepes and Texas (Making  |  12   |    Ángel María Pulido Samper     | 0.292 |
+| Crepes and Texas (Making  |  12   |     SANDRA DE LA TORRE PEREZ     | 0.265 |
 |         Science)          |       |                                  |       |
 +---------------------------+-------+----------------------------------+-------+
-| Crepes and Texas (Making  |  13   | Carlota Fernández de Villavicenc | 0.293 |
-|         Science)          |       |            io Guerra             |       |
-+---------------------------+-------+----------------------------------+-------+
-| Crepes and Texas (Making  |  14   |      ELENA CORBACHO NAVARRO      | 0.493 |
+| Crepes and Texas (Making  |  13   |          Santi Beneitez          | 0.296 |
 |         Science)          |       |                                  |       |
 +---------------------------+-------+----------------------------------+-------+
-|      Garaje de Ideas      |   0   |          Joyfer Iborra           | 0.457 |
+| Crepes and Texas (Making  |  14   |       Gurutz Gorrotxategi        | 0.526 |
+|         Science)          |       |                                  |       |
 +---------------------------+-------+----------------------------------+-------+
-|      Garaje de Ideas      |   1   |        Luis Camacho Cabo         | 0.549 |
+| Crepes and Texas (Making  |  15   |           Marta Hierro           | 0.432 |
+|         Science)          |       |                                  |       |
++---------------------------+-------+----------------------------------+-------+
+|      Garaje de Ideas      |   0   |       Pablo Arribas García       | 0.606 |
++---------------------------+-------+----------------------------------+-------+
+|      Garaje de Ideas      |   1   |          Joyfer Iborra           | 0.457 |
 +---------------------------+-------+----------------------------------+-------+
 |      Garaje de Ideas      |   2   |          Santi Beneitez          | 0.297 |
 +---------------------------+-------+----------------------------------+-------+
-|      Garaje de Ideas      |   3   |     Galo Franganillo Arrese      | 0.293 |
+|      Garaje de Ideas      |   3   |       Maruxa Moreira Pérez       | 0.472 |
 +---------------------------+-------+----------------------------------+-------+
-|      Garaje de Ideas      |   4   |     Circe Serrano Gutiérrez      | 0.667 |
+|      Garaje de Ideas      |   4   |  Carlota Sánchez-Robles Herrero  | 0.235 |
 +---------------------------+-------+----------------------------------+-------+
-|      Garaje de Ideas      |   5   |           Marta Hierro           | 0.296 |
+|      Garaje de Ideas      |   5   |     Circe Serrano Gutiérrez      | 0.667 |
 +---------------------------+-------+----------------------------------+-------+
-|      Garaje de Ideas      |   6   |       Luis Pelayo González       | 0.527 |
+|      Garaje de Ideas      |   6   |        Luis Camacho Cabo         | 0.549 |
 +---------------------------+-------+----------------------------------+-------+
-|      Garaje de Ideas      |   7   |        Bibiana Mora Gómez        | 0.437 |
+|      Garaje de Ideas      |   7   |           Marta Hierro           | 0.296 |
 +---------------------------+-------+----------------------------------+-------+
-|      Garaje de Ideas      |   8   |       Pablo Arribas García       | 0.606 |
+|      Garaje de Ideas      |   8   |       Gurutz Gorrotxategi        | 0.427 |
 +---------------------------+-------+----------------------------------+-------+
-|      Garaje de Ideas      |   9   |       Irene Fabelo Santana       | 0.416 |
+|      Garaje de Ideas      |   9   |     Galo Franganillo Arrese      | 0.293 |
 +---------------------------+-------+----------------------------------+-------+
-|      Garaje de Ideas      |  10   |        IRENE CEREZO UCETA        | 0.427 |
+|      Garaje de Ideas      |  10   |   Jose Joaquin Martinez Abenza   | 0.256 |
 +---------------------------+-------+----------------------------------+-------+
-|      Garaje de Ideas      |  11   |      Jose Moreno Fernández       | 0.667 |
+|      Garaje de Ideas      |  11   |      Carmen Ruiz Montesinos      | 0.286 |
 +---------------------------+-------+----------------------------------+-------+
-|      Garaje de Ideas      |  12   |         Carmen Bustillos         | 0.297 |
+|      Garaje de Ideas      |  12   |    Nico Fernández Díaz-Pavón     | 0.536 |
 +---------------------------+-------+----------------------------------+-------+
-|      Garaje de Ideas      |  13   |       Ignacio Romaní Vidal       | 0.667 |
+|      Garaje de Ideas      |  13   |        Bibiana Mora Gómez        | 0.437 |
 +---------------------------+-------+----------------------------------+-------+
-|      Garaje de Ideas      |  14   |     Víctor Andrés Hernández      | 0.527 |
+|      Garaje de Ideas      |  14   |       Irene Fabelo Santana       | 0.416 |
 +---------------------------+-------+----------------------------------+-------+
-|          Chiara           |   0   |      ELENA CORBACHO NAVARRO      | 0.486 |
+|      Garaje de Ideas      |  15   |         Carmen Bustillos         | 0.297 |
++---------------------------+-------+----------------------------------+-------+
+|          Chiara           |   0   |          Sara Salguero           | 0.297 |
 +---------------------------+-------+----------------------------------+-------+
 |          Chiara           |   1   |       Irene Fabelo Santana       | 0.452 |
 +---------------------------+-------+----------------------------------+-------+
-|          Chiara           |   2   |   Jose Joaquin Martinez Abenza   | 0.265 |
+|          Chiara           |   2   |      ELENA CORBACHO NAVARRO      | 0.486 |
 +---------------------------+-------+----------------------------------+-------+
-|          Chiara           |   3   |          Sara Salguero           | 0.297 |
+|          Chiara           |   3   |        Alberto Toca Muñoz        | 0.287 |
 +---------------------------+-------+----------------------------------+-------+
-|          Chiara           |   4   |        Silvia Ambrós Muro        | 0.441 |
+|          Chiara           |   4   |      Joxan Bueno Fernández       | 0.481 |
 +---------------------------+-------+----------------------------------+-------+
-|          Chiara           |   5   |        IRENE CEREZO UCETA        | 0.493 |
+|          Chiara           |   5   |   Jose Joaquin Martinez Abenza   | 0.265 |
 +---------------------------+-------+----------------------------------+-------+
-|          Chiara           |   6   |       Gurutz Gorrotxategi        | 0.467 |
+|          Chiara           |   6   |      Carmen Ruiz Montesinos      | 0.299 |
 +---------------------------+-------+----------------------------------+-------+
-|          Chiara           |   7   |      Carmen Ruiz Montesinos      | 0.299 |
+|          Chiara           |   7   |          Santi Beneitez          | 0.297 |
 +---------------------------+-------+----------------------------------+-------+
-|          Chiara           |   8   |          Santi Beneitez          | 0.297 |
-+---------------------------+-------+----------------------------------+-------+
-|          Chiara           |   9   |        Carolina Timhagen         | 0.519 |
-+---------------------------+-------+----------------------------------+-------+
-|          Chiara           |  10   | Carlota Fernández de Villavicenc | 0.294 |
+|          Chiara           |   8   | Carlota Fernández de Villavicenc | 0.294 |
 |                           |       |            io Guerra             |       |
 +---------------------------+-------+----------------------------------+-------+
-|          Chiara           |  11   |           Marta Hierro           | 0.296 |
+|          Chiara           |   9   |          Joyfer Iborra           | 0.392 |
 +---------------------------+-------+----------------------------------+-------+
-|          Chiara           |  12   |          Zoe Geidelberg          | 0.467 |
+|          Chiara           |  10   |    Ángel María Pulido Samper     | 0.292 |
 +---------------------------+-------+----------------------------------+-------+
-|          Chiara           |  13   |        Alberto Toca Muñoz        | 0.287 |
+|          Chiara           |  11   |          Zoe Geidelberg          | 0.467 |
 +---------------------------+-------+----------------------------------+-------+
-|          Chiara           |  14   |      Karla Imbert Lamiquiz       | 0.293 |
+|          Chiara           |  12   |      Antonio J. Gasent Gras      | 0.294 |
 +---------------------------+-------+----------------------------------+-------+
-|       EPSNWORKFORCE       |   0   |      Karla Imbert Lamiquiz       | 0.303 |
+|          Chiara           |  13   |     Circe Serrano Gutiérrez      | 0.472 |
 +---------------------------+-------+----------------------------------+-------+
-|       EPSNWORKFORCE       |   1   |          Zoe Geidelberg          | 0.527 |
+|          Chiara           |  14   |        Luis Camacho Cabo         | 0.456 |
 +---------------------------+-------+----------------------------------+-------+
-|       EPSNWORKFORCE       |   2   | Carlota Fernández de Villavicenc | 0.304 |
+|          Chiara           |  15   |       Ignacio Romaní Vidal       |  0.5  |
++---------------------------+-------+----------------------------------+-------+
+|       EPSNWORKFORCE       |   0   | Carlota Fernández de Villavicenc | 0.304 |
 |                           |       |            io Guerra             |       |
 +---------------------------+-------+----------------------------------+-------+
-|       EPSNWORKFORCE       |   3   |         Marta Aboy Otero         | 0.527 |
+|       EPSNWORKFORCE       |   1   |     Francisco García Hurtado     | 0.587 |
 +---------------------------+-------+----------------------------------+-------+
-|       EPSNWORKFORCE       |   4   |     Francisco García Hurtado     | 0.587 |
+|       EPSNWORKFORCE       |   2   |     Circe Serrano Gutiérrez      | 0.536 |
 +---------------------------+-------+----------------------------------+-------+
-|       EPSNWORKFORCE       |   5   |          Joyfer Iborra           | 0.42  |
+|       EPSNWORKFORCE       |   3   |          Sara Salguero           | 0.297 |
 +---------------------------+-------+----------------------------------+-------+
-|       EPSNWORKFORCE       |   6   |          Sara Salguero           | 0.297 |
+|       EPSNWORKFORCE       |   4   |      Antonio J. Gasent Gras      | 0.304 |
 +---------------------------+-------+----------------------------------+-------+
-|       EPSNWORKFORCE       |   7   |       Maruxa Moreira Pérez       | 0.667 |
+|       EPSNWORKFORCE       |   5   |    Ángel María Pulido Samper     | 0.302 |
 +---------------------------+-------+----------------------------------+-------+
-|       EPSNWORKFORCE       |   8   |     Cristina Alonso Amiñoso      | 0.625 |
+|       EPSNWORKFORCE       |   6   |     Cristina Alonso Amiñoso      | 0.625 |
 +---------------------------+-------+----------------------------------+-------+
-|       EPSNWORKFORCE       |   9   |       Luis Pelayo González       | 0.467 |
+|       EPSNWORKFORCE       |   7   |      Joxan Bueno Fernández       | 0.481 |
 +---------------------------+-------+----------------------------------+-------+
-|       EPSNWORKFORCE       |  10   |        Alberto Toca Muñoz        | 0.287 |
+|       EPSNWORKFORCE       |   8   |         Marta Aboy Otero         | 0.527 |
++---------------------------+-------+----------------------------------+-------+
+|       EPSNWORKFORCE       |   9   |       Maruxa Moreira Pérez       | 0.667 |
++---------------------------+-------+----------------------------------+-------+
+|       EPSNWORKFORCE       |  10   |      ELENA CORBACHO NAVARRO      | 0.486 |
 +---------------------------+-------+----------------------------------+-------+
 |       EPSNWORKFORCE       |  11   |       Pablo Arribas García       | 0.51  |
 +---------------------------+-------+----------------------------------+-------+
-|       EPSNWORKFORCE       |  12   |            Ana Fraile            | 0.487 |
+|       EPSNWORKFORCE       |  12   |           Marta Hierro           | 0.283 |
 +---------------------------+-------+----------------------------------+-------+
 |       EPSNWORKFORCE       |  13   |   Jose Joaquin Martinez Abenza   | 0.265 |
 +---------------------------+-------+----------------------------------+-------+
-|       EPSNWORKFORCE       |  14   |    Nico Fernández Díaz-Pavón     | 0.45  |
+|       EPSNWORKFORCE       |  14   |          Zoe Geidelberg          | 0.527 |
 +---------------------------+-------+----------------------------------+-------+
-|      F. Iniciativas       |   0   |          Sara Salguero           | 0.297 |
+|       EPSNWORKFORCE       |  15   |          Santi Beneitez          | 0.284 |
 +---------------------------+-------+----------------------------------+-------+
-|      F. Iniciativas       |   1   |     Francisco García Hurtado     |  0.5  |
+|      F. Iniciativas       |   0   |          Zoe Geidelberg          | 0.467 |
 +---------------------------+-------+----------------------------------+-------+
-|      F. Iniciativas       |   2   |        IRENE CEREZO UCETA        | 0.493 |
+|      F. Iniciativas       |   1   |         Carmen Bustillos         | 0.297 |
 +---------------------------+-------+----------------------------------+-------+
-|      F. Iniciativas       |   3   |       Gurutz Gorrotxategi        | 0.467 |
+|      F. Iniciativas       |   2   |   Jose Joaquin Martinez Abenza   | 0.265 |
 +---------------------------+-------+----------------------------------+-------+
-|      F. Iniciativas       |   4   |       Irene Fabelo Santana       | 0.452 |
+|      F. Iniciativas       |   3   |      Carmen Ruiz Montesinos      | 0.299 |
 +---------------------------+-------+----------------------------------+-------+
-|      F. Iniciativas       |   5   |          Santi Beneitez          | 0.297 |
+|      F. Iniciativas       |   4   |           Marta Hierro           | 0.296 |
 +---------------------------+-------+----------------------------------+-------+
-|      F. Iniciativas       |   6   |        Luis Camacho Cabo         | 0.456 |
+|      F. Iniciativas       |   5   |       Pablo Arribas García       | 0.456 |
 +---------------------------+-------+----------------------------------+-------+
-|      F. Iniciativas       |   7   | Carlota Fernández de Villavicenc | 0.294 |
-|                           |       |            io Guerra             |       |
+|      F. Iniciativas       |   6   |       Maruxa Moreira Pérez       | 0.536 |
 +---------------------------+-------+----------------------------------+-------+
-|      F. Iniciativas       |   8   |        Magda Kupidlowska         | 0.238 |
+|      F. Iniciativas       |   7   |        Marleny Francisco         | 0.236 |
 +---------------------------+-------+----------------------------------+-------+
-|      F. Iniciativas       |   9   |     Circe Serrano Gutiérrez      | 0.472 |
+|      F. Iniciativas       |   8   |          Sara Salguero           | 0.297 |
 +---------------------------+-------+----------------------------------+-------+
-|      F. Iniciativas       |  10   |      Joxan Bueno Fernández       | 0.481 |
+|      F. Iniciativas       |   9   |       Irene Fabelo Santana       | 0.452 |
 +---------------------------+-------+----------------------------------+-------+
-|      F. Iniciativas       |  11   |    Nico Fernández Díaz-Pavón     | 0.536 |
+|      F. Iniciativas       |  10   |          Santi Beneitez          | 0.297 |
 +---------------------------+-------+----------------------------------+-------+
-|      F. Iniciativas       |  12   |      Carmen Ruiz Montesinos      | 0.299 |
+|      F. Iniciativas       |  11   |       Gurutz Gorrotxategi        | 0.467 |
 +---------------------------+-------+----------------------------------+-------+
-|      F. Iniciativas       |  13   |       Satory Asensio Gómez       | 0.222 |
+|      F. Iniciativas       |  12   |      Joxan Bueno Fernández       | 0.481 |
 +---------------------------+-------+----------------------------------+-------+
-|      F. Iniciativas       |  14   |            Ana Fraile            | 0.441 |
+|      F. Iniciativas       |  13   |        Magda Kupidlowska         | 0.238 |
++---------------------------+-------+----------------------------------+-------+
+|      F. Iniciativas       |  14   |    Nico Fernández Díaz-Pavón     | 0.536 |
++---------------------------+-------+----------------------------------+-------+
+|      F. Iniciativas       |  15   |      Antonio J. Gasent Gras      | 0.294 |
 +---------------------------+-------+----------------------------------+-------+
