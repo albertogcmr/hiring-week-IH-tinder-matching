@@ -1,672 +1,429 @@
 +-------------------------------+------------------------------+-------+-------+
 |            student            |           company            | ronda | match |
 +-------------------------------+------------------------------+-------+-------+
-|     Maria Cristina Blanco     |           Deloitte           |   0   | 0.155 |
+|     Maria Cristina Blanco     |           C14TORCE           |   1   | 0.228 |
 +-------------------------------+------------------------------+-------+-------+
-|     Maria Cristina Blanco     | Winning Scientific Managemen |   1   | 0.124 |
-|                               |              t               |       |       |
+|     Maria Cristina Blanco     |           Exoticca           |   2   | 0.17  |
 +-------------------------------+------------------------------+-------+-------+
-|     Maria Cristina Blanco     |        BinPar Team SL        |   3   | 0.586 |
+|     Maria Cristina Blanco     |      The Hotels Network      |   4   | 0.203 |
 +-------------------------------+------------------------------+-------+-------+
-|     Maria Cristina Blanco     |            NEORIS            |   4   | 0.376 |
+|     Maria Cristina Blanco     |             AKKA             |   6   | 0.397 |
 +-------------------------------+------------------------------+-------+-------+
-|     Maria Cristina Blanco     |          Mintyhost           |   5   | 0.282 |
+|     Maria Cristina Blanco     |             SEAT             |   7   | 0.196 |
 +-------------------------------+------------------------------+-------+-------+
-|     Maria Cristina Blanco     |          Decathlon           |   6   | 0.264 |
+|     Maria Cristina Blanco     | Bit Genoma Digital Solutions |   9   | 0.212 |
 +-------------------------------+------------------------------+-------+-------+
-|     Maria Cristina Blanco     |            ADIDEA            |   7   | 0.228 |
+|     Maria Cristina Blanco     |     CAPITOLE CONSULTING      |  10   | 0.15  |
 +-------------------------------+------------------------------+-------+-------+
-|     Maria Cristina Blanco     |         Sopra Steria         |   8   | 0.228 |
+|      Eugenio Ruiz Cepeda      |             SEAT             |   0   |  0.2  |
 +-------------------------------+------------------------------+-------+-------+
-|     Maria Cristina Blanco     |        Page Personnel        |   9   | 0.219 |
+|      Eugenio Ruiz Cepeda      |             AKKA             |   2   | 0.345 |
 +-------------------------------+------------------------------+-------+-------+
-|     Maria Cristina Blanco     |          Sipay Plus          |  10   | 0.211 |
+|      Eugenio Ruiz Cepeda      |      The Hotels Network      |   3   | 0.209 |
 +-------------------------------+------------------------------+-------+-------+
-|      Eugenio Ruiz Cepeda      |    Digital Talent Agency     |   0   | 0.238 |
+|      Eugenio Ruiz Cepeda      |           Atomian            |   5   | 0.214 |
 +-------------------------------+------------------------------+-------+-------+
-|      Eugenio Ruiz Cepeda      |          Sipay Plus          |   1   | 0.231 |
+|      Eugenio Ruiz Cepeda      |           Movetia            |   6   | 0.151 |
 +-------------------------------+------------------------------+-------+-------+
-|      Eugenio Ruiz Cepeda      |            Chiara            |   2   | 0.229 |
+|      Eugenio Ruiz Cepeda      |            ONEBOX            |   8   | 0.192 |
 +-------------------------------+------------------------------+-------+-------+
-|      Eugenio Ruiz Cepeda      | Dhr Global Human Resources S |   3   | 0.211 |
-|                               |             . L.             |       |       |
+|      Eugenio Ruiz Cepeda      | Bit Genoma Digital Solutions |  10   | 0.346 |
+|                               |              SL              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|      Eugenio Ruiz Cepeda      |   Excibit Solutions Spain    |   4   | 0.194 |
+|     Moisés García Almeida     |       Project Lobster        |   0   | 0.364 |
 +-------------------------------+------------------------------+-------+-------+
-|      Eugenio Ruiz Cepeda      |          UXSmobile           |   5   | 0.187 |
+|     Moisés García Almeida     |   Visyon (Estudio Bay SL)    |   1   | 0.249 |
 +-------------------------------+------------------------------+-------+-------+
-|      Eugenio Ruiz Cepeda      |             BICG             |   6   | 0.182 |
+|     Moisés García Almeida     | Bit Genoma Digital Solutions |   3   | 0.255 |
 +-------------------------------+------------------------------+-------+-------+
-|      Eugenio Ruiz Cepeda      |           Deloitte           |   7   | 0.159 |
+|     Moisés García Almeida     |     CAPITOLE CONSULTING      |   4   | 0.173 |
 +-------------------------------+------------------------------+-------+-------+
-|      Eugenio Ruiz Cepeda      | Winning Scientific Managemen |   8   | 0.127 |
-|                               |              t               |       |       |
+|     Moisés García Almeida     |             SEAT             |   6   | 0.249 |
 +-------------------------------+------------------------------+-------+-------+
-|      Eugenio Ruiz Cepeda      |        BinPar Team SL        |  10   | 0.667 |
+|     Moisés García Almeida     |             AKKA             |   8   | 0.327 |
 +-------------------------------+------------------------------+-------+-------+
-|     Moisés García Almeida     |        Page Personnel        |   0   | 0.249 |
+|     Moisés García Almeida     |           Bluekik            |   9   | 0.215 |
 +-------------------------------+------------------------------+-------+-------+
-|     Moisés García Almeida     |            Chiara            |   1   | 0.238 |
+|     Nira Alonso Rodríguez     | Bit Genoma Digital Solutions |   1   | 0.207 |
 +-------------------------------+------------------------------+-------+-------+
-|     Moisés García Almeida     |            VT-LAB            |   2   | 0.233 |
+|     Nira Alonso Rodríguez     |     CAPITOLE CONSULTING      |   2   | 0.145 |
 +-------------------------------+------------------------------+-------+-------+
-|     Moisés García Almeida     |        Claire Joster         |   3   | 0.232 |
+|     Nira Alonso Rodríguez     |             SEAT             |   4   | 0.195 |
 +-------------------------------+------------------------------+-------+-------+
-|     Moisés García Almeida     |          UXSmobile           |   4   | 0.219 |
+|     Nira Alonso Rodríguez     |       Project Lobster        |   6   | 0.333 |
 +-------------------------------+------------------------------+-------+-------+
-|     Moisés García Almeida     |             BICG             |   5   | 0.212 |
+|     Nira Alonso Rodríguez     |   Visyon (Estudio Bay SL)    |   7   | 0.181 |
 +-------------------------------+------------------------------+-------+-------+
-|     Moisés García Almeida     |           Deloitte           |   6   | 0.197 |
+|     Nira Alonso Rodríguez     |      The Hotels Network      |   9   | 0.204 |
 +-------------------------------+------------------------------+-------+-------+
-|     Moisés García Almeida     | Winning Scientific Managemen |   7   | 0.139 |
-|                               |              t               |       |       |
+|        Nerea Aparicio         |      Volcanic Internet       |   0   | 0.195 |
 +-------------------------------+------------------------------+-------+-------+
-|     Moisés García Almeida     |        BinPar Team SL        |   9   | 0.801 |
+|        Nerea Aparicio         |       Project Lobster        |   2   | 0.315 |
 +-------------------------------+------------------------------+-------+-------+
-|     Moisés García Almeida     |            NEORIS            |  10   | 0.374 |
+|        Nerea Aparicio         |           Exoticca           |   3   | 0.17  |
 +-------------------------------+------------------------------+-------+-------+
-|     Nira Alonso Rodríguez     |             BICG             |   0   | 0.17  |
+|        Nerea Aparicio         |      The Hotels Network      |   5   | 0.204 |
 +-------------------------------+------------------------------+-------+-------+
-|     Nira Alonso Rodríguez     |           Deloitte           |   1   | 0.156 |
+|        Nerea Aparicio         | Bit Genoma Digital Solutions |   7   | 0.376 |
+|                               |              SL              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|     Nira Alonso Rodríguez     | Winning Scientific Managemen |   2   | 0.123 |
-|                               |              t               |       |       |
+|        Nerea Aparicio         |         Farmaconnect         |   8   | 0.183 |
 +-------------------------------+------------------------------+-------+-------+
-|     Nira Alonso Rodríguez     |        BinPar Team SL        |   4   | 0.667 |
+|        Nerea Aparicio         |           C14TORCE           |  10   | 0.228 |
 +-------------------------------+------------------------------+-------+-------+
-|     Nira Alonso Rodríguez     |            NEORIS            |   5   | 0.366 |
+|    Francisco Leston Ramos     |           Movetia            |   0   | 0.171 |
 +-------------------------------+------------------------------+-------+-------+
-|     Nira Alonso Rodríguez     |          Mintyhost           |   6   | 0.278 |
+|    Francisco Leston Ramos     |             SEAT             |   2   | 0.217 |
 +-------------------------------+------------------------------+-------+-------+
-|     Nira Alonso Rodríguez     |          Decathlon           |   7   | 0.26  |
+|    Francisco Leston Ramos     |         InboundCycle         |   4   | 0.419 |
 +-------------------------------+------------------------------+-------+-------+
-|     Nira Alonso Rodríguez     |           Flexicar           |   8   | 0.228 |
+|    Francisco Leston Ramos     |          Norwegian           |   5   | 0.198 |
 +-------------------------------+------------------------------+-------+-------+
-|     Nira Alonso Rodríguez     |           Cires21            |   9   | 0.231 |
+|    Francisco Leston Ramos     |           Atomian            |   7   | 0.24  |
 +-------------------------------+------------------------------+-------+-------+
-|     Nira Alonso Rodríguez     |    Digital Talent Agency     |  10   | 0.228 |
+|    Francisco Leston Ramos     |      Volcanic Internet       |  10   | 0.226 |
 +-------------------------------+------------------------------+-------+-------+
-|        Nerea Aparicio         |  Optimissa Capital Markets   |   0   | 0.146 |
+|       Sergio Ortega Gil       |         InboundCycle         |   0   |  1.0  |
 +-------------------------------+------------------------------+-------+-------+
-|        Nerea Aparicio         |        BinPar Team SL        |   2   | 0.667 |
+|       Sergio Ortega Gil       |           Bluekik            |   1   | 0.204 |
 +-------------------------------+------------------------------+-------+-------+
-|        Nerea Aparicio         |         Influencity          |   3   | 0.426 |
+|       Sergio Ortega Gil       |      Volcanic Internet       |   3   | 0.257 |
 +-------------------------------+------------------------------+-------+-------+
-|        Nerea Aparicio         |          BuscoExtra          |   4   | 0.303 |
+|       Sergio Ortega Gil       |             AKKA             |   5   | 0.45  |
 +-------------------------------+------------------------------+-------+-------+
-|        Nerea Aparicio         |          Decathlon           |   5   | 0.267 |
+|       Sergio Ortega Gil       |   Visyon (Estudio Bay SL)    |   6   | 0.219 |
 +-------------------------------+------------------------------+-------+-------+
-|        Nerea Aparicio         |           Cires21            |   6   | 0.235 |
+|       Sergio Ortega Gil       |           Atomian            |   8   | 0.301 |
 +-------------------------------+------------------------------+-------+-------+
-|        Nerea Aparicio         |           Flexicar           |   7   | 0.228 |
+|       Sergio Ortega Gil       |           Exoticca           |   9   | 0.204 |
 +-------------------------------+------------------------------+-------+-------+
-|        Nerea Aparicio         |            ADIDEA            |   8   | 0.23  |
+|       Sergio Ortega Gil       |           Movetia            |  10   | 0.17  |
 +-------------------------------+------------------------------+-------+-------+
-|        Nerea Aparicio         |          Sipay Plus          |   9   | 0.209 |
+|     Mario Quiroga Cuervo      | Bit Genoma Digital Solutions |   1   | 0.449 |
+|                               |              SL              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|        Nerea Aparicio         | Dhr Global Human Resources S |  10   | 0.204 |
-|                               |             . L.             |       |       |
+|     Mario Quiroga Cuervo      |   Visyon (Estudio Bay SL)    |   2   | 0.212 |
 +-------------------------------+------------------------------+-------+-------+
-|    Francisco Leston Ramos     |           Flexicar           |   0   | 0.26  |
+|     Mario Quiroga Cuervo      |           C14TORCE           |   4   | 0.309 |
 +-------------------------------+------------------------------+-------+-------+
-|    Francisco Leston Ramos     |            ADIDEA            |   1   | 0.25  |
+|     Mario Quiroga Cuervo      |           Exoticca           |   5   | 0.193 |
 +-------------------------------+------------------------------+-------+-------+
-|    Francisco Leston Ramos     |        Page Personnel        |   2   | 0.249 |
+|     Mario Quiroga Cuervo      |      The Hotels Network      |   7   | 0.238 |
 +-------------------------------+------------------------------+-------+-------+
-|    Francisco Leston Ramos     |    Digital Talent Agency     |   3   | 0.26  |
+|     Mario Quiroga Cuervo      |             AKKA             |   9   | 0.374 |
 +-------------------------------+------------------------------+-------+-------+
-|    Francisco Leston Ramos     |            VT-LAB            |   4   | 0.24  |
+|     Mario Quiroga Cuervo      |          Norwegian           |  10   | 0.199 |
 +-------------------------------+------------------------------+-------+-------+
-|    Francisco Leston Ramos     | Dhr Global Human Resources S |   5   | 0.226 |
-|                               |             . L.             |       |       |
+|    Daniel García Martínez     |           Bluekik            |   0   | 0.169 |
 +-------------------------------+------------------------------+-------+-------+
-|    Francisco Leston Ramos     |            Kabel             |   6   | 0.221 |
+|    Daniel García Martínez     |      Volcanic Internet       |   2   | 0.197 |
 +-------------------------------+------------------------------+-------+-------+
-|    Francisco Leston Ramos     |             BICG             |   7   | 0.196 |
+|    Daniel García Martínez     | Bit Genoma Digital Solutions |   4   | 0.387 |
+|                               |              SL              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|    Francisco Leston Ramos     |           Deloitte           |   8   | 0.188 |
+|    Daniel García Martínez     |   Visyon (Estudio Bay SL)    |   5   | 0.182 |
 +-------------------------------+------------------------------+-------+-------+
-|    Francisco Leston Ramos     |  Optimissa Capital Markets   |   9   | 0.159 |
+|    Daniel García Martínez     | Bit Genoma Digital Solutions |   7   | 0.212 |
 +-------------------------------+------------------------------+-------+-------+
-|       Sergio Ortega Gil       | Winning Scientific Managemen |   0   | 0.138 |
-|                               |              t               |       |       |
+|    Daniel García Martínez     |     CAPITOLE CONSULTING      |   8   | 0.147 |
 +-------------------------------+------------------------------+-------+-------+
-|       Sergio Ortega Gil       |           Alterna            |   2   |  1.0  |
+|    Daniel García Martínez     |             SEAT             |  10   | 0.195 |
 +-------------------------------+------------------------------+-------+-------+
-|       Sergio Ortega Gil       |            NEORIS            |   3   | 0.376 |
-+-------------------------------+------------------------------+-------+-------+
-|       Sergio Ortega Gil       |       The Phone House        |   4   | 0.348 |
-+-------------------------------+------------------------------+-------+-------+
-|       Sergio Ortega Gil       |           Flexicar           |   5   | 0.327 |
-+-------------------------------+------------------------------+-------+-------+
-|       Sergio Ortega Gil       |    Digital Talent Agency     |   6   | 0.327 |
-+-------------------------------+------------------------------+-------+-------+
-|       Sergio Ortega Gil       |            VT-LAB            |   7   | 0.289 |
-+-------------------------------+------------------------------+-------+-------+
-|       Sergio Ortega Gil       |        Page Personnel        |   8   | 0.25  |
-+-------------------------------+------------------------------+-------+-------+
-|       Sergio Ortega Gil       |            ADIDEA            |   9   | 0.264 |
-+-------------------------------+------------------------------+-------+-------+
-|       Sergio Ortega Gil       |        Claire Joster         |  10   | 0.23  |
-+-------------------------------+------------------------------+-------+-------+
-|     Mario Quiroga Cuervo      |            Chiara            |   0   | 0.232 |
-+-------------------------------+------------------------------+-------+-------+
-|     Mario Quiroga Cuervo      |   Excibit Solutions Spain    |   1   | 0.22  |
-+-------------------------------+------------------------------+-------+-------+
-|     Mario Quiroga Cuervo      |          UXSmobile           |   2   | 0.214 |
-+-------------------------------+------------------------------+-------+-------+
-|     Mario Quiroga Cuervo      |           Minsait            |   3   | 0.188 |
-+-------------------------------+------------------------------+-------+-------+
-|     Mario Quiroga Cuervo      |           Deloitte           |   4   | 0.167 |
-+-------------------------------+------------------------------+-------+-------+
-|     Mario Quiroga Cuervo      | Winning Scientific Managemen |   5   | 0.133 |
-|                               |              t               |       |       |
-+-------------------------------+------------------------------+-------+-------+
-|     Mario Quiroga Cuervo      |        BinPar Team SL        |   7   | 0.667 |
-+-------------------------------+------------------------------+-------+-------+
-|     Mario Quiroga Cuervo      |            NEORIS            |   8   | 0.472 |
-+-------------------------------+------------------------------+-------+-------+
-|     Mario Quiroga Cuervo      |          Mintyhost           |   9   | 0.341 |
-+-------------------------------+------------------------------+-------+-------+
-|     Mario Quiroga Cuervo      |          BuscoExtra          |  10   | 0.346 |
-+-------------------------------+------------------------------+-------+-------+
-|    Daniel García Martínez     |            ADIDEA            |   0   | 0.228 |
-+-------------------------------+------------------------------+-------+-------+
-|    Daniel García Martínez     |            VT-LAB            |   1   | 0.221 |
-+-------------------------------+------------------------------+-------+-------+
-|    Daniel García Martínez     |            BMind             |   2   | 0.203 |
-+-------------------------------+------------------------------+-------+-------+
-|    Daniel García Martínez     |   Excibit Solutions Spain    |   3   | 0.192 |
-+-------------------------------+------------------------------+-------+-------+
-|    Daniel García Martínez     |            Chiara            |   4   |  0.2  |
-+-------------------------------+------------------------------+-------+-------+
-|    Daniel García Martínez     |        Claire Joster         |   5   | 0.188 |
-+-------------------------------+------------------------------+-------+-------+
-|    Daniel García Martínez     |           Minsait            |   6   | 0.169 |
-+-------------------------------+------------------------------+-------+-------+
-|    Daniel García Martínez     |  Optimissa Capital Markets   |   7   | 0.146 |
-+-------------------------------+------------------------------+-------+-------+
-|    Daniel García Martínez     |           Alterna            |   9   |  1.0  |
-+-------------------------------+------------------------------+-------+-------+
-|    Daniel García Martínez     |         Influencity          |  10   | 0.444 |
-+-------------------------------+------------------------------+-------+-------+
-| Carlos Eduardo Lores Hernánde |          BuscoExtra          |   0   | 0.294 |
+| Carlos Eduardo Lores Hernánde |         Farmaconnect         |   0   | 0.182 |
 |              z                |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Carlos Eduardo Lores Hernánde |          Decathlon           |   1   | 0.258 |
+| Carlos Eduardo Lores Hernánde |           C14TORCE           |   2   | 0.224 |
 |              z                |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Carlos Eduardo Lores Hernánde |       The Phone House        |   2   | 0.251 |
+| Carlos Eduardo Lores Hernánde |     CAPITOLE CONSULTING      |   3   | 0.145 |
 |              z                |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Carlos Eduardo Lores Hernánde |           Cires21            |   3   | 0.232 |
+| Carlos Eduardo Lores Hernánde |            ONEBOX            |   5   | 0.187 |
 |              z                |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Carlos Eduardo Lores Hernánde |         Sopra Steria         |   4   | 0.222 |
+| Carlos Eduardo Lores Hernánde |             AKKA             |   7   | 0.326 |
 |              z                |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Carlos Eduardo Lores Hernánde |            VT-LAB            |   5   | 0.217 |
+| Carlos Eduardo Lores Hernánde |           Exoticca           |   8   | 0.169 |
 |              z                |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Carlos Eduardo Lores Hernánde |        Page Personnel        |   6   | 0.219 |
+| Carlos Eduardo Lores Hernánde |      The Hotels Network      |  10   | 0.202 |
 |              z                |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Carlos Eduardo Lores Hernánde |          Sipay Plus          |   7   | 0.205 |
-|              z                |                              |       |       |
+|    Javier Requejo Melchor     |           C14TORCE           |   0   | 0.226 |
 +-------------------------------+------------------------------+-------+-------+
-| Carlos Eduardo Lores Hernánde |            Chiara            |   8   | 0.198 |
-|              z                |                              |       |       |
+|    Javier Requejo Melchor     |           Exoticca           |   1   | 0.182 |
 +-------------------------------+------------------------------+-------+-------+
-| Carlos Eduardo Lores Hernánde |   Excibit Solutions Spain    |   9   | 0.19  |
-|              z                |                              |       |       |
+|    Javier Requejo Melchor     |            ONEBOX            |   3   | 0.215 |
 +-------------------------------+------------------------------+-------+-------+
-| Carlos Eduardo Lores Hernánde |             BICG             |  10   | 0.168 |
-|              z                |                              |       |       |
+|    Javier Requejo Melchor     | Bit Genoma Digital Solutions |   5   | 0.387 |
+|                               |              SL              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|    Javier Requejo Melchor     |           Alterna            |   0   |  1.0  |
+|    Javier Requejo Melchor     |      Volcanic Internet       |   6   | 0.201 |
 +-------------------------------+------------------------------+-------+-------+
-|    Javier Requejo Melchor     |         Influencity          |   1   | 0.444 |
+|    Javier Requejo Melchor     | Bit Genoma Digital Solutions |   8   | 0.212 |
 +-------------------------------+------------------------------+-------+-------+
-|    Javier Requejo Melchor     |          BuscoExtra          |   2   | 0.315 |
+|    Javier Requejo Melchor     |           Movetia            |   9   | 0.154 |
 +-------------------------------+------------------------------+-------+-------+
-|    Javier Requejo Melchor     |       The Phone House        |   3   | 0.315 |
+|      Enrique Anaya Marin      |           Atomian            |   1   | 0.22  |
 +-------------------------------+------------------------------+-------+-------+
-|    Javier Requejo Melchor     |            ADIDEA            |   4   | 0.264 |
+|      Enrique Anaya Marin      |           Movetia            |   2   | 0.16  |
 +-------------------------------+------------------------------+-------+-------+
-|    Javier Requejo Melchor     |         Sopra Steria         |   5   | 0.26  |
+|      Enrique Anaya Marin      |            ONEBOX            |   4   | 0.209 |
 +-------------------------------+------------------------------+-------+-------+
-|    Javier Requejo Melchor     |            VT-LAB            |   6   | 0.231 |
+|      Enrique Anaya Marin      |         InboundCycle         |   6   | 0.364 |
 +-------------------------------+------------------------------+-------+-------+
-|    Javier Requejo Melchor     | Dhr Global Human Resources S |   7   | 0.226 |
-|                               |             . L.             |       |       |
+|      Enrique Anaya Marin      |           Exoticca           |   7   | 0.186 |
 +-------------------------------+------------------------------+-------+-------+
-|    Javier Requejo Melchor     |        Claire Joster         |   8   | 0.205 |
+|      Enrique Anaya Marin      |           C14TORCE           |   9   | 0.228 |
 +-------------------------------+------------------------------+-------+-------+
-|    Javier Requejo Melchor     |            Chiara            |   9   |  0.2  |
+|  Maria Isabel Llanes Agudelo  |   Visyon (Estudio Bay SL)    |   0   | 0.198 |
 +-------------------------------+------------------------------+-------+-------+
-|    Javier Requejo Melchor     |   Excibit Solutions Spain    |  10   | 0.196 |
+|  Maria Isabel Llanes Agudelo  |           Atomian            |   2   | 0.233 |
 +-------------------------------+------------------------------+-------+-------+
-|      Enrique Anaya Marin      |        Claire Joster         |   0   | 0.205 |
+|  Maria Isabel Llanes Agudelo  |           Bluekik            |   3   | 0.18  |
 +-------------------------------+------------------------------+-------+-------+
-|      Enrique Anaya Marin      |          UXSmobile           |   1   | 0.189 |
+|  Maria Isabel Llanes Agudelo  |      Volcanic Internet       |   5   | 0.208 |
 +-------------------------------+------------------------------+-------+-------+
-|      Enrique Anaya Marin      |           Minsait            |   2   | 0.187 |
+|  Maria Isabel Llanes Agudelo  |         InboundCycle         |   7   | 0.388 |
 +-------------------------------+------------------------------+-------+-------+
-|      Enrique Anaya Marin      |           Deloitte           |   3   | 0.167 |
+|  Maria Isabel Llanes Agudelo  |          Norwegian           |   8   | 0.195 |
 +-------------------------------+------------------------------+-------+-------+
-|      Enrique Anaya Marin      | Winning Scientific Managemen |   4   | 0.133 |
-|                               |              t               |       |       |
+|  Maria Isabel Llanes Agudelo  | Bit Genoma Digital Solutions |  10   | 0.22  |
 +-------------------------------+------------------------------+-------+-------+
-|      Enrique Anaya Marin      |           Alterna            |   6   |  1.0  |
+|    Daniel Herrero Hernando    | Bit Genoma Digital Solutions |   0   | 0.376 |
 +-------------------------------+------------------------------+-------+-------+
-|      Enrique Anaya Marin      |            NEORIS            |   7   | 0.376 |
+|    Daniel Herrero Hernando    |     CAPITOLE CONSULTING      |   1   | 0.244 |
 +-------------------------------+------------------------------+-------+-------+
-|      Enrique Anaya Marin      |       The Phone House        |   8   | 0.315 |
+|    Daniel Herrero Hernando    |             SEAT             |   3   | 0.355 |
 +-------------------------------+------------------------------+-------+-------+
-|      Enrique Anaya Marin      |         Sopra Steria         |   9   | 0.278 |
+|    Daniel Herrero Hernando    |           C14TORCE           |   5   | 0.426 |
 +-------------------------------+------------------------------+-------+-------+
-|      Enrique Anaya Marin      |            ADIDEA            |  10   | 0.264 |
+|    Daniel Herrero Hernando    |          Norwegian           |   6   | 0.332 |
 +-------------------------------+------------------------------+-------+-------+
-|  Maria Isabel Llanes Agudelo  |          Sipay Plus          |   0   | 0.209 |
+|    Daniel Herrero Hernando    |      The Hotels Network      |   8   | 0.294 |
 +-------------------------------+------------------------------+-------+-------+
-|  Maria Isabel Llanes Agudelo  |            BMind             |   1   | 0.204 |
+|         Thilo Sperber         |          Norwegian           |   0   | 0.179 |
 +-------------------------------+------------------------------+-------+-------+
-|  Maria Isabel Llanes Agudelo  |        Claire Joster         |   2   | 0.199 |
+|         Thilo Sperber         |      The Hotels Network      |   2   | 0.199 |
 +-------------------------------+------------------------------+-------+-------+
-|  Maria Isabel Llanes Agudelo  |             BICG             |   3   | 0.179 |
+|         Thilo Sperber         |             AKKA             |   4   | 0.401 |
 +-------------------------------+------------------------------+-------+-------+
-|  Maria Isabel Llanes Agudelo  |            Kabel             |   4   | 0.196 |
+|         Thilo Sperber         |         Farmaconnect         |   5   | 0.18  |
 +-------------------------------+------------------------------+-------+-------+
-|  Maria Isabel Llanes Agudelo  |  Optimissa Capital Markets   |   5   | 0.151 |
+|         Thilo Sperber         |           C14TORCE           |   7   | 0.222 |
 +-------------------------------+------------------------------+-------+-------+
-|  Maria Isabel Llanes Agudelo  |           Alterna            |   7   |  0.5  |
+|         Thilo Sperber         |           Bluekik            |   8   | 0.167 |
 +-------------------------------+------------------------------+-------+-------+
-|  Maria Isabel Llanes Agudelo  |         Influencity          |   8   | 0.372 |
+|         Thilo Sperber         |     CAPITOLE CONSULTING      |   9   | 0.145 |
 +-------------------------------+------------------------------+-------+-------+
-|  Maria Isabel Llanes Agudelo  |          BuscoExtra          |   9   | 0.283 |
+|         Thilo Sperber         |            ONEBOX            |  10   | 0.194 |
 +-------------------------------+------------------------------+-------+-------+
-|  Maria Isabel Llanes Agudelo  |          Decathlon           |  10   | 0.263 |
+|    Carlos Martínez Crespo     |      Volcanic Internet       |   1   | 0.276 |
 +-------------------------------+------------------------------+-------+-------+
-|    Daniel Herrero Hernando    |         Influencity          |   0   | 0.587 |
+|    Carlos Martínez Crespo     |       Project Lobster        |   3   | 0.397 |
 +-------------------------------+------------------------------+-------+-------+
-|    Daniel Herrero Hernando    |            NEORIS            |   1   | 0.587 |
+|    Carlos Martínez Crespo     |           Exoticca           |   4   | 0.209 |
 +-------------------------------+------------------------------+-------+-------+
-|    Daniel Herrero Hernando    |         Sopra Steria         |   2   | 0.587 |
+|    Carlos Martínez Crespo     |         Farmaconnect         |   6   | 0.251 |
 +-------------------------------+------------------------------+-------+-------+
-|    Daniel Herrero Hernando    |            ADIDEA            |   3   | 0.449 |
+|    Carlos Martínez Crespo     |         InboundCycle         |   8   | 0.502 |
 +-------------------------------+------------------------------+-------+-------+
-|    Daniel Herrero Hernando    |        Claire Joster         |   4   | 0.385 |
+|    Carlos Martínez Crespo     |          Norwegian           |   9   | 0.247 |
 +-------------------------------+------------------------------+-------+-------+
-|    Daniel Herrero Hernando    |        Page Personnel        |   5   | 0.366 |
+|     Dan Mihai Grigoriciuc     |         InboundCycle         |   1   | 0.427 |
 +-------------------------------+------------------------------+-------+-------+
-|    Daniel Herrero Hernando    |          Sipay Plus          |   6   | 0.364 |
+|     Dan Mihai Grigoriciuc     |          Norwegian           |   2   | 0.217 |
 +-------------------------------+------------------------------+-------+-------+
-|    Daniel Herrero Hernando    |   Excibit Solutions Spain    |   7   | 0.355 |
+|     Dan Mihai Grigoriciuc     |           Atomian            |   4   | 0.237 |
 +-------------------------------+------------------------------+-------+-------+
-|    Daniel Herrero Hernando    | Dhr Global Human Resources S |   8   | 0.357 |
-|                               |             . L.             |       |       |
+|     Dan Mihai Grigoriciuc     |           Movetia            |   5   | 0.155 |
 +-------------------------------+------------------------------+-------+-------+
-|    Daniel Herrero Hernando    |           Minsait            |   9   | 0.299 |
+|     Dan Mihai Grigoriciuc     |         Farmaconnect         |   7   | 0.212 |
 +-------------------------------+------------------------------+-------+-------+
-|    Daniel Herrero Hernando    |            Kabel             |  10   | 0.281 |
+|     Dan Mihai Grigoriciuc     | Bit Genoma Digital Solutions |   9   | 0.387 |
+|                               |              SL              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|         Thilo Sperber         |            VT-LAB            |   0   | 0.227 |
+|     Dan Mihai Grigoriciuc     |           Exoticca           |  10   | 0.181 |
 +-------------------------------+------------------------------+-------+-------+
-|         Thilo Sperber         |           Cires21            |   1   | 0.229 |
+|     Rodrigo Otero Montero     |       Project Lobster        |   1   | 0.361 |
 +-------------------------------+------------------------------+-------+-------+
-|         Thilo Sperber         |          Sipay Plus          |   2   | 0.205 |
+|     Rodrigo Otero Montero     |            ONEBOX            |   2   | 0.205 |
 +-------------------------------+------------------------------+-------+-------+
-|         Thilo Sperber         |            Chiara            |   3   | 0.203 |
+|     Rodrigo Otero Montero     |         Farmaconnect         |   4   | 0.227 |
 +-------------------------------+------------------------------+-------+-------+
-|         Thilo Sperber         | Dhr Global Human Resources S |   4   |  0.2  |
-|                               |             . L.             |       |       |
+|     Rodrigo Otero Montero     |     CAPITOLE CONSULTING      |   5   | 0.163 |
 +-------------------------------+------------------------------+-------+-------+
-|         Thilo Sperber         |            Kabel             |   5   | 0.186 |
+|     Rodrigo Otero Montero     |          Norwegian           |   7   | 0.215 |
 +-------------------------------+------------------------------+-------+-------+
-|         Thilo Sperber         |   Excibit Solutions Spain    |   6   | 0.188 |
+|     Rodrigo Otero Montero     |           Atomian            |   9   | 0.251 |
 +-------------------------------+------------------------------+-------+-------+
-|         Thilo Sperber         |          UXSmobile           |   7   | 0.181 |
+|     Rodrigo Otero Montero     |           Bluekik            |  10   | 0.189 |
 +-------------------------------+------------------------------+-------+-------+
-|         Thilo Sperber         |  Optimissa Capital Markets   |   8   | 0.145 |
+|  Verónica Celemín Lominchar   |           Atomian            |   0   | 0.257 |
 +-------------------------------+------------------------------+-------+-------+
-|         Thilo Sperber         |           Alterna            |  10   | 0.586 |
+|  Verónica Celemín Lominchar   |           Movetia            |   1   | 0.169 |
 +-------------------------------+------------------------------+-------+-------+
-|    Carlos Martínez Crespo     |       The Phone House        |   0   | 0.346 |
+|  Verónica Celemín Lominchar   |         Farmaconnect         |   3   | 0.218 |
 +-------------------------------+------------------------------+-------+-------+
-|    Carlos Martínez Crespo     |    Digital Talent Agency     |   1   | 0.325 |
+|  Verónica Celemín Lominchar   |         InboundCycle         |   5   |  0.4  |
 +-------------------------------+------------------------------+-------+-------+
-|    Carlos Martínez Crespo     |           Flexicar           |   2   | 0.325 |
+|  Verónica Celemín Lominchar   |           Bluekik            |   6   | 0.186 |
 +-------------------------------+------------------------------+-------+-------+
-|    Carlos Martínez Crespo     |            VT-LAB            |   3   | 0.301 |
+|  Verónica Celemín Lominchar   |           C14TORCE           |   8   | 0.234 |
 +-------------------------------+------------------------------+-------+-------+
-|    Carlos Martínez Crespo     |        Page Personnel        |   4   | 0.264 |
+|  Verónica Celemín Lominchar   |             AKKA             |  10   | 0.536 |
 +-------------------------------+------------------------------+-------+-------+
-|    Carlos Martínez Crespo     |           Cires21            |   5   | 0.267 |
+|  Abel Colmenares Napolitano   |             AKKA             |   0   | 0.426 |
 +-------------------------------+------------------------------+-------+-------+
-|    Carlos Martínez Crespo     |            BMind             |   6   | 0.24  |
+|  Abel Colmenares Napolitano   |          Norwegian           |   1   | 0.182 |
 +-------------------------------+------------------------------+-------+-------+
-|    Carlos Martínez Crespo     |            Kabel             |   7   | 0.229 |
+|  Abel Colmenares Napolitano   |           Atomian            |   3   | 0.206 |
 +-------------------------------+------------------------------+-------+-------+
-|    Carlos Martínez Crespo     |           Minsait            |   8   | 0.21  |
+|  Abel Colmenares Napolitano   |           Movetia            |   4   | 0.142 |
 +-------------------------------+------------------------------+-------+-------+
-|    Carlos Martínez Crespo     |           Deloitte           |   9   | 0.179 |
+|  Abel Colmenares Napolitano   |            ONEBOX            |   6   | 0.199 |
 +-------------------------------+------------------------------+-------+-------+
-|    Carlos Martínez Crespo     | Winning Scientific Managemen |  10   | 0.144 |
-|                               |              t               |       |       |
+|  Abel Colmenares Napolitano   | Bit Genoma Digital Solutions |   8   | 0.348 |
+|                               |              SL              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|     Dan Mihai Grigoriciuc     |         Sopra Steria         |   0   | 0.263 |
+|  Abel Colmenares Napolitano   |   Visyon (Estudio Bay SL)    |   9   | 0.177 |
 +-------------------------------+------------------------------+-------+-------+
-|     Dan Mihai Grigoriciuc     |        Claire Joster         |   1   | 0.23  |
+|  Javier Pérez-Chao Rodríguez  |           Exoticca           |   0   | 0.301 |
 +-------------------------------+------------------------------+-------+-------+
-|     Dan Mihai Grigoriciuc     | Dhr Global Human Resources S |   2   | 0.226 |
-|                               |             . L.             |       |       |
+|  Javier Pérez-Chao Rodríguez  | Bit Genoma Digital Solutions |   2   | 0.387 |
 +-------------------------------+------------------------------+-------+-------+
-|     Dan Mihai Grigoriciuc     |            Kabel             |   3   | 0.193 |
+|  Javier Pérez-Chao Rodríguez  |           Movetia            |   3   | 0.22  |
 +-------------------------------+------------------------------+-------+-------+
-|     Dan Mihai Grigoriciuc     |             BICG             |   4   | 0.177 |
+|  Javier Pérez-Chao Rodríguez  |             SEAT             |   5   | 0.348 |
 +-------------------------------+------------------------------+-------+-------+
-|     Dan Mihai Grigoriciuc     |           Minsait            |   5   | 0.182 |
+|  Javier Pérez-Chao Rodríguez  |       Project Lobster        |   7   |  0.4  |
 +-------------------------------+------------------------------+-------+-------+
-|     Dan Mihai Grigoriciuc     | Winning Scientific Managemen |   6   | 0.131 |
-|                               |              t               |       |       |
+|  Javier Pérez-Chao Rodríguez  |   Visyon (Estudio Bay SL)    |   8   | 0.304 |
 +-------------------------------+------------------------------+-------+-------+
-|     Dan Mihai Grigoriciuc     |           Alterna            |   8   |  1.0  |
+|  Javier Pérez-Chao Rodríguez  |           Atomian            |  10   | 0.33  |
 +-------------------------------+------------------------------+-------+-------+
-|     Dan Mihai Grigoriciuc     |            NEORIS            |   9   | 0.376 |
-+-------------------------------+------------------------------+-------+-------+
-|     Dan Mihai Grigoriciuc     |          Mintyhost           |  10   | 0.304 |
-+-------------------------------+------------------------------+-------+-------+
-|     Rodrigo Otero Montero     | Dhr Global Human Resources S |   0   | 0.266 |
-|                               |             . L.             |       |       |
-+-------------------------------+------------------------------+-------+-------+
-|     Rodrigo Otero Montero     |        Page Personnel        |   1   | 0.249 |
-+-------------------------------+------------------------------+-------+-------+
-|     Rodrigo Otero Montero     |            Kabel             |   2   | 0.224 |
-+-------------------------------+------------------------------+-------+-------+
-|     Rodrigo Otero Montero     |            BMind             |   3   | 0.205 |
-+-------------------------------+------------------------------+-------+-------+
-|     Rodrigo Otero Montero     |           Minsait            |   4   | 0.19  |
-+-------------------------------+------------------------------+-------+-------+
-|     Rodrigo Otero Montero     |           Deloitte           |   5   | 0.189 |
-+-------------------------------+------------------------------+-------+-------+
-|     Rodrigo Otero Montero     |  Optimissa Capital Markets   |   6   | 0.162 |
-+-------------------------------+------------------------------+-------+-------+
-|     Rodrigo Otero Montero     |        BinPar Team SL        |   8   | 0.801 |
-+-------------------------------+------------------------------+-------+-------+
-|     Rodrigo Otero Montero     |         Influencity          |   9   | 0.385 |
-+-------------------------------+------------------------------+-------+-------+
-|     Rodrigo Otero Montero     |       The Phone House        |  10   | 0.371 |
-+-------------------------------+------------------------------+-------+-------+
-|  Verónica Celemín Lominchar   |        BinPar Team SL        |   0   | 0.667 |
-+-------------------------------+------------------------------+-------+-------+
-|  Verónica Celemín Lominchar   |       The Phone House        |   1   | 0.387 |
-+-------------------------------+------------------------------+-------+-------+
-|  Verónica Celemín Lominchar   |          Mintyhost           |   2   | 0.299 |
-+-------------------------------+------------------------------+-------+-------+
-|  Verónica Celemín Lominchar   |          Decathlon           |   3   | 0.277 |
-+-------------------------------+------------------------------+-------+-------+
-|  Verónica Celemín Lominchar   |           Flexicar           |   4   | 0.264 |
-+-------------------------------+------------------------------+-------+-------+
-|  Verónica Celemín Lominchar   |    Digital Talent Agency     |   5   | 0.264 |
-+-------------------------------+------------------------------+-------+-------+
-|  Verónica Celemín Lominchar   |            ADIDEA            |   6   | 0.261 |
-+-------------------------------+------------------------------+-------+-------+
-|  Verónica Celemín Lominchar   |         Sopra Steria         |   7   | 0.258 |
-+-------------------------------+------------------------------+-------+-------+
-|  Verónica Celemín Lominchar   |            BMind             |   8   | 0.209 |
-+-------------------------------+------------------------------+-------+-------+
-|  Verónica Celemín Lominchar   |        Claire Joster         |   9   | 0.222 |
-+-------------------------------+------------------------------+-------+-------+
-|  Verónica Celemín Lominchar   |          UXSmobile           |  10   | 0.188 |
-+-------------------------------+------------------------------+-------+-------+
-|  Abel Colmenares Napolitano   |        BinPar Team SL        |   1   |  1.0  |
-+-------------------------------+------------------------------+-------+-------+
-|  Abel Colmenares Napolitano   |         Influencity          |   2   |  0.4  |
-+-------------------------------+------------------------------+-------+-------+
-|  Abel Colmenares Napolitano   |          Mintyhost           |   3   | 0.282 |
-+-------------------------------+------------------------------+-------+-------+
-|  Abel Colmenares Napolitano   |          Decathlon           |   4   | 0.264 |
-+-------------------------------+------------------------------+-------+-------+
-|  Abel Colmenares Napolitano   |       The Phone House        |   5   | 0.264 |
-+-------------------------------+------------------------------+-------+-------+
-|  Abel Colmenares Napolitano   |           Flexicar           |   6   | 0.23  |
-+-------------------------------+------------------------------+-------+-------+
-|  Abel Colmenares Napolitano   |    Digital Talent Agency     |   7   | 0.23  |
-+-------------------------------+------------------------------+-------+-------+
-|  Abel Colmenares Napolitano   |          Sipay Plus          |   8   | 0.211 |
-+-------------------------------+------------------------------+-------+-------+
-|  Abel Colmenares Napolitano   | Dhr Global Human Resources S |   9   | 0.205 |
-|                               |             . L.             |       |       |
-+-------------------------------+------------------------------+-------+-------+
-|  Abel Colmenares Napolitano   |            BMind             |  10   | 0.204 |
-+-------------------------------+------------------------------+-------+-------+
-|  Javier Pérez-Chao Rodríguez  |            NEORIS            |   0   | 0.449 |
-+-------------------------------+------------------------------+-------+-------+
-|  Javier Pérez-Chao Rodríguez  |          Mintyhost           |   1   | 0.449 |
-+-------------------------------+------------------------------+-------+-------+
-|  Javier Pérez-Chao Rodríguez  |          Decathlon           |   2   | 0.444 |
-+-------------------------------+------------------------------+-------+-------+
-|  Javier Pérez-Chao Rodríguez  |        Page Personnel        |   3   | 0.376 |
-+-------------------------------+------------------------------+-------+-------+
-|  Javier Pérez-Chao Rodríguez  |    Digital Talent Agency     |   4   | 0.366 |
-+-------------------------------+------------------------------+-------+-------+
-|  Javier Pérez-Chao Rodríguez  |            ADIDEA            |   5   | 0.376 |
-+-------------------------------+------------------------------+-------+-------+
-|  Javier Pérez-Chao Rodríguez  | Dhr Global Human Resources S |   6   | 0.327 |
-|                               |             . L.             |       |       |
-+-------------------------------+------------------------------+-------+-------+
-|  Javier Pérez-Chao Rodríguez  |            Chiara            |   7   | 0.29  |
-+-------------------------------+------------------------------+-------+-------+
-|  Javier Pérez-Chao Rodríguez  |          UXSmobile           |   8   | 0.271 |
-+-------------------------------+------------------------------+-------+-------+
-|  Javier Pérez-Chao Rodríguez  |            Kabel             |   9   | 0.269 |
-+-------------------------------+------------------------------+-------+-------+
-|  Javier Pérez-Chao Rodríguez  |           Deloitte           |  10   | 0.252 |
-+-------------------------------+------------------------------+-------+-------+
-| Jaime Jacobo Rodríguez del Va |   Excibit Solutions Spain    |   0   | 0.212 |
+| Jaime Jacobo Rodríguez del Va |         Farmaconnect         |   1   | 0.232 |
 |              lle              |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Jaime Jacobo Rodríguez del Va |             BICG             |   1   | 0.204 |
+| Jaime Jacobo Rodríguez del Va |         InboundCycle         |   3   | 0.445 |
 |              lle              |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Jaime Jacobo Rodríguez del Va |  Optimissa Capital Markets   |   2   | 0.18  |
+| Jaime Jacobo Rodríguez del Va |          Norwegian           |   4   | 0.22  |
 |              lle              |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Jaime Jacobo Rodríguez del Va | Winning Scientific Managemen |   3   | 0.14  |
-|              lle              |              t               |       |       |
-+-------------------------------+------------------------------+-------+-------+
-| Jaime Jacobo Rodríguez del Va |        BinPar Team SL        |   5   | 0.667 |
+| Jaime Jacobo Rodríguez del Va |           Atomian            |   6   | 0.249 |
 |              lle              |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Jaime Jacobo Rodríguez del Va |         Influencity          |   6   | 0.431 |
+| Jaime Jacobo Rodríguez del Va |           Movetia            |   7   | 0.171 |
 |              lle              |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Jaime Jacobo Rodríguez del Va |       The Phone House        |   7   | 0.348 |
+| Jaime Jacobo Rodríguez del Va |      Volcanic Internet       |   9   | 0.225 |
 |              lle              |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Jaime Jacobo Rodríguez del Va |          Decathlon           |   8   | 0.309 |
-|              lle              |                              |       |       |
-+-------------------------------+------------------------------+-------+-------+
-| Jaime Jacobo Rodríguez del Va |           Flexicar           |   9   | 0.282 |
-|              lle              |                              |       |       |
-+-------------------------------+------------------------------+-------+-------+
-| Jaime Jacobo Rodríguez del Va |         Sopra Steria         |  10   | 0.282 |
-|              lle              |                              |       |       |
-+-------------------------------+------------------------------+-------+-------+
-| Patricia Defez Díaz de Sarral |          Mintyhost           |   0   | 0.304 |
+| Patricia Defez Díaz de Sarral |      The Hotels Network      |   0   | 0.202 |
 |              de               |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Patricia Defez Díaz de Sarral |          BuscoExtra          |   1   | 0.303 |
+| Patricia Defez Díaz de Sarral | Bit Genoma Digital Solutions |   2   | 0.387 |
+|              de               |              SL              |       |       |
++-------------------------------+------------------------------+-------+-------+
+| Patricia Defez Díaz de Sarral |   Visyon (Estudio Bay SL)    |   3   | 0.182 |
 |              de               |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Patricia Defez Díaz de Sarral |           Cires21            |   2   | 0.257 |
+| Patricia Defez Díaz de Sarral |       Project Lobster        |   5   | 0.315 |
 |              de               |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Patricia Defez Díaz de Sarral |         Sopra Steria         |   3   | 0.237 |
+| Patricia Defez Díaz de Sarral |           Exoticca           |   6   | 0.169 |
 |              de               |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Patricia Defez Díaz de Sarral |          Sipay Plus          |   4   | 0.233 |
+| Patricia Defez Díaz de Sarral |      Volcanic Internet       |   8   | 0.195 |
 |              de               |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Patricia Defez Díaz de Sarral |            BMind             |   5   | 0.224 |
+| Patricia Defez Díaz de Sarral |         InboundCycle         |  10   | 0.364 |
 |              de               |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Patricia Defez Díaz de Sarral |            Chiara            |   6   | 0.207 |
-|              de               |                              |       |       |
+|    Isabel Rodríguez Godoy     | Bit Genoma Digital Solutions |   0   | 0.376 |
+|                               |              SL              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Patricia Defez Díaz de Sarral |        Claire Joster         |   7   | 0.193 |
-|              de               |                              |       |       |
+|    Isabel Rodríguez Godoy     |             SEAT             |   1   | 0.209 |
 +-------------------------------+------------------------------+-------+-------+
-| Patricia Defez Díaz de Sarral |   Excibit Solutions Spain    |   8   | 0.202 |
-|              de               |                              |       |       |
+|    Isabel Rodríguez Godoy     |           C14TORCE           |   3   | 0.238 |
 +-------------------------------+------------------------------+-------+-------+
-| Patricia Defez Díaz de Sarral |          UXSmobile           |   9   | 0.184 |
-|              de               |                              |       |       |
+|    Isabel Rodríguez Godoy     |           Bluekik            |   4   | 0.177 |
 +-------------------------------+------------------------------+-------+-------+
-| Patricia Defez Díaz de Sarral |           Minsait            |  10   | 0.177 |
-|              de               |                              |       |       |
+|    Isabel Rodríguez Godoy     |      The Hotels Network      |   6   | 0.218 |
 +-------------------------------+------------------------------+-------+-------+
-|    Isabel Rodríguez Godoy     |           Alterna            |   1   | 0.667 |
+|    Isabel Rodríguez Godoy     |       Project Lobster        |   8   | 0.348 |
 +-------------------------------+------------------------------+-------+-------+
-|    Isabel Rodríguez Godoy     |            NEORIS            |   2   | 0.462 |
+|    Isabel Rodríguez Godoy     |         Farmaconnect         |   9   | 0.188 |
 +-------------------------------+------------------------------+-------+-------+
-|    Isabel Rodríguez Godoy     |          BuscoExtra          |   3   | 0.329 |
+|     Roberto Muñoz Aragón      |            ONEBOX            |   1   | 0.218 |
 +-------------------------------+------------------------------+-------+-------+
-|    Isabel Rodríguez Godoy     |          Mintyhost           |   4   | 0.307 |
+|     Roberto Muñoz Aragón      |             AKKA             |   3   | 0.431 |
 +-------------------------------+------------------------------+-------+-------+
-|    Isabel Rodríguez Godoy     |          Sipay Plus          |   5   | 0.277 |
+|     Roberto Muñoz Aragón      |      Volcanic Internet       |   4   | 0.197 |
 +-------------------------------+------------------------------+-------+-------+
-|    Isabel Rodríguez Godoy     |         Sopra Steria         |   6   | 0.252 |
+|     Roberto Muñoz Aragón      |           C14TORCE           |   6   | 0.23  |
 +-------------------------------+------------------------------+-------+-------+
-|    Isabel Rodríguez Godoy     |        Page Personnel        |   7   | 0.239 |
+|     Roberto Muñoz Aragón      |           Bluekik            |   7   | 0.171 |
 +-------------------------------+------------------------------+-------+-------+
-|    Isabel Rodríguez Godoy     |    Digital Talent Agency     |   8   | 0.237 |
+|     Roberto Muñoz Aragón      |             SEAT             |   9   | 0.198 |
 +-------------------------------+------------------------------+-------+-------+
-|    Isabel Rodríguez Godoy     |            BMind             |   9   | 0.234 |
+|         Sofia Jordan          |            ONEBOX            |   0   | 0.194 |
 +-------------------------------+------------------------------+-------+-------+
-|    Isabel Rodríguez Godoy     |            Chiara            |  10   | 0.231 |
+|         Sofia Jordan          |         InboundCycle         |   2   | 0.374 |
 +-------------------------------+------------------------------+-------+-------+
-|         Sofia Jordan          |            BMind             |   0   | 0.205 |
+|         Sofia Jordan          |          Norwegian           |   3   | 0.183 |
 +-------------------------------+------------------------------+-------+-------+
-|         Sofia Jordan          | Dhr Global Human Resources S |   1   | 0.203 |
-|                               |             . L.             |       |       |
+|         Sofia Jordan          | Bit Genoma Digital Solutions |   5   | 0.204 |
 +-------------------------------+------------------------------+-------+-------+
-|         Sofia Jordan          |   Excibit Solutions Spain    |   2   | 0.188 |
+|         Sofia Jordan          |     CAPITOLE CONSULTING      |   6   | 0.141 |
 +-------------------------------+------------------------------+-------+-------+
-|         Sofia Jordan          |          UXSmobile           |   3   | 0.179 |
+|         Sofia Jordan          |             SEAT             |   8   | 0.192 |
 +-------------------------------+------------------------------+-------+-------+
-|         Sofia Jordan          |  Optimissa Capital Markets   |   4   | 0.151 |
+|         Sofia Jordan          |       Project Lobster        |  10   | 0.289 |
 +-------------------------------+------------------------------+-------+-------+
-|         Sofia Jordan          |        BinPar Team SL        |   6   | 0.667 |
+|      Alfonso Silva Feria      |     CAPITOLE CONSULTING      |   0   | 0.156 |
 +-------------------------------+------------------------------+-------+-------+
-|         Sofia Jordan          |         Influencity          |   7   | 0.423 |
+|      Alfonso Silva Feria      |         Farmaconnect         |   2   | 0.208 |
 +-------------------------------+------------------------------+-------+-------+
-|         Sofia Jordan          |          BuscoExtra          |   8   | 0.312 |
+|      Alfonso Silva Feria      |       Project Lobster        |   4   | 0.374 |
 +-------------------------------+------------------------------+-------+-------+
-|         Sofia Jordan          |          Decathlon           |   9   | 0.266 |
+|      Alfonso Silva Feria      |           Bluekik            |   5   | 0.186 |
 +-------------------------------+------------------------------+-------+-------+
-|         Sofia Jordan          |           Cires21            |  10   | 0.23  |
+|      Alfonso Silva Feria      |      Volcanic Internet       |   7   | 0.223 |
 +-------------------------------+------------------------------+-------+-------+
-|      Alfonso Silva Feria      |          Decathlon           |   0   | 0.289 |
+|      Alfonso Silva Feria      |         InboundCycle         |   9   | 0.388 |
 +-------------------------------+------------------------------+-------+-------+
-|      Alfonso Silva Feria      |           Flexicar           |   1   | 0.289 |
+|      Alfonso Silva Feria      |   Visyon (Estudio Bay SL)    |  10   |  0.2  |
 +-------------------------------+------------------------------+-------+-------+
-|      Alfonso Silva Feria      |    Digital Talent Agency     |   2   | 0.289 |
+|   Alfredo Hinarejos Corbeá    |             AKKA             |   1   | 0.376 |
 +-------------------------------+------------------------------+-------+-------+
-|      Alfonso Silva Feria      |          Sipay Plus          |   3   | 0.234 |
+|   Alfredo Hinarejos Corbeá    |           Bluekik            |   2   | 0.17  |
 +-------------------------------+------------------------------+-------+-------+
-|      Alfonso Silva Feria      |           Cires21            |   4   | 0.234 |
+|   Alfredo Hinarejos Corbeá    | Bit Genoma Digital Solutions |   4   | 0.212 |
 +-------------------------------+------------------------------+-------+-------+
-|      Alfonso Silva Feria      |            Chiara            |   5   | 0.226 |
+|   Alfredo Hinarejos Corbeá    | Bit Genoma Digital Solutions |   6   | 0.387 |
+|                               |              SL              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|      Alfonso Silva Feria      |        Claire Joster         |   6   | 0.211 |
+|   Alfredo Hinarejos Corbeá    |            ONEBOX            |   7   | 0.198 |
 +-------------------------------+------------------------------+-------+-------+
-|      Alfonso Silva Feria      |            BMind             |   7   | 0.208 |
+|   Alfredo Hinarejos Corbeá    |           Movetia            |   8   | 0.149 |
 +-------------------------------+------------------------------+-------+-------+
-|      Alfonso Silva Feria      |            Kabel             |   8   | 0.208 |
+|   Alfredo Hinarejos Corbeá    |       Project Lobster        |   9   | 0.315 |
 +-------------------------------+------------------------------+-------+-------+
-|      Alfonso Silva Feria      |             BICG             |   9   |  0.2  |
+|   Alfredo Hinarejos Corbeá    |         Farmaconnect         |  10   | 0.186 |
 +-------------------------------+------------------------------+-------+-------+
-|      Alfonso Silva Feria      |  Optimissa Capital Markets   |  10   | 0.162 |
+|    Baltasar Torres Garcia     |      The Hotels Network      |   1   | 0.199 |
 +-------------------------------+------------------------------+-------+-------+
-|   Alfredo Hinarejos Corbeá    |           Cires21            |   0   | 0.237 |
+|    Baltasar Torres Garcia     | Bit Genoma Digital Solutions |   3   | 0.374 |
+|                               |              SL              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|   Alfredo Hinarejos Corbeá    |         Sopra Steria         |   1   | 0.225 |
+|    Baltasar Torres Garcia     |   Visyon (Estudio Bay SL)    |   4   | 0.179 |
 +-------------------------------+------------------------------+-------+-------+
-|   Alfredo Hinarejos Corbeá    |            ADIDEA            |   2   | 0.228 |
+|    Baltasar Torres Garcia     | Bit Genoma Digital Solutions |   6   | 0.211 |
 +-------------------------------+------------------------------+-------+-------+
-|   Alfredo Hinarejos Corbeá    |           Flexicar           |   3   | 0.226 |
+|    Baltasar Torres Garcia     |     CAPITOLE CONSULTING      |   7   | 0.145 |
 +-------------------------------+------------------------------+-------+-------+
-|   Alfredo Hinarejos Corbeá    |            BMind             |   4   | 0.204 |
-+-------------------------------+------------------------------+-------+-------+
-|   Alfredo Hinarejos Corbeá    |   Excibit Solutions Spain    |   5   | 0.19  |
-+-------------------------------+------------------------------+-------+-------+
-|   Alfredo Hinarejos Corbeá    |          UXSmobile           |   6   | 0.179 |
-+-------------------------------+------------------------------+-------+-------+
-|   Alfredo Hinarejos Corbeá    |           Minsait            |   7   | 0.169 |
-+-------------------------------+------------------------------+-------+-------+
-|   Alfredo Hinarejos Corbeá    |             BICG             |   8   | 0.169 |
-+-------------------------------+------------------------------+-------+-------+
-|   Alfredo Hinarejos Corbeá    | Winning Scientific Managemen |   9   | 0.124 |
-|                               |              t               |       |       |
-+-------------------------------+------------------------------+-------+-------+
-|    Baltasar Torres Garcia     |           Minsait            |   0   | 0.167 |
-+-------------------------------+------------------------------+-------+-------+
-|    Baltasar Torres Garcia     |  Optimissa Capital Markets   |   1   | 0.146 |
-+-------------------------------+------------------------------+-------+-------+
-|    Baltasar Torres Garcia     |           Alterna            |   3   | 0.667 |
-+-------------------------------+------------------------------+-------+-------+
-|    Baltasar Torres Garcia     |         Influencity          |   4   | 0.449 |
-+-------------------------------+------------------------------+-------+-------+
-|    Baltasar Torres Garcia     |          BuscoExtra          |   5   | 0.327 |
-+-------------------------------+------------------------------+-------+-------+
-|    Baltasar Torres Garcia     |       The Phone House        |   6   | 0.26  |
-+-------------------------------+------------------------------+-------+-------+
-|    Baltasar Torres Garcia     |           Cires21            |   7   | 0.23  |
-+-------------------------------+------------------------------+-------+-------+
-|    Baltasar Torres Garcia     |            VT-LAB            |   8   | 0.224 |
-+-------------------------------+------------------------------+-------+-------+
-|    Baltasar Torres Garcia     |    Digital Talent Agency     |   9   | 0.222 |
-+-------------------------------+------------------------------+-------+-------+
-|    Baltasar Torres Garcia     |        Page Personnel        |  10   | 0.214 |
-+-------------------------------+------------------------------+-------+-------+
-|             FAKE1             |          UXSmobile           |   0   | 0.181 |
-+-------------------------------+------------------------------+-------+-------+
-|             FAKE1             |            Kabel             |   1   | 0.185 |
-+-------------------------------+------------------------------+-------+-------+
-|             FAKE1             |           Deloitte           |   2   | 0.155 |
-+-------------------------------+------------------------------+-------+-------+
-|             FAKE1             |           Alterna            |   4   | 0.667 |
-+-------------------------------+------------------------------+-------+-------+
-|             FAKE1             |         Influencity          |   5   | 0.449 |
-+-------------------------------+------------------------------+-------+-------+
-|             FAKE1             |          BuscoExtra          |   6   | 0.327 |
-+-------------------------------+------------------------------+-------+-------+
-|             FAKE1             |          Mintyhost           |   7   | 0.27  |
-+-------------------------------+------------------------------+-------+-------+
-|             FAKE1             |           Cires21            |   8   | 0.23  |
-+-------------------------------+------------------------------+-------+-------+
-|             FAKE1             |            VT-LAB            |   9   | 0.224 |
-+-------------------------------+------------------------------+-------+-------+
-|             FAKE1             |           Flexicar           |  10   | 0.222 |
-+-------------------------------+------------------------------+-------+-------+
-|             FAKE2             |            Kabel             |   0   | 0.185 |
-+-------------------------------+------------------------------+-------+-------+
-|             FAKE2             |           Minsait            |   1   | 0.167 |
-+-------------------------------+------------------------------+-------+-------+
-|             FAKE2             |             BICG             |   2   | 0.167 |
-+-------------------------------+------------------------------+-------+-------+
-|             FAKE2             |  Optimissa Capital Markets   |   3   | 0.146 |
-+-------------------------------+------------------------------+-------+-------+
-|             FAKE2             |           Alterna            |   5   | 0.667 |
-+-------------------------------+------------------------------+-------+-------+
-|             FAKE2             |            NEORIS            |   6   | 0.348 |
-+-------------------------------+------------------------------+-------+-------+
-|             FAKE2             |          BuscoExtra          |   7   | 0.327 |
-+-------------------------------+------------------------------+-------+-------+
-|             FAKE2             |          Mintyhost           |   8   | 0.27  |
-+-------------------------------+------------------------------+-------+-------+
-|             FAKE2             |       The Phone House        |   9   | 0.26  |
-+-------------------------------+------------------------------+-------+-------+
-|             FAKE2             |            VT-LAB            |  10   | 0.224 |
+|    Baltasar Torres Garcia     |            ONEBOX            |   9   | 0.196 |
 +-------------------------------+------------------------------+-------+-------+

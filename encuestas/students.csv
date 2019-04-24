@@ -1,4 +1,4 @@
-name,english,spanish,portuguese,french,dutch,catalan,location,offsite,position,java,caspnet,python,php,sql,angular,vue,firebase,aws,dockerkubernetes,design,motivation,coachability,"From this list of soft skills, please rank in order the ones you consider you're stronger at [Teamwork: I'm able to receive and provide value in a team environment]"
+name,english,spanish,portuguese,french,dutch,catalan,location,offsite,position,java,caspnet,python,php,sql,angular,vue,firebase,aws,dockerkubernetes,design,motivation,coachability,teamwork
 Maria Cristina Blanco,5,5,1,2,1,1,3,2,9,1,1,1,1,1,1,1,1,1,1,3,1,2,3
 Eugenio Ruiz Cepeda,2,5,1,1,1,1,1,2,5,1,1,2,1,1,1,1,1,1,1,2,3,2,1
 Moisés García Almeida,3,5,1,1,1,3,2,2,4,1,1,1,1,3,1,1,2,2,1,2,2,3,1
@@ -23,9 +23,8 @@ Javier Pérez-Chao Rodríguez,3,5,1,2,1,1,1,2,5,2,2,2,2,2,2,1,2,2,1,2,1,2,3
 Jaime Jacobo Rodríguez del Valle,5,5,1,1,1,1,3,2,7,2,1,3,1,2,1,1,1,1,1,3,1,3,2
 Patricia Defez Díaz de Sarralde,3,5,1,3,1,1,1,2,5,1,1,1,1,1,1,2,1,1,1,1,1,2,3
 Isabel Rodríguez Godoy,3,5,1,2,1,1,3,1,5,1,1,2,1,1,1,2,1,1,1,3,1,3,2
+Roberto Muñoz Aragón,3,5,1,1,1,1,1,1,8,1,1,1,1,1,1,1,1,1,2,3,3,1,2
 Sofia Jordan,5,4,5,3,1,1,3,4,8,1,1,1,1,1,1,1,1,1,1,1,1,3,2
 Alfonso Silva Feria,4,5,1,2,1,1,1,2,4,1,1,2,1,3,1,1,1,1,1,2,2,1,3
 Alfredo Hinarejos Corbeá,3,5,1,1,1,5,1,2,8,1,1,1,1,1,1,1,1,1,1,3,1,2,3
 Baltasar Torres Garcia,2,5,1,1,1,1,1,2,9,1,1,1,1,1,1,1,1,1,1,2,2,1,3
-FAKE1,2,5,1,1,1,1,1,2,9,1,1,1,1,1,1,1,1,1,1,2,2,1,3
-FAKE2,2,5,1,1,1,1,1,2,9,1,1,1,1,1,1,1,1,1,1,2,2,1,3
