@@ -30,6 +30,10 @@ CSV_EST = ./encuestas/<fichero_estudiantes.csv>
 N = Número de rondas deseadas
 ```
 
+## Mejoras. Reunión outcomes
+
+screenshots
+3 views: desde companies, desde students, matriz cruzada con rondas. 
 
 
 

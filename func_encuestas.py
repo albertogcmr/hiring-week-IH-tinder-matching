@@ -137,7 +137,7 @@ def translate_hardskills(x):
     }
     return DIC_RESP_HARDSKILLS.get(x, 0) # 0 default
     
-def translate_csv(path, dic): 
+def web_translate_csv(path, dic): 
     df = pd.read_csv(path, sep=',') # abrimos el csv
     df.columns = df.columns.str.strip() # limpiamos las columnas de posibles terminadores \r\n
     

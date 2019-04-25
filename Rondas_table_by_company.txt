@@ -1,429 +1,429 @@
 +-------------------------------+-------+------------------------------+-------+
 |            company            | ronda |           student            | match |
 +-------------------------------+-------+------------------------------+-------+
-|            Movetia            |   0   |    Francisco Leston Ramos    | 0.171 |
+|            Movetia            |   0   |     Eugenio Ruiz Cepeda      | 0.151 |
 +-------------------------------+-------+------------------------------+-------+
-|            Movetia            |   1   |  Verónica Celemín Lominchar  | 0.169 |
+|            Movetia            |   1   |    Baltasar Torres Garcia    | 0.148 |
 +-------------------------------+-------+------------------------------+-------+
-|            Movetia            |   2   |     Enrique Anaya Marin      | 0.16  |
+|            Movetia            |   2   | Javier Pérez-Chao Rodríguez  | 0.22  |
 +-------------------------------+-------+------------------------------+-------+
-|            Movetia            |   3   | Javier Pérez-Chao Rodríguez  | 0.22  |
+|            Movetia            |   3   |      Sergio Ortega Gil       | 0.17  |
 +-------------------------------+-------+------------------------------+-------+
-|            Movetia            |   4   |  Abel Colmenares Napolitano  | 0.142 |
+|            Movetia            |   4   |     Alfonso Silva Feria      | 0.161 |
 +-------------------------------+-------+------------------------------+-------+
-|            Movetia            |   5   |    Dan Mihai Grigoriciuc     | 0.155 |
+|            Movetia            |   5   |    Nira Alonso Rodríguez     | 0.149 |
 +-------------------------------+-------+------------------------------+-------+
-|            Movetia            |   6   |     Eugenio Ruiz Cepeda      | 0.151 |
+|            Movetia            |   6   |  Verónica Celemín Lominchar  | 0.169 |
 +-------------------------------+-------+------------------------------+-------+
-|            Movetia            |   7   | Jaime Jacobo Rodríguez del V | 0.171 |
+|            Movetia            |   7   | Maria Isabel Llanes Agudelo  | 0.153 |
++-------------------------------+-------+------------------------------+-------+
+|            Movetia            |   8   |    Isabel Rodríguez Godoy    | 0.161 |
++-------------------------------+-------+------------------------------+-------+
+|            Movetia            |   9   |     Roberto Muñoz Aragón     | 0.153 |
++-------------------------------+-------+------------------------------+-------+
+|            Movetia            |  10   |        Thilo Sperber         | 0.148 |
++-------------------------------+-------+------------------------------+-------+
+|           Exoticca            |   0   |    Isabel Rodríguez Godoy    | 0.177 |
++-------------------------------+-------+------------------------------+-------+
+|           Exoticca            |   1   |   Daniel Herrero Hernando    | 0.274 |
++-------------------------------+-------+------------------------------+-------+
+|           Exoticca            |   2   |         Sofia Jordan         | 0.167 |
++-------------------------------+-------+------------------------------+-------+
+|           Exoticca            |   3   | Jaime Jacobo Rodríguez del V | 0.193 |
 |                               |       |             alle             |       |
 +-------------------------------+-------+------------------------------+-------+
-|            Movetia            |   8   |   Alfredo Hinarejos Corbeá   | 0.149 |
+|           Exoticca            |   4   |  Abel Colmenares Napolitano  | 0.166 |
 +-------------------------------+-------+------------------------------+-------+
-|            Movetia            |   9   |    Javier Requejo Melchor    | 0.154 |
+|           Exoticca            |   5   |    Maria Cristina Blanco     | 0.17  |
 +-------------------------------+-------+------------------------------+-------+
-|            Movetia            |  10   |      Sergio Ortega Gil       | 0.17  |
+|           Exoticca            |   6   |    Carlos Martínez Crespo    | 0.209 |
 +-------------------------------+-------+------------------------------+-------+
-|           Exoticca            |   0   | Javier Pérez-Chao Rodríguez  | 0.301 |
+|           Exoticca            |   7   |     Mario Quiroga Cuervo     | 0.193 |
 +-------------------------------+-------+------------------------------+-------+
-|           Exoticca            |   1   |    Javier Requejo Melchor    | 0.182 |
+|           Exoticca            |   8   |    Francisco Leston Ramos    | 0.181 |
 +-------------------------------+-------+------------------------------+-------+
-|           Exoticca            |   2   |    Maria Cristina Blanco     | 0.17  |
+|           Exoticca            |   9   |    Javier Requejo Melchor    | 0.182 |
 +-------------------------------+-------+------------------------------+-------+
-|           Exoticca            |   3   |        Nerea Aparicio        | 0.17  |
+|           Exoticca            |  10   |    Rodrigo Otero Montero     | 0.19  |
 +-------------------------------+-------+------------------------------+-------+
-|           Exoticca            |   4   |    Carlos Martínez Crespo    | 0.209 |
+|      The Hotels Network       |   0   |     Enrique Anaya Marin      | 0.209 |
 +-------------------------------+-------+------------------------------+-------+
-|           Exoticca            |   5   |     Mario Quiroga Cuervo     | 0.193 |
+|      The Hotels Network       |   1   |     Mario Quiroga Cuervo     | 0.238 |
 +-------------------------------+-------+------------------------------+-------+
-|           Exoticca            |   6   | Patricia Defez Díaz de Sarra | 0.169 |
-|                               |       |             lde              |       |
+|      The Hotels Network       |   2   |    Isabel Rodríguez Godoy    | 0.218 |
 +-------------------------------+-------+------------------------------+-------+
-|           Exoticca            |   7   |     Enrique Anaya Marin      | 0.186 |
+|      The Hotels Network       |   3   |    Baltasar Torres Garcia    | 0.199 |
 +-------------------------------+-------+------------------------------+-------+
-|           Exoticca            |   8   | Carlos Eduardo Lores Hernánd | 0.169 |
-|                               |       |             ez               |       |
-+-------------------------------+-------+------------------------------+-------+
-|           Exoticca            |   9   |      Sergio Ortega Gil       | 0.204 |
-+-------------------------------+-------+------------------------------+-------+
-|           Exoticca            |  10   |    Dan Mihai Grigoriciuc     | 0.181 |
-+-------------------------------+-------+------------------------------+-------+
-|      The Hotels Network       |   0   | Patricia Defez Díaz de Sarra | 0.202 |
-|                               |       |             lde              |       |
-+-------------------------------+-------+------------------------------+-------+
-|      The Hotels Network       |   1   |    Baltasar Torres Garcia    | 0.199 |
-+-------------------------------+-------+------------------------------+-------+
-|      The Hotels Network       |   2   |        Thilo Sperber         | 0.199 |
-+-------------------------------+-------+------------------------------+-------+
-|      The Hotels Network       |   3   |     Eugenio Ruiz Cepeda      | 0.209 |
-+-------------------------------+-------+------------------------------+-------+
-|      The Hotels Network       |   4   |    Maria Cristina Blanco     | 0.203 |
+|      The Hotels Network       |   4   |        Thilo Sperber         | 0.199 |
 +-------------------------------+-------+------------------------------+-------+
 |      The Hotels Network       |   5   |        Nerea Aparicio        | 0.204 |
 +-------------------------------+-------+------------------------------+-------+
-|      The Hotels Network       |   6   |    Isabel Rodríguez Godoy    | 0.218 |
-+-------------------------------+-------+------------------------------+-------+
-|      The Hotels Network       |   7   |     Mario Quiroga Cuervo     | 0.238 |
-+-------------------------------+-------+------------------------------+-------+
-|      The Hotels Network       |   8   |   Daniel Herrero Hernando    | 0.294 |
-+-------------------------------+-------+------------------------------+-------+
-|      The Hotels Network       |   9   |    Nira Alonso Rodríguez     | 0.204 |
-+-------------------------------+-------+------------------------------+-------+
-|      The Hotels Network       |  10   | Carlos Eduardo Lores Hernánd | 0.202 |
-|                               |       |             ez               |       |
-+-------------------------------+-------+------------------------------+-------+
-|       Volcanic Internet       |   0   |        Nerea Aparicio        | 0.195 |
-+-------------------------------+-------+------------------------------+-------+
-|       Volcanic Internet       |   1   |    Carlos Martínez Crespo    | 0.276 |
-+-------------------------------+-------+------------------------------+-------+
-|       Volcanic Internet       |   2   |    Daniel García Martínez    | 0.197 |
-+-------------------------------+-------+------------------------------+-------+
-|       Volcanic Internet       |   3   |      Sergio Ortega Gil       | 0.257 |
-+-------------------------------+-------+------------------------------+-------+
-|       Volcanic Internet       |   4   |     Roberto Muñoz Aragón     | 0.197 |
-+-------------------------------+-------+------------------------------+-------+
-|       Volcanic Internet       |   5   | Maria Isabel Llanes Agudelo  | 0.208 |
-+-------------------------------+-------+------------------------------+-------+
-|       Volcanic Internet       |   6   |    Javier Requejo Melchor    | 0.201 |
-+-------------------------------+-------+------------------------------+-------+
-|       Volcanic Internet       |   7   |     Alfonso Silva Feria      | 0.223 |
-+-------------------------------+-------+------------------------------+-------+
-|       Volcanic Internet       |   8   | Patricia Defez Díaz de Sarra | 0.195 |
+|      The Hotels Network       |   6   | Patricia Defez Díaz de Sarra | 0.202 |
 |                               |       |             lde              |       |
 +-------------------------------+-------+------------------------------+-------+
-|       Volcanic Internet       |   9   | Jaime Jacobo Rodríguez del V | 0.225 |
+|      The Hotels Network       |   7   |     Eugenio Ruiz Cepeda      | 0.209 |
++-------------------------------+-------+------------------------------+-------+
+|      The Hotels Network       |   8   |    Moisés García Almeida     | 0.251 |
++-------------------------------+-------+------------------------------+-------+
+|      The Hotels Network       |   9   |    Daniel García Martínez    | 0.202 |
++-------------------------------+-------+------------------------------+-------+
+|      The Hotels Network       |  10   |    Maria Cristina Blanco     | 0.203 |
++-------------------------------+-------+------------------------------+-------+
+|       Volcanic Internet       |   0   |    Carlos Martínez Crespo    | 0.276 |
++-------------------------------+-------+------------------------------+-------+
+|       Volcanic Internet       |   1   | Maria Isabel Llanes Agudelo  | 0.208 |
++-------------------------------+-------+------------------------------+-------+
+|       Volcanic Internet       |   2   |    Francisco Leston Ramos    | 0.226 |
++-------------------------------+-------+------------------------------+-------+
+|       Volcanic Internet       |   3   |  Verónica Celemín Lominchar  | 0.216 |
++-------------------------------+-------+------------------------------+-------+
+|       Volcanic Internet       |   4   |    Daniel García Martínez    | 0.197 |
++-------------------------------+-------+------------------------------+-------+
+|       Volcanic Internet       |   5   | Jaime Jacobo Rodríguez del V | 0.225 |
 |                               |       |             alle             |       |
 +-------------------------------+-------+------------------------------+-------+
-|       Volcanic Internet       |  10   |    Francisco Leston Ramos    | 0.226 |
+|       Volcanic Internet       |   6   |    Dan Mihai Grigoriciuc     | 0.216 |
 +-------------------------------+-------+------------------------------+-------+
-|      CAPITOLE CONSULTING      |   0   |     Alfonso Silva Feria      | 0.156 |
+|       Volcanic Internet       |   7   |    Rodrigo Otero Montero     | 0.214 |
 +-------------------------------+-------+------------------------------+-------+
-|      CAPITOLE CONSULTING      |   1   |   Daniel Herrero Hernando    | 0.244 |
+|       Volcanic Internet       |   8   |        Nerea Aparicio        | 0.195 |
 +-------------------------------+-------+------------------------------+-------+
-|      CAPITOLE CONSULTING      |   2   |    Nira Alonso Rodríguez     | 0.145 |
+|       Volcanic Internet       |   9   |  Abel Colmenares Napolitano  | 0.187 |
++-------------------------------+-------+------------------------------+-------+
+|       Volcanic Internet       |  10   |      Sergio Ortega Gil       | 0.257 |
++-------------------------------+-------+------------------------------+-------+
+|      CAPITOLE CONSULTING      |   0   |    Maria Cristina Blanco     | 0.15  |
++-------------------------------+-------+------------------------------+-------+
+|      CAPITOLE CONSULTING      |   1   |    Carlos Martínez Crespo    | 0.168 |
++-------------------------------+-------+------------------------------+-------+
+|      CAPITOLE CONSULTING      |   2   |     Mario Quiroga Cuervo     | 0.168 |
 +-------------------------------+-------+------------------------------+-------+
 |      CAPITOLE CONSULTING      |   3   | Carlos Eduardo Lores Hernánd | 0.145 |
 |                               |       |             ez               |       |
 +-------------------------------+-------+------------------------------+-------+
-|      CAPITOLE CONSULTING      |   4   |    Moisés García Almeida     | 0.173 |
+|      CAPITOLE CONSULTING      |   4   |    Javier Requejo Melchor    | 0.149 |
 +-------------------------------+-------+------------------------------+-------+
 |      CAPITOLE CONSULTING      |   5   |    Rodrigo Otero Montero     | 0.163 |
 +-------------------------------+-------+------------------------------+-------+
-|      CAPITOLE CONSULTING      |   6   |         Sofia Jordan         | 0.141 |
+|      CAPITOLE CONSULTING      |   6   |     Enrique Anaya Marin      | 0.154 |
 +-------------------------------+-------+------------------------------+-------+
-|      CAPITOLE CONSULTING      |   7   |    Baltasar Torres Garcia    | 0.145 |
+|      CAPITOLE CONSULTING      |   7   |  Abel Colmenares Napolitano  | 0.141 |
 +-------------------------------+-------+------------------------------+-------+
-|      CAPITOLE CONSULTING      |   8   |    Daniel García Martínez    | 0.147 |
+|      CAPITOLE CONSULTING      |   8   |     Eugenio Ruiz Cepeda      | 0.147 |
 +-------------------------------+-------+------------------------------+-------+
-|      CAPITOLE CONSULTING      |   9   |        Thilo Sperber         | 0.145 |
+|      CAPITOLE CONSULTING      |   9   |    Baltasar Torres Garcia    | 0.145 |
 +-------------------------------+-------+------------------------------+-------+
-|      CAPITOLE CONSULTING      |  10   |    Maria Cristina Blanco     | 0.15  |
+|      CAPITOLE CONSULTING      |  10   | Javier Pérez-Chao Rodríguez  | 0.216 |
 +-------------------------------+-------+------------------------------+-------+
-|         Farmaconnect          |   0   | Carlos Eduardo Lores Hernánd | 0.182 |
-|                               |       |             ez               |       |
-+-------------------------------+-------+------------------------------+-------+
-|         Farmaconnect          |   1   | Jaime Jacobo Rodríguez del V | 0.232 |
+|         Farmaconnect          |   0   | Jaime Jacobo Rodríguez del V | 0.232 |
 |                               |       |             alle             |       |
 +-------------------------------+-------+------------------------------+-------+
-|         Farmaconnect          |   2   |     Alfonso Silva Feria      | 0.208 |
+|         Farmaconnect          |   1   |     Alfonso Silva Feria      | 0.208 |
 +-------------------------------+-------+------------------------------+-------+
-|         Farmaconnect          |   3   |  Verónica Celemín Lominchar  | 0.218 |
+|         Farmaconnect          |   2   |   Alfredo Hinarejos Corbeá   | 0.186 |
++-------------------------------+-------+------------------------------+-------+
+|         Farmaconnect          |   3   |    Carlos Martínez Crespo    | 0.251 |
 +-------------------------------+-------+------------------------------+-------+
 |         Farmaconnect          |   4   |    Rodrigo Otero Montero     | 0.227 |
 +-------------------------------+-------+------------------------------+-------+
-|         Farmaconnect          |   5   |        Thilo Sperber         | 0.18  |
+|         Farmaconnect          |   5   |      Sergio Ortega Gil       | 0.252 |
 +-------------------------------+-------+------------------------------+-------+
-|         Farmaconnect          |   6   |    Carlos Martínez Crespo    | 0.251 |
+|         Farmaconnect          |   6   |    Javier Requejo Melchor    | 0.198 |
 +-------------------------------+-------+------------------------------+-------+
-|         Farmaconnect          |   7   |    Dan Mihai Grigoriciuc     | 0.212 |
+|         Farmaconnect          |   7   |        Thilo Sperber         | 0.18  |
 +-------------------------------+-------+------------------------------+-------+
-|         Farmaconnect          |   8   |        Nerea Aparicio        | 0.183 |
+|         Farmaconnect          |   8   |  Verónica Celemín Lominchar  | 0.218 |
 +-------------------------------+-------+------------------------------+-------+
-|         Farmaconnect          |   9   |    Isabel Rodríguez Godoy    | 0.188 |
+|         Farmaconnect          |   9   |    Dan Mihai Grigoriciuc     | 0.212 |
 +-------------------------------+-------+------------------------------+-------+
-|         Farmaconnect          |  10   |   Alfredo Hinarejos Corbeá   | 0.186 |
+|         Farmaconnect          |  10   |    Isabel Rodríguez Godoy    | 0.188 |
 +-------------------------------+-------+------------------------------+-------+
-|           C14TORCE            |   0   |    Javier Requejo Melchor    | 0.226 |
+|           C14TORCE            |   0   |   Daniel Herrero Hernando    | 0.426 |
 +-------------------------------+-------+------------------------------+-------+
-|           C14TORCE            |   1   |    Maria Cristina Blanco     | 0.228 |
+|           C14TORCE            |   1   |        Thilo Sperber         | 0.222 |
 +-------------------------------+-------+------------------------------+-------+
-|           C14TORCE            |   2   | Carlos Eduardo Lores Hernánd | 0.224 |
+|           C14TORCE            |   2   |        Nerea Aparicio        | 0.228 |
++-------------------------------+-------+------------------------------+-------+
+|           C14TORCE            |   3   |     Alfonso Silva Feria      | 0.231 |
++-------------------------------+-------+------------------------------+-------+
+|           C14TORCE            |   4   |   Alfredo Hinarejos Corbeá   | 0.226 |
++-------------------------------+-------+------------------------------+-------+
+|           C14TORCE            |   5   |    Moisés García Almeida     | 0.298 |
++-------------------------------+-------+------------------------------+-------+
+|           C14TORCE            |   6   |    Daniel García Martínez    | 0.226 |
++-------------------------------+-------+------------------------------+-------+
+|           C14TORCE            |   7   |    Isabel Rodríguez Godoy    | 0.238 |
++-------------------------------+-------+------------------------------+-------+
+|           C14TORCE            |   8   |     Roberto Muñoz Aragón     | 0.23  |
++-------------------------------+-------+------------------------------+-------+
+|           C14TORCE            |   9   | Javier Pérez-Chao Rodríguez  | 0.366 |
++-------------------------------+-------+------------------------------+-------+
+|           C14TORCE            |  10   | Carlos Eduardo Lores Hernánd | 0.224 |
 |                               |       |             ez               |       |
 +-------------------------------+-------+------------------------------+-------+
-|           C14TORCE            |   3   |    Isabel Rodríguez Godoy    | 0.238 |
+|             AKKA              |   0   |    Javier Requejo Melchor    | 0.466 |
 +-------------------------------+-------+------------------------------+-------+
-|           C14TORCE            |   4   |     Mario Quiroga Cuervo     | 0.309 |
+|             AKKA              |   1   |    Nira Alonso Rodríguez     | 0.355 |
 +-------------------------------+-------+------------------------------+-------+
-|           C14TORCE            |   5   |   Daniel Herrero Hernando    | 0.426 |
+|             AKKA              |   2   |  Verónica Celemín Lominchar  | 0.536 |
 +-------------------------------+-------+------------------------------+-------+
-|           C14TORCE            |   6   |     Roberto Muñoz Aragón     | 0.23  |
+|             AKKA              |   3   |  Abel Colmenares Napolitano  | 0.426 |
 +-------------------------------+-------+------------------------------+-------+
-|           C14TORCE            |   7   |        Thilo Sperber         | 0.222 |
+|             AKKA              |   4   |     Eugenio Ruiz Cepeda      | 0.345 |
 +-------------------------------+-------+------------------------------+-------+
-|           C14TORCE            |   8   |  Verónica Celemín Lominchar  | 0.234 |
+|             AKKA              |   5   |     Roberto Muñoz Aragón     | 0.431 |
 +-------------------------------+-------+------------------------------+-------+
-|           C14TORCE            |   9   |     Enrique Anaya Marin      | 0.228 |
+|             AKKA              |   6   |         Sofia Jordan         | 0.385 |
 +-------------------------------+-------+------------------------------+-------+
-|           C14TORCE            |  10   |        Nerea Aparicio        | 0.228 |
+|             AKKA              |   7   | Jaime Jacobo Rodríguez del V | 0.445 |
+|                               |       |             alle             |       |
 +-------------------------------+-------+------------------------------+-------+
-|             AKKA              |   0   |  Abel Colmenares Napolitano  | 0.426 |
+|             AKKA              |   8   |    Dan Mihai Grigoriciuc     | 0.374 |
 +-------------------------------+-------+------------------------------+-------+
-|             AKKA              |   1   |   Alfredo Hinarejos Corbeá   | 0.376 |
+|             AKKA              |   9   |    Maria Cristina Blanco     | 0.397 |
 +-------------------------------+-------+------------------------------+-------+
-|             AKKA              |   2   |     Eugenio Ruiz Cepeda      | 0.345 |
+|             AKKA              |  10   |     Enrique Anaya Marin      | 0.385 |
 +-------------------------------+-------+------------------------------+-------+
-|             AKKA              |   3   |     Roberto Muñoz Aragón     | 0.431 |
-+-------------------------------+-------+------------------------------+-------+
-|             AKKA              |   4   |        Thilo Sperber         | 0.401 |
-+-------------------------------+-------+------------------------------+-------+
-|             AKKA              |   5   |      Sergio Ortega Gil       | 0.45  |
-+-------------------------------+-------+------------------------------+-------+
-|             AKKA              |   6   |    Maria Cristina Blanco     | 0.397 |
-+-------------------------------+-------+------------------------------+-------+
-|             AKKA              |   7   | Carlos Eduardo Lores Hernánd | 0.326 |
-|                               |       |             ez               |       |
-+-------------------------------+-------+------------------------------+-------+
-|             AKKA              |   8   |    Moisés García Almeida     | 0.327 |
-+-------------------------------+-------+------------------------------+-------+
-|             AKKA              |   9   |     Mario Quiroga Cuervo     | 0.374 |
-+-------------------------------+-------+------------------------------+-------+
-|             AKKA              |  10   |  Verónica Celemín Lominchar  | 0.536 |
-+-------------------------------+-------+------------------------------+-------+
-| Bit Genoma Digital Solutions  |   0   |    Isabel Rodríguez Godoy    | 0.376 |
+| Bit Genoma Digital Solutions  |   0   |     Alfonso Silva Feria      | 0.374 |
 |              SL               |       |                              |       |
 +-------------------------------+-------+------------------------------+-------+
-| Bit Genoma Digital Solutions  |   1   |     Mario Quiroga Cuervo     | 0.449 |
+| Bit Genoma Digital Solutions  |   1   |   Alfredo Hinarejos Corbeá   | 0.387 |
 |              SL               |       |                              |       |
 +-------------------------------+-------+------------------------------+-------+
-| Bit Genoma Digital Solutions  |   2   | Patricia Defez Díaz de Sarra | 0.387 |
-|              SL               |       |             lde              |       |
-+-------------------------------+-------+------------------------------+-------+
-| Bit Genoma Digital Solutions  |   3   |    Baltasar Torres Garcia    | 0.374 |
+| Bit Genoma Digital Solutions  |   2   |     Enrique Anaya Marin      | 0.387 |
 |              SL               |       |                              |       |
 +-------------------------------+-------+------------------------------+-------+
-| Bit Genoma Digital Solutions  |   4   |    Daniel García Martínez    | 0.387 |
+| Bit Genoma Digital Solutions  |   3   |    Daniel García Martínez    | 0.387 |
 |              SL               |       |                              |       |
 +-------------------------------+-------+------------------------------+-------+
-| Bit Genoma Digital Solutions  |   5   |    Javier Requejo Melchor    | 0.387 |
+| Bit Genoma Digital Solutions  |   4   |    Isabel Rodríguez Godoy    | 0.376 |
 |              SL               |       |                              |       |
 +-------------------------------+-------+------------------------------+-------+
-| Bit Genoma Digital Solutions  |   6   |   Alfredo Hinarejos Corbeá   | 0.387 |
+| Bit Genoma Digital Solutions  |   5   |   Daniel Herrero Hernando    | 0.668 |
+|              SL               |       |                              |       |
++-------------------------------+-------+------------------------------+-------+
+| Bit Genoma Digital Solutions  |   6   |        Thilo Sperber         | 0.366 |
 |              SL               |       |                              |       |
 +-------------------------------+-------+------------------------------+-------+
 | Bit Genoma Digital Solutions  |   7   |        Nerea Aparicio        | 0.376 |
 |              SL               |       |                              |       |
 +-------------------------------+-------+------------------------------+-------+
-| Bit Genoma Digital Solutions  |   8   |  Abel Colmenares Napolitano  | 0.348 |
+| Bit Genoma Digital Solutions  |   8   | Patricia Defez Díaz de Sarra | 0.387 |
+|              SL               |       |             lde              |       |
++-------------------------------+-------+------------------------------+-------+
+| Bit Genoma Digital Solutions  |   9   |    Nira Alonso Rodríguez     | 0.348 |
 |              SL               |       |                              |       |
 +-------------------------------+-------+------------------------------+-------+
-| Bit Genoma Digital Solutions  |   9   |    Dan Mihai Grigoriciuc     | 0.387 |
+| Bit Genoma Digital Solutions  |  10   |    Moisés García Almeida     | 0.346 |
 |              SL               |       |                              |       |
 +-------------------------------+-------+------------------------------+-------+
-| Bit Genoma Digital Solutions  |  10   |     Eugenio Ruiz Cepeda      | 0.346 |
-|              SL               |       |                              |       |
+|           Norwegian           |   0   | Carlos Eduardo Lores Hernánd | 0.181 |
+|                               |       |             ez               |       |
 +-------------------------------+-------+------------------------------+-------+
-|           Norwegian           |   0   |        Thilo Sperber         | 0.179 |
+|           Norwegian           |   1   |    Dan Mihai Grigoriciuc     | 0.217 |
 +-------------------------------+-------+------------------------------+-------+
-|           Norwegian           |   1   |  Abel Colmenares Napolitano  | 0.182 |
+|           Norwegian           |   2   |    Rodrigo Otero Montero     | 0.215 |
 +-------------------------------+-------+------------------------------+-------+
-|           Norwegian           |   2   |    Dan Mihai Grigoriciuc     | 0.217 |
+|           Norwegian           |   3   |     Enrique Anaya Marin      | 0.198 |
 +-------------------------------+-------+------------------------------+-------+
-|           Norwegian           |   3   |         Sofia Jordan         | 0.183 |
+|           Norwegian           |   4   | Maria Isabel Llanes Agudelo  | 0.195 |
 +-------------------------------+-------+------------------------------+-------+
-|           Norwegian           |   4   | Jaime Jacobo Rodríguez del V | 0.22  |
-|                               |       |             alle             |       |
-+-------------------------------+-------+------------------------------+-------+
-|           Norwegian           |   5   |    Francisco Leston Ramos    | 0.198 |
+|           Norwegian           |   5   |     Eugenio Ruiz Cepeda      | 0.179 |
 +-------------------------------+-------+------------------------------+-------+
 |           Norwegian           |   6   |   Daniel Herrero Hernando    | 0.332 |
 +-------------------------------+-------+------------------------------+-------+
-|           Norwegian           |   7   |    Rodrigo Otero Montero     | 0.215 |
+|           Norwegian           |   7   |         Sofia Jordan         | 0.183 |
 +-------------------------------+-------+------------------------------+-------+
-|           Norwegian           |   8   | Maria Isabel Llanes Agudelo  | 0.195 |
-+-------------------------------+-------+------------------------------+-------+
-|           Norwegian           |   9   |    Carlos Martínez Crespo    | 0.247 |
-+-------------------------------+-------+------------------------------+-------+
-|           Norwegian           |  10   |     Mario Quiroga Cuervo     | 0.199 |
-+-------------------------------+-------+------------------------------+-------+
-|            Bluekik            |   0   |    Daniel García Martínez    | 0.169 |
-+-------------------------------+-------+------------------------------+-------+
-|            Bluekik            |   1   |      Sergio Ortega Gil       | 0.204 |
-+-------------------------------+-------+------------------------------+-------+
-|            Bluekik            |   2   |   Alfredo Hinarejos Corbeá   | 0.17  |
-+-------------------------------+-------+------------------------------+-------+
-|            Bluekik            |   3   | Maria Isabel Llanes Agudelo  | 0.18  |
-+-------------------------------+-------+------------------------------+-------+
-|            Bluekik            |   4   |    Isabel Rodríguez Godoy    | 0.177 |
-+-------------------------------+-------+------------------------------+-------+
-|            Bluekik            |   5   |     Alfonso Silva Feria      | 0.186 |
-+-------------------------------+-------+------------------------------+-------+
-|            Bluekik            |   6   |  Verónica Celemín Lominchar  | 0.186 |
-+-------------------------------+-------+------------------------------+-------+
-|            Bluekik            |   7   |     Roberto Muñoz Aragón     | 0.171 |
-+-------------------------------+-------+------------------------------+-------+
-|            Bluekik            |   8   |        Thilo Sperber         | 0.167 |
-+-------------------------------+-------+------------------------------+-------+
-|            Bluekik            |   9   |    Moisés García Almeida     | 0.215 |
-+-------------------------------+-------+------------------------------+-------+
-|            Bluekik            |  10   |    Rodrigo Otero Montero     | 0.189 |
-+-------------------------------+-------+------------------------------+-------+
-|         InboundCycle          |   0   |      Sergio Ortega Gil       |  1.0  |
-+-------------------------------+-------+------------------------------+-------+
-|         InboundCycle          |   1   |    Dan Mihai Grigoriciuc     | 0.427 |
-+-------------------------------+-------+------------------------------+-------+
-|         InboundCycle          |   2   |         Sofia Jordan         | 0.374 |
-+-------------------------------+-------+------------------------------+-------+
-|         InboundCycle          |   3   | Jaime Jacobo Rodríguez del V | 0.445 |
+|           Norwegian           |   8   | Jaime Jacobo Rodríguez del V | 0.22  |
 |                               |       |             alle             |       |
++-------------------------------+-------+------------------------------+-------+
+|           Norwegian           |   9   | Patricia Defez Díaz de Sarra | 0.181 |
+|                               |       |             lde              |       |
++-------------------------------+-------+------------------------------+-------+
+|           Norwegian           |  10   |    Nira Alonso Rodríguez     | 0.18  |
++-------------------------------+-------+------------------------------+-------+
+|            Bluekik            |   0   |    Francisco Leston Ramos    | 0.19  |
++-------------------------------+-------+------------------------------+-------+
+|            Bluekik            |   1   |     Roberto Muñoz Aragón     | 0.171 |
++-------------------------------+-------+------------------------------+-------+
+|            Bluekik            |   2   |        Thilo Sperber         | 0.167 |
++-------------------------------+-------+------------------------------+-------+
+|            Bluekik            |   3   |        Nerea Aparicio        | 0.17  |
++-------------------------------+-------+------------------------------+-------+
+|            Bluekik            |   4   |    Dan Mihai Grigoriciuc     | 0.181 |
++-------------------------------+-------+------------------------------+-------+
+|            Bluekik            |   5   |   Alfredo Hinarejos Corbeá   | 0.17  |
++-------------------------------+-------+------------------------------+-------+
+|            Bluekik            |   6   |    Moisés García Almeida     | 0.215 |
++-------------------------------+-------+------------------------------+-------+
+|            Bluekik            |   7   |    Daniel García Martínez    | 0.169 |
++-------------------------------+-------+------------------------------+-------+
+|            Bluekik            |   8   |      Sergio Ortega Gil       | 0.204 |
++-------------------------------+-------+------------------------------+-------+
+|            Bluekik            |   9   |   Daniel Herrero Hernando    | 0.253 |
++-------------------------------+-------+------------------------------+-------+
+|            Bluekik            |  10   |         Sofia Jordan         | 0.167 |
++-------------------------------+-------+------------------------------+-------+
+|         InboundCycle          |   0   |    Dan Mihai Grigoriciuc     | 0.427 |
++-------------------------------+-------+------------------------------+-------+
+|         InboundCycle          |   1   |         Sofia Jordan         | 0.374 |
++-------------------------------+-------+------------------------------+-------+
+|         InboundCycle          |   2   | Jaime Jacobo Rodríguez del V | 0.445 |
+|                               |       |             alle             |       |
++-------------------------------+-------+------------------------------+-------+
+|         InboundCycle          |   3   | Maria Isabel Llanes Agudelo  | 0.388 |
 +-------------------------------+-------+------------------------------+-------+
 |         InboundCycle          |   4   |    Francisco Leston Ramos    | 0.419 |
 +-------------------------------+-------+------------------------------+-------+
-|         InboundCycle          |   5   |  Verónica Celemín Lominchar  |  0.4  |
+|         InboundCycle          |   5   |    Baltasar Torres Garcia    | 0.376 |
 +-------------------------------+-------+------------------------------+-------+
-|         InboundCycle          |   6   |     Enrique Anaya Marin      | 0.364 |
+|         InboundCycle          |   6   | Javier Pérez-Chao Rodríguez  | 0.573 |
 +-------------------------------+-------+------------------------------+-------+
-|         InboundCycle          |   7   | Maria Isabel Llanes Agudelo  | 0.388 |
+|         InboundCycle          |   7   |      Sergio Ortega Gil       |  1.0  |
 +-------------------------------+-------+------------------------------+-------+
-|         InboundCycle          |   8   |    Carlos Martínez Crespo    | 0.502 |
+|         InboundCycle          |   8   |     Alfonso Silva Feria      | 0.388 |
 +-------------------------------+-------+------------------------------+-------+
-|         InboundCycle          |   9   |     Alfonso Silva Feria      | 0.388 |
+|         InboundCycle          |   9   |   Alfredo Hinarejos Corbeá   | 0.387 |
 +-------------------------------+-------+------------------------------+-------+
-|         InboundCycle          |  10   | Patricia Defez Díaz de Sarra | 0.364 |
-|                               |       |             lde              |       |
+|         InboundCycle          |  10   |    Carlos Martínez Crespo    | 0.502 |
 +-------------------------------+-------+------------------------------+-------+
-| Bit Genoma Digital Solutions  |   0   |   Daniel Herrero Hernando    | 0.376 |
+| Bit Genoma Digital Solutions  |   0   |    Moisés García Almeida     | 0.255 |
 +-------------------------------+-------+------------------------------+-------+
-| Bit Genoma Digital Solutions  |   1   |    Nira Alonso Rodríguez     | 0.207 |
+| Bit Genoma Digital Solutions  |   1   | Javier Pérez-Chao Rodríguez  | 0.387 |
 +-------------------------------+-------+------------------------------+-------+
-| Bit Genoma Digital Solutions  |   2   | Javier Pérez-Chao Rodríguez  | 0.387 |
+| Bit Genoma Digital Solutions  |   2   | Carlos Eduardo Lores Hernánd | 0.212 |
+|                               |       |             ez               |       |
 +-------------------------------+-------+------------------------------+-------+
-| Bit Genoma Digital Solutions  |   3   |    Moisés García Almeida     | 0.255 |
+| Bit Genoma Digital Solutions  |   3   |     Roberto Muñoz Aragón     | 0.217 |
 +-------------------------------+-------+------------------------------+-------+
-| Bit Genoma Digital Solutions  |   4   |   Alfredo Hinarejos Corbeá   | 0.212 |
+| Bit Genoma Digital Solutions  |   4   |         Sofia Jordan         | 0.204 |
 +-------------------------------+-------+------------------------------+-------+
-| Bit Genoma Digital Solutions  |   5   |         Sofia Jordan         | 0.204 |
+| Bit Genoma Digital Solutions  |   5   |     Enrique Anaya Marin      | 0.212 |
 +-------------------------------+-------+------------------------------+-------+
-| Bit Genoma Digital Solutions  |   6   |    Baltasar Torres Garcia    | 0.211 |
+| Bit Genoma Digital Solutions  |   6   |  Abel Colmenares Napolitano  |  0.2  |
 +-------------------------------+-------+------------------------------+-------+
-| Bit Genoma Digital Solutions  |   7   |    Daniel García Martínez    | 0.212 |
+| Bit Genoma Digital Solutions  |   7   |    Maria Cristina Blanco     | 0.212 |
 +-------------------------------+-------+------------------------------+-------+
-| Bit Genoma Digital Solutions  |   8   |    Javier Requejo Melchor    | 0.212 |
+| Bit Genoma Digital Solutions  |   8   |   Daniel Herrero Hernando    | 0.376 |
 +-------------------------------+-------+------------------------------+-------+
-| Bit Genoma Digital Solutions  |   9   |    Maria Cristina Blanco     | 0.212 |
+| Bit Genoma Digital Solutions  |   9   |        Thilo Sperber         | 0.209 |
 +-------------------------------+-------+------------------------------+-------+
-| Bit Genoma Digital Solutions  |  10   | Maria Isabel Llanes Agudelo  | 0.22  |
+| Bit Genoma Digital Solutions  |  10   |        Nerea Aparicio        | 0.211 |
 +-------------------------------+-------+------------------------------+-------+
-|            ONEBOX             |   0   |         Sofia Jordan         | 0.194 |
+|            ONEBOX             |   0   |  Verónica Celemín Lominchar  | 0.22  |
 +-------------------------------+-------+------------------------------+-------+
-|            ONEBOX             |   1   |     Roberto Muñoz Aragón     | 0.218 |
+|            ONEBOX             |   1   |  Abel Colmenares Napolitano  | 0.199 |
 +-------------------------------+-------+------------------------------+-------+
-|            ONEBOX             |   2   |    Rodrigo Otero Montero     | 0.205 |
+|            ONEBOX             |   2   |    Maria Cristina Blanco     | 0.195 |
 +-------------------------------+-------+------------------------------+-------+
 |            ONEBOX             |   3   |    Javier Requejo Melchor    | 0.215 |
 +-------------------------------+-------+------------------------------+-------+
-|            ONEBOX             |   4   |     Enrique Anaya Marin      | 0.209 |
+|            ONEBOX             |   4   | Patricia Defez Díaz de Sarra | 0.188 |
+|                               |       |             lde              |       |
 +-------------------------------+-------+------------------------------+-------+
-|            ONEBOX             |   5   | Carlos Eduardo Lores Hernánd | 0.187 |
-|                               |       |             ez               |       |
+|            ONEBOX             |   5   |    Isabel Rodríguez Godoy    | 0.188 |
 +-------------------------------+-------+------------------------------+-------+
-|            ONEBOX             |   6   |  Abel Colmenares Napolitano  | 0.199 |
+|            ONEBOX             |   6   |     Roberto Muñoz Aragón     | 0.218 |
 +-------------------------------+-------+------------------------------+-------+
 |            ONEBOX             |   7   |   Alfredo Hinarejos Corbeá   | 0.198 |
 +-------------------------------+-------+------------------------------+-------+
-|            ONEBOX             |   8   |     Eugenio Ruiz Cepeda      | 0.192 |
+|            ONEBOX             |   8   |    Baltasar Torres Garcia    | 0.196 |
 +-------------------------------+-------+------------------------------+-------+
-|            ONEBOX             |   9   |    Baltasar Torres Garcia    | 0.196 |
+|            ONEBOX             |   9   |     Alfonso Silva Feria      | 0.188 |
 +-------------------------------+-------+------------------------------+-------+
-|            ONEBOX             |  10   |        Thilo Sperber         | 0.194 |
+|            ONEBOX             |  10   |     Eugenio Ruiz Cepeda      | 0.192 |
 +-------------------------------+-------+------------------------------+-------+
-|            Atomian            |   0   |  Verónica Celemín Lominchar  | 0.257 |
+|            Atomian            |   0   |    Baltasar Torres Garcia    | 0.214 |
 +-------------------------------+-------+------------------------------+-------+
-|            Atomian            |   1   |     Enrique Anaya Marin      | 0.22  |
+|            Atomian            |   1   |    Daniel García Martínez    | 0.212 |
 +-------------------------------+-------+------------------------------+-------+
-|            Atomian            |   2   | Maria Isabel Llanes Agudelo  | 0.233 |
+|            Atomian            |   2   |      Sergio Ortega Gil       | 0.301 |
 +-------------------------------+-------+------------------------------+-------+
-|            Atomian            |   3   |  Abel Colmenares Napolitano  | 0.206 |
+|            Atomian            |   3   |    Dan Mihai Grigoriciuc     | 0.237 |
 +-------------------------------+-------+------------------------------+-------+
-|            Atomian            |   4   |    Dan Mihai Grigoriciuc     | 0.237 |
+|            Atomian            |   4   |    Nira Alonso Rodríguez     | 0.215 |
 +-------------------------------+-------+------------------------------+-------+
-|            Atomian            |   5   |     Eugenio Ruiz Cepeda      | 0.214 |
+|            Atomian            |   5   |  Verónica Celemín Lominchar  | 0.257 |
 +-------------------------------+-------+------------------------------+-------+
-|            Atomian            |   6   | Jaime Jacobo Rodríguez del V | 0.249 |
-|                               |       |             alle             |       |
+|            Atomian            |   6   | Maria Isabel Llanes Agudelo  | 0.233 |
 +-------------------------------+-------+------------------------------+-------+
 |            Atomian            |   7   |    Francisco Leston Ramos    | 0.24  |
 +-------------------------------+-------+------------------------------+-------+
-|            Atomian            |   8   |      Sergio Ortega Gil       | 0.301 |
+|            Atomian            |   8   |    Carlos Martínez Crespo    | 0.328 |
 +-------------------------------+-------+------------------------------+-------+
 |            Atomian            |   9   |    Rodrigo Otero Montero     | 0.251 |
 +-------------------------------+-------+------------------------------+-------+
-|            Atomian            |  10   | Javier Pérez-Chao Rodríguez  | 0.33  |
+|            Atomian            |  10   | Jaime Jacobo Rodríguez del V | 0.249 |
+|                               |       |             alle             |       |
 +-------------------------------+-------+------------------------------+-------+
-|             SEAT              |   0   |     Eugenio Ruiz Cepeda      |  0.2  |
+|             SEAT              |   0   |        Nerea Aparicio        | 0.196 |
 +-------------------------------+-------+------------------------------+-------+
-|             SEAT              |   1   |    Isabel Rodríguez Godoy    | 0.209 |
+|             SEAT              |   1   | Patricia Defez Díaz de Sarra | 0.194 |
+|                               |       |             lde              |       |
 +-------------------------------+-------+------------------------------+-------+
-|             SEAT              |   2   |    Francisco Leston Ramos    | 0.217 |
+|             SEAT              |   2   |     Eugenio Ruiz Cepeda      |  0.2  |
 +-------------------------------+-------+------------------------------+-------+
 |             SEAT              |   3   |   Daniel Herrero Hernando    | 0.355 |
 +-------------------------------+-------+------------------------------+-------+
-|             SEAT              |   4   |    Nira Alonso Rodríguez     | 0.195 |
+|             SEAT              |   4   | Javier Pérez-Chao Rodríguez  | 0.348 |
 +-------------------------------+-------+------------------------------+-------+
-|             SEAT              |   5   | Javier Pérez-Chao Rodríguez  | 0.348 |
+|             SEAT              |   5   | Carlos Eduardo Lores Hernánd | 0.194 |
+|                               |       |             ez               |       |
 +-------------------------------+-------+------------------------------+-------+
-|             SEAT              |   6   |    Moisés García Almeida     | 0.249 |
+|             SEAT              |   6   |     Alfonso Silva Feria      | 0.205 |
 +-------------------------------+-------+------------------------------+-------+
-|             SEAT              |   7   |    Maria Cristina Blanco     | 0.196 |
+|             SEAT              |   7   |    Nira Alonso Rodríguez     | 0.195 |
 +-------------------------------+-------+------------------------------+-------+
-|             SEAT              |   8   |         Sofia Jordan         | 0.192 |
+|             SEAT              |   8   |     Enrique Anaya Marin      | 0.208 |
 +-------------------------------+-------+------------------------------+-------+
-|             SEAT              |   9   |     Roberto Muñoz Aragón     | 0.198 |
+|             SEAT              |   9   |     Mario Quiroga Cuervo     | 0.238 |
 +-------------------------------+-------+------------------------------+-------+
-|             SEAT              |  10   |    Daniel García Martínez    | 0.195 |
+|             SEAT              |  10   |    Francisco Leston Ramos    | 0.217 |
 +-------------------------------+-------+------------------------------+-------+
-|        Project Lobster        |   0   |    Moisés García Almeida     | 0.364 |
+|        Project Lobster        |   0   |     Roberto Muñoz Aragón     | 0.341 |
 +-------------------------------+-------+------------------------------+-------+
 |        Project Lobster        |   1   |    Rodrigo Otero Montero     | 0.361 |
 +-------------------------------+-------+------------------------------+-------+
-|        Project Lobster        |   2   |        Nerea Aparicio        | 0.315 |
+|        Project Lobster        |   2   |    Moisés García Almeida     | 0.364 |
 +-------------------------------+-------+------------------------------+-------+
-|        Project Lobster        |   3   |    Carlos Martínez Crespo    | 0.397 |
-+-------------------------------+-------+------------------------------+-------+
-|        Project Lobster        |   4   |     Alfonso Silva Feria      | 0.374 |
-+-------------------------------+-------+------------------------------+-------+
-|        Project Lobster        |   5   | Patricia Defez Díaz de Sarra | 0.315 |
+|        Project Lobster        |   3   | Patricia Defez Díaz de Sarra | 0.315 |
 |                               |       |             lde              |       |
 +-------------------------------+-------+------------------------------+-------+
-|        Project Lobster        |   6   |    Nira Alonso Rodríguez     | 0.333 |
+|        Project Lobster        |   4   |    Maria Cristina Blanco     | 0.315 |
 +-------------------------------+-------+------------------------------+-------+
-|        Project Lobster        |   7   | Javier Pérez-Chao Rodríguez  |  0.4  |
+|        Project Lobster        |   5   |    Carlos Martínez Crespo    | 0.397 |
 +-------------------------------+-------+------------------------------+-------+
-|        Project Lobster        |   8   |    Isabel Rodríguez Godoy    | 0.348 |
+|        Project Lobster        |   6   |     Mario Quiroga Cuervo     | 0.315 |
 +-------------------------------+-------+------------------------------+-------+
-|        Project Lobster        |   9   |   Alfredo Hinarejos Corbeá   | 0.315 |
+|        Project Lobster        |   7   | Carlos Eduardo Lores Hernánd | 0.309 |
+|                               |       |             ez               |       |
 +-------------------------------+-------+------------------------------+-------+
-|        Project Lobster        |  10   |         Sofia Jordan         | 0.289 |
+|        Project Lobster        |   8   |    Javier Requejo Melchor    | 0.315 |
 +-------------------------------+-------+------------------------------+-------+
-|    Visyon (Estudio Bay SL)    |   0   | Maria Isabel Llanes Agudelo  | 0.198 |
+|        Project Lobster        |   9   |         Sofia Jordan         | 0.289 |
 +-------------------------------+-------+------------------------------+-------+
-|    Visyon (Estudio Bay SL)    |   1   |    Moisés García Almeida     | 0.249 |
+|        Project Lobster        |  10   |  Verónica Celemín Lominchar  | 0.376 |
 +-------------------------------+-------+------------------------------+-------+
-|    Visyon (Estudio Bay SL)    |   2   |     Mario Quiroga Cuervo     | 0.212 |
+|    Visyon (Estudio Bay SL)    |   0   |      Sergio Ortega Gil       | 0.219 |
 +-------------------------------+-------+------------------------------+-------+
-|    Visyon (Estudio Bay SL)    |   3   | Patricia Defez Díaz de Sarra | 0.182 |
-|                               |       |             lde              |       |
+|    Visyon (Estudio Bay SL)    |   1   |    Javier Requejo Melchor    | 0.182 |
 +-------------------------------+-------+------------------------------+-------+
-|    Visyon (Estudio Bay SL)    |   4   |    Baltasar Torres Garcia    | 0.179 |
+|    Visyon (Estudio Bay SL)    |   2   |    Nira Alonso Rodríguez     | 0.181 |
 +-------------------------------+-------+------------------------------+-------+
-|    Visyon (Estudio Bay SL)    |   5   |    Daniel García Martínez    | 0.182 |
+|    Visyon (Estudio Bay SL)    |   3   |    Moisés García Almeida     | 0.249 |
 +-------------------------------+-------+------------------------------+-------+
-|    Visyon (Estudio Bay SL)    |   6   |      Sergio Ortega Gil       | 0.219 |
+|    Visyon (Estudio Bay SL)    |   4   |     Mario Quiroga Cuervo     | 0.212 |
 +-------------------------------+-------+------------------------------+-------+
-|    Visyon (Estudio Bay SL)    |   7   |    Nira Alonso Rodríguez     | 0.181 |
+|    Visyon (Estudio Bay SL)    |   5   |    Francisco Leston Ramos    | 0.204 |
 +-------------------------------+-------+------------------------------+-------+
-|    Visyon (Estudio Bay SL)    |   8   | Javier Pérez-Chao Rodríguez  | 0.304 |
+|    Visyon (Estudio Bay SL)    |   6   |    Baltasar Torres Garcia    | 0.179 |
 +-------------------------------+-------+------------------------------+-------+
-|    Visyon (Estudio Bay SL)    |   9   |  Abel Colmenares Napolitano  | 0.177 |
+|    Visyon (Estudio Bay SL)    |   7   | Javier Pérez-Chao Rodríguez  | 0.304 |
 +-------------------------------+-------+------------------------------+-------+
-|    Visyon (Estudio Bay SL)    |  10   |     Alfonso Silva Feria      |  0.2  |
+|    Visyon (Estudio Bay SL)    |   8   | Carlos Eduardo Lores Hernánd | 0.182 |
+|                               |       |             ez               |       |
++-------------------------------+-------+------------------------------+-------+
+|    Visyon (Estudio Bay SL)    |   9   | Maria Isabel Llanes Agudelo  | 0.198 |
++-------------------------------+-------+------------------------------+-------+
+|    Visyon (Estudio Bay SL)    |  10   |   Alfredo Hinarejos Corbeá   | 0.182 |
 +-------------------------------+-------+------------------------------+-------+
