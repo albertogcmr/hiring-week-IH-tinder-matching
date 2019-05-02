@@ -1,429 +1,431 @@
 +--------+------------------------------+------------------------------+-------+
 | ronda  |           company            |           student            | match |
 +--------+------------------------------+------------------------------+-------+
-|   0    |         InboundCycle         |    Dan Mihai Grigoriciuc     | 0.427 |
+|   0    |             AKKA             |  Abel Colmenares Napolitano  | 0.426 |
 +--------+------------------------------+------------------------------+-------+
-|   0    | Bit Genoma Digital Solutions |     Alfonso Silva Feria      | 0.374 |
+|   0    |         InboundCycle         |  Verónica Celemín Lominchar  |  0.4  |
++--------+------------------------------+------------------------------+-------+
+|   0    | Bit Genoma Digital Solutions |     Roberto Muñoz Aragón     | 0.431 |
 |        |              SL              |                              |       |
 +--------+------------------------------+------------------------------+-------+
-|   0    |             AKKA             |    Javier Requejo Melchor    | 0.466 |
+|   0    |       Project Lobster        |     Enrique Anaya Marin      | 0.315 |
 +--------+------------------------------+------------------------------+-------+
-|   0    |       Project Lobster        |     Roberto Muñoz Aragón     | 0.341 |
+|   0    |           C14TORCE           |        Thilo Sperber         | 0.222 |
 +--------+------------------------------+------------------------------+-------+
-|   0    |           C14TORCE           |   Daniel Herrero Hernando    | 0.426 |
+|   0    | Bit Genoma Digital Solutions | Carlos Eduardo Lores Hernánd | 0.212 |
+|        |                              |             ez               |       |
 +--------+------------------------------+------------------------------+-------+
-|   0    |           Atomian            |    Baltasar Torres Garcia    | 0.214 |
+|   0    |             SEAT             | Javier Pérez-Chao Rodríguez  | 0.348 |
++--------+------------------------------+------------------------------+-------+
+|   0    |           Atomian            |        Nerea Aparicio        | 0.21  |
++--------+------------------------------+------------------------------+-------+
+|   0    |          Norwegian           |    Dan Mihai Grigoriciuc     | 0.217 |
++--------+------------------------------+------------------------------+-------+
+|   0    |      The Hotels Network      | Patricia Defez Díaz de Sarra | 0.202 |
+|        |                              |             lde              |       |
++--------+------------------------------+------------------------------+-------+
+|   0    |            ONEBOX            |    Baltasar Torres Garcia    | 0.196 |
 +--------+------------------------------+------------------------------+-------+
 |   0    |      Volcanic Internet       |    Carlos Martínez Crespo    | 0.276 |
 +--------+------------------------------+------------------------------+-------+
-|   0    | Bit Genoma Digital Solutions |    Moisés García Almeida     | 0.255 |
+|   0    |         Farmaconnect         |    Nira Alonso Rodríguez     | 0.182 |
 +--------+------------------------------+------------------------------+-------+
-|   0    |            ONEBOX            |  Verónica Celemín Lominchar  | 0.22  |
+|   0    |   Visyon (Estudio Bay SL)    |    Javier Requejo Melchor    | 0.182 |
 +--------+------------------------------+------------------------------+-------+
-|   0    |      The Hotels Network      |     Enrique Anaya Marin      | 0.209 |
+|   0    |           Exoticca           |         Sofia Jordan         | 0.167 |
 +--------+------------------------------+------------------------------+-------+
-|   0    |         Farmaconnect         | Jaime Jacobo Rodríguez del V | 0.232 |
-|        |                              |             alle             |       |
+|   0    |           Bluekik            |    Maria Cristina Blanco     | 0.17  |
 +--------+------------------------------+------------------------------+-------+
-|   0    |             SEAT             |        Nerea Aparicio        | 0.196 |
+|   0    |     CAPITOLE CONSULTING      |   Alfredo Hinarejos Corbeá   | 0.15  |
 +--------+------------------------------+------------------------------+-------+
-|   0    |   Visyon (Estudio Bay SL)    |      Sergio Ortega Gil       | 0.219 |
+|   0    |           Movetia            |   Daniel Herrero Hernando    | 0.24  |
 +--------+------------------------------+------------------------------+-------+
-|   0    |          Norwegian           | Carlos Eduardo Lores Hernánd | 0.181 |
-|        |                              |             ez               |       |
+|   1    |         InboundCycle         |    Francisco Leston Ramos    | 0.419 |
 +--------+------------------------------+------------------------------+-------+
-|   0    |           Bluekik            |    Francisco Leston Ramos    | 0.19  |
-+--------+------------------------------+------------------------------+-------+
-|   0    |           Exoticca           |    Isabel Rodríguez Godoy    | 0.177 |
-+--------+------------------------------+------------------------------+-------+
-|   0    |           Movetia            |     Eugenio Ruiz Cepeda      | 0.151 |
-+--------+------------------------------+------------------------------+-------+
-|   0    |     CAPITOLE CONSULTING      |    Maria Cristina Blanco     | 0.15  |
-+--------+------------------------------+------------------------------+-------+
-|   1    | Bit Genoma Digital Solutions |   Alfredo Hinarejos Corbeá   | 0.387 |
+|   1    | Bit Genoma Digital Solutions |     Eugenio Ruiz Cepeda      | 0.346 |
 |        |              SL              |                              |       |
 +--------+------------------------------+------------------------------+-------+
-|   1    |             AKKA             |    Nira Alonso Rodríguez     | 0.355 |
+|   1    |       Project Lobster        |    Moisés García Almeida     | 0.364 |
 +--------+------------------------------+------------------------------+-------+
-|   1    |       Project Lobster        |    Rodrigo Otero Montero     | 0.361 |
+|   1    |             AKKA             |     Alfonso Silva Feria      | 0.34  |
 +--------+------------------------------+------------------------------+-------+
-|   1    |         InboundCycle         |         Sofia Jordan         | 0.374 |
+|   1    |           Atomian            | Maria Isabel Llanes Agudelo  | 0.233 |
 +--------+------------------------------+------------------------------+-------+
-|   1    |           C14TORCE           |        Thilo Sperber         | 0.222 |
+|   1    |           C14TORCE           |    Daniel García Martínez    | 0.226 |
 +--------+------------------------------+------------------------------+-------+
-|   1    | Bit Genoma Digital Solutions | Javier Pérez-Chao Rodríguez  | 0.387 |
+|   1    |         Farmaconnect         | Jaime Jacobo Rodríguez del V | 0.232 |
+|        |                              |             alle             |       |
 +--------+------------------------------+------------------------------+-------+
-|   1    |      The Hotels Network      |     Mario Quiroga Cuervo     | 0.238 |
+|   1    |      The Hotels Network      |    Isabel Rodríguez Godoy    | 0.218 |
 +--------+------------------------------+------------------------------+-------+
-|   1    |           Atomian            |    Daniel García Martínez    | 0.212 |
+|   1    |      Volcanic Internet       |      Sergio Ortega Gil       | 0.257 |
 +--------+------------------------------+------------------------------+-------+
-|   1    |      Volcanic Internet       | Maria Isabel Llanes Agudelo  | 0.208 |
+|   1    |          Norwegian           |    Rodrigo Otero Montero     | 0.215 |
++--------+------------------------------+------------------------------+-------+
+|   1    | Bit Genoma Digital Solutions |     Mario Quiroga Cuervo     | 0.304 |
 +--------+------------------------------+------------------------------+-------+
 |   1    |            ONEBOX            |  Abel Colmenares Napolitano  | 0.199 |
 +--------+------------------------------+------------------------------+-------+
-|   1    |             SEAT             | Patricia Defez Díaz de Sarra | 0.194 |
-|        |                              |             lde              |       |
+|   1    |             SEAT             |  Verónica Celemín Lominchar  | 0.208 |
 +--------+------------------------------+------------------------------+-------+
-|   1    |          Norwegian           |    Dan Mihai Grigoriciuc     | 0.217 |
+|   1    |   Visyon (Estudio Bay SL)    |     Roberto Muñoz Aragón     | 0.184 |
 +--------+------------------------------+------------------------------+-------+
-|   1    |         Farmaconnect         |     Alfonso Silva Feria      | 0.208 |
+|   1    |           Exoticca           |     Enrique Anaya Marin      | 0.186 |
 +--------+------------------------------+------------------------------+-------+
-|   1    |   Visyon (Estudio Bay SL)    |    Javier Requejo Melchor    | 0.182 |
+|   1    |           Bluekik            |        Thilo Sperber         | 0.167 |
 +--------+------------------------------+------------------------------+-------+
-|   1    |           Bluekik            |     Roberto Muñoz Aragón     | 0.171 |
-+--------+------------------------------+------------------------------+-------+
-|   1    |           Exoticca           |   Daniel Herrero Hernando    | 0.274 |
-+--------+------------------------------+------------------------------+-------+
-|   1    |           Movetia            |    Baltasar Torres Garcia    | 0.148 |
-+--------+------------------------------+------------------------------+-------+
-|   1    |     CAPITOLE CONSULTING      |    Carlos Martínez Crespo    | 0.168 |
-+--------+------------------------------+------------------------------+-------+
-|   2    |       Project Lobster        |    Moisés García Almeida     | 0.364 |
-+--------+------------------------------+------------------------------+-------+
-|   2    |             AKKA             |  Verónica Celemín Lominchar  | 0.536 |
-+--------+------------------------------+------------------------------+-------+
-|   2    | Bit Genoma Digital Solutions |     Enrique Anaya Marin      | 0.387 |
-|        |              SL              |                              |       |
-+--------+------------------------------+------------------------------+-------+
-|   2    |         InboundCycle         | Jaime Jacobo Rodríguez del V | 0.445 |
-|        |                              |             alle             |       |
-+--------+------------------------------+------------------------------+-------+
-|   2    |           C14TORCE           |        Nerea Aparicio        | 0.228 |
-+--------+------------------------------+------------------------------+-------+
-|   2    |           Atomian            |      Sergio Ortega Gil       | 0.301 |
-+--------+------------------------------+------------------------------+-------+
-|   2    | Bit Genoma Digital Solutions | Carlos Eduardo Lores Hernánd | 0.212 |
+|   1    |           Movetia            | Carlos Eduardo Lores Hernánd | 0.146 |
 |        |                              |             ez               |       |
 +--------+------------------------------+------------------------------+-------+
-|   2    |      Volcanic Internet       |    Francisco Leston Ramos    | 0.226 |
+|   1    |     CAPITOLE CONSULTING      | Javier Pérez-Chao Rodríguez  | 0.216 |
 +--------+------------------------------+------------------------------+-------+
-|   2    |      The Hotels Network      |    Isabel Rodríguez Godoy    | 0.218 |
-+--------+------------------------------+------------------------------+-------+
-|   2    |             SEAT             |     Eugenio Ruiz Cepeda      |  0.2  |
-+--------+------------------------------+------------------------------+-------+
-|   2    |            ONEBOX            |    Maria Cristina Blanco     | 0.195 |
-+--------+------------------------------+------------------------------+-------+
-|   2    |         Farmaconnect         |   Alfredo Hinarejos Corbeá   | 0.186 |
-+--------+------------------------------+------------------------------+-------+
-|   2    |   Visyon (Estudio Bay SL)    |    Nira Alonso Rodríguez     | 0.181 |
-+--------+------------------------------+------------------------------+-------+
-|   2    |          Norwegian           |    Rodrigo Otero Montero     | 0.215 |
-+--------+------------------------------+------------------------------+-------+
-|   2    |           Exoticca           |         Sofia Jordan         | 0.167 |
-+--------+------------------------------+------------------------------+-------+
-|   2    |           Bluekik            |        Thilo Sperber         | 0.167 |
-+--------+------------------------------+------------------------------+-------+
-|   2    |           Movetia            | Javier Pérez-Chao Rodríguez  | 0.22  |
-+--------+------------------------------+------------------------------+-------+
-|   2    |     CAPITOLE CONSULTING      |     Mario Quiroga Cuervo     | 0.168 |
-+--------+------------------------------+------------------------------+-------+
-|   3    | Bit Genoma Digital Solutions |    Daniel García Martínez    | 0.387 |
+|   2    | Bit Genoma Digital Solutions |        Nerea Aparicio        | 0.376 |
 |        |              SL              |                              |       |
 +--------+------------------------------+------------------------------+-------+
-|   3    |         InboundCycle         | Maria Isabel Llanes Agudelo  | 0.388 |
+|   2    |         InboundCycle         |    Dan Mihai Grigoriciuc     | 0.427 |
 +--------+------------------------------+------------------------------+-------+
-|   3    |             AKKA             |  Abel Colmenares Napolitano  | 0.426 |
-+--------+------------------------------+------------------------------+-------+
-|   3    |       Project Lobster        | Patricia Defez Díaz de Sarra | 0.315 |
+|   2    |             AKKA             | Patricia Defez Díaz de Sarra | 0.332 |
 |        |                              |             lde              |       |
 +--------+------------------------------+------------------------------+-------+
-|   3    |           Atomian            |    Dan Mihai Grigoriciuc     | 0.237 |
+|   2    |       Project Lobster        |    Baltasar Torres Garcia    | 0.332 |
 +--------+------------------------------+------------------------------+-------+
-|   3    |           C14TORCE           |     Alfonso Silva Feria      | 0.231 |
+|   2    |           Atomian            |    Carlos Martínez Crespo    | 0.328 |
 +--------+------------------------------+------------------------------+-------+
-|   3    |            ONEBOX            |    Javier Requejo Melchor    | 0.215 |
+|   2    |           C14TORCE           |    Nira Alonso Rodríguez     | 0.224 |
 +--------+------------------------------+------------------------------+-------+
-|   3    | Bit Genoma Digital Solutions |     Roberto Muñoz Aragón     | 0.217 |
+|   2    |            ONEBOX            |    Javier Requejo Melchor    | 0.215 |
 +--------+------------------------------+------------------------------+-------+
-|   3    |             SEAT             |   Daniel Herrero Hernando    | 0.355 |
+|   2    | Bit Genoma Digital Solutions |         Sofia Jordan         | 0.204 |
 +--------+------------------------------+------------------------------+-------+
-|   3    |      The Hotels Network      |    Baltasar Torres Garcia    | 0.199 |
+|   2    |      The Hotels Network      |    Maria Cristina Blanco     | 0.203 |
 +--------+------------------------------+------------------------------+-------+
-|   3    |         Farmaconnect         |    Carlos Martínez Crespo    | 0.251 |
+|   2    |      Volcanic Internet       |   Alfredo Hinarejos Corbeá   | 0.196 |
 +--------+------------------------------+------------------------------+-------+
-|   3    |   Visyon (Estudio Bay SL)    |    Moisés García Almeida     | 0.249 |
+|   2    |             SEAT             |   Daniel Herrero Hernando    | 0.355 |
 +--------+------------------------------+------------------------------+-------+
-|   3    |      Volcanic Internet       |  Verónica Celemín Lominchar  | 0.216 |
+|   2    |         Farmaconnect         |    Francisco Leston Ramos    | 0.207 |
 +--------+------------------------------+------------------------------+-------+
-|   3    |          Norwegian           |     Enrique Anaya Marin      | 0.198 |
+|   2    |   Visyon (Estudio Bay SL)    |     Eugenio Ruiz Cepeda      | 0.181 |
 +--------+------------------------------+------------------------------+-------+
-|   3    |           Exoticca           | Jaime Jacobo Rodríguez del V | 0.193 |
+|   2    |           Bluekik            |    Moisés García Almeida     | 0.215 |
++--------+------------------------------+------------------------------+-------+
+|   2    |          Norwegian           |     Alfonso Silva Feria      |  0.2  |
++--------+------------------------------+------------------------------+-------+
+|   2    |           Exoticca           | Maria Isabel Llanes Agudelo  | 0.171 |
++--------+------------------------------+------------------------------+-------+
+|   2    |     CAPITOLE CONSULTING      |    Daniel García Martínez    | 0.147 |
++--------+------------------------------+------------------------------+-------+
+|   2    |           Movetia            | Jaime Jacobo Rodríguez del V | 0.171 |
 |        |                              |             alle             |       |
 +--------+------------------------------+------------------------------+-------+
-|   3    |           Bluekik            |        Nerea Aparicio        | 0.17  |
-+--------+------------------------------+------------------------------+-------+
-|   3    |           Movetia            |      Sergio Ortega Gil       | 0.17  |
-+--------+------------------------------+------------------------------+-------+
-|   3    |     CAPITOLE CONSULTING      | Carlos Eduardo Lores Hernánd | 0.145 |
-|        |                              |             ez               |       |
-+--------+------------------------------+------------------------------+-------+
-|   4    |         InboundCycle         |    Francisco Leston Ramos    | 0.419 |
-+--------+------------------------------+------------------------------+-------+
-|   4    | Bit Genoma Digital Solutions |    Isabel Rodríguez Godoy    | 0.376 |
+|   3    | Bit Genoma Digital Solutions |    Isabel Rodríguez Godoy    | 0.376 |
 |        |              SL              |                              |       |
 +--------+------------------------------+------------------------------+-------+
-|   4    |             AKKA             |     Eugenio Ruiz Cepeda      | 0.345 |
+|   3    |         InboundCycle         |      Sergio Ortega Gil       |  1.0  |
 +--------+------------------------------+------------------------------+-------+
-|   4    |       Project Lobster        |    Maria Cristina Blanco     | 0.315 |
+|   3    |       Project Lobster        |    Rodrigo Otero Montero     | 0.361 |
 +--------+------------------------------+------------------------------+-------+
-|   4    |           C14TORCE           |   Alfredo Hinarejos Corbeá   | 0.226 |
+|   3    |             AKKA             |     Mario Quiroga Cuervo     | 0.374 |
 +--------+------------------------------+------------------------------+-------+
-|   4    |           Atomian            |    Nira Alonso Rodríguez     | 0.215 |
+|   3    |           C14TORCE           |  Abel Colmenares Napolitano  | 0.218 |
 +--------+------------------------------+------------------------------+-------+
-|   4    |         Farmaconnect         |    Rodrigo Otero Montero     | 0.227 |
+|   3    |           Atomian            |  Verónica Celemín Lominchar  | 0.257 |
 +--------+------------------------------+------------------------------+-------+
-|   4    | Bit Genoma Digital Solutions |         Sofia Jordan         | 0.204 |
+|   3    |            ONEBOX            |     Roberto Muñoz Aragón     | 0.218 |
 +--------+------------------------------+------------------------------+-------+
-|   4    |      The Hotels Network      |        Thilo Sperber         | 0.199 |
+|   3    | Bit Genoma Digital Solutions |     Enrique Anaya Marin      | 0.212 |
 +--------+------------------------------+------------------------------+-------+
-|   4    |             SEAT             | Javier Pérez-Chao Rodríguez  | 0.348 |
+|   3    |      The Hotels Network      |        Thilo Sperber         | 0.199 |
 +--------+------------------------------+------------------------------+-------+
-|   4    |   Visyon (Estudio Bay SL)    |     Mario Quiroga Cuervo     | 0.212 |
+|   3    |             SEAT             | Carlos Eduardo Lores Hernánd | 0.194 |
+|        |                              |             ez               |       |
 +--------+------------------------------+------------------------------+-------+
-|   4    |      Volcanic Internet       |    Daniel García Martínez    | 0.197 |
+|   3    |   Visyon (Estudio Bay SL)    | Javier Pérez-Chao Rodríguez  | 0.304 |
 +--------+------------------------------+------------------------------+-------+
-|   4    |          Norwegian           | Maria Isabel Llanes Agudelo  | 0.195 |
+|   3    |      Volcanic Internet       |        Nerea Aparicio        | 0.195 |
 +--------+------------------------------+------------------------------+-------+
-|   4    |           Exoticca           |  Abel Colmenares Napolitano  | 0.166 |
+|   3    |         Farmaconnect         |    Dan Mihai Grigoriciuc     | 0.212 |
 +--------+------------------------------+------------------------------+-------+
-|   4    |            ONEBOX            | Patricia Defez Díaz de Sarra | 0.188 |
+|   3    |          Norwegian           | Patricia Defez Díaz de Sarra | 0.181 |
 |        |                              |             lde              |       |
 +--------+------------------------------+------------------------------+-------+
-|   4    |           Bluekik            |    Dan Mihai Grigoriciuc     | 0.181 |
+|   3    |           Bluekik            |    Baltasar Torres Garcia    | 0.167 |
 +--------+------------------------------+------------------------------+-------+
-|   4    |           Movetia            |     Alfonso Silva Feria      | 0.161 |
+|   3    |           Exoticca           |    Carlos Martínez Crespo    | 0.209 |
 +--------+------------------------------+------------------------------+-------+
-|   4    |     CAPITOLE CONSULTING      |    Javier Requejo Melchor    | 0.149 |
+|   3    |           Movetia            |    Nira Alonso Rodríguez     | 0.149 |
 +--------+------------------------------+------------------------------+-------+
-|   5    |             AKKA             |     Roberto Muñoz Aragón     | 0.431 |
+|   3    |     CAPITOLE CONSULTING      |    Javier Requejo Melchor    | 0.149 |
 +--------+------------------------------+------------------------------+-------+
-|   5    | Bit Genoma Digital Solutions |   Daniel Herrero Hernando    | 0.668 |
+|   4    |             AKKA             |         Sofia Jordan         | 0.385 |
++--------+------------------------------+------------------------------+-------+
+|   4    | Bit Genoma Digital Solutions |    Maria Cristina Blanco     | 0.387 |
 |        |              SL              |                              |       |
 +--------+------------------------------+------------------------------+-------+
-|   5    |         InboundCycle         |    Baltasar Torres Garcia    | 0.376 |
+|   4    |         InboundCycle         |   Alfredo Hinarejos Corbeá   | 0.387 |
 +--------+------------------------------+------------------------------+-------+
-|   5    |       Project Lobster        |    Carlos Martínez Crespo    | 0.397 |
+|   4    |           C14TORCE           |   Daniel Herrero Hernando    | 0.426 |
 +--------+------------------------------+------------------------------+-------+
-|   5    |           C14TORCE           |    Moisés García Almeida     | 0.298 |
+|   4    |       Project Lobster        |    Francisco Leston Ramos    | 0.348 |
 +--------+------------------------------+------------------------------+-------+
-|   5    |           Atomian            |  Verónica Celemín Lominchar  | 0.257 |
+|   4    |           Atomian            |     Eugenio Ruiz Cepeda      | 0.214 |
 +--------+------------------------------+------------------------------+-------+
-|   5    | Bit Genoma Digital Solutions |     Enrique Anaya Marin      | 0.212 |
+|   4    | Bit Genoma Digital Solutions |    Moisés García Almeida     | 0.255 |
 +--------+------------------------------+------------------------------+-------+
-|   5    |      Volcanic Internet       | Jaime Jacobo Rodríguez del V | 0.225 |
+|   4    |      Volcanic Internet       |     Alfonso Silva Feria      | 0.223 |
++--------+------------------------------+------------------------------+-------+
+|   4    |      The Hotels Network      | Maria Isabel Llanes Agudelo  | 0.206 |
++--------+------------------------------+------------------------------+-------+
+|   4    |             SEAT             |    Daniel García Martínez    | 0.195 |
++--------+------------------------------+------------------------------+-------+
+|   4    |          Norwegian           | Jaime Jacobo Rodríguez del V | 0.22  |
 |        |                              |             alle             |       |
 +--------+------------------------------+------------------------------+-------+
-|   5    |      The Hotels Network      |        Nerea Aparicio        | 0.204 |
+|   4    |         Farmaconnect         |    Isabel Rodríguez Godoy    | 0.188 |
 +--------+------------------------------+------------------------------+-------+
-|   5    |         Farmaconnect         |      Sergio Ortega Gil       | 0.252 |
+|   4    |   Visyon (Estudio Bay SL)    |      Sergio Ortega Gil       | 0.219 |
 +--------+------------------------------+------------------------------+-------+
-|   5    |             SEAT             | Carlos Eduardo Lores Hernánd | 0.194 |
-|        |                              |             ez               |       |
+|   4    |            ONEBOX            |    Rodrigo Otero Montero     | 0.205 |
 +--------+------------------------------+------------------------------+-------+
-|   5    |   Visyon (Estudio Bay SL)    |    Francisco Leston Ramos    | 0.204 |
+|   4    |           Exoticca           |     Mario Quiroga Cuervo     | 0.193 |
 +--------+------------------------------+------------------------------+-------+
-|   5    |            ONEBOX            |    Isabel Rodríguez Godoy    | 0.188 |
+|   4    |           Bluekik            |  Abel Colmenares Napolitano  | 0.166 |
 +--------+------------------------------+------------------------------+-------+
-|   5    |          Norwegian           |     Eugenio Ruiz Cepeda      | 0.179 |
+|   4    |           Movetia            |  Verónica Celemín Lominchar  | 0.169 |
 +--------+------------------------------+------------------------------+-------+
-|   5    |           Exoticca           |    Maria Cristina Blanco     | 0.17  |
+|   4    |     CAPITOLE CONSULTING      |     Roberto Muñoz Aragón     | 0.15  |
 +--------+------------------------------+------------------------------+-------+
-|   5    |           Bluekik            |   Alfredo Hinarejos Corbeá   | 0.17  |
-+--------+------------------------------+------------------------------+-------+
-|   5    |           Movetia            |    Nira Alonso Rodríguez     | 0.149 |
-+--------+------------------------------+------------------------------+-------+
-|   5    |     CAPITOLE CONSULTING      |    Rodrigo Otero Montero     | 0.163 |
-+--------+------------------------------+------------------------------+-------+
-|   6    |             AKKA             |         Sofia Jordan         | 0.385 |
-+--------+------------------------------+------------------------------+-------+
-|   6    | Bit Genoma Digital Solutions |        Thilo Sperber         | 0.366 |
+|   5    | Bit Genoma Digital Solutions |     Enrique Anaya Marin      | 0.387 |
 |        |              SL              |                              |       |
 +--------+------------------------------+------------------------------+-------+
-|   6    |         InboundCycle         | Javier Pérez-Chao Rodríguez  | 0.573 |
+|   5    |             AKKA             |        Thilo Sperber         | 0.401 |
 +--------+------------------------------+------------------------------+-------+
-|   6    |       Project Lobster        |     Mario Quiroga Cuervo     | 0.315 |
+|   5    |         InboundCycle         | Carlos Eduardo Lores Hernánd | 0.355 |
+|        |                              |             ez               |       |
 +--------+------------------------------+------------------------------+-------+
-|   6    |           C14TORCE           |    Daniel García Martínez    | 0.226 |
+|   5    |       Project Lobster        | Javier Pérez-Chao Rodríguez  |  0.4  |
 +--------+------------------------------+------------------------------+-------+
-|   6    |           Atomian            | Maria Isabel Llanes Agudelo  | 0.233 |
+|   5    |           C14TORCE           |        Nerea Aparicio        | 0.228 |
++--------+------------------------------+------------------------------+-------+
+|   5    |           Atomian            |    Dan Mihai Grigoriciuc     | 0.237 |
++--------+------------------------------+------------------------------+-------+
+|   5    | Bit Genoma Digital Solutions | Patricia Defez Díaz de Sarra | 0.205 |
+|        |                              |             lde              |       |
++--------+------------------------------+------------------------------+-------+
+|   5    |      The Hotels Network      |    Baltasar Torres Garcia    | 0.199 |
++--------+------------------------------+------------------------------+-------+
+|   5    |         Farmaconnect         |    Carlos Martínez Crespo    | 0.251 |
++--------+------------------------------+------------------------------+-------+
+|   5    |             SEAT             |    Nira Alonso Rodríguez     | 0.195 |
++--------+------------------------------+------------------------------+-------+
+|   5    |      Volcanic Internet       |    Javier Requejo Melchor    | 0.201 |
++--------+------------------------------+------------------------------+-------+
+|   5    |            ONEBOX            |         Sofia Jordan         | 0.194 |
++--------+------------------------------+------------------------------+-------+
+|   5    |          Norwegian           |    Maria Cristina Blanco     | 0.182 |
++--------+------------------------------+------------------------------+-------+
+|   5    |   Visyon (Estudio Bay SL)    |   Alfredo Hinarejos Corbeá   | 0.182 |
++--------+------------------------------+------------------------------+-------+
+|   5    |           Exoticca           |   Daniel Herrero Hernando    | 0.274 |
++--------+------------------------------+------------------------------+-------+
+|   5    |           Bluekik            |    Francisco Leston Ramos    | 0.19  |
++--------+------------------------------+------------------------------+-------+
+|   5    |           Movetia            |     Eugenio Ruiz Cepeda      | 0.151 |
++--------+------------------------------+------------------------------+-------+
+|   5    |     CAPITOLE CONSULTING      |    Moisés García Almeida     | 0.173 |
++--------+------------------------------+------------------------------+-------+
+|   6    |         InboundCycle         |     Alfonso Silva Feria      | 0.388 |
++--------+------------------------------+------------------------------+-------+
+|   6    | Bit Genoma Digital Solutions | Maria Isabel Llanes Agudelo  | 0.382 |
+|        |              SL              |                              |       |
++--------+------------------------------+------------------------------+-------+
+|   6    |             AKKA             |    Daniel García Martínez    | 0.349 |
++--------+------------------------------+------------------------------+-------+
+|   6    |       Project Lobster        | Jaime Jacobo Rodríguez del V | 0.348 |
+|        |                              |             alle             |       |
++--------+------------------------------+------------------------------+-------+
+|   6    |           C14TORCE           |    Isabel Rodríguez Godoy    | 0.238 |
++--------+------------------------------+------------------------------+-------+
+|   6    |           Atomian            |      Sergio Ortega Gil       | 0.301 |
++--------+------------------------------+------------------------------+-------+
+|   6    |         Farmaconnect         |    Rodrigo Otero Montero     | 0.227 |
++--------+------------------------------+------------------------------+-------+
+|   6    |      The Hotels Network      |     Mario Quiroga Cuervo     | 0.238 |
 +--------+------------------------------+------------------------------+-------+
 |   6    | Bit Genoma Digital Solutions |  Abel Colmenares Napolitano  |  0.2  |
 +--------+------------------------------+------------------------------+-------+
-|   6    |      The Hotels Network      | Patricia Defez Díaz de Sarra | 0.202 |
-|        |                              |             lde              |       |
+|   6    |            ONEBOX            |  Verónica Celemín Lominchar  | 0.22  |
 +--------+------------------------------+------------------------------+-------+
-|   6    |      Volcanic Internet       |    Dan Mihai Grigoriciuc     | 0.216 |
+|   6    |             SEAT             |     Roberto Muñoz Aragón     | 0.198 |
 +--------+------------------------------+------------------------------+-------+
-|   6    |             SEAT             |     Alfonso Silva Feria      | 0.205 |
+|   6    |      Volcanic Internet       |     Enrique Anaya Marin      | 0.203 |
 +--------+------------------------------+------------------------------+-------+
-|   6    |         Farmaconnect         |    Javier Requejo Melchor    | 0.198 |
+|   6    |          Norwegian           |        Thilo Sperber         | 0.179 |
 +--------+------------------------------+------------------------------+-------+
-|   6    |            ONEBOX            |     Roberto Muñoz Aragón     | 0.218 |
-+--------+------------------------------+------------------------------+-------+
-|   6    |          Norwegian           |   Daniel Herrero Hernando    | 0.332 |
-+--------+------------------------------+------------------------------+-------+
-|   6    |   Visyon (Estudio Bay SL)    |    Baltasar Torres Garcia    | 0.179 |
-+--------+------------------------------+------------------------------+-------+
-|   6    |           Exoticca           |    Carlos Martínez Crespo    | 0.209 |
-+--------+------------------------------+------------------------------+-------+
-|   6    |           Bluekik            |    Moisés García Almeida     | 0.215 |
-+--------+------------------------------+------------------------------+-------+
-|   6    |           Movetia            |  Verónica Celemín Lominchar  | 0.169 |
-+--------+------------------------------+------------------------------+-------+
-|   6    |     CAPITOLE CONSULTING      |     Enrique Anaya Marin      | 0.154 |
-+--------+------------------------------+------------------------------+-------+
-|   7    |             AKKA             | Jaime Jacobo Rodríguez del V | 0.445 |
-|        |                              |             alle             |       |
-+--------+------------------------------+------------------------------+-------+
-|   7    | Bit Genoma Digital Solutions |        Nerea Aparicio        | 0.376 |
-|        |              SL              |                              |       |
-+--------+------------------------------+------------------------------+-------+
-|   7    |         InboundCycle         |      Sergio Ortega Gil       |  1.0  |
-+--------+------------------------------+------------------------------+-------+
-|   7    |       Project Lobster        | Carlos Eduardo Lores Hernánd | 0.309 |
+|   6    |   Visyon (Estudio Bay SL)    | Carlos Eduardo Lores Hernánd | 0.182 |
 |        |                              |             ez               |       |
 +--------+------------------------------+------------------------------+-------+
-|   7    |           Atomian            |    Francisco Leston Ramos    | 0.24  |
+|   6    |           Exoticca           | Javier Pérez-Chao Rodríguez  | 0.301 |
 +--------+------------------------------+------------------------------+-------+
-|   7    |           C14TORCE           |    Isabel Rodríguez Godoy    | 0.238 |
+|   6    |           Bluekik            |        Nerea Aparicio        | 0.17  |
 +--------+------------------------------+------------------------------+-------+
-|   7    |      The Hotels Network      |     Eugenio Ruiz Cepeda      | 0.209 |
+|   6    |           Movetia            |    Dan Mihai Grigoriciuc     | 0.155 |
++--------+------------------------------+------------------------------+-------+
+|   6    |     CAPITOLE CONSULTING      | Patricia Defez Díaz de Sarra | 0.146 |
+|        |                              |             lde              |       |
++--------+------------------------------+------------------------------+-------+
+|   7    |             AKKA             |    Baltasar Torres Garcia    | 0.407 |
++--------+------------------------------+------------------------------+-------+
+|   7    |         InboundCycle         |    Carlos Martínez Crespo    | 0.502 |
++--------+------------------------------+------------------------------+-------+
+|   7    | Bit Genoma Digital Solutions |    Nira Alonso Rodríguez     | 0.348 |
+|        |              SL              |                              |       |
++--------+------------------------------+------------------------------+-------+
+|   7    |       Project Lobster        |    Javier Requejo Melchor    | 0.315 |
++--------+------------------------------+------------------------------+-------+
+|   7    |           C14TORCE           |         Sofia Jordan         | 0.22  |
 +--------+------------------------------+------------------------------+-------+
 |   7    | Bit Genoma Digital Solutions |    Maria Cristina Blanco     | 0.212 |
 +--------+------------------------------+------------------------------+-------+
-|   7    |            ONEBOX            |   Alfredo Hinarejos Corbeá   | 0.198 |
+|   7    |           Atomian            |   Alfredo Hinarejos Corbeá   | 0.214 |
 +--------+------------------------------+------------------------------+-------+
-|   7    |             SEAT             |    Nira Alonso Rodríguez     | 0.195 |
+|   7    |          Norwegian           |   Daniel Herrero Hernando    | 0.332 |
 +--------+------------------------------+------------------------------+-------+
-|   7    |      Volcanic Internet       |    Rodrigo Otero Montero     | 0.214 |
+|   7    |      Volcanic Internet       |    Francisco Leston Ramos    | 0.226 |
 +--------+------------------------------+------------------------------+-------+
-|   7    |          Norwegian           |         Sofia Jordan         | 0.183 |
+|   7    |      The Hotels Network      |     Eugenio Ruiz Cepeda      | 0.209 |
 +--------+------------------------------+------------------------------+-------+
-|   7    |         Farmaconnect         |        Thilo Sperber         | 0.18  |
+|   7    |             SEAT             |    Moisés García Almeida     | 0.249 |
 +--------+------------------------------+------------------------------+-------+
-|   7    |   Visyon (Estudio Bay SL)    | Javier Pérez-Chao Rodríguez  | 0.304 |
+|   7    |         Farmaconnect         |     Alfonso Silva Feria      | 0.208 |
 +--------+------------------------------+------------------------------+-------+
-|   7    |           Exoticca           |     Mario Quiroga Cuervo     | 0.193 |
+|   7    |   Visyon (Estudio Bay SL)    | Maria Isabel Llanes Agudelo  | 0.198 |
 +--------+------------------------------+------------------------------+-------+
-|   7    |           Bluekik            |    Daniel García Martínez    | 0.169 |
+|   7    |            ONEBOX            |    Daniel García Martínez    | 0.192 |
 +--------+------------------------------+------------------------------+-------+
-|   7    |           Movetia            | Maria Isabel Llanes Agudelo  | 0.153 |
-+--------+------------------------------+------------------------------+-------+
-|   7    |     CAPITOLE CONSULTING      |  Abel Colmenares Napolitano  | 0.141 |
-+--------+------------------------------+------------------------------+-------+
-|   8    | Bit Genoma Digital Solutions | Patricia Defez Díaz de Sarra | 0.387 |
-|        |              SL              |             lde              |       |
-+--------+------------------------------+------------------------------+-------+
-|   8    |             AKKA             |    Dan Mihai Grigoriciuc     | 0.374 |
-+--------+------------------------------+------------------------------+-------+
-|   8    |         InboundCycle         |     Alfonso Silva Feria      | 0.388 |
-+--------+------------------------------+------------------------------+-------+
-|   8    |       Project Lobster        |    Javier Requejo Melchor    | 0.315 |
-+--------+------------------------------+------------------------------+-------+
-|   8    |           C14TORCE           |     Roberto Muñoz Aragón     | 0.23  |
-+--------+------------------------------+------------------------------+-------+
-|   8    | Bit Genoma Digital Solutions |   Daniel Herrero Hernando    | 0.376 |
-+--------+------------------------------+------------------------------+-------+
-|   8    |            ONEBOX            |    Baltasar Torres Garcia    | 0.196 |
-+--------+------------------------------+------------------------------+-------+
-|   8    |           Atomian            |    Carlos Martínez Crespo    | 0.328 |
-+--------+------------------------------+------------------------------+-------+
-|   8    |      The Hotels Network      |    Moisés García Almeida     | 0.251 |
-+--------+------------------------------+------------------------------+-------+
-|   8    |         Farmaconnect         |  Verónica Celemín Lominchar  | 0.218 |
-+--------+------------------------------+------------------------------+-------+
-|   8    |             SEAT             |     Enrique Anaya Marin      | 0.208 |
-+--------+------------------------------+------------------------------+-------+
-|   8    |          Norwegian           | Jaime Jacobo Rodríguez del V | 0.22  |
+|   7    |           Exoticca           | Jaime Jacobo Rodríguez del V | 0.193 |
 |        |                              |             alle             |       |
 +--------+------------------------------+------------------------------+-------+
-|   8    |      Volcanic Internet       |        Nerea Aparicio        | 0.195 |
+|   7    |           Bluekik            |    Isabel Rodríguez Godoy    | 0.177 |
 +--------+------------------------------+------------------------------+-------+
-|   8    |           Bluekik            |      Sergio Ortega Gil       | 0.204 |
+|   7    |           Movetia            |      Sergio Ortega Gil       | 0.17  |
 +--------+------------------------------+------------------------------+-------+
-|   8    |   Visyon (Estudio Bay SL)    | Carlos Eduardo Lores Hernánd | 0.182 |
-|        |                              |             ez               |       |
+|   7    |     CAPITOLE CONSULTING      |    Rodrigo Otero Montero     | 0.163 |
 +--------+------------------------------+------------------------------+-------+
-|   8    |           Exoticca           |    Francisco Leston Ramos    | 0.181 |
-+--------+------------------------------+------------------------------+-------+
-|   8    |           Movetia            |    Isabel Rodríguez Godoy    | 0.161 |
-+--------+------------------------------+------------------------------+-------+
-|   8    |     CAPITOLE CONSULTING      |     Eugenio Ruiz Cepeda      | 0.147 |
-+--------+------------------------------+------------------------------+-------+
-|   9    |             AKKA             |    Maria Cristina Blanco     | 0.397 |
-+--------+------------------------------+------------------------------+-------+
-|   9    |         InboundCycle         |   Alfredo Hinarejos Corbeá   | 0.387 |
-+--------+------------------------------+------------------------------+-------+
-|   9    | Bit Genoma Digital Solutions |    Nira Alonso Rodríguez     | 0.348 |
+|   8    | Bit Genoma Digital Solutions |     Mario Quiroga Cuervo     | 0.449 |
 |        |              SL              |                              |       |
 +--------+------------------------------+------------------------------+-------+
-|   9    |           Atomian            |    Rodrigo Otero Montero     | 0.251 |
+|   8    |         InboundCycle         |  Abel Colmenares Napolitano  | 0.348 |
 +--------+------------------------------+------------------------------+-------+
-|   9    |       Project Lobster        |         Sofia Jordan         | 0.289 |
+|   8    |             AKKA             |  Verónica Celemín Lominchar  | 0.536 |
 +--------+------------------------------+------------------------------+-------+
-|   9    | Bit Genoma Digital Solutions |        Thilo Sperber         | 0.209 |
+|   8    |       Project Lobster        |     Roberto Muñoz Aragón     | 0.341 |
 +--------+------------------------------+------------------------------+-------+
-|   9    |           C14TORCE           | Javier Pérez-Chao Rodríguez  | 0.366 |
+|   8    |           C14TORCE           |     Enrique Anaya Marin      | 0.228 |
 +--------+------------------------------+------------------------------+-------+
-|   9    |             SEAT             |     Mario Quiroga Cuervo     | 0.238 |
+|   8    |           Atomian            |        Thilo Sperber         | 0.217 |
 +--------+------------------------------+------------------------------+-------+
-|   9    |      The Hotels Network      |    Daniel García Martínez    | 0.202 |
+|   8    |      The Hotels Network      | Carlos Eduardo Lores Hernánd | 0.202 |
+|        |                              |             ez               |       |
 +--------+------------------------------+------------------------------+-------+
-|   9    |   Visyon (Estudio Bay SL)    | Maria Isabel Llanes Agudelo  | 0.198 |
+|   8    | Bit Genoma Digital Solutions | Javier Pérez-Chao Rodríguez  | 0.387 |
 +--------+------------------------------+------------------------------+-------+
-|   9    |      Volcanic Internet       |  Abel Colmenares Napolitano  | 0.187 |
+|   8    |             SEAT             |        Nerea Aparicio        | 0.196 |
 +--------+------------------------------+------------------------------+-------+
-|   9    |          Norwegian           | Patricia Defez Díaz de Sarra | 0.181 |
+|   8    |      Volcanic Internet       |    Dan Mihai Grigoriciuc     | 0.216 |
++--------+------------------------------+------------------------------+-------+
+|   8    |            ONEBOX            | Patricia Defez Díaz de Sarra | 0.188 |
 |        |                              |             lde              |       |
 +--------+------------------------------+------------------------------+-------+
-|   9    |         Farmaconnect         |    Dan Mihai Grigoriciuc     | 0.212 |
+|   8    |         Farmaconnect         |    Baltasar Torres Garcia    | 0.179 |
 +--------+------------------------------+------------------------------+-------+
-|   9    |            ONEBOX            |     Alfonso Silva Feria      | 0.188 |
+|   8    |          Norwegian           |    Carlos Martínez Crespo    | 0.247 |
 +--------+------------------------------+------------------------------+-------+
-|   9    |           Exoticca           |    Javier Requejo Melchor    | 0.182 |
+|   8    |   Visyon (Estudio Bay SL)    |    Nira Alonso Rodríguez     | 0.181 |
 +--------+------------------------------+------------------------------+-------+
-|   9    |           Movetia            |     Roberto Muñoz Aragón     | 0.153 |
+|   8    |           Exoticca           |    Javier Requejo Melchor    | 0.182 |
 +--------+------------------------------+------------------------------+-------+
-|   9    |           Bluekik            |   Daniel Herrero Hernando    | 0.253 |
+|   8    |           Bluekik            |         Sofia Jordan         | 0.167 |
 +--------+------------------------------+------------------------------+-------+
-|   9    |     CAPITOLE CONSULTING      |    Baltasar Torres Garcia    | 0.145 |
+|   8    |     CAPITOLE CONSULTING      |    Maria Cristina Blanco     | 0.15  |
 +--------+------------------------------+------------------------------+-------+
-|   10   |         InboundCycle         |    Carlos Martínez Crespo    | 0.502 |
+|   8    |           Movetia            |   Alfredo Hinarejos Corbeá   | 0.149 |
 +--------+------------------------------+------------------------------+-------+
-|   10   | Bit Genoma Digital Solutions |    Moisés García Almeida     | 0.346 |
+|   9    | Bit Genoma Digital Solutions |   Daniel Herrero Hernando    | 0.668 |
 |        |              SL              |                              |       |
 +--------+------------------------------+------------------------------+-------+
-|   10   |       Project Lobster        |  Verónica Celemín Lominchar  | 0.376 |
+|   9    |             AKKA             |    Francisco Leston Ramos    | 0.339 |
 +--------+------------------------------+------------------------------+-------+
-|   10   |             AKKA             |     Enrique Anaya Marin      | 0.385 |
+|   9    |         InboundCycle         |     Eugenio Ruiz Cepeda      | 0.332 |
 +--------+------------------------------+------------------------------+-------+
-|   10   |           Atomian            | Jaime Jacobo Rodríguez del V | 0.249 |
+|   9    |           C14TORCE           |    Moisés García Almeida     | 0.298 |
++--------+------------------------------+------------------------------+-------+
+|   9    |       Project Lobster        |     Alfonso Silva Feria      | 0.374 |
++--------+------------------------------+------------------------------+-------+
+|   9    | Bit Genoma Digital Solutions | Maria Isabel Llanes Agudelo  | 0.22  |
++--------+------------------------------+------------------------------+-------+
+|   9    |           Atomian            |    Daniel García Martínez    | 0.212 |
++--------+------------------------------+------------------------------+-------+
+|   9    |      Volcanic Internet       | Jaime Jacobo Rodríguez del V | 0.225 |
 |        |                              |             alle             |       |
 +--------+------------------------------+------------------------------+-------+
-|   10   | Bit Genoma Digital Solutions |        Nerea Aparicio        | 0.211 |
+|   9    |             SEAT             |    Isabel Rodríguez Godoy    | 0.209 |
 +--------+------------------------------+------------------------------+-------+
-|   10   |      Volcanic Internet       |      Sergio Ortega Gil       | 0.257 |
+|   9    |         Farmaconnect         |      Sergio Ortega Gil       | 0.252 |
 +--------+------------------------------+------------------------------+-------+
-|   10   |           C14TORCE           | Carlos Eduardo Lores Hernánd | 0.224 |
+|   9    |      The Hotels Network      |    Rodrigo Otero Montero     | 0.211 |
++--------+------------------------------+------------------------------+-------+
+|   9    |   Visyon (Estudio Bay SL)    |     Mario Quiroga Cuervo     | 0.212 |
++--------+------------------------------+------------------------------+-------+
+|   9    |          Norwegian           |  Abel Colmenares Napolitano  | 0.182 |
++--------+------------------------------+------------------------------+-------+
+|   9    |           Bluekik            |  Verónica Celemín Lominchar  | 0.186 |
++--------+------------------------------+------------------------------+-------+
+|   9    |           Exoticca           |     Roberto Muñoz Aragón     | 0.17  |
++--------+------------------------------+------------------------------+-------+
+|   9    |            ONEBOX            |     Enrique Anaya Marin      | 0.209 |
++--------+------------------------------+------------------------------+-------+
+|   9    |           Movetia            |        Thilo Sperber         | 0.148 |
++--------+------------------------------+------------------------------+-------+
+|   9    |     CAPITOLE CONSULTING      | Carlos Eduardo Lores Hernánd | 0.145 |
 |        |                              |             ez               |       |
 +--------+------------------------------+------------------------------+-------+
-|   10   |             SEAT             |    Francisco Leston Ramos    | 0.217 |
+|   10   |         InboundCycle         | Javier Pérez-Chao Rodríguez  | 0.573 |
 +--------+------------------------------+------------------------------+-------+
-|   10   |         Farmaconnect         |    Isabel Rodríguez Godoy    | 0.188 |
+|   10   |             AKKA             |        Nerea Aparicio        | 0.332 |
 +--------+------------------------------+------------------------------+-------+
-|   10   |            ONEBOX            |     Eugenio Ruiz Cepeda      | 0.192 |
+|   10   | Bit Genoma Digital Solutions |    Dan Mihai Grigoriciuc     | 0.387 |
+|        |              SL              |                              |       |
 +--------+------------------------------+------------------------------+-------+
-|   10   |      The Hotels Network      |    Maria Cristina Blanco     | 0.203 |
+|   10   |       Project Lobster        | Patricia Defez Díaz de Sarra | 0.315 |
+|        |                              |             lde              |       |
 +--------+------------------------------+------------------------------+-------+
-|   10   |   Visyon (Estudio Bay SL)    |   Alfredo Hinarejos Corbeá   | 0.182 |
+|   10   |           C14TORCE           |    Baltasar Torres Garcia    | 0.218 |
 +--------+------------------------------+------------------------------+-------+
-|   10   |          Norwegian           |    Nira Alonso Rodríguez     | 0.18  |
+|   10   | Bit Genoma Digital Solutions |    Carlos Martínez Crespo    | 0.267 |
 +--------+------------------------------+------------------------------+-------+
-|   10   |           Exoticca           |    Rodrigo Otero Montero     | 0.19  |
+|   10   |           Atomian            |    Nira Alonso Rodríguez     | 0.215 |
 +--------+------------------------------+------------------------------+-------+
-|   10   |           Bluekik            |         Sofia Jordan         | 0.167 |
+|   10   |      The Hotels Network      |    Javier Requejo Melchor    | 0.202 |
 +--------+------------------------------+------------------------------+-------+
-|   10   |           Movetia            |        Thilo Sperber         | 0.148 |
+|   10   |             SEAT             |         Sofia Jordan         | 0.192 |
 +--------+------------------------------+------------------------------+-------+
-|   10   |     CAPITOLE CONSULTING      | Javier Pérez-Chao Rodríguez  | 0.216 |
+|   10   |      Volcanic Internet       |    Maria Cristina Blanco     | 0.197 |
++--------+------------------------------+------------------------------+-------+
+|   10   |            ONEBOX            |   Alfredo Hinarejos Corbeá   | 0.198 |
++--------+------------------------------+------------------------------+-------+
+|   10   |         Farmaconnect         |   Daniel Herrero Hernando    | 0.27  |
++--------+------------------------------+------------------------------+-------+
+|   10   |   Visyon (Estudio Bay SL)    |    Francisco Leston Ramos    | 0.204 |
++--------+------------------------------+------------------------------+-------+
+|   10   |          Norwegian           |     Eugenio Ruiz Cepeda      | 0.179 |
++--------+------------------------------+------------------------------+-------+
+|   10   |           Exoticca           |    Moisés García Almeida     | 0.196 |
++--------+------------------------------+------------------------------+-------+
+|   10   |           Bluekik            |     Alfonso Silva Feria      | 0.186 |
++--------+------------------------------+------------------------------+-------+
+|   10   |           Movetia            | Maria Isabel Llanes Agudelo  | 0.153 |
++--------+------------------------------+------------------------------+-------+
+|   10   |     CAPITOLE CONSULTING      | Jaime Jacobo Rodríguez del V | 0.165 |
+|        |                              |             alle             |       |
 +--------+------------------------------+------------------------------+-------+

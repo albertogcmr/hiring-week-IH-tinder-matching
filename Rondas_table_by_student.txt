@@ -1,429 +1,431 @@
 +-------------------------------+------------------------------+-------+-------+
 |            student            |           company            | ronda | match |
 +-------------------------------+------------------------------+-------+-------+
-|     Maria Cristina Blanco     |     CAPITOLE CONSULTING      |   0   | 0.15  |
+|     Maria Cristina Blanco     |           Bluekik            |   0   | 0.17  |
 +-------------------------------+------------------------------+-------+-------+
-|     Maria Cristina Blanco     |            ONEBOX            |   2   | 0.195 |
+|     Maria Cristina Blanco     |      The Hotels Network      |   2   | 0.203 |
 +-------------------------------+------------------------------+-------+-------+
-|     Maria Cristina Blanco     |       Project Lobster        |   4   | 0.315 |
+|     Maria Cristina Blanco     | Bit Genoma Digital Solutions |   4   | 0.387 |
+|                               |              SL              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|     Maria Cristina Blanco     |           Exoticca           |   5   | 0.17  |
+|     Maria Cristina Blanco     |          Norwegian           |   5   | 0.182 |
 +-------------------------------+------------------------------+-------+-------+
 |     Maria Cristina Blanco     | Bit Genoma Digital Solutions |   7   | 0.212 |
 +-------------------------------+------------------------------+-------+-------+
-|     Maria Cristina Blanco     |             AKKA             |   9   | 0.397 |
+|     Maria Cristina Blanco     |     CAPITOLE CONSULTING      |   8   | 0.15  |
 +-------------------------------+------------------------------+-------+-------+
-|     Maria Cristina Blanco     |      The Hotels Network      |  10   | 0.203 |
+|     Maria Cristina Blanco     |      Volcanic Internet       |  10   | 0.197 |
 +-------------------------------+------------------------------+-------+-------+
-|      Eugenio Ruiz Cepeda      |           Movetia            |   0   | 0.151 |
+|      Eugenio Ruiz Cepeda      | Bit Genoma Digital Solutions |   1   | 0.346 |
+|                               |              SL              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|      Eugenio Ruiz Cepeda      |             SEAT             |   2   |  0.2  |
+|      Eugenio Ruiz Cepeda      |   Visyon (Estudio Bay SL)    |   2   | 0.181 |
 +-------------------------------+------------------------------+-------+-------+
-|      Eugenio Ruiz Cepeda      |             AKKA             |   4   | 0.345 |
+|      Eugenio Ruiz Cepeda      |           Atomian            |   4   | 0.214 |
 +-------------------------------+------------------------------+-------+-------+
-|      Eugenio Ruiz Cepeda      |          Norwegian           |   5   | 0.179 |
+|      Eugenio Ruiz Cepeda      |           Movetia            |   5   | 0.151 |
 +-------------------------------+------------------------------+-------+-------+
 |      Eugenio Ruiz Cepeda      |      The Hotels Network      |   7   | 0.209 |
 +-------------------------------+------------------------------+-------+-------+
-|      Eugenio Ruiz Cepeda      |     CAPITOLE CONSULTING      |   8   | 0.147 |
+|      Eugenio Ruiz Cepeda      |         InboundCycle         |   9   | 0.332 |
 +-------------------------------+------------------------------+-------+-------+
-|      Eugenio Ruiz Cepeda      |            ONEBOX            |  10   | 0.192 |
+|      Eugenio Ruiz Cepeda      |          Norwegian           |  10   | 0.179 |
 +-------------------------------+------------------------------+-------+-------+
-|     Moisés García Almeida     | Bit Genoma Digital Solutions |   0   | 0.255 |
+|     Moisés García Almeida     |       Project Lobster        |   1   | 0.364 |
 +-------------------------------+------------------------------+-------+-------+
-|     Moisés García Almeida     |       Project Lobster        |   2   | 0.364 |
+|     Moisés García Almeida     |           Bluekik            |   2   | 0.215 |
 +-------------------------------+------------------------------+-------+-------+
-|     Moisés García Almeida     |   Visyon (Estudio Bay SL)    |   3   | 0.249 |
+|     Moisés García Almeida     | Bit Genoma Digital Solutions |   4   | 0.255 |
 +-------------------------------+------------------------------+-------+-------+
-|     Moisés García Almeida     |           C14TORCE           |   5   | 0.298 |
+|     Moisés García Almeida     |     CAPITOLE CONSULTING      |   5   | 0.173 |
 +-------------------------------+------------------------------+-------+-------+
-|     Moisés García Almeida     |           Bluekik            |   6   | 0.215 |
+|     Moisés García Almeida     |             SEAT             |   7   | 0.249 |
 +-------------------------------+------------------------------+-------+-------+
-|     Moisés García Almeida     |      The Hotels Network      |   8   | 0.251 |
+|     Moisés García Almeida     |           C14TORCE           |   9   | 0.298 |
 +-------------------------------+------------------------------+-------+-------+
-|     Moisés García Almeida     | Bit Genoma Digital Solutions |  10   | 0.346 |
+|     Moisés García Almeida     |           Exoticca           |  10   | 0.196 |
++-------------------------------+------------------------------+-------+-------+
+|     Nira Alonso Rodríguez     |         Farmaconnect         |   0   | 0.182 |
++-------------------------------+------------------------------+-------+-------+
+|     Nira Alonso Rodríguez     |           C14TORCE           |   2   | 0.224 |
++-------------------------------+------------------------------+-------+-------+
+|     Nira Alonso Rodríguez     |           Movetia            |   3   | 0.149 |
++-------------------------------+------------------------------+-------+-------+
+|     Nira Alonso Rodríguez     |             SEAT             |   5   | 0.195 |
++-------------------------------+------------------------------+-------+-------+
+|     Nira Alonso Rodríguez     | Bit Genoma Digital Solutions |   7   | 0.348 |
 |                               |              SL              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|     Nira Alonso Rodríguez     |             AKKA             |   1   | 0.355 |
+|     Nira Alonso Rodríguez     |   Visyon (Estudio Bay SL)    |   8   | 0.181 |
 +-------------------------------+------------------------------+-------+-------+
-|     Nira Alonso Rodríguez     |   Visyon (Estudio Bay SL)    |   2   | 0.181 |
+|     Nira Alonso Rodríguez     |           Atomian            |  10   | 0.215 |
 +-------------------------------+------------------------------+-------+-------+
-|     Nira Alonso Rodríguez     |           Atomian            |   4   | 0.215 |
+|        Nerea Aparicio         |           Atomian            |   0   | 0.21  |
 +-------------------------------+------------------------------+-------+-------+
-|     Nira Alonso Rodríguez     |           Movetia            |   5   | 0.149 |
-+-------------------------------+------------------------------+-------+-------+
-|     Nira Alonso Rodríguez     |             SEAT             |   7   | 0.195 |
-+-------------------------------+------------------------------+-------+-------+
-|     Nira Alonso Rodríguez     | Bit Genoma Digital Solutions |   9   | 0.348 |
+|        Nerea Aparicio         | Bit Genoma Digital Solutions |   2   | 0.376 |
 |                               |              SL              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|     Nira Alonso Rodríguez     |          Norwegian           |  10   | 0.18  |
+|        Nerea Aparicio         |      Volcanic Internet       |   3   | 0.195 |
 +-------------------------------+------------------------------+-------+-------+
-|        Nerea Aparicio         |             SEAT             |   0   | 0.196 |
+|        Nerea Aparicio         |           C14TORCE           |   5   | 0.228 |
 +-------------------------------+------------------------------+-------+-------+
-|        Nerea Aparicio         |           C14TORCE           |   2   | 0.228 |
+|        Nerea Aparicio         |           Bluekik            |   6   | 0.17  |
 +-------------------------------+------------------------------+-------+-------+
-|        Nerea Aparicio         |           Bluekik            |   3   | 0.17  |
+|        Nerea Aparicio         |             SEAT             |   8   | 0.196 |
 +-------------------------------+------------------------------+-------+-------+
-|        Nerea Aparicio         |      The Hotels Network      |   5   | 0.204 |
+|        Nerea Aparicio         |             AKKA             |  10   | 0.332 |
 +-------------------------------+------------------------------+-------+-------+
-|        Nerea Aparicio         | Bit Genoma Digital Solutions |   7   | 0.376 |
+|    Francisco Leston Ramos     |         InboundCycle         |   1   | 0.419 |
++-------------------------------+------------------------------+-------+-------+
+|    Francisco Leston Ramos     |         Farmaconnect         |   2   | 0.207 |
++-------------------------------+------------------------------+-------+-------+
+|    Francisco Leston Ramos     |       Project Lobster        |   4   | 0.348 |
++-------------------------------+------------------------------+-------+-------+
+|    Francisco Leston Ramos     |           Bluekik            |   5   | 0.19  |
++-------------------------------+------------------------------+-------+-------+
+|    Francisco Leston Ramos     |      Volcanic Internet       |   7   | 0.226 |
++-------------------------------+------------------------------+-------+-------+
+|    Francisco Leston Ramos     |             AKKA             |   9   | 0.339 |
++-------------------------------+------------------------------+-------+-------+
+|    Francisco Leston Ramos     |   Visyon (Estudio Bay SL)    |  10   | 0.204 |
++-------------------------------+------------------------------+-------+-------+
+|       Sergio Ortega Gil       |      Volcanic Internet       |   1   | 0.257 |
++-------------------------------+------------------------------+-------+-------+
+|       Sergio Ortega Gil       |         InboundCycle         |   3   |  1.0  |
++-------------------------------+------------------------------+-------+-------+
+|       Sergio Ortega Gil       |   Visyon (Estudio Bay SL)    |   4   | 0.219 |
++-------------------------------+------------------------------+-------+-------+
+|       Sergio Ortega Gil       |           Atomian            |   6   | 0.301 |
++-------------------------------+------------------------------+-------+-------+
+|       Sergio Ortega Gil       |           Movetia            |   7   | 0.17  |
++-------------------------------+------------------------------+-------+-------+
+|       Sergio Ortega Gil       |         Farmaconnect         |   9   | 0.252 |
++-------------------------------+------------------------------+-------+-------+
+|     Mario Quiroga Cuervo      | Bit Genoma Digital Solutions |   1   | 0.304 |
++-------------------------------+------------------------------+-------+-------+
+|     Mario Quiroga Cuervo      |             AKKA             |   3   | 0.374 |
++-------------------------------+------------------------------+-------+-------+
+|     Mario Quiroga Cuervo      |           Exoticca           |   4   | 0.193 |
++-------------------------------+------------------------------+-------+-------+
+|     Mario Quiroga Cuervo      |      The Hotels Network      |   6   | 0.238 |
++-------------------------------+------------------------------+-------+-------+
+|     Mario Quiroga Cuervo      | Bit Genoma Digital Solutions |   8   | 0.449 |
 |                               |              SL              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|        Nerea Aparicio         |      Volcanic Internet       |   8   | 0.195 |
+|     Mario Quiroga Cuervo      |   Visyon (Estudio Bay SL)    |   9   | 0.212 |
 +-------------------------------+------------------------------+-------+-------+
-|        Nerea Aparicio         | Bit Genoma Digital Solutions |  10   | 0.211 |
+|    Daniel García Martínez     |           C14TORCE           |   1   | 0.226 |
 +-------------------------------+------------------------------+-------+-------+
-|    Francisco Leston Ramos     |           Bluekik            |   0   | 0.19  |
+|    Daniel García Martínez     |     CAPITOLE CONSULTING      |   2   | 0.147 |
 +-------------------------------+------------------------------+-------+-------+
-|    Francisco Leston Ramos     |      Volcanic Internet       |   2   | 0.226 |
+|    Daniel García Martínez     |             SEAT             |   4   | 0.195 |
 +-------------------------------+------------------------------+-------+-------+
-|    Francisco Leston Ramos     |         InboundCycle         |   4   | 0.419 |
+|    Daniel García Martínez     |             AKKA             |   6   | 0.349 |
 +-------------------------------+------------------------------+-------+-------+
-|    Francisco Leston Ramos     |   Visyon (Estudio Bay SL)    |   5   | 0.204 |
+|    Daniel García Martínez     |            ONEBOX            |   7   | 0.192 |
 +-------------------------------+------------------------------+-------+-------+
-|    Francisco Leston Ramos     |           Atomian            |   7   | 0.24  |
+|    Daniel García Martínez     |           Atomian            |   9   | 0.212 |
 +-------------------------------+------------------------------+-------+-------+
-|    Francisco Leston Ramos     |           Exoticca           |   8   | 0.181 |
+| Carlos Eduardo Lores Hernánde | Bit Genoma Digital Solutions |   0   | 0.212 |
+|              z                |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|    Francisco Leston Ramos     |             SEAT             |  10   | 0.217 |
+| Carlos Eduardo Lores Hernánde |           Movetia            |   1   | 0.146 |
+|              z                |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|       Sergio Ortega Gil       |   Visyon (Estudio Bay SL)    |   0   | 0.219 |
+| Carlos Eduardo Lores Hernánde |             SEAT             |   3   | 0.194 |
+|              z                |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|       Sergio Ortega Gil       |           Atomian            |   2   | 0.301 |
+| Carlos Eduardo Lores Hernánde |         InboundCycle         |   5   | 0.355 |
+|              z                |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|       Sergio Ortega Gil       |           Movetia            |   3   | 0.17  |
+| Carlos Eduardo Lores Hernánde |   Visyon (Estudio Bay SL)    |   6   | 0.182 |
+|              z                |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|       Sergio Ortega Gil       |         Farmaconnect         |   5   | 0.252 |
+| Carlos Eduardo Lores Hernánde |      The Hotels Network      |   8   | 0.202 |
+|              z                |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|       Sergio Ortega Gil       |         InboundCycle         |   7   |  1.0  |
+| Carlos Eduardo Lores Hernánde |     CAPITOLE CONSULTING      |   9   | 0.145 |
+|              z                |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|       Sergio Ortega Gil       |           Bluekik            |   8   | 0.204 |
+|    Javier Requejo Melchor     |   Visyon (Estudio Bay SL)    |   0   | 0.182 |
 +-------------------------------+------------------------------+-------+-------+
-|       Sergio Ortega Gil       |      Volcanic Internet       |  10   | 0.257 |
+|    Javier Requejo Melchor     |            ONEBOX            |   2   | 0.215 |
 +-------------------------------+------------------------------+-------+-------+
-|     Mario Quiroga Cuervo      |      The Hotels Network      |   1   | 0.238 |
+|    Javier Requejo Melchor     |     CAPITOLE CONSULTING      |   3   | 0.149 |
 +-------------------------------+------------------------------+-------+-------+
-|     Mario Quiroga Cuervo      |     CAPITOLE CONSULTING      |   2   | 0.168 |
+|    Javier Requejo Melchor     |      Volcanic Internet       |   5   | 0.201 |
 +-------------------------------+------------------------------+-------+-------+
-|     Mario Quiroga Cuervo      |   Visyon (Estudio Bay SL)    |   4   | 0.212 |
+|    Javier Requejo Melchor     |       Project Lobster        |   7   | 0.315 |
 +-------------------------------+------------------------------+-------+-------+
-|     Mario Quiroga Cuervo      |       Project Lobster        |   6   | 0.315 |
+|    Javier Requejo Melchor     |           Exoticca           |   8   | 0.182 |
 +-------------------------------+------------------------------+-------+-------+
-|     Mario Quiroga Cuervo      |           Exoticca           |   7   | 0.193 |
+|    Javier Requejo Melchor     |      The Hotels Network      |  10   | 0.202 |
 +-------------------------------+------------------------------+-------+-------+
-|     Mario Quiroga Cuervo      |             SEAT             |   9   | 0.238 |
+|      Enrique Anaya Marin      |       Project Lobster        |   0   | 0.315 |
 +-------------------------------+------------------------------+-------+-------+
-|    Daniel García Martínez     |           Atomian            |   1   | 0.212 |
+|      Enrique Anaya Marin      |           Exoticca           |   1   | 0.186 |
 +-------------------------------+------------------------------+-------+-------+
-|    Daniel García Martínez     | Bit Genoma Digital Solutions |   3   | 0.387 |
+|      Enrique Anaya Marin      | Bit Genoma Digital Solutions |   3   | 0.212 |
++-------------------------------+------------------------------+-------+-------+
+|      Enrique Anaya Marin      | Bit Genoma Digital Solutions |   5   | 0.387 |
 |                               |              SL              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|    Daniel García Martínez     |      Volcanic Internet       |   4   | 0.197 |
+|      Enrique Anaya Marin      |      Volcanic Internet       |   6   | 0.203 |
 +-------------------------------+------------------------------+-------+-------+
-|    Daniel García Martínez     |           C14TORCE           |   6   | 0.226 |
+|      Enrique Anaya Marin      |           C14TORCE           |   8   | 0.228 |
 +-------------------------------+------------------------------+-------+-------+
-|    Daniel García Martínez     |           Bluekik            |   7   | 0.169 |
+|      Enrique Anaya Marin      |            ONEBOX            |   9   | 0.209 |
 +-------------------------------+------------------------------+-------+-------+
-|    Daniel García Martínez     |      The Hotels Network      |   9   | 0.202 |
+|  Maria Isabel Llanes Agudelo  |           Atomian            |   1   | 0.233 |
 +-------------------------------+------------------------------+-------+-------+
-| Carlos Eduardo Lores Hernánde |          Norwegian           |   0   | 0.181 |
-|              z                |                              |       |       |
+|  Maria Isabel Llanes Agudelo  |           Exoticca           |   2   | 0.171 |
 +-------------------------------+------------------------------+-------+-------+
-| Carlos Eduardo Lores Hernánde | Bit Genoma Digital Solutions |   2   | 0.212 |
-|              z                |                              |       |       |
+|  Maria Isabel Llanes Agudelo  |      The Hotels Network      |   4   | 0.206 |
 +-------------------------------+------------------------------+-------+-------+
-| Carlos Eduardo Lores Hernánde |     CAPITOLE CONSULTING      |   3   | 0.145 |
-|              z                |                              |       |       |
-+-------------------------------+------------------------------+-------+-------+
-| Carlos Eduardo Lores Hernánde |             SEAT             |   5   | 0.194 |
-|              z                |                              |       |       |
-+-------------------------------+------------------------------+-------+-------+
-| Carlos Eduardo Lores Hernánde |       Project Lobster        |   7   | 0.309 |
-|              z                |                              |       |       |
-+-------------------------------+------------------------------+-------+-------+
-| Carlos Eduardo Lores Hernánde |   Visyon (Estudio Bay SL)    |   8   | 0.182 |
-|              z                |                              |       |       |
-+-------------------------------+------------------------------+-------+-------+
-| Carlos Eduardo Lores Hernánde |           C14TORCE           |  10   | 0.224 |
-|              z                |                              |       |       |
-+-------------------------------+------------------------------+-------+-------+
-|    Javier Requejo Melchor     |             AKKA             |   0   | 0.466 |
-+-------------------------------+------------------------------+-------+-------+
-|    Javier Requejo Melchor     |   Visyon (Estudio Bay SL)    |   1   | 0.182 |
-+-------------------------------+------------------------------+-------+-------+
-|    Javier Requejo Melchor     |            ONEBOX            |   3   | 0.215 |
-+-------------------------------+------------------------------+-------+-------+
-|    Javier Requejo Melchor     |     CAPITOLE CONSULTING      |   4   | 0.149 |
-+-------------------------------+------------------------------+-------+-------+
-|    Javier Requejo Melchor     |         Farmaconnect         |   6   | 0.198 |
-+-------------------------------+------------------------------+-------+-------+
-|    Javier Requejo Melchor     |       Project Lobster        |   8   | 0.315 |
-+-------------------------------+------------------------------+-------+-------+
-|    Javier Requejo Melchor     |           Exoticca           |   9   | 0.182 |
-+-------------------------------+------------------------------+-------+-------+
-|      Enrique Anaya Marin      |      The Hotels Network      |   0   | 0.209 |
-+-------------------------------+------------------------------+-------+-------+
-|      Enrique Anaya Marin      | Bit Genoma Digital Solutions |   2   | 0.387 |
+|  Maria Isabel Llanes Agudelo  | Bit Genoma Digital Solutions |   6   | 0.382 |
 |                               |              SL              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|      Enrique Anaya Marin      |          Norwegian           |   3   | 0.198 |
+|  Maria Isabel Llanes Agudelo  |   Visyon (Estudio Bay SL)    |   7   | 0.198 |
 +-------------------------------+------------------------------+-------+-------+
-|      Enrique Anaya Marin      | Bit Genoma Digital Solutions |   5   | 0.212 |
+|  Maria Isabel Llanes Agudelo  | Bit Genoma Digital Solutions |   9   | 0.22  |
 +-------------------------------+------------------------------+-------+-------+
-|      Enrique Anaya Marin      |     CAPITOLE CONSULTING      |   6   | 0.154 |
+|  Maria Isabel Llanes Agudelo  |           Movetia            |  10   | 0.153 |
 +-------------------------------+------------------------------+-------+-------+
-|      Enrique Anaya Marin      |             SEAT             |   8   | 0.208 |
+|    Daniel Herrero Hernando    |           Movetia            |   0   | 0.24  |
 +-------------------------------+------------------------------+-------+-------+
-|      Enrique Anaya Marin      |             AKKA             |  10   | 0.385 |
+|    Daniel Herrero Hernando    |             SEAT             |   2   | 0.355 |
 +-------------------------------+------------------------------+-------+-------+
-|  Maria Isabel Llanes Agudelo  |      Volcanic Internet       |   1   | 0.208 |
+|    Daniel Herrero Hernando    |           C14TORCE           |   4   | 0.426 |
 +-------------------------------+------------------------------+-------+-------+
-|  Maria Isabel Llanes Agudelo  |         InboundCycle         |   3   | 0.388 |
+|    Daniel Herrero Hernando    |           Exoticca           |   5   | 0.274 |
 +-------------------------------+------------------------------+-------+-------+
-|  Maria Isabel Llanes Agudelo  |          Norwegian           |   4   | 0.195 |
+|    Daniel Herrero Hernando    |          Norwegian           |   7   | 0.332 |
 +-------------------------------+------------------------------+-------+-------+
-|  Maria Isabel Llanes Agudelo  |           Atomian            |   6   | 0.233 |
-+-------------------------------+------------------------------+-------+-------+
-|  Maria Isabel Llanes Agudelo  |           Movetia            |   7   | 0.153 |
-+-------------------------------+------------------------------+-------+-------+
-|  Maria Isabel Llanes Agudelo  |   Visyon (Estudio Bay SL)    |   9   | 0.198 |
-+-------------------------------+------------------------------+-------+-------+
-|    Daniel Herrero Hernando    |           C14TORCE           |   0   | 0.426 |
-+-------------------------------+------------------------------+-------+-------+
-|    Daniel Herrero Hernando    |           Exoticca           |   1   | 0.274 |
-+-------------------------------+------------------------------+-------+-------+
-|    Daniel Herrero Hernando    |             SEAT             |   3   | 0.355 |
-+-------------------------------+------------------------------+-------+-------+
-|    Daniel Herrero Hernando    | Bit Genoma Digital Solutions |   5   | 0.668 |
+|    Daniel Herrero Hernando    | Bit Genoma Digital Solutions |   9   | 0.668 |
 |                               |              SL              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|    Daniel Herrero Hernando    |          Norwegian           |   6   | 0.332 |
+|    Daniel Herrero Hernando    |         Farmaconnect         |  10   | 0.27  |
 +-------------------------------+------------------------------+-------+-------+
-|    Daniel Herrero Hernando    | Bit Genoma Digital Solutions |   8   | 0.376 |
+|         Thilo Sperber         |           C14TORCE           |   0   | 0.222 |
 +-------------------------------+------------------------------+-------+-------+
-|    Daniel Herrero Hernando    |           Bluekik            |   9   | 0.253 |
+|         Thilo Sperber         |           Bluekik            |   1   | 0.167 |
 +-------------------------------+------------------------------+-------+-------+
-|         Thilo Sperber         |           C14TORCE           |   1   | 0.222 |
+|         Thilo Sperber         |      The Hotels Network      |   3   | 0.199 |
 +-------------------------------+------------------------------+-------+-------+
-|         Thilo Sperber         |           Bluekik            |   2   | 0.167 |
+|         Thilo Sperber         |             AKKA             |   5   | 0.401 |
 +-------------------------------+------------------------------+-------+-------+
-|         Thilo Sperber         |      The Hotels Network      |   4   | 0.199 |
+|         Thilo Sperber         |          Norwegian           |   6   | 0.179 |
 +-------------------------------+------------------------------+-------+-------+
-|         Thilo Sperber         | Bit Genoma Digital Solutions |   6   | 0.366 |
-|                               |              SL              |       |       |
+|         Thilo Sperber         |           Atomian            |   8   | 0.217 |
 +-------------------------------+------------------------------+-------+-------+
-|         Thilo Sperber         |         Farmaconnect         |   7   | 0.18  |
-+-------------------------------+------------------------------+-------+-------+
-|         Thilo Sperber         | Bit Genoma Digital Solutions |   9   | 0.209 |
-+-------------------------------+------------------------------+-------+-------+
-|         Thilo Sperber         |           Movetia            |  10   | 0.148 |
+|         Thilo Sperber         |           Movetia            |   9   | 0.148 |
 +-------------------------------+------------------------------+-------+-------+
 |    Carlos Martínez Crespo     |      Volcanic Internet       |   0   | 0.276 |
 +-------------------------------+------------------------------+-------+-------+
-|    Carlos Martínez Crespo     |     CAPITOLE CONSULTING      |   1   | 0.168 |
+|    Carlos Martínez Crespo     |           Atomian            |   2   | 0.328 |
 +-------------------------------+------------------------------+-------+-------+
-|    Carlos Martínez Crespo     |         Farmaconnect         |   3   | 0.251 |
+|    Carlos Martínez Crespo     |           Exoticca           |   3   | 0.209 |
 +-------------------------------+------------------------------+-------+-------+
-|    Carlos Martínez Crespo     |       Project Lobster        |   5   | 0.397 |
+|    Carlos Martínez Crespo     |         Farmaconnect         |   5   | 0.251 |
 +-------------------------------+------------------------------+-------+-------+
-|    Carlos Martínez Crespo     |           Exoticca           |   6   | 0.209 |
+|    Carlos Martínez Crespo     |         InboundCycle         |   7   | 0.502 |
 +-------------------------------+------------------------------+-------+-------+
-|    Carlos Martínez Crespo     |           Atomian            |   8   | 0.328 |
+|    Carlos Martínez Crespo     |          Norwegian           |   8   | 0.247 |
 +-------------------------------+------------------------------+-------+-------+
-|    Carlos Martínez Crespo     |         InboundCycle         |  10   | 0.502 |
+|    Carlos Martínez Crespo     | Bit Genoma Digital Solutions |  10   | 0.267 |
 +-------------------------------+------------------------------+-------+-------+
-|     Dan Mihai Grigoriciuc     |         InboundCycle         |   0   | 0.427 |
+|     Dan Mihai Grigoriciuc     |          Norwegian           |   0   | 0.217 |
 +-------------------------------+------------------------------+-------+-------+
-|     Dan Mihai Grigoriciuc     |          Norwegian           |   1   | 0.217 |
+|     Dan Mihai Grigoriciuc     |         InboundCycle         |   2   | 0.427 |
 +-------------------------------+------------------------------+-------+-------+
-|     Dan Mihai Grigoriciuc     |           Atomian            |   3   | 0.237 |
+|     Dan Mihai Grigoriciuc     |         Farmaconnect         |   3   | 0.212 |
 +-------------------------------+------------------------------+-------+-------+
-|     Dan Mihai Grigoriciuc     |           Bluekik            |   4   | 0.181 |
+|     Dan Mihai Grigoriciuc     |           Atomian            |   5   | 0.237 |
 +-------------------------------+------------------------------+-------+-------+
-|     Dan Mihai Grigoriciuc     |      Volcanic Internet       |   6   | 0.216 |
+|     Dan Mihai Grigoriciuc     |           Movetia            |   6   | 0.155 |
 +-------------------------------+------------------------------+-------+-------+
-|     Dan Mihai Grigoriciuc     |             AKKA             |   8   | 0.374 |
+|     Dan Mihai Grigoriciuc     |      Volcanic Internet       |   8   | 0.216 |
 +-------------------------------+------------------------------+-------+-------+
-|     Dan Mihai Grigoriciuc     |         Farmaconnect         |   9   | 0.212 |
+|     Dan Mihai Grigoriciuc     | Bit Genoma Digital Solutions |  10   | 0.387 |
+|                               |              SL              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|     Rodrigo Otero Montero     |       Project Lobster        |   1   | 0.361 |
+|     Rodrigo Otero Montero     |          Norwegian           |   1   | 0.215 |
 +-------------------------------+------------------------------+-------+-------+
-|     Rodrigo Otero Montero     |          Norwegian           |   2   | 0.215 |
+|     Rodrigo Otero Montero     |       Project Lobster        |   3   | 0.361 |
 +-------------------------------+------------------------------+-------+-------+
-|     Rodrigo Otero Montero     |         Farmaconnect         |   4   | 0.227 |
+|     Rodrigo Otero Montero     |            ONEBOX            |   4   | 0.205 |
 +-------------------------------+------------------------------+-------+-------+
-|     Rodrigo Otero Montero     |     CAPITOLE CONSULTING      |   5   | 0.163 |
+|     Rodrigo Otero Montero     |         Farmaconnect         |   6   | 0.227 |
 +-------------------------------+------------------------------+-------+-------+
-|     Rodrigo Otero Montero     |      Volcanic Internet       |   7   | 0.214 |
+|     Rodrigo Otero Montero     |     CAPITOLE CONSULTING      |   7   | 0.163 |
 +-------------------------------+------------------------------+-------+-------+
-|     Rodrigo Otero Montero     |           Atomian            |   9   | 0.251 |
+|     Rodrigo Otero Montero     |      The Hotels Network      |   9   | 0.211 |
 +-------------------------------+------------------------------+-------+-------+
-|     Rodrigo Otero Montero     |           Exoticca           |  10   | 0.19  |
+|  Verónica Celemín Lominchar   |         InboundCycle         |   0   |  0.4  |
 +-------------------------------+------------------------------+-------+-------+
-|  Verónica Celemín Lominchar   |            ONEBOX            |   0   | 0.22  |
+|  Verónica Celemín Lominchar   |             SEAT             |   1   | 0.208 |
 +-------------------------------+------------------------------+-------+-------+
-|  Verónica Celemín Lominchar   |             AKKA             |   2   | 0.536 |
+|  Verónica Celemín Lominchar   |           Atomian            |   3   | 0.257 |
 +-------------------------------+------------------------------+-------+-------+
-|  Verónica Celemín Lominchar   |      Volcanic Internet       |   3   | 0.216 |
+|  Verónica Celemín Lominchar   |           Movetia            |   4   | 0.169 |
 +-------------------------------+------------------------------+-------+-------+
-|  Verónica Celemín Lominchar   |           Atomian            |   5   | 0.257 |
+|  Verónica Celemín Lominchar   |            ONEBOX            |   6   | 0.22  |
 +-------------------------------+------------------------------+-------+-------+
-|  Verónica Celemín Lominchar   |           Movetia            |   6   | 0.169 |
+|  Verónica Celemín Lominchar   |             AKKA             |   8   | 0.536 |
 +-------------------------------+------------------------------+-------+-------+
-|  Verónica Celemín Lominchar   |         Farmaconnect         |   8   | 0.218 |
+|  Verónica Celemín Lominchar   |           Bluekik            |   9   | 0.186 |
 +-------------------------------+------------------------------+-------+-------+
-|  Verónica Celemín Lominchar   |       Project Lobster        |  10   | 0.376 |
+|  Abel Colmenares Napolitano   |             AKKA             |   0   | 0.426 |
 +-------------------------------+------------------------------+-------+-------+
 |  Abel Colmenares Napolitano   |            ONEBOX            |   1   | 0.199 |
 +-------------------------------+------------------------------+-------+-------+
-|  Abel Colmenares Napolitano   |             AKKA             |   3   | 0.426 |
+|  Abel Colmenares Napolitano   |           C14TORCE           |   3   | 0.218 |
 +-------------------------------+------------------------------+-------+-------+
-|  Abel Colmenares Napolitano   |           Exoticca           |   4   | 0.166 |
+|  Abel Colmenares Napolitano   |           Bluekik            |   4   | 0.166 |
 +-------------------------------+------------------------------+-------+-------+
 |  Abel Colmenares Napolitano   | Bit Genoma Digital Solutions |   6   |  0.2  |
 +-------------------------------+------------------------------+-------+-------+
-|  Abel Colmenares Napolitano   |     CAPITOLE CONSULTING      |   7   | 0.141 |
+|  Abel Colmenares Napolitano   |         InboundCycle         |   8   | 0.348 |
 +-------------------------------+------------------------------+-------+-------+
-|  Abel Colmenares Napolitano   |      Volcanic Internet       |   9   | 0.187 |
+|  Abel Colmenares Napolitano   |          Norwegian           |   9   | 0.182 |
 +-------------------------------+------------------------------+-------+-------+
-|  Javier Pérez-Chao Rodríguez  | Bit Genoma Digital Solutions |   1   | 0.387 |
+|  Javier Pérez-Chao Rodríguez  |             SEAT             |   0   | 0.348 |
 +-------------------------------+------------------------------+-------+-------+
-|  Javier Pérez-Chao Rodríguez  |           Movetia            |   2   | 0.22  |
+|  Javier Pérez-Chao Rodríguez  |     CAPITOLE CONSULTING      |   1   | 0.216 |
 +-------------------------------+------------------------------+-------+-------+
-|  Javier Pérez-Chao Rodríguez  |             SEAT             |   4   | 0.348 |
+|  Javier Pérez-Chao Rodríguez  |   Visyon (Estudio Bay SL)    |   3   | 0.304 |
 +-------------------------------+------------------------------+-------+-------+
-|  Javier Pérez-Chao Rodríguez  |         InboundCycle         |   6   | 0.573 |
+|  Javier Pérez-Chao Rodríguez  |       Project Lobster        |   5   |  0.4  |
 +-------------------------------+------------------------------+-------+-------+
-|  Javier Pérez-Chao Rodríguez  |   Visyon (Estudio Bay SL)    |   7   | 0.304 |
+|  Javier Pérez-Chao Rodríguez  |           Exoticca           |   6   | 0.301 |
 +-------------------------------+------------------------------+-------+-------+
-|  Javier Pérez-Chao Rodríguez  |           C14TORCE           |   9   | 0.366 |
+|  Javier Pérez-Chao Rodríguez  | Bit Genoma Digital Solutions |   8   | 0.387 |
 +-------------------------------+------------------------------+-------+-------+
-|  Javier Pérez-Chao Rodríguez  |     CAPITOLE CONSULTING      |  10   | 0.216 |
+|  Javier Pérez-Chao Rodríguez  |         InboundCycle         |  10   | 0.573 |
 +-------------------------------+------------------------------+-------+-------+
-| Jaime Jacobo Rodríguez del Va |         Farmaconnect         |   0   | 0.232 |
+| Jaime Jacobo Rodríguez del Va |         Farmaconnect         |   1   | 0.232 |
 |              lle              |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Jaime Jacobo Rodríguez del Va |         InboundCycle         |   2   | 0.445 |
+| Jaime Jacobo Rodríguez del Va |           Movetia            |   2   | 0.171 |
 |              lle              |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Jaime Jacobo Rodríguez del Va |           Exoticca           |   3   | 0.193 |
+| Jaime Jacobo Rodríguez del Va |          Norwegian           |   4   | 0.22  |
 |              lle              |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Jaime Jacobo Rodríguez del Va |      Volcanic Internet       |   5   | 0.225 |
+| Jaime Jacobo Rodríguez del Va |       Project Lobster        |   6   | 0.348 |
 |              lle              |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Jaime Jacobo Rodríguez del Va |             AKKA             |   7   | 0.445 |
+| Jaime Jacobo Rodríguez del Va |           Exoticca           |   7   | 0.193 |
 |              lle              |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Jaime Jacobo Rodríguez del Va |          Norwegian           |   8   | 0.22  |
+| Jaime Jacobo Rodríguez del Va |      Volcanic Internet       |   9   | 0.225 |
 |              lle              |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Jaime Jacobo Rodríguez del Va |           Atomian            |  10   | 0.249 |
+| Jaime Jacobo Rodríguez del Va |     CAPITOLE CONSULTING      |  10   | 0.165 |
 |              lle              |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Patricia Defez Díaz de Sarral |             SEAT             |   1   | 0.194 |
+| Patricia Defez Díaz de Sarral |      The Hotels Network      |   0   | 0.202 |
 |              de               |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Patricia Defez Díaz de Sarral |       Project Lobster        |   3   | 0.315 |
+| Patricia Defez Díaz de Sarral |             AKKA             |   2   | 0.332 |
 |              de               |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Patricia Defez Díaz de Sarral |            ONEBOX            |   4   | 0.188 |
+| Patricia Defez Díaz de Sarral |          Norwegian           |   3   | 0.181 |
 |              de               |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Patricia Defez Díaz de Sarral |      The Hotels Network      |   6   | 0.202 |
+| Patricia Defez Díaz de Sarral | Bit Genoma Digital Solutions |   5   | 0.205 |
 |              de               |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-| Patricia Defez Díaz de Sarral | Bit Genoma Digital Solutions |   8   | 0.387 |
-|              de               |              SL              |       |       |
-+-------------------------------+------------------------------+-------+-------+
-| Patricia Defez Díaz de Sarral |          Norwegian           |   9   | 0.181 |
+| Patricia Defez Díaz de Sarral |     CAPITOLE CONSULTING      |   6   | 0.146 |
 |              de               |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|    Isabel Rodríguez Godoy     |           Exoticca           |   0   | 0.177 |
+| Patricia Defez Díaz de Sarral |            ONEBOX            |   8   | 0.188 |
+|              de               |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|    Isabel Rodríguez Godoy     |      The Hotels Network      |   2   | 0.218 |
+| Patricia Defez Díaz de Sarral |       Project Lobster        |  10   | 0.315 |
+|              de               |                              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|    Isabel Rodríguez Godoy     | Bit Genoma Digital Solutions |   4   | 0.376 |
+|    Isabel Rodríguez Godoy     |      The Hotels Network      |   1   | 0.218 |
++-------------------------------+------------------------------+-------+-------+
+|    Isabel Rodríguez Godoy     | Bit Genoma Digital Solutions |   3   | 0.376 |
 |                               |              SL              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|    Isabel Rodríguez Godoy     |            ONEBOX            |   5   | 0.188 |
+|    Isabel Rodríguez Godoy     |         Farmaconnect         |   4   | 0.188 |
 +-------------------------------+------------------------------+-------+-------+
-|    Isabel Rodríguez Godoy     |           C14TORCE           |   7   | 0.238 |
+|    Isabel Rodríguez Godoy     |           C14TORCE           |   6   | 0.238 |
 +-------------------------------+------------------------------+-------+-------+
-|    Isabel Rodríguez Godoy     |           Movetia            |   8   | 0.161 |
+|    Isabel Rodríguez Godoy     |           Bluekik            |   7   | 0.177 |
 +-------------------------------+------------------------------+-------+-------+
-|    Isabel Rodríguez Godoy     |         Farmaconnect         |  10   | 0.188 |
+|    Isabel Rodríguez Godoy     |             SEAT             |   9   | 0.209 |
 +-------------------------------+------------------------------+-------+-------+
-|     Roberto Muñoz Aragón      |       Project Lobster        |   0   | 0.341 |
-+-------------------------------+------------------------------+-------+-------+
-|     Roberto Muñoz Aragón      |           Bluekik            |   1   | 0.171 |
-+-------------------------------+------------------------------+-------+-------+
-|     Roberto Muñoz Aragón      | Bit Genoma Digital Solutions |   3   | 0.217 |
-+-------------------------------+------------------------------+-------+-------+
-|     Roberto Muñoz Aragón      |             AKKA             |   5   | 0.431 |
-+-------------------------------+------------------------------+-------+-------+
-|     Roberto Muñoz Aragón      |            ONEBOX            |   6   | 0.218 |
-+-------------------------------+------------------------------+-------+-------+
-|     Roberto Muñoz Aragón      |           C14TORCE           |   8   | 0.23  |
-+-------------------------------+------------------------------+-------+-------+
-|     Roberto Muñoz Aragón      |           Movetia            |   9   | 0.153 |
-+-------------------------------+------------------------------+-------+-------+
-|         Sofia Jordan          |         InboundCycle         |   1   | 0.374 |
-+-------------------------------+------------------------------+-------+-------+
-|         Sofia Jordan          |           Exoticca           |   2   | 0.167 |
-+-------------------------------+------------------------------+-------+-------+
-|         Sofia Jordan          | Bit Genoma Digital Solutions |   4   | 0.204 |
-+-------------------------------+------------------------------+-------+-------+
-|         Sofia Jordan          |             AKKA             |   6   | 0.385 |
-+-------------------------------+------------------------------+-------+-------+
-|         Sofia Jordan          |          Norwegian           |   7   | 0.183 |
-+-------------------------------+------------------------------+-------+-------+
-|         Sofia Jordan          |       Project Lobster        |   9   | 0.289 |
-+-------------------------------+------------------------------+-------+-------+
-|         Sofia Jordan          |           Bluekik            |  10   | 0.167 |
-+-------------------------------+------------------------------+-------+-------+
-|      Alfonso Silva Feria      | Bit Genoma Digital Solutions |   0   | 0.374 |
+|     Roberto Muñoz Aragón      | Bit Genoma Digital Solutions |   0   | 0.431 |
 |                               |              SL              |       |       |
 +-------------------------------+------------------------------+-------+-------+
-|      Alfonso Silva Feria      |         Farmaconnect         |   1   | 0.208 |
+|     Roberto Muñoz Aragón      |   Visyon (Estudio Bay SL)    |   1   | 0.184 |
 +-------------------------------+------------------------------+-------+-------+
-|      Alfonso Silva Feria      |           C14TORCE           |   3   | 0.231 |
+|     Roberto Muñoz Aragón      |            ONEBOX            |   3   | 0.218 |
 +-------------------------------+------------------------------+-------+-------+
-|      Alfonso Silva Feria      |           Movetia            |   4   | 0.161 |
+|     Roberto Muñoz Aragón      |     CAPITOLE CONSULTING      |   4   | 0.15  |
 +-------------------------------+------------------------------+-------+-------+
-|      Alfonso Silva Feria      |             SEAT             |   6   | 0.205 |
+|     Roberto Muñoz Aragón      |             SEAT             |   6   | 0.198 |
 +-------------------------------+------------------------------+-------+-------+
-|      Alfonso Silva Feria      |         InboundCycle         |   8   | 0.388 |
+|     Roberto Muñoz Aragón      |       Project Lobster        |   8   | 0.341 |
 +-------------------------------+------------------------------+-------+-------+
-|      Alfonso Silva Feria      |            ONEBOX            |   9   | 0.188 |
+|     Roberto Muñoz Aragón      |           Exoticca           |   9   | 0.17  |
 +-------------------------------+------------------------------+-------+-------+
-|   Alfredo Hinarejos Corbeá    | Bit Genoma Digital Solutions |   1   | 0.387 |
-|                               |              SL              |       |       |
+|         Sofia Jordan          |           Exoticca           |   0   | 0.167 |
 +-------------------------------+------------------------------+-------+-------+
-|   Alfredo Hinarejos Corbeá    |         Farmaconnect         |   2   | 0.186 |
+|         Sofia Jordan          | Bit Genoma Digital Solutions |   2   | 0.204 |
 +-------------------------------+------------------------------+-------+-------+
-|   Alfredo Hinarejos Corbeá    |           C14TORCE           |   4   | 0.226 |
+|         Sofia Jordan          |             AKKA             |   4   | 0.385 |
 +-------------------------------+------------------------------+-------+-------+
-|   Alfredo Hinarejos Corbeá    |           Bluekik            |   5   | 0.17  |
+|         Sofia Jordan          |            ONEBOX            |   5   | 0.194 |
 +-------------------------------+------------------------------+-------+-------+
-|   Alfredo Hinarejos Corbeá    |            ONEBOX            |   7   | 0.198 |
+|         Sofia Jordan          |           C14TORCE           |   7   | 0.22  |
 +-------------------------------+------------------------------+-------+-------+
-|   Alfredo Hinarejos Corbeá    |         InboundCycle         |   9   | 0.387 |
+|         Sofia Jordan          |           Bluekik            |   8   | 0.167 |
 +-------------------------------+------------------------------+-------+-------+
-|   Alfredo Hinarejos Corbeá    |   Visyon (Estudio Bay SL)    |  10   | 0.182 |
+|         Sofia Jordan          |             SEAT             |  10   | 0.192 |
 +-------------------------------+------------------------------+-------+-------+
-|    Baltasar Torres Garcia     |           Atomian            |   0   | 0.214 |
+|      Alfonso Silva Feria      |             AKKA             |   1   | 0.34  |
 +-------------------------------+------------------------------+-------+-------+
-|    Baltasar Torres Garcia     |           Movetia            |   1   | 0.148 |
+|      Alfonso Silva Feria      |          Norwegian           |   2   |  0.2  |
 +-------------------------------+------------------------------+-------+-------+
-|    Baltasar Torres Garcia     |      The Hotels Network      |   3   | 0.199 |
+|      Alfonso Silva Feria      |      Volcanic Internet       |   4   | 0.223 |
 +-------------------------------+------------------------------+-------+-------+
-|    Baltasar Torres Garcia     |         InboundCycle         |   5   | 0.376 |
+|      Alfonso Silva Feria      |         InboundCycle         |   6   | 0.388 |
 +-------------------------------+------------------------------+-------+-------+
-|    Baltasar Torres Garcia     |   Visyon (Estudio Bay SL)    |   6   | 0.179 |
+|      Alfonso Silva Feria      |         Farmaconnect         |   7   | 0.208 |
 +-------------------------------+------------------------------+-------+-------+
-|    Baltasar Torres Garcia     |            ONEBOX            |   8   | 0.196 |
+|      Alfonso Silva Feria      |       Project Lobster        |   9   | 0.374 |
 +-------------------------------+------------------------------+-------+-------+
-|    Baltasar Torres Garcia     |     CAPITOLE CONSULTING      |   9   | 0.145 |
+|      Alfonso Silva Feria      |           Bluekik            |  10   | 0.186 |
++-------------------------------+------------------------------+-------+-------+
+|   Alfredo Hinarejos Corbeá    |     CAPITOLE CONSULTING      |   0   | 0.15  |
++-------------------------------+------------------------------+-------+-------+
+|   Alfredo Hinarejos Corbeá    |      Volcanic Internet       |   2   | 0.196 |
++-------------------------------+------------------------------+-------+-------+
+|   Alfredo Hinarejos Corbeá    |         InboundCycle         |   4   | 0.387 |
++-------------------------------+------------------------------+-------+-------+
+|   Alfredo Hinarejos Corbeá    |   Visyon (Estudio Bay SL)    |   5   | 0.182 |
++-------------------------------+------------------------------+-------+-------+
+|   Alfredo Hinarejos Corbeá    |           Atomian            |   7   | 0.214 |
++-------------------------------+------------------------------+-------+-------+
+|   Alfredo Hinarejos Corbeá    |           Movetia            |   8   | 0.149 |
++-------------------------------+------------------------------+-------+-------+
+|   Alfredo Hinarejos Corbeá    |            ONEBOX            |  10   | 0.198 |
++-------------------------------+------------------------------+-------+-------+
+|    Baltasar Torres Garcia     |            ONEBOX            |   0   | 0.196 |
++-------------------------------+------------------------------+-------+-------+
+|    Baltasar Torres Garcia     |       Project Lobster        |   2   | 0.332 |
++-------------------------------+------------------------------+-------+-------+
+|    Baltasar Torres Garcia     |           Bluekik            |   3   | 0.167 |
++-------------------------------+------------------------------+-------+-------+
+|    Baltasar Torres Garcia     |      The Hotels Network      |   5   | 0.199 |
++-------------------------------+------------------------------+-------+-------+
+|    Baltasar Torres Garcia     |             AKKA             |   7   | 0.407 |
++-------------------------------+------------------------------+-------+-------+
+|    Baltasar Torres Garcia     |         Farmaconnect         |   8   | 0.179 |
++-------------------------------+------------------------------+-------+-------+
+|    Baltasar Torres Garcia     |           C14TORCE           |  10   | 0.218 |
 +-------------------------------+------------------------------+-------+-------+

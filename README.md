@@ -1,6 +1,7 @@
 # Tinder para empresas
 
-Espero que guste
+Script para el area de Outcomes de Ironhack. Permite crear rondas de emparejamiento entre empresas y estudiantes dando prioridad a las de mayor afinididad (matching) entre alumno y empresa. 
+Este script utiliza python 3 y varias librerías. 
 
 ## UXUI Madrid
 revisar el formulario para empresas, aparecen cosas como: 
@@ -10,7 +11,10 @@ revisar el formulario para empresas, aparecen cosas como:
 
 
 ## Mejoras
+### TO DO
 Usar argparse. Mirar la doc
+
+### DONE
 data.columns = data.columns.str.strip().str.lower() # strip nombre de columnas
 data = data[["id", "year", "type", "country", "activity", "fatal"]] # quedarnos con las dimensiones que nos interesan, timespant fuera
 
