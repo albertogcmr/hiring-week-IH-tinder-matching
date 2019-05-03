@@ -1,36 +1,38 @@
 import pandas as pd
 
 WEB_SURVEY_DIC = {
-    # Companies
-    "What is the name of your company?": "name", 
+    'companies': {
+        "What is the name of your company?": "name", 
     
-    'Does your company have specific language requirements for this position? [English]': 'english', 
-    'Does your company have specific language requirements for this position? [Spanish]': 'spanish', 
-    'Does your company have specific language requirements for this position? [Portuguese]': 'portuguese', 
-    'Does your company have specific language requirements for this position? [French]': 'french', 
-    'Does your company have specific language requirements for this position? [Dutch]': 'dutch', 
-    'Does your company have specific language requirements for this position? [Catalan]': 'catalan', 
-    
-    'Where will this position be located?': 'location', 
-    'Regarding remote working, how many days a week could the employee work off site?': 'offsite', 
-    'On a scale from 1 to 10, how much time will the employee be spending working on back end and front end?': 'position', 
-    
-    'Aside from the ones covered in our curriculum (MERN Stack), are there additional specific hard-skills you would value in an employee? [Java]': 'java', 
-    'Aside from the ones covered in our curriculum (MERN Stack), are there additional specific hard-skills you would value in an employee? [C# / ASP.net]': 'caspnet',
-    'Aside from the ones covered in our curriculum (MERN Stack), are there additional specific hard-skills you would value in an employee? [Python]': 'python',
-    'Aside from the ones covered in our curriculum (MERN Stack), are there additional specific hard-skills you would value in an employee? [PHP]': 'php',
-    'Aside from the ones covered in our curriculum (MERN Stack), are there additional specific hard-skills you would value in an employee? [SQL]': 'sql',
-    'Aside from the ones covered in our curriculum (MERN Stack), are there additional specific hard-skills you would value in an employee? [Angular (Typescript generation)]': 'angular',
-    'Aside from the ones covered in our curriculum (MERN Stack), are there additional specific hard-skills you would value in an employee? [Vue]': 'vue',
-    'Aside from the ones covered in our curriculum (MERN Stack), are there additional specific hard-skills you would value in an employee? [Firebase]': 'firebase',
-    'Aside from the ones covered in our curriculum (MERN Stack), are there additional specific hard-skills you would value in an employee? [AWS]': 'aws',
-    'Aside from the ones covered in our curriculum (MERN Stack), are there additional specific hard-skills you would value in an employee? [Docker / Kubernetes]': 'dockerkubernetes',
-    'Aside from the ones covered in our curriculum (MERN Stack), are there additional specific hard-skills you would value in an employee? [Design Tools (Photoshop, Illustrator...)]': 'design', 
-    
-    'From this list, please rank these 3 soft skills in order of importance for this position [Motivation and ability to overcome problems: employee has a passionate, can-do attitude and proactively looks for solutions to every problem they encounter]': 'motivation',
-    'From this list, please rank these 3 soft skills in order of importance for this position [Coachability: Employee is receptive and actively listens and acts on feedback received]': 'coachability',
-    'From this list, please rank these 3 soft skills in order of importance for this position [Teamwork: Employee is able to receive and provide value in a team environment]': 'teamwork',  # El \r del final es para que sirva de terminador
+        'Does your company have specific language requirements for this position? [English]': 'english', 
+        'Does your company have specific language requirements for this position? [Spanish]': 'spanish', 
+        'Does your company have specific language requirements for this position? [Portuguese]': 'portuguese', 
+        'Does your company have specific language requirements for this position? [French]': 'french', 
+        'Does your company have specific language requirements for this position? [Dutch]': 'dutch', 
+        'Does your company have specific language requirements for this position? [Catalan]': 'catalan', 
+
+        'Where will this position be located?': 'location', 
+        'Regarding remote working, how many days a week could the employee work off site?': 'offsite', 
+        'On a scale from 1 to 10, how much time will the employee be spending working on back end and front end?': 'position', 
+
+        'Aside from the ones covered in our curriculum (MERN Stack), are there additional specific hard-skills you would value in an employee? [Java]': 'java', 
+        'Aside from the ones covered in our curriculum (MERN Stack), are there additional specific hard-skills you would value in an employee? [C# / ASP.net]': 'caspnet',
+        'Aside from the ones covered in our curriculum (MERN Stack), are there additional specific hard-skills you would value in an employee? [Python]': 'python',
+        'Aside from the ones covered in our curriculum (MERN Stack), are there additional specific hard-skills you would value in an employee? [PHP]': 'php',
+        'Aside from the ones covered in our curriculum (MERN Stack), are there additional specific hard-skills you would value in an employee? [SQL]': 'sql',
+        'Aside from the ones covered in our curriculum (MERN Stack), are there additional specific hard-skills you would value in an employee? [Angular (Typescript generation)]': 'angular',
+        'Aside from the ones covered in our curriculum (MERN Stack), are there additional specific hard-skills you would value in an employee? [Vue]': 'vue',
+        'Aside from the ones covered in our curriculum (MERN Stack), are there additional specific hard-skills you would value in an employee? [Firebase]': 'firebase',
+        'Aside from the ones covered in our curriculum (MERN Stack), are there additional specific hard-skills you would value in an employee? [AWS]': 'aws',
+        'Aside from the ones covered in our curriculum (MERN Stack), are there additional specific hard-skills you would value in an employee? [Docker / Kubernetes]': 'dockerkubernetes',
+        'Aside from the ones covered in our curriculum (MERN Stack), are there additional specific hard-skills you would value in an employee? [Design Tools (Photoshop, Illustrator...)]': 'design', 
+
+        'From this list, please rank these 3 soft skills in order of importance for this position [Motivation and ability to overcome problems: employee has a passionate, can-do attitude and proactively looks for solutions to every problem they encounter]': 'motivation',
+        'From this list, please rank these 3 soft skills in order of importance for this position [Coachability: Employee is receptive and actively listens and acts on feedback received]': 'coachability',
+        'From this list, please rank these 3 soft skills in order of importance for this position [Teamwork: Employee is able to receive and provide value in a team environment]': 'teamwork',  # El \r del final es para que sirva de terminador
   
+        }, 
+    'students': {
     # Students
     "What is your full name?": "name", 
     
@@ -60,9 +62,10 @@ WEB_SURVEY_DIC = {
     "From this list of soft skills, please rank in order the ones you consider you're stronger at [Motivation and ability to overcome problems: I am passionate, have a can-do attitude and proactively look for solutions to every problem.]": 'motivation',
     "From this list of soft skills, please rank in order the ones you consider you're stronger at [Coachability: I am receptive and actively listen and act on the feedback I receive]": 'coachability',
     "From this list of soft skills, please rank in order the ones you consider you're stronger at [Teamwork: I'm able to receive and provide value in a team environment]": 'teamwork' # El \r del final es para que sirva de terminador
+    }
 }
 
-
+'''
 DIC_COMPANIES = {
     "What is the name of your company?": "name", 
     
@@ -124,16 +127,22 @@ DIC_STUDENTS = {
     "From this list of soft skills, please rank in order the ones you consider you're stronger at [Coachability: I am receptive and actively listen and act on the feedback I receive]": 'coachability',
     "From this list of soft skills, please rank in order the ones you consider you're stronger at [Teamwork: I'm able to receive and provide value in a team environment]": 'teamwork' # El \r del final es para que sirva de terminador
     }
-
-LANGUAGES = ['english', 'spanish', 'portuguese', 'french', 'dutch', 'catalan']
-
+'''
+NAME =       ['name']
+LANGUAGES =  ['english', 'spanish', 'portuguese', 'french', 'dutch', 'catalan']
+BACKGROUND = ['location', 'offsite', 'position']
 HARDSKILLS = ['java', 'caspnet', 'python', 'php', 'sql', 'angular', 
               'vue', 'firebase', 'aws', 'dockerkubernetes', 'design']
+SOFTSKILLS = ['motivation', 'coachability', 'teamwork']
 
 COLUMNS = ['name', 'english', 'spanish', 'portuguese', 'french', 'dutch', 'catalan',
+           
            'location', 'offsite', 'position', 'java', 'caspnet', 'python', 'php',
            'sql', 'angular', 'vue', 'firebase', 'aws', 'dockerkubernetes',
            'design', 'motivation', 'coachability', 'teamwork']
+
+COLUMNS = NAME + LANGUAGES + BACKGROUND + HARDSKILLS + SOFTSKILLS
+
 
 # ################################################################
 
@@ -204,10 +213,25 @@ def translate_hardskills(x):
     }
     return DIC_RESP_HARDSKILLS.get(x, 0) # 0 default
     
-def web_translate_csv(path, dic): 
+# companies_enc = web_translate_csv(bootcamp, element = 'companies', path=companies_filename, dic=DIC_COMPANIES)
+
+# def web_translate_csv(path, dic): 
+def web_translate_csv(bootcamp, element, path): 
     '''
     esta funcion sirve para limpiar...
     '''
+    if bootcamp == 'web': 
+        if element == 'companies': 
+            dic = WEB_SURVEY_DIC.get('companies')
+        elif element == 'students': 
+            dic = WEB_SURVEY_DIC.get('students')
+        else: 
+            raise ValueError('web_translate_csv: element invalido. No se ha introducido ni companies ni students')
+    else: 
+        raise ValueError('Bootcamp no implementado')
+    
+    
+    
     # dic = WEB_SURVEY_DIC # probando
     df = pd.read_csv(path, sep=',') # abrimos el csv
     df.columns = df.columns.str.strip() # limpiamos las columnas de posibles terminadores \r\n
@@ -216,9 +240,8 @@ def web_translate_csv(path, dic):
     
     # Mirar el orden, que ha cambiado
     # df = df[list(set(dic.values()))] # nos quedamos únicamente con las columnas que son value en el diccionario
-    print(COLUMNS)
     df = df[COLUMNS] # nos quedamos únicamente con las columnas que son value en el diccionario
-    # display(df)
+
     df.set_index('name', inplace=True)
     
     # eliminamos duplicados
