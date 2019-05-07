@@ -1,5 +1,7 @@
 import networkx as nx
 import matplotlib
+from random import choice
+
 
 # https://networkx.github.io/documentation/networkx-1.10/reference/introduction.html
 
