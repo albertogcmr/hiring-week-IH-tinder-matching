@@ -13,7 +13,35 @@ revisar el formulario para empresas, aparecen cosas como:
 ## Mejoras
 ### TO DO
 Usar argparse. Mirar la doc
+```
+######## jluna: https://github.com/JavierLuna/jluna-commands/blob/master/github
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("command", help="Command to execute", choices=['create', 'list', 'clone'], type=str)
+    parser.add_argument("-n", "--projectname", help="Project name", type=str, required=False, default="Default")
+    parser.add_argument("-p", "--public", help="Public repo", action="store_true")
+    parser.add_argument("-u", "--upload", help="Detects local git repo and commits it to github repo",
+                        action="store_true")
+    parser.add_argument("--ssh", help="Forces ssh use to push to repo", action="store_true")
 
+    args = parser.parse_args()
+
+    if args.command == 'create':
+        clone_url = create_github_repo(args)
+        if clone_url is None:
+            return
+        if args.upload:
+            upload_local_to_github(clone_url)
+    elif args.command == 'list':
+        list_all_repos(args)
+
+    elif args.command == 'clone':
+        clone_repo(args)
+
+
+if __name__ == '__main__':
+main()
+```
 ### DONE
 data.columns = data.columns.str.strip().str.lower() # strip nombre de columnas
 data = data[["id", "year", "type", "country", "activity", "fatal"]] # quedarnos con las dimensiones que nos interesan, timespant fuera
@@ -37,7 +65,11 @@ N = Número de rondas deseadas
 ## Mejoras. Reunión outcomes
 
 screenshots
-3 views: desde companies, desde students, matriz cruzada con rondas. 
+3 views: desde companies, desde students, matriz cruzada con rondas: 
+```
+https://docs.google.com/spreadsheets/d/18SUFPnRMS3qnD5hDGcIpd3CeYnTf9sK8_Jb6mMj939g/edit#gid=1412799612
+```
+
 
 
 
