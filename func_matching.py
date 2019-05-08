@@ -58,7 +58,7 @@ def calculate_match(df1, df2, bootcamp):
     matching = pd.DataFrame(np.zeros((len(df1), len(df2))) , columns=df2.index, index=df1.index)
 
     pesos = PESOS.get(bootcamp, 'Error')
-    print(pesos)
+    # print(pesos)
     for s in matching.index: 
         for c in matching.columns:
             try: 
