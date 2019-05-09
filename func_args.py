@@ -1,6 +1,6 @@
 import argparse
 
-def get_args(): 
+def get_args2(): 
     # TO DO con argparse
     bootcamp = 'web'
     companies_filename = './input/Web Company Form (Responses) .csv'
@@ -9,7 +9,7 @@ def get_args():
     
     return (bootcamp, companies_filename, students_filename, int(rondas))
     
-def get_args2(argv=None): 
+def get_args(argv=None): 
     '''
     Funciona correctamente siendo llamado desde main
     '''
