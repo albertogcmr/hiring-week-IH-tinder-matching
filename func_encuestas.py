@@ -253,7 +253,7 @@ def web_translate_csv(bootcamp, element, path):
         df[language] = df[language].apply(translate_language)
     
     # location
-    df['location'] = df['location'].apply(translate_location)    
+    df['location'] = df['location'].apply(translate_location)
     
     # offsite
     df['offsite'] = df['offsite'].apply(translate_offsite)

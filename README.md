@@ -4,6 +4,7 @@ Script para el area de Outcomes de Ironhack. Permite crear rondas de emparejamie
 Este script utiliza python 3 y varias librerías. 
 
 ## UXUI Madrid
+
 revisar el formulario para empresas, aparecen cosas como: 
 - On a scale from 1 to 10, how much time will the employee be spending working on back end and front end?
 - Además creo que es mejor hacer obligatorias TODAS las respuestas permitienedo en 'No es necesario' y el 'Nada'. 
@@ -12,36 +13,8 @@ revisar el formulario para empresas, aparecen cosas como:
 
 ## Mejoras
 ### TO DO
-Usar argparse. Mirar la doc
-```
-######## jluna: https://github.com/JavierLuna/jluna-commands/blob/master/github
-def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("command", help="Command to execute", choices=['create', 'list', 'clone'], type=str)
-    parser.add_argument("-n", "--projectname", help="Project name", type=str, required=False, default="Default")
-    parser.add_argument("-p", "--public", help="Public repo", action="store_true")
-    parser.add_argument("-u", "--upload", help="Detects local git repo and commits it to github repo",
-                        action="store_true")
-    parser.add_argument("--ssh", help="Forces ssh use to push to repo", action="store_true")
-
-    args = parser.parse_args()
-
-    if args.command == 'create':
-        clone_url = create_github_repo(args)
-        if clone_url is None:
-            return
-        if args.upload:
-            upload_local_to_github(clone_url)
-    elif args.command == 'list':
-        list_all_repos(args)
-
-    elif args.command == 'clone':
-        clone_repo(args)
 
 
-if __name__ == '__main__':
-main()
-```
 ### DONE
 data.columns = data.columns.str.strip().str.lower() # strip nombre de columnas
 data = data[["id", "year", "type", "country", "activity", "fatal"]] # quedarnos con las dimensiones que nos interesan, timespant fuera

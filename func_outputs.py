@@ -25,3 +25,25 @@ def create_matrix_ronda_estudiante(rondas):
         df.loc[ronda, student] = company
     df.fillna('', inplace=True)
     return df
+
+def create_excel_output(dfs):
+    writer = pd.ExcelWriter('output/output.xlsx')
+    for i, df in enumerate(dfs, 1): 
+        df.to_excel(writer,'Sheet{}'.format(i))
+    writer.save()
+
+def report_matching(df): 
+    '''
+    Informe de mínimo de entrevistas, máximo de entrevistas, 
+    rondas, etc...
+    '''
+    pass
+
+def outputs(rondas): 
+    df = pd.DataFrame.from_dict(rondas, orient='columns')
+    df_matrix = create_matrix_ronda_empresa(rondas)
+    df_matrix2 = create_matrix_ronda_estudiante(rondas)
+    
+    dfs = [df, df_matrix, df_matrix2]
+    create_excel_output(dfs)
+    report_matching(df)

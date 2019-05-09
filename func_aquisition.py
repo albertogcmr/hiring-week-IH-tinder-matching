@@ -1,4 +1,4 @@
-from func_encuestas import web_translate_csv# , DIC_COMPANIES, DIC_STUDENTS
+from func_encuestas import web_translate_csv
 
 def adquisition_survey(bootcamp, companies_filename, students_filename):
     if bootcamp == 'web': 
