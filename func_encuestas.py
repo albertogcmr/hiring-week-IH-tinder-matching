@@ -29,39 +29,37 @@ WEB_SURVEY_DIC = {
 
         'From this list, please rank these 3 soft skills in order of importance for this position [Motivation and ability to overcome problems: employee has a passionate, can-do attitude and proactively looks for solutions to every problem they encounter]': 'motivation',
         'From this list, please rank these 3 soft skills in order of importance for this position [Coachability: Employee is receptive and actively listens and acts on feedback received]': 'coachability',
-        'From this list, please rank these 3 soft skills in order of importance for this position [Teamwork: Employee is able to receive and provide value in a team environment]': 'teamwork',  # El \r del final es para que sirva de terminador
-  
+        'From this list, please rank these 3 soft skills in order of importance for this position [Teamwork: Employee is able to receive and provide value in a team environment]': 'teamwork', 
         }, 
     'students': {
-    # Students
-    "What is your full name?": "name", 
-    
-    'What is your level in the following languages? [English]': 'english', 
-    'What is your level in the following languages? [Spanish]': 'spanish', 
-    'What is your level in the following languages? [Portuguese]': 'portuguese', 
-    'What is your level in the following languages? [French]': 'french', 
-    'What is your level in the following languages? [Dutch]': 'dutch', 
-    'What is your level in the following languages? [Catalan]': 'catalan', 
-    
-    'What are your preferences for job location?': 'location', 
-    'What is your preference in terms of remote working?': 'offsite', 
-    'In you role, how would you prefer to allocate your time between working on backend and working on frontend?': 'position', 
-    
-    'Aside from the ones covered in our curriculum (MERN Stack), do you have experience with additional specific hard-skills? [Java]': 'java', 
-    'Aside from the ones covered in our curriculum (MERN Stack), do you have experience with additional specific hard-skills? [C# / ASP.net]': 'caspnet',
-    'Aside from the ones covered in our curriculum (MERN Stack), do you have experience with additional specific hard-skills? [Python]': 'python',
-    'Aside from the ones covered in our curriculum (MERN Stack), do you have experience with additional specific hard-skills? [PHP]': 'php',
-    'Aside from the ones covered in our curriculum (MERN Stack), do you have experience with additional specific hard-skills? [SQL]': 'sql',
-    'Aside from the ones covered in our curriculum (MERN Stack), do you have experience with additional specific hard-skills? [Angular (Typescript generation)]': 'angular',
-    'Aside from the ones covered in our curriculum (MERN Stack), do you have experience with additional specific hard-skills? [VueJS]': 'vue',
-    'Aside from the ones covered in our curriculum (MERN Stack), do you have experience with additional specific hard-skills? [Firebase]': 'firebase',
-    'Aside from the ones covered in our curriculum (MERN Stack), do you have experience with additional specific hard-skills? [AWS]': 'aws',
-    'Aside from the ones covered in our curriculum (MERN Stack), do you have experience with additional specific hard-skills? [Docker / Kubernetes]': 'dockerkubernetes',
-    'Aside from the ones covered in our curriculum (MERN Stack), do you have experience with additional specific hard-skills? [Design Tools (Photoshop, Illustrator...)]': 'design', # esta es nueva
-    
-    "From this list of soft skills, please rank in order the ones you consider you're stronger at [Motivation and ability to overcome problems: I am passionate, have a can-do attitude and proactively look for solutions to every problem.]": 'motivation',
-    "From this list of soft skills, please rank in order the ones you consider you're stronger at [Coachability: I am receptive and actively listen and act on the feedback I receive]": 'coachability',
-    "From this list of soft skills, please rank in order the ones you consider you're stronger at [Teamwork: I'm able to receive and provide value in a team environment]": 'teamwork' # El \r del final es para que sirva de terminador
+        "What is your full name?": "name", 
+        
+        'What is your level in the following languages? [English]': 'english', 
+        'What is your level in the following languages? [Spanish]': 'spanish', 
+        'What is your level in the following languages? [Portuguese]': 'portuguese', 
+        'What is your level in the following languages? [French]': 'french', 
+        'What is your level in the following languages? [Dutch]': 'dutch', 
+        'What is your level in the following languages? [Catalan]': 'catalan', 
+        
+        'What are your preferences for job location?': 'location', 
+        'What is your preference in terms of remote working?': 'offsite', 
+        'In you role, how would you prefer to allocate your time between working on backend and working on frontend?': 'position', 
+        
+        'Aside from the ones covered in our curriculum (MERN Stack), do you have experience with additional specific hard-skills? [Java]': 'java', 
+        'Aside from the ones covered in our curriculum (MERN Stack), do you have experience with additional specific hard-skills? [C# / ASP.net]': 'caspnet',
+        'Aside from the ones covered in our curriculum (MERN Stack), do you have experience with additional specific hard-skills? [Python]': 'python',
+        'Aside from the ones covered in our curriculum (MERN Stack), do you have experience with additional specific hard-skills? [PHP]': 'php',
+        'Aside from the ones covered in our curriculum (MERN Stack), do you have experience with additional specific hard-skills? [SQL]': 'sql',
+        'Aside from the ones covered in our curriculum (MERN Stack), do you have experience with additional specific hard-skills? [Angular (Typescript generation)]': 'angular',
+        'Aside from the ones covered in our curriculum (MERN Stack), do you have experience with additional specific hard-skills? [VueJS]': 'vue',
+        'Aside from the ones covered in our curriculum (MERN Stack), do you have experience with additional specific hard-skills? [Firebase]': 'firebase',
+        'Aside from the ones covered in our curriculum (MERN Stack), do you have experience with additional specific hard-skills? [AWS]': 'aws',
+        'Aside from the ones covered in our curriculum (MERN Stack), do you have experience with additional specific hard-skills? [Docker / Kubernetes]': 'dockerkubernetes',
+        'Aside from the ones covered in our curriculum (MERN Stack), do you have experience with additional specific hard-skills? [Design Tools (Photoshop, Illustrator...)]': 'design', 
+        
+        "From this list of soft skills, please rank in order the ones you consider you're stronger at [Motivation and ability to overcome problems: I am passionate, have a can-do attitude and proactively look for solutions to every problem.]": 'motivation',
+        "From this list of soft skills, please rank in order the ones you consider you're stronger at [Coachability: I am receptive and actively listen and act on the feedback I receive]": 'coachability',
+        "From this list of soft skills, please rank in order the ones you consider you're stronger at [Teamwork: I'm able to receive and provide value in a team environment]": 'teamwork',  
     }
 }
 
@@ -73,11 +71,6 @@ HARDSKILLS = ['java', 'caspnet', 'python', 'php', 'sql', 'angular',
               'vue', 'firebase', 'aws', 'dockerkubernetes', 'design']
 SOFTSKILLS = ['motivation', 'coachability', 'teamwork']
 
-COLUMNS = ['name', 'english', 'spanish', 'portuguese', 'french', 'dutch', 'catalan',
-           
-           'location', 'offsite', 'position', 'java', 'caspnet', 'python', 'php',
-           'sql', 'angular', 'vue', 'firebase', 'aws', 'dockerkubernetes',
-           'design', 'motivation', 'coachability', 'teamwork']
 
 COLUMNS = NAME + LANGUAGES + BACKGROUND + HARDSKILLS + SOFTSKILLS
 

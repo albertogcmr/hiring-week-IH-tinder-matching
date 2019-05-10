@@ -1,13 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # Tinder para empresas
-# 
-# ## Imports
-
-# In[1]:
-
-
 # Imports
 
 import numpy as np
@@ -21,10 +11,6 @@ from func_grafos import create_graph, get_best_match
 from func_aquisition import adquisition_survey
 from func_outputs import outputs
 from func_normalize import *
-
-
-# In[2]:
-
 
 
 def most_common(lst):
@@ -58,9 +44,6 @@ def generate_student_queue(students_list, n_rondas):
     return students_list * n_rondas
 
 
-# In[4]:
-
-
 def main(): 
     # Captura de argumentos. 
     bootcamp, companies_filename, students_filename, n_rondas = get_args()
@@ -87,10 +70,4 @@ def main():
 
 if __name__== '__main__':
     main()
-
-
-# In[ ]:
-
-
-
 

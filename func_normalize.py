@@ -22,10 +22,11 @@ def normalize_2dfs(students, companies):
     students = students-mins
     companies = companies-mins
     
-    # maxs = [max(s, c, 1) for s, c in zip(students.max(), companies.max())]
-    maxs = [max(s, c) for s, c in zip(students.max(), companies.max())]
+    maxs = [max(s, c, 1) for s, c in zip(students.max(), companies.max())] # para evitar x/0
+    # maxs = [max(s, c) for s, c in zip(students.max(), companies.max())]
     if any(m==0 for m in maxs): 
         raise ValueError('Imposible normalizar: Va a dividir por Zero')
+
     students = students/maxs
     companies = companies/maxs
     
