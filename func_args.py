@@ -22,6 +22,6 @@ def get_args():
     bootcamp = 'web'
     companies_filename = './input/Web Company Form (Responses) .csv'
     students_filename = './input/Web Student Form (Responses) .csv'
-    rondas = '11'
+    rondas = '40'
     
     return (bootcamp, companies_filename, students_filename, int(rondas))

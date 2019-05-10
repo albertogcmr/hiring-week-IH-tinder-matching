@@ -54,7 +54,7 @@ def match(student, company, weights):
 
 
 def calculate_match(df1, df2, bootcamp): 
-    
+    res = []
     matching = pd.DataFrame(np.zeros((len(df1), len(df2))) , columns=df2.index, index=df1.index)
 
     pesos = PESOS.get(bootcamp, 'Error')
@@ -63,6 +63,9 @@ def calculate_match(df1, df2, bootcamp):
         for c in matching.columns:
             try: 
                 matching.loc[s, c] = match(df1.loc[s], df2.loc[c], pesos)
+                m = match(df1.loc[s], df2.loc[c], pesos)
+                # print(s, c, m)
+                res.append({'student': s, 'company': c, 'weight': m})
             except: 
                 matching.loc[s, c] = 0
-    return matching
+    return res # matching
