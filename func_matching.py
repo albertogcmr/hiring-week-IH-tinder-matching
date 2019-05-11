@@ -38,34 +38,61 @@ def calc_dist(s_array, c_array, weights_val):
     https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.distance.euclidean.html
     https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.distance.cosine.html
     scipy.spatial.distance.cosine
+
+    input: 
+        s_array: float array from one student dimension, 
+        c_array: float array from one company dimension, 
+        weights_val: weights for the euclidean distance
+    output: 
+        res: weighted euclidean distance rounded to 2-digits
     '''
-    return calc_match(distance.euclidean(s_array, c_array, weights_val))
+    res = calc_match(distance.euclidean(s_array, c_array, weights_val))
+    return round(res, 2)
 
 def calc_match(distance): 
-    ''' [0, 1] -> [1, 0]'''
-    return 1/(1+distance)
+    ''' 
+    [0, N] -> [1, 1/(1+N)]
+    input: euclidean distance
+    output: affinity
+    commentary: 
+        1: Best Match
+        0.x: Worst Match
+    '''
+    res =  1/(1+distance)
+    return res
 
 def match(student, company, weights): 
-    student = [min(s, c) for s, c in zip(student, company)] # añadimos para que la sobrecualificación de un estudiante no penalice
+    '''
+    input: 
+        student: float array from one student dimension, 
+        company: float array from one company dimension, 
+        weights: dictionary of weights for the euclidean distance 
+    output: 
+        res:  weighted euclidean distance rounded to 2-digits
+    important: 
+        student is modified in order not to penalize overcualification
+    '''
+    student = [min(s, c) for s, c in zip(student, company)] 
     return calc_dist(student, company, list(weights.values()))
-
-# create dataframe de tamañ0 SxC
-
 
 
 def calculate_match(df1, df2, bootcamp): 
+    '''
+    input: 
+        df1: students_DataFrame, 
+        df2: companies_DataFrame,
+        bootcamp: type-bootcamp
+    output: 
+        res: list of dictionaries: [{'student': 'Alex', 'company': 'BBVA', 'weight': 0.34}, {}, ...]
+    '''
     res = []
-    matching = pd.DataFrame(np.zeros((len(df1), len(df2))) , columns=df2.index, index=df1.index)
+    pesos = PESOS.get(bootcamp, 'Error') # bootcamp 'web'??
 
-    pesos = PESOS.get(bootcamp, 'Error')
-    # print(pesos)
-    for s in matching.index: 
-        for c in matching.columns:
+    for s in df1.index: 
+        for c in df2.index:
             try: 
-                matching.loc[s, c] = match(df1.loc[s], df2.loc[c], pesos)
-                m = match(df1.loc[s], df2.loc[c], pesos)
-                # print(s, c, m)
-                res.append({'student': s, 'company': c, 'weight': m})
+                weight = match(df1.loc[s], df2.loc[c], pesos)
+                res.append({'student': s, 'company': c, 'weight': weight})
             except: 
-                matching.loc[s, c] = 0
-    return res # matching
+                res.append({'student': s, 'company': c, 'weight': 0})
+    return res 

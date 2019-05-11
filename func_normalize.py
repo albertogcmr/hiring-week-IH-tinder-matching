@@ -1,33 +1,27 @@
+from sklearn.preprocessing import MinMaxScaler
+import pandas as pd
 
 
-# normalizacion. Por columnas en alumnos o empresas hay un 0.0 y un 1.0
-def normalize_2dfs_xx(students, companies): 
-    # print(students.min(), companies.max())
-    
-    mins = [min(s, c) for s, c in zip(students.min(), companies.min())]    
-    maxs = [max(s, c) for s, c in zip(students.max(), companies.max())]
-    if any(m==0 for m in maxs): 
-        raise ValueError('Imposible normalizar: Va a dividir por Zero')
-    students = (students-mins)/(maxs-mins) # checkear indeterminación
-    companies = (companies-mins)/(maxs-mins)
-    
-    return students, companies
-
-# FUNCIONA
-# normalizacion. Por columnas en alumnos o empresas hay un 0.0 y un 1.0
 def normalize_2dfs(students, companies): 
-    # print(students.min(), companies.max())
-    
-    mins = [min(s, c) for s, c in zip(students.min(), companies.min())]
-    students = students-mins
-    companies = companies-mins
-    
-    maxs = [max(s, c, 1) for s, c in zip(students.max(), companies.max())] # para evitar x/0
-    # maxs = [max(s, c) for s, c in zip(students.max(), companies.max())]
-    if any(m==0 for m in maxs): 
-        raise ValueError('Imposible normalizar: Va a dividir por Zero')
 
-    students = students/maxs
-    companies = companies/maxs
-    
-    return students, companies
+    display(students)
+    display(companies)
+
+    print('concat')
+    df = pd.concat([students, companies])
+    display(df)
+
+    scaler = MinMaxScaler()
+    df[df.columns] = scaler.fit_transform(df[df.columns]) # para no perder el tipo DataFrame
+    print('normalizado')
+    display(df)
+
+    #ahora separar df en students/companies y devolverlos
+    studentsx = df.head(len(students))
+    display(studentsx)
+    companiesx = df.tail(len(companies))
+    display(studentsx)
+    print(students.index == studentsx.index)
+    print(companies.index == companiesx.index)
+
+    return studentsx, companiesx

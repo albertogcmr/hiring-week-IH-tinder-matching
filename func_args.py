@@ -2,7 +2,12 @@ import argparse
    
 def get_args2(argv=None): 
     '''
-    Funciona correctamente siendo llamado desde main
+    input: main args
+    output: 
+        args.bootcamp: ['web', 'uxui', 'data], 
+        args.companiesCSV: path, 
+        args.studentsCSV: path, 
+        args.rounds: number of rounds for the hiring
     '''
     valid_bootcamps = ['web', 'uxui', 'data']
 
@@ -16,9 +21,8 @@ def get_args2(argv=None):
     return (args.bootcamp, args.companiesCSV, args.studentsCSV, args.rounds)
 
 
-
 def get_args(): 
-    # TO DO con argparse
+    ''' Only for Test '''
     bootcamp = 'web'
     companies_filename = './input/Web Company Form (Responses) .csv'
     students_filename = './input/Web Student Form (Responses) .csv'

@@ -1,5 +1,15 @@
 import pandas as pd
 
+
+def create_matrix_matching(matching): 
+    df = pd.DataFrame()
+    for x in matching: 
+        company = x['company']
+        student = x['student']
+        match = x['weight']
+        df.loc[student, company] = match
+    return df
+
 def create_matrix_ronda_empresa(rondas): 
     '''
     matriz cruzada rondas vs company mostrando el alumno en la celda
@@ -39,11 +49,12 @@ def report_matching(df):
     '''
     pass
 
-def outputs(rondas): 
+def outputs(rondas, lista_matching): 
     df = pd.DataFrame.from_dict(rondas, orient='columns')
     df_matrix = create_matrix_ronda_empresa(rondas)
     df_matrix2 = create_matrix_ronda_estudiante(rondas)
+    df_matrix3 = create_matrix_matching(lista_matching)
     
-    dfs = [df, df_matrix, df_matrix2]
+    dfs = [df, df_matrix, df_matrix2, df_matrix3]
     create_excel_output(dfs)
     report_matching(df)
