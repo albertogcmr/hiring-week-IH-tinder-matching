@@ -18,10 +18,10 @@ def normalize_2dfs(students, companies):
 
     #ahora separar df en students/companies y devolverlos
     studentsx = df.head(len(students))
-    display(studentsx)
+    # display(studentsx)
     companiesx = df.tail(len(companies))
-    display(studentsx)
-    print(students.index == studentsx.index)
-    print(companies.index == companiesx.index)
+    # display(studentsx)
+    # print(students.index == studentsx.index)
+    # print(companies.index == companiesx.index)
 
     return studentsx, companiesx
