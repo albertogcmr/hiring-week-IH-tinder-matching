@@ -2,6 +2,8 @@ from scipy.spatial import distance
 import pandas as pd
 import numpy as np
 
+from func_normalize import normalize_list_matches
+
 PESOS = {
     'web': {
         'english': 1,
@@ -44,12 +46,14 @@ def calc_dist(s_array, c_array, weights_val):
         c_array: float array from one company dimension, 
         weights_val: weights for the euclidean distance
     output: 
-        res: weighted euclidean distance rounded to 2-digits
+        res: weighted euclidean distance
     '''
-    res = calc_match(distance.euclidean(s_array, c_array, weights_val))
-    return round(res, 2)
+    # quito esto para no hacer la invertida
+    # res = invert_match(distance.euclidean(s_array, c_array, weights_val))
+    return distance.euclidean(s_array, c_array, weights_val)
 
-def calc_match(distance): 
+# deprecated
+def invert_match(distance): 
     ''' 
     [0, N] -> [1, 1/(1+N)]
     input: euclidean distance
@@ -95,4 +99,14 @@ def calculate_match(df1, df2, bootcamp):
                 res.append({'student': s, 'company': c, 'weight': weight})
             except: 
                 res.append({'student': s, 'company': c, 'weight': 0})
-    return res 
+    
+    
+    # ahora normalizamos los pesos y [0,1] -> [1, 0]
+    list_matches_normalized = normalize_list_matches(res)
+    print('list_matches_normalized')
+    print(list_matches_normalized)
+    return list_matches_normalized 
+
+
+
+
