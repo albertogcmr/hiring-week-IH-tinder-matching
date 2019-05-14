@@ -11,7 +11,6 @@ revisar el formulario para empresas, aparecen cosas como:
 - Mark the top 3 competencies you are looking for in an employee for this position -> esta pregunta está mal hecha. Debería ser como en web. Nada de respuesta múltiple
 
 
-
 ## Instrucciones
 1. Copiar ambos formularios desde la fuente original: 
 	1. students form (URL_1)

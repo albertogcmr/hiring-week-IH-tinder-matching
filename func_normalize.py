@@ -4,17 +4,17 @@ import pandas as pd
 
 def normalize_2dfs(students, companies): 
 
-    display(students)
-    display(companies)
+    # display(students)
+    # display(companies)
 
-    print('concat')
+    # print('concat')
     df = pd.concat([students, companies])
-    display(df)
+    # display(df)
 
     scaler = MinMaxScaler()
     df[df.columns] = scaler.fit_transform(df[df.columns]) # para no perder el tipo DataFrame
-    print('normalizado')
-    display(df)
+    # print('normalizado')
+    # display(df)
 
     #ahora separar df en students/companies y devolverlos
     studentsx = df.head(len(students))
