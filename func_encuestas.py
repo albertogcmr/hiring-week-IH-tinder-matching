@@ -74,7 +74,6 @@ SOFTSKILLS = ['motivation', 'coachability', 'teamwork']
 
 COLUMNS = NAME + LANGUAGES + BACKGROUND + HARDSKILLS + SOFTSKILLS
 
-
 # ################################################################
 
 # Funciones translate CSV

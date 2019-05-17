@@ -33,6 +33,9 @@ N = Número de rondas deseadas
 
 ## Mejoras. Reunión outcomes
 
+squereformr(pdist(ratings.T, 'euclidean') # https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.distance.pdist.html
+dm = pdist(X, lambda u, v: np.sqrt(((u-v)**2).sum()))
+
 screenshots
 3 views: desde companies, desde students, matriz cruzada con rondas: 
 ```

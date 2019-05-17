@@ -100,11 +100,8 @@ def calculate_match(df1, df2, bootcamp):
             except: 
                 res.append({'student': s, 'company': c, 'weight': 0})
     
-    
     # ahora normalizamos los pesos y [0,1] -> [1, 0]
     list_matches_normalized = normalize_list_matches(res)
-    print('list_matches_normalized')
-    print(list_matches_normalized)
     return list_matches_normalized 
 
 
