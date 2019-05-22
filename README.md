@@ -3,6 +3,28 @@
 Script para el area de Outcomes de Ironhack. Permite crear rondas de emparejamiento entre empresas y estudiantes dando prioridad a las de mayor afinididad (matching) entre alumno y empresa y procurando que todos los alumnos tengan un número similar de entrevistas. 
 Este script utiliza python 3 y varias librerías. 
 
+
+## Fuentes 
+
+### WEB
+Encuestas Students: 
+https://docs.google.com/forms/d/1w85z6lqZdQfByTMiefqUcth16-F9NnLHuZuh9CVHxyU/edit#responses
+Encuestas Company: 
+https://docs.google.com/forms/d/1JOjjmV1W-ay7h00wVtpcQzD6FHNJU8Qg6RRz1ptDN4Q/edit
+
+### UXUI
+Encuestas Students: 
+https://docs.google.com/forms/d/1N1BbrRrs_qN-qrHhfhtbvj3eh8JupsxxCD97GZHNoBc/edit
+Encuestas Company: 
+https://docs.google.com/forms/d/1JpKsGgOfVaLiKg0uXTLb-Xp8TjG6k4KRz07pFd_GHuE/edit
+
+### Data 
+Encuestas Students: 
+
+Encuestas Company: 
+
+
+
 ## TO DO
 
 revisar el formulario para empresas, aparecen cosas como: 
@@ -44,29 +66,3 @@ https://docs.google.com/spreadsheets/d/18SUFPnRMS3qnD5hDGcIpd3CeYnTf9sK8_Jb6mMj9
 
 
 
-
-## Encuestas Web
-
-```
-Forms Students: 
-https://docs.google.com/spreadsheets/d/1tESGSKhoOWekvYnvMypd6t1eFXN_av8F60wyxPkbUb8/edit#gid=1960323408
-
-Forms Company: 
-https://docs.google.com/spreadsheets/d/1AHnY6-E9w__BNcWqiS2rkqYbNlmqaU6nPFiPHDDKRfI/edit#gid=730113545
-
-Encuestas Students: 
-https://docs.google.com/forms/d/1w85z6lqZdQfByTMiefqUcth16-F9NnLHuZuh9CVHxyU/edit#responses
-
-Encuestas Company: 
-https://docs.google.com/forms/d/1JOjjmV1W-ay7h00wVtpcQzD6FHNJU8Qg6RRz1ptDN4Q/edit
-```
-### Actual BNC web
-```
-Students (tab 11APR): https://docs.google.com/spreadsheets/d/128bKUO5In9JPMMs9JTLAhL-KxnmhiB3L2qSdyGKdxnY/edit#gid=1970037490
-
-Companies (tab 11APR): https://docs.google.com/spreadsheets/d/1r6zryUQRl3X_4sbcfzpUrNIuT8lBAxVC7Ov7tItmfhc/edit#gid=1943728679
-```
-### Madrid web
-```
-https://docs.google.com/spreadsheets/d/1bk_R2l83sWOd8VQyQV3R_n2Ikzx69QrMpfyvg6PpYms/edit?ts=5cb6d4ad#gid=177161654
-```
