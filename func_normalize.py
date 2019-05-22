@@ -7,8 +7,13 @@ def normalize_2dfs(dfstudents, dfcompanies):
 
     df = pd.concat([dfstudents, dfcompanies])
 
+    # DataConversionWarning: Data with input dtype int64 were all converted to float64 by MinMaxScaler
+    df = df.astype(float)
+
     scaler = MinMaxScaler()
+    print(df)
     df[df.columns] = scaler.fit_transform(df[df.columns]) # para no perder el tipo DataFrame
+    print(df)
 
     #ahora separar df en students/companies y devolverlos
     studentsx = df.loc[dfstudents.index]
