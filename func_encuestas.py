@@ -1,7 +1,7 @@
 import pandas as pd
 
 WEB_SURVEY_DIC = {
-    'companies': {
+    'companies_questions': {
         "What is the name of your company?": "name", 
     
         'Does your company have specific language requirements for this position? [English]': 'english', 
@@ -31,7 +31,7 @@ WEB_SURVEY_DIC = {
         'From this list, please rank these 3 soft skills in order of importance for this position [Coachability: Employee is receptive and actively listens and acts on feedback received]': 'coachability',
         'From this list, please rank these 3 soft skills in order of importance for this position [Teamwork: Employee is able to receive and provide value in a team environment]': 'teamwork', 
         }, 
-    'students': {
+    'students_questions': {
         "What is your full name?": "name", 
         
         'What is your level in the following languages? [English]': 'english', 
@@ -60,26 +60,8 @@ WEB_SURVEY_DIC = {
         "From this list of soft skills, please rank in order the ones you consider you're stronger at [Motivation and ability to overcome problems: I am passionate, have a can-do attitude and proactively look for solutions to every problem.]": 'motivation',
         "From this list of soft skills, please rank in order the ones you consider you're stronger at [Coachability: I am receptive and actively listen and act on the feedback I receive]": 'coachability',
         "From this list of soft skills, please rank in order the ones you consider you're stronger at [Teamwork: I'm able to receive and provide value in a team environment]": 'teamwork',  
-    }
-}
-
-
-NAME =       ['name']
-LANGUAGES =  ['english', 'spanish', 'portuguese', 'french', 'dutch', 'catalan']
-BACKGROUND = ['location', 'offsite', 'position']
-HARDSKILLS = ['java', 'caspnet', 'python', 'php', 'sql', 'angular', 
-              'vue', 'firebase', 'aws', 'dockerkubernetes', 'design']
-SOFTSKILLS = ['motivation', 'coachability', 'teamwork']
-
-
-COLUMNS = NAME + LANGUAGES + BACKGROUND + HARDSKILLS + SOFTSKILLS
-
-# ################################################################
-
-# Funciones translate CSV
-
-def translate_language(x): 
-    DIC_RESP_LANGUAGE = {
+    }, 
+    'resp_language': {
         # Company
         "No need": 1, 
         "Must be able to read basic documentation": 2, 
@@ -92,11 +74,8 @@ def translate_language(x):
         "I'm able to read documentation and have an informal conversation": 3, 
         "Able to read documentation and communicate in a meeting": 4, 
         "Can work in full capacity in this language": 5
-    }
-    return DIC_RESP_LANGUAGE.get(x, 0) # 0 default
-
-def translate_location(x): 
-    DIC_RESP_LOCATION = {
+    }, 
+    'resp_location': {
         # Company
         "In the city where the campus is located": 1, 
         "In the country where the campus is located": 2, 
@@ -105,12 +84,8 @@ def translate_location(x):
         "In the city where the campus is located": 1, 
         "Anywhere in the country where the campus is located": 2, 
         "Anywhere in the world": 3
-    }
-    return DIC_RESP_LOCATION.get(x, 0) # 0 default
-
-
-def translate_offsite(x): 
-    DIC_RESP_OFFSITE = {
+    }, 
+    'resp_offsite': {
         # Company
         "100% office-based job. We're not keen on remote working.": 1, 
         "1-2 Days a week": 2, 
@@ -121,17 +96,8 @@ def translate_offsite(x):
         "1-2 Days a week": 2, 
         "3+ Days": 3, 
         "100% remote-based job. No physical office.": 4
-    }
-    return DIC_RESP_OFFSITE.get(x, 0) # 0 default
-
-def translate_position(x): 
-    try: 
-        return int(x)
-    except: 
-        return 0
-
-def translate_hardskills(x): 
-    DIC_RESP_HARDSKILLS = {
+    }, 
+    'hard_skills': {
         # Company
         "No Need": 1, 
         "Nice to have: They should have a basic knowledge": 2, 
@@ -141,7 +107,44 @@ def translate_hardskills(x):
         "Basic Knowledge: I've played around with it": 2, 
         "Advanced Knowledge: I'm comfortable working with it": 3
     }
-    return DIC_RESP_HARDSKILLS.get(x, 0) # 0 default
+
+}
+
+# WEB COLUMNS
+NAME =       ['name']
+LANGUAGES =  ['english', 'spanish', 'portuguese', 'french', 'dutch', 'catalan']
+BACKGROUND = ['location', 'offsite', 'position']
+HARDSKILLS = ['java', 'caspnet', 'python', 'php', 'sql', 'angular', 
+              'vue', 'firebase', 'aws', 'dockerkubernetes', 'design']
+SOFTSKILLS = ['motivation', 'coachability', 'teamwork']
+COLUMNS_WEB = NAME + LANGUAGES + BACKGROUND + HARDSKILLS + SOFTSKILLS
+
+# UXUI COLUMNS
+
+# DATA COLUMNS
+
+
+# ################################################################
+
+# Funciones translate CSV
+
+def translate_language(x, dic_resp_language): 
+    return dic_resp_language.get(x, 0) # 0 default
+
+def translate_location(x, dic_resp_location): 
+    return dic_resp_location.get(x, 0) # 0 default
+
+def translate_offsite(x, dict_resp_offsite): 
+    return dict_resp_offsite.get(x, 0) # 0 default
+
+def translate_position(x): 
+    try: 
+        return int(x)
+    except: 
+        return 0
+
+def translate_hardskills(x, dict_hard_skills): 
+    return dict_hard_skills.get(x, 0) # 0 default
     
 # companies_enc = web_translate_csv(bootcamp, element = 'companies', path=companies_filename, dic=DIC_COMPANIES)
 
@@ -152,15 +155,19 @@ def web_translate_csv(bootcamp, element, path):
     '''
     if bootcamp == 'web': 
         if element == 'companies': 
-            dic = WEB_SURVEY_DIC.get('companies')
+            dic = WEB_SURVEY_DIC.get('companies_questions')
         elif element == 'students': 
-            dic = WEB_SURVEY_DIC.get('students')
+            dic = WEB_SURVEY_DIC.get('students_questions')
         else: 
             raise ValueError('web_translate_csv: element invalido. No se ha introducido ni companies ni students')
+    
+    elif  bootcamp == 'uxui': 
+        raise ValueError('No implementado todavía')
+    
+    elif  bootcamp == 'data': 
+        raise ValueError('No implementado todavía')
     else: 
         raise ValueError('Bootcamp no implementado')
-    
-    
     
     # dic = WEB_SURVEY_DIC # probando
     df = pd.read_csv(path, sep=',') # abrimos el csv
@@ -170,7 +177,9 @@ def web_translate_csv(bootcamp, element, path):
     
     # Mirar el orden, que ha cambiado
     # df = df[list(set(dic.values()))] # nos quedamos únicamente con las columnas que son value en el diccionario
-    df = df[COLUMNS] # nos quedamos únicamente con las columnas que son value en el diccionario
+    
+    # TO DO
+    df = df[COLUMNS_WEB] # nos quedamos únicamente con las columnas que son value en el diccionario
 
     df.set_index('name', inplace=True)
     
@@ -178,21 +187,20 @@ def web_translate_csv(bootcamp, element, path):
     df = df[~df.index.duplicated(keep='first')]
         
     # languages
-    # print(LANGUAGES)
     for language in LANGUAGES: 
-        df[language] = df[language].apply(translate_language)
+        df[language] = df[language].apply(lambda x: translate_language(x, WEB_SURVEY_DIC.get('resp_language') ))
     
     # location
-    df['location'] = df['location'].apply(translate_location)
+    df['location'] = df['location'].apply(lambda x: translate_location(x, WEB_SURVEY_DIC.get('resp_location')))
     
-    # offsite
-    df['offsite'] = df['offsite'].apply(translate_offsite)
+    # offsite 
+    df['offsite'] = df['offsite'].apply(lambda x: translate_offsite(x, WEB_SURVEY_DIC.get('resp_offsite')))
     
     # position
     df['position'] = df['position'].apply(translate_position)
     
-    # hardskills
+    # hardskills 
     for hardskill in HARDSKILLS: 
-        df[hardskill] = df[hardskill].apply(translate_hardskills)
+        df[hardskill] = df[hardskill].apply(lambda x: translate_hardskills(x, WEB_SURVEY_DIC.get('hard_skills')))
     
     return df

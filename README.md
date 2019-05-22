@@ -4,7 +4,7 @@ Script para el area de Outcomes de Ironhack. Permite crear rondas de emparejamie
 Este script utiliza python 3 y varias librerías. 
 
 
-## Fuentes 
+## Encuestas Fuente
 
 ### WEB
 Encuestas Students: 
@@ -35,13 +35,17 @@ revisar el formulario para empresas, aparecen cosas como:
 
 ## Instrucciones
 1. Copiar ambos formularios desde la fuente original: 
+< Insertar foto >
 	1. students form (URL_1)
 	2. companies form (URL_2)
 2. Enviar a los estudiantes y a las empresas que participan en la hiring fair su encuesta correspondiente. Mas detallado
 3. Una vez que los formularios estén terminados generar la hoja de cálculo que proporciona google. 
+< Insertar foto >
 4. descargar ambos excel en formato CSV 
 5. copiar ambos csv en la carpeta input del proyecto
+< Insertar foto >
 6. Ejecutar la siguiente instrucción en la línea de comandos (abrir terminal): 
+< Insertar foto >
 ```
 promt> python3 matching.py CSV_COMP CSV_STU N
 ```
@@ -59,10 +63,6 @@ squereformr(pdist(ratings.T, 'euclidean') # https://docs.scipy.org/doc/scipy/ref
 dm = pdist(X, lambda u, v: np.sqrt(((u-v)**2).sum()))
 
 screenshots
-3 views: desde companies, desde students, matriz cruzada con rondas: 
-```
-https://docs.google.com/spreadsheets/d/18SUFPnRMS3qnD5hDGcIpd3CeYnTf9sK8_Jb6mMj939g/edit#gid=1412799612
-```
 
 
 
