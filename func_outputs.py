@@ -36,8 +36,8 @@ def create_matrix_ronda_estudiante(rondas):
     df.fillna('', inplace=True)
     return df
 
-def create_excel_output(dfs):
-    writer = pd.ExcelWriter('output/output.xlsx')
+def create_excel_output(dfs, path='output/output.xlsx'):
+    writer = pd.ExcelWriter(path)
     for i, df in enumerate(dfs, 1): 
         df.to_excel(writer,'Sheet{}'.format(i))
     writer.save()

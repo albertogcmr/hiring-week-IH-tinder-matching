@@ -204,3 +204,21 @@ def web_translate_csv(bootcamp, element, path):
         df[hardskill] = df[hardskill].apply(lambda x: translate_hardskills(x, WEB_SURVEY_DIC.get('hard_skills')))
     
     return df
+
+
+#########################################################################3
+#############   UXUI    ###################################################
+
+'''
+# https://datascience.stackexchange.com/questions/11797/split-a-list-of-values-into-columns-of-a-dataframe
+
+
+import pandas
+
+df = pandas.Series([('Adventure', 'Drama', 'Fantasy'), ('Comedy', 'Family'), ('Drama', 'Comedy', 'Romance'), (['Drama']), 
+                    (['Documentary']), ('Adventure', 'Biography', 'Drama', 'Thriller')]).apply(frozenset).to_frame(name='genre')
+for genre in frozenset.union(*df.genre):
+    df[genre] = df.apply(lambda _: int(genre in _.genre), axis=1)
+    
+df.head()
+'''

@@ -26,12 +26,23 @@ Encuestas Company:
 
 
 ## TO DO
+Si no saben front vs back o ux vs ui, poner un 5, y no hacer overcualificated
+el uxui se elegen 3 competencias y no te calificas en cada una. 
 
 revisar el formulario para empresas, aparecen cosas como: 
 - On a scale from 1 to 10, how much time will the employee be spending working on back end and front end?
 - Además creo que es mejor hacer obligatorias TODAS las respuestas permitienedo en 'No es necesario' y el 'Nada'. 
-- Mark the top 3 competencies you are looking for in an employee for this position -> esta pregunta está mal hecha. Debería ser como en web. Nada de respuesta múltiple
+- Mark the top 3 competencies you are looking for in an employee for this position -> El código a usar será 
+```## test 
+import pandas
 
+df = pandas.Series([('Adventure', 'Drama', 'Fantasy'), ('Comedy', 'Family'), ('Drama', 'Comedy', 'Romance'), (['Drama']), 
+                    (['Documentary']), ('Adventure', 'Biography', 'Drama', 'Thriller')]).apply(frozenset).to_frame(name='genre')
+for genre in frozenset.union(*df.genre):
+    df[genre] = df.apply(lambda _: int(genre in _.genre), axis=1)
+    
+df.head()
+```
 
 ## Instrucciones
 1. Copiar ambos formularios desde la fuente original: 
@@ -44,7 +55,16 @@ revisar el formulario para empresas, aparecen cosas como:
 4. descargar ambos excel en formato CSV 
 5. copiar ambos csv en la carpeta input del proyecto
 < Insertar foto >
-6. Ejecutar la siguiente instrucción en la línea de comandos (abrir terminal): 
+
+6. Instalar dependencias: 
+``` 
+$ virtualenv venv 
+$ . venv/bin/activate
+$ pip install -r requirements.txt
+$ make
+$ python app.py
+```
+7. Ejecutar la siguiente instrucción en la línea de comandos (abrir terminal): 
 < Insertar foto >
 ```
 promt> python3 matching.py CSV_COMP CSV_STU N
