@@ -240,9 +240,10 @@ LANGUAGES =  ['english', 'spanish', 'portuguese', 'french', 'dutch', 'catalan']
 BACKGROUND = ['location', 'offsite', 'position']
 COMPETENCIES = ['competencies']
 UXUI_HARDSKILLS = ['user', 'methodologies', 'usability', 'information', 'interaction', 
-              'visual', 'htmlcss', 'motion']
+              'visual', 'html', 'motion']
 # COLUMNS_UXUI = NAME + LANGUAGES + BACKGROUND + UXUI_HARDSKILLS + SOFTSKILLS
 COLUMNS_UXUI = NAME + LANGUAGES + BACKGROUND + COMPETENCIES + SOFTSKILLS
+COLUMNS_UXUI_2 = NAME + LANGUAGES + BACKGROUND + UXUI_HARDSKILLS + SOFTSKILLS
 
 # DATA COLUMNS
 
@@ -369,17 +370,13 @@ def uxui_translate_csv(bootcamp, element, path):
     df.columns = df.columns.str.strip() # limpiamos las columnas de posibles terminadores \r\n
     
     df.rename(index=str, columns=dic, inplace=True) # renombramos las columnas según el diccionario pasado por parámetro
-    print(df.columns)
     # Mirar el orden, que ha cambiado
     # df = df[list(set(dic.values()))] # nos quedamos únicamente con las columnas que son value en el diccionario
     
     # TO DO
-    df = df[COLUMNS_UXUI] # nos quedamos únicamente con las columnas que son value en el diccionario
+    # df = df[COLUMNS_UXUI] # nos quedamos únicamente con las columnas que son value en el diccionario
 
-    df.set_index('name', inplace=True)
-    
-    # eliminamos duplicados
-    df = df[~df.index.duplicated(keep='first')]
+    # df.set_index('name', inplace=True)
         
     # languages
     for language in LANGUAGES: 
@@ -393,22 +390,19 @@ def uxui_translate_csv(bootcamp, element, path):
     
     # position
     df['position'] = df['position'].apply(translate_position)
-    
-    print('######################### pre hardskills')
-    print(df['competencies'])
+        
+    def uxui_translate_hardskills(x, hardskill): 
+        return 1 if hardskill.lower() in x.lower() else 0
 
-    # hardskills 
-    for hardskill in UXUI_HARDSKILLS: # init hardskills
-        df[hardskill] = 0
-    print('######################### during hardskills')
-    print(df[UXUI_HARDSKILLS])
-    
     for hardskill in UXUI_HARDSKILLS: 
-        print(hardskill)
-        result = df[hardskill].str.contains(pat = hardskill) 
-        df[hardskill] = result
-        # df[hardskill] = df['competencies'].apply(lambda x: 1 if hardskill.isin(x['competencies'])  else 0)
-    print('######################### post hardskills')
-    print(df[UXUI_HARDSKILLS])
+        df[hardskill] = df['competencies'].apply(lambda x: uxui_translate_hardskills(x, hardskill))
 
+    # print(df.head())
+    # print(COLUMNS_UXUI_2)
+    df = df[COLUMNS_UXUI_2] # nos quedamos únicamente con las columnas que son value en el diccionario
+    df.set_index('name', inplace=True)  # name será el índice
+    
+    # eliminamos duplicados
+    df = df[~df.index.duplicated(keep='first')]
+    # print(df.head())
     return df

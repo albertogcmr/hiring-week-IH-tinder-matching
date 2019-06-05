@@ -30,7 +30,28 @@ PESOS = {
         'coachability': 1,
         'teamwork': 1
     }, 
-    'uxui': {}, 
+    'uxui': {
+        'english': 1,
+        'spanish': 1,
+        'portuguese': 1,
+        'french': 1,
+        'dutch': 1,
+        'catalan': 1,
+        'location': 1, 
+        'offsite': 1,
+        'position': 5, # importante        
+        'user': 5,     # importante las técnicas
+        'methodologies': 5,
+        'usability': 5,
+        'information': 5,
+        'interaction': 5,
+        'visual': 5,
+        'html': 5,
+        'motion': 5,
+        'motivation': 1,
+        'coachability': 1,
+        'teamwork': 1
+    }, 
     'data': {}
 }
 
