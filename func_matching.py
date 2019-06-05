@@ -97,7 +97,11 @@ def match(student, company, weights):
     important: 
         student is modified in order not to penalize overcualification
     '''
-    student = [min(s, c) for s, c in zip(student, company)] 
+    # DONE: evitar que haya sobrecualificación en caso de position
+    student = [min(s, c) if w != 'position' else s for s, c, w in zip(student, company, weights.keys())] 
+    
+    # backup
+    # student = [min(s, c) for s, c in zip(student, company)] 
     return calc_dist(student, company, list(weights.values()))
 
 
@@ -112,6 +116,12 @@ def calculate_match(df1, df2, bootcamp):
     '''
     res = []
     pesos = PESOS.get(bootcamp, 'Error') # bootcamp 'web'??
+    
+    # test
+    '''
+    print(df1.columns, df2.columns, pesos)
+    print(list(df1.columns) == list(df1.columns), list(df1.columns) == list(pesos.keys()))
+    '''
 
     for s in df1.index: 
         for c in df2.index:
@@ -123,6 +133,7 @@ def calculate_match(df1, df2, bootcamp):
     
     # ahora normalizamos los pesos y [0,1] -> [1, 0]
     list_matches_normalized = normalize_list_matches(res)
+
     return list_matches_normalized 
 
 

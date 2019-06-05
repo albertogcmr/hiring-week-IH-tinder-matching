@@ -268,7 +268,7 @@ def translate_position(x):
         return 5 # si no sabe que poner se pondrá un valor intermedio. 
 
 def translate_hardskills(x, dict_hard_skills): 
-    print(dict_hard_skills)
+    # print(dict_hard_skills)
     return dict_hard_skills.get(x, 0) # 0 default
     
 # companies_enc = web_translate_csv(bootcamp, element = 'companies', path=companies_filename, dic=DIC_COMPANIES)
@@ -305,7 +305,7 @@ def web_translate_csv(bootcamp, element, path):
     
     # TO DO
     df = df[COLUMNS_WEB] # nos quedamos únicamente con las columnas que son value en el diccionario
-    print(df.columns)
+    # print(df.columns)
     df.set_index('name', inplace=True)
     
     # eliminamos duplicados
@@ -403,5 +403,5 @@ def uxui_translate_csv(bootcamp, element, path):
     
     # eliminamos duplicados
     df = df[~df.index.duplicated(keep='first')]
-    print(df.iloc[0, :])
+    # print(df.iloc[0, :]) # test de position a nulo
     return df

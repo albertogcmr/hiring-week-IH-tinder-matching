@@ -29,14 +29,14 @@ def get_args():
      
     
     bootcamp = 'uxui'
-    companies_filename = './input/uxui company form template ih hiring (Responses) - Form Responses 1.csv'
-    students_filename = './input/uxui student form template ih hiring (Responses) - Form Responses 1.csv'
+    companies_filename = './input/uxui company matchmaking form template (Responses) - Form Responses 1.csv'
+    students_filename = './input/uxui student matchmaking form template (Responses) - Form Responses 1.csv'
     rondas = '17'
     
     '''
     bootcamp = 'web'
-    companies_filename = './input/web company form template ih hiring (Responses) - Form Responses 1.csv'
-    students_filename = './input/web student form template ih hiring (Responses) - Form Responses 1.csv'
+    companies_filename = './input/web company matchmaking form template (Responses) - Form Responses 1.csv'
+    students_filename = './input/web student matchmaking form template (Responses) - Form Responses 1.csv'
     rondas = '17'
     '''
     

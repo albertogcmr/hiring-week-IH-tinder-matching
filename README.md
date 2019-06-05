@@ -8,44 +8,29 @@ Este script utiliza python 3 y varias librerías.
 
 ### WEB
 Encuestas Students: 
-https://docs.google.com/forms/d/1vQAJSoG8WTs4EY9hCC6JX7MxA8bs--PKAhCxg5v8gMs/edit
+* https://docs.google.com/forms/d/1vQAJSoG8WTs4EY9hCC6JX7MxA8bs--PKAhCxg5v8gMs/edit
 Encuestas Company: 
-https://docs.google.com/forms/d/1EqQLmBmdHEqvbABS9dspmBaBSFVq0HKYCcNYkkTrSVc/edit
+* https://docs.google.com/forms/d/1EqQLmBmdHEqvbABS9dspmBaBSFVq0HKYCcNYkkTrSVc/edit
 
 ### UXUI
 Encuestas Students: 
-https://docs.google.com/forms/d/1KrLeeJ7x66drtw9w04ypmlik60vNF-rwluqr-JQt6BY/edit
+* https://docs.google.com/forms/d/1KrLeeJ7x66drtw9w04ypmlik60vNF-rwluqr-JQt6BY/edit
 Encuestas Company: 
-https://docs.google.com/forms/d/1ia6RABfPYULkvTG0cojDZtZca0iTMn6_UfT4NqgHo6Q/edit
+* https://docs.google.com/forms/d/1ia6RABfPYULkvTG0cojDZtZca0iTMn6_UfT4NqgHo6Q/edit
+
 ### Data 
 Encuestas Students: 
-
+* TO DO
 Encuestas Company: 
-
+* TO DO
 
 
 ## TO DO
-Si no saben front vs back o ux vs ui, poner un 5, y no hacer overcualificated
 el uxui se elegen 3 competencias y no te calificas en cada una. 
-
-revisar el formulario para empresas, aparecen cosas como: 
-- On a scale from 1 to 10, how much time will the employee be spending working on back end and front end?
-- Además creo que es mejor hacer obligatorias TODAS las respuestas permitienedo en 'No es necesario' y el 'Nada'. 
-- Mark the top 3 competencies you are looking for in an employee for this position -> El código a usar será 
-```## test 
-import pandas
-
-df = pandas.Series([('Adventure', 'Drama', 'Fantasy'), ('Comedy', 'Family'), ('Drama', 'Comedy', 'Romance'), (['Drama']), 
-                    (['Documentary']), ('Adventure', 'Biography', 'Drama', 'Thriller')]).apply(frozenset).to_frame(name='genre')
-for genre in frozenset.union(*df.genre):
-    df[genre] = df.apply(lambda _: int(genre in _.genre), axis=1)
-    
-df.head()
-```
 
 ## Instrucciones
 1. Copiar ambos formularios desde la fuente original: 
-< Insertar foto >
+![copy form](./documentation/01-copy-form.png.jpg)
 	1. students form (URL_1)
 	2. companies form (URL_2)
 2. Enviar a los estudiantes y a las empresas que participan en la hiring fair su encuesta correspondiente. Mas detallado
