@@ -1,4 +1,4 @@
-from func_encuestas import web_translate_csv
+from func_encuestas import web_translate_csv, uxui_translate_csv
 
 def adquisition_survey(bootcamp, companies_filename, students_filename):
     '''
@@ -14,8 +14,8 @@ def adquisition_survey(bootcamp, companies_filename, students_filename):
         companies_enc = web_translate_csv(bootcamp, 'companies', companies_filename)
         students_enc = web_translate_csv(bootcamp, 'students', students_filename)
     elif bootcamp == 'uxui': 
-        # TO DO
-        raise ValueError('uxui bootcamp no implementado')
+        companies_enc = uxui_translate_csv(bootcamp, 'companies', companies_filename)
+        students_enc = uxui_translate_csv(bootcamp, 'students', students_filename)
     elif bootcamp == 'data': 
         # TO DO
         raise ValueError('data bootcamp no implementado')

@@ -1,7 +1,7 @@
 import argparse
    
    
-def get_args(argv=None): 
+def get_args2(argv=None): 
     '''
     input: main args
     output: 
@@ -22,11 +22,22 @@ def get_args(argv=None):
     return (args.bootcamp, args.companiesCSV, args.studentsCSV, args.rounds)
 
 
-def get_args2(): 
-    ''' Only for Test '''
-    bootcamp = 'web'
-    companies_filename = './input/Web Company Form (Responses) .csv'
-    students_filename = './input/Web Student Form (Responses) .csv'
+def get_args(): 
+    ''' 
+    Only for Test 
+    ''' 
+     
+    
+    bootcamp = 'uxui'
+    companies_filename = './input/uxui company form template ih hiring (Responses) - Form Responses 1.csv'
+    students_filename = './input/uxui student form template ih hiring (Responses) - Form Responses 1.csv'
     rondas = '17'
+    
+    '''
+    bootcamp = 'web'
+    companies_filename = './input/web company form template ih hiring (Responses) - Form Responses 1.csv'
+    students_filename = './input/web student form template ih hiring (Responses) - Form Responses 1.csv'
+    rondas = '17'
+    '''
     
     return (bootcamp, companies_filename, students_filename, int(rondas))

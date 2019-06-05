@@ -8,15 +8,15 @@ Este script utiliza python 3 y varias librerías.
 
 ### WEB
 Encuestas Students: 
-https://docs.google.com/forms/d/1w85z6lqZdQfByTMiefqUcth16-F9NnLHuZuh9CVHxyU/edit#responses
+https://docs.google.com/forms/d/1vQAJSoG8WTs4EY9hCC6JX7MxA8bs--PKAhCxg5v8gMs/edit
 Encuestas Company: 
-https://docs.google.com/forms/d/1JOjjmV1W-ay7h00wVtpcQzD6FHNJU8Qg6RRz1ptDN4Q/edit
+https://docs.google.com/forms/d/1EqQLmBmdHEqvbABS9dspmBaBSFVq0HKYCcNYkkTrSVc/edit
 
 ### UXUI
 Encuestas Students: 
-https://docs.google.com/forms/d/1N1BbrRrs_qN-qrHhfhtbvj3eh8JupsxxCD97GZHNoBc/edit
+https://docs.google.com/forms/d/1KrLeeJ7x66drtw9w04ypmlik60vNF-rwluqr-JQt6BY/edit
 Encuestas Company: 
-https://docs.google.com/forms/d/1JpKsGgOfVaLiKg0uXTLb-Xp8TjG6k4KRz07pFd_GHuE/edit
+https://docs.google.com/forms/d/1ia6RABfPYULkvTG0cojDZtZca0iTMn6_UfT4NqgHo6Q/edit
 
 ### Data 
 Encuestas Students: 
