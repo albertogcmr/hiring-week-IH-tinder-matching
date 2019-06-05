@@ -17,7 +17,6 @@ Encuestas Students:
 https://docs.google.com/forms/d/1KrLeeJ7x66drtw9w04ypmlik60vNF-rwluqr-JQt6BY/edit
 Encuestas Company: 
 https://docs.google.com/forms/d/1ia6RABfPYULkvTG0cojDZtZca0iTMn6_UfT4NqgHo6Q/edit
-
 ### Data 
 Encuestas Students: 
 

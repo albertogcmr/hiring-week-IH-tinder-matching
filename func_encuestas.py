@@ -265,7 +265,7 @@ def translate_position(x):
     try: 
         return int(x)
     except: 
-        return 0
+        return 5 # si no sabe que poner se pondrá un valor intermedio. 
 
 def translate_hardskills(x, dict_hard_skills): 
     print(dict_hard_skills)
@@ -393,16 +393,15 @@ def uxui_translate_csv(bootcamp, element, path):
         
     def uxui_translate_hardskills(x, hardskill): 
         return 1 if hardskill.lower() in x.lower() else 0
-
+    
+    # hardskills 
     for hardskill in UXUI_HARDSKILLS: 
         df[hardskill] = df['competencies'].apply(lambda x: uxui_translate_hardskills(x, hardskill))
 
-    # print(df.head())
-    # print(COLUMNS_UXUI_2)
-    df = df[COLUMNS_UXUI_2] # nos quedamos únicamente con las columnas que son value en el diccionario
+    df = df[COLUMNS_UXUI_2] # nos quedamos únicamente con las columnas necesarias
     df.set_index('name', inplace=True)  # name será el índice
     
     # eliminamos duplicados
     df = df[~df.index.duplicated(keep='first')]
-    # print(df.head())
+    print(df.iloc[0, :])
     return df
