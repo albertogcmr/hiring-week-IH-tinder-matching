@@ -1,7 +1,7 @@
 import argparse
    
    
-def get_args2(argv=None): 
+def get_args(argv=None): 
     '''
     input: main args
     output: 
@@ -22,11 +22,10 @@ def get_args2(argv=None):
     return (args.bootcamp, args.companiesCSV, args.studentsCSV, args.rounds)
 
 
-def get_args(): 
+def get_args2(): 
     ''' 
     Only for Test 
-    ''' 
-     
+    '''      
     
     bootcamp = 'uxui'
     companies_filename = './input/uxui company matchmaking form template (Responses) - Form Responses 1.csv'

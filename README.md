@@ -28,7 +28,6 @@ Encuestas Students:
 Encuestas Company: 
 * TO DO
 
-
 ## TO DO
 el uxui se elegen 3 competencias y no te calificas en cada una. 
 
@@ -50,7 +49,7 @@ el uxui se elegen 3 competencias y no te calificas en cada una.
 ![download csv](./documentation/03-download-csv.png)
 
 
-6. Instalar dependencias: 
+6. Instalar dependencias desde la terminal: 
 ``` 
 $ virtualenv venv 
 $ . venv/bin/activate
@@ -58,25 +57,20 @@ $ pip install -r requirements.txt
 $ make
 $ python app.py
 ```
-7. Ejecutar la siguiente instrucción en la línea de comandos (abrir terminal): 
-< Insertar foto >
+7. Ejecutar la siguiente instrucción en la terminal. Por ejemplo: 
+![console](./documentation/04-console.png)
 ```
-promt> python3 matching.py CSV_COMP CSV_STU N
+$> python3 matching.py uxui './input/uxui company matchmaking form template (Responses) - Form Responses 1.csv' './input/uxui student matchmaking form template (Responses) - Form Responses 1.csv' 14
 ```
 Siendo: 
 ```
-matching.py = nombre del script
-CSV_COMP = ./encuestas/<fichero_compañias.csv>
-CSV_STU = ./encuestas/<fichero_estudiantes.csv>
-N = Número de rondas deseadas
+* python3 = programa python
+* matching.py = nombre del script
+* './input/uxui company matchmaking form template (Responses) - Form Responses 1.csv' = ruta del csv de empresas
+* './input/uxui student matchmaking form template (Responses) - Form Responses 1.csv' = ruta del csv de estudiantes
+* 14 = Número de rondas deseadas
 ```
 
 ## Mejoras. Reunión outcomes
 
-squereformr(pdist(ratings.T, 'euclidean') # https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.distance.pdist.html
-dm = pdist(X, lambda u, v: np.sqrt(((u-v)**2).sum()))
-
-screenshots
-
-
-
+DONE
