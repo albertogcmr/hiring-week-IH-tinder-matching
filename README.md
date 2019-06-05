@@ -10,18 +10,21 @@ Este script utiliza python 3 y varias librerías.
 ### WEB
 Encuestas Students: 
 * https://docs.google.com/forms/d/1vQAJSoG8WTs4EY9hCC6JX7MxA8bs--PKAhCxg5v8gMs/edit
+
 Encuestas Company: 
 * https://docs.google.com/forms/d/1EqQLmBmdHEqvbABS9dspmBaBSFVq0HKYCcNYkkTrSVc/edit
 
 ### UXUI
 Encuestas Students: 
 * https://docs.google.com/forms/d/1KrLeeJ7x66drtw9w04ypmlik60vNF-rwluqr-JQt6BY/edit
+
 Encuestas Company: 
 * https://docs.google.com/forms/d/1ia6RABfPYULkvTG0cojDZtZca0iTMn6_UfT4NqgHo6Q/edit
 
 ### Data 
 Encuestas Students: 
 * TO DO
+
 Encuestas Company: 
 * TO DO
 
@@ -31,7 +34,9 @@ el uxui se elegen 3 competencias y no te calificas en cada una.
 
 ## Instrucciones
 1. Copiar ambos formularios desde la fuente original: 
-![copy form](./documentation/01-copy-form.png.png)
+
+![copy form](./documentation/01-copy-form.png)
+
 	1. students form (URL_1)
 	2. companies form (URL_2)
 2. Enviar a los estudiantes y a las empresas que participan en la hiring fair su encuesta correspondiente. Mas detallado
