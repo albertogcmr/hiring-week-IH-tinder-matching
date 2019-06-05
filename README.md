@@ -41,10 +41,14 @@ el uxui se elegen 3 competencias y no te calificas en cada una.
 	2. companies form (URL_2)
 2. Enviar a los estudiantes y a las empresas que participan en la hiring fair su encuesta correspondiente. Mas detallado
 3. Una vez que los formularios estén terminados generar la hoja de cálculo que proporciona google. 
-< Insertar foto >
+    1. Si es la primera vez:  
+![create sheet](./documentation/02a-create-sheet.png)
+    2. Si ya se ha creado previamente: 
+![open sheet](./documentation/02b-open-existing-sheet.png)
 4. descargar ambos excel en formato CSV 
 5. copiar ambos csv en la carpeta input del proyecto
-< Insertar foto >
+![download csv](./documentation/03-download-csv.png)
+
 
 6. Instalar dependencias: 
 ``` 
