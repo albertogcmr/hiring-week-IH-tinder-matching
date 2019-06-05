@@ -6,6 +6,7 @@ Este script utiliza python 3 y varias librerías.
 
 ## Encuestas Fuente
 
+
 ### WEB
 Encuestas Students: 
 * https://docs.google.com/forms/d/1vQAJSoG8WTs4EY9hCC6JX7MxA8bs--PKAhCxg5v8gMs/edit
@@ -30,7 +31,7 @@ el uxui se elegen 3 competencias y no te calificas en cada una.
 
 ## Instrucciones
 1. Copiar ambos formularios desde la fuente original: 
-![copy form](./documentation/01-copy-form.png.jpg)
+![copy form](./documentation/01-copy-form.png.png)
 	1. students form (URL_1)
 	2. companies form (URL_2)
 2. Enviar a los estudiantes y a las empresas que participan en la hiring fair su encuesta correspondiente. Mas detallado
