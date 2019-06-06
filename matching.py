@@ -7,14 +7,22 @@
 import numpy as np
 import pandas as pd
 
-
+'''
+# pre creación de la carpeta modules
 from func_args import get_args
 from func_aquisition import adquisition_survey
 from func_normalize import *
 from func_matching import calculate_match
 from func_rondas import get_rondas, shuffle_rondas
 from func_outputs import outputs, create_matrix_matching
+'''
 
+from modules.func_args import get_args
+from modules.func_aquisition import adquisition_survey
+from modules.func_normalize import normalize_2dfs
+from modules.func_matching import calculate_match
+from modules.func_rondas import get_rondas, shuffle_rondas
+from modules.func_outputs import outputs, create_matrix_matching
 
 # main
 def main(): 

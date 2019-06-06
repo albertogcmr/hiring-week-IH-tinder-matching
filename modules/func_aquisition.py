@@ -1,4 +1,7 @@
-from func_encuestas import web_translate_csv, uxui_translate_csv
+from modules.func_encuestas import web_translate_csv, uxui_translate_csv
+
+# pre creacion de la carpeta modules
+# from func_encuestas import web_translate_csv, uxui_translate_csv
 
 def adquisition_survey(bootcamp, companies_filename, students_filename):
     '''

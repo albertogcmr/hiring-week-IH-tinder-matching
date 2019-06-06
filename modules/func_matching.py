@@ -2,7 +2,9 @@ from scipy.spatial import distance
 import pandas as pd
 import numpy as np
 
-from func_normalize import normalize_list_matches
+# pre cambio
+# from func_normalize import normalize_list_matches
+from modules.func_normalize import normalize_list_matches
 
 PESOS = {
     'web': {
