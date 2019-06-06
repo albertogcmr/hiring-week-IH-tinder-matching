@@ -30,23 +30,27 @@ Company survey template:
 
 
 ## Instructions
-0. Copy the project to your computer from the github link in the location of your choice: https://github.com/albertogcmr/hiring-week-IH-tinder-matching/tree/v1 
+0. Copy the project to your computer from the github link in the location of your choice: 
+    * https://github.com/albertogcmr/hiring-week-IH-tinder-matching/tree/v1 
 
 ![download project](./documentation/00-download-repo.png)
 
 1. Copy both forms from the original source: 
-
+    * Copy student survey template
+	* Copy company survey template
 ![copy form](./documentation/01-copy-form.png)
-    1. Copy student survey template
-	2. Copy company survey template
+    
 2. Send the corresponding survey to the students and companies that participate in the hiring fair. 
 3. Once the forms are completed generate the spreadsheets provided by google. 
-    1. When it is the first time:  
+    * When it is the first time:  
 
 ![create sheet](./documentation/02a-create-sheet.png)
-    2. If it has already been created previously: 
+
+    * If it has already been created previously: 
+
 ![open sheet](./documentation/02b-open-existing-sheet.png)
 4. Download both spreadsheets in CSV format:  
+
 ![download csv](./documentation/03-download-csv.png)
 5. Copy both CSVs into the project's input folder. 
 6. Opent the terminal and install the dependencies: 
@@ -63,10 +67,10 @@ $ python3 matching.py uxui './input/uxui company matchmaking form template (Resp
 ```
 Siendo: 
 ```
-* **python3** = Python program
-* **matching.py** = Name of the script
-* **'./input/uxui company matchmaking form template (Responses) - Form Responses 1.csv'** = CSV path of companies
-* **'./input/uxui student matchmaking form template (Responses) - Form Responses 1.csv'** = CSV step of students
+* python3 = Python program
+* matching.py = Name of the script
+* './input/uxui company matchmaking form template (Responses) - Form Responses 1.csv' = CSV path of companies
+* './input/uxui student matchmaking form template (Responses) - Form Responses 1.csv' = CSV step of students
 * 14 = Number of rounds desired
 ```
 8. An excel file called **output.xlsx** containing the results of the calculated pairings will be generated in the output folder.
