@@ -75,6 +75,6 @@ Siendo:
 ```
 8. An excel file called **output.xlsx** containing the results of the calculated pairings will be generated in the output folder.
 
-## Mejoras. Reunión outcomes
+## Future improvements
 
 DONE
