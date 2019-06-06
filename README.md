@@ -52,17 +52,18 @@ $ virtualenv venv
 $ . venv/bin/activate
 $ pip install -r requirements.txt
 ```
-7. Execute the following instruction in the terminal. For example: ![console](./documentation/04-console.png)
+7. Execute the following instruction in the terminal. 
+![console](./documentation/04-console.png)
+For example: 
 ```
 $ python3 matching.py uxui './input/uxui company matchmaking form template (Responses) - Form Responses 1.csv' './input/uxui student matchmaking form template (Responses) - Form Responses 1.csv' 14
 ```
 Being: 
-
-    * python3 = Python program
-    * matching.py = Name of the script
-    * './input/uxui company matchmaking form template (Responses) - Form Responses 1.csv' = CSV path of companies
-    * './input/uxui student matchmaking form template (Responses) - Form Responses 1.csv' = CSV step of students
-    * 14 = Number of rounds desired
+* **python3** = Python program
+* **matching.py** = Name of the script
+* **'./input/uxui company matchmaking form template (Responses) - Form Responses 1.csv'** = CSV path of companies
+* **'./input/uxui student matchmaking form template (Responses) - Form Responses 1.csv'** = CSV step of students
+* **14** = Number of rounds desired
 
 8. An excel file called **output.xlsx** containing the results of the calculated pairings will be generated in the output folder.
 
