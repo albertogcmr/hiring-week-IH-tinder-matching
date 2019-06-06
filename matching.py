@@ -22,7 +22,7 @@ from modules.func_aquisition import adquisition_survey
 from modules.func_normalize import normalize_2dfs
 from modules.func_matching import calculate_match
 from modules.func_rondas import get_rondas, shuffle_rondas
-from modules.func_outputs import outputs, create_matrix_matching
+from modules.func_outputs import outputs # , create_matrix_matching
 
 # main
 def main(): 
