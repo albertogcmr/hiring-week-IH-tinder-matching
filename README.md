@@ -37,8 +37,7 @@ Company survey template:
 1. Copy both forms from the original source: 
 
 ![copy form](./documentation/01-copy-form.png)
-
-	1. Copy student survey template
+    1. Copy student survey template
 	2. Copy company survey template
 2. Send the corresponding survey to the students and companies that participate in the hiring fair. 
 3. Once the forms are completed generate the spreadsheets provided by google. 
