@@ -70,3 +70,10 @@ Being:
 ## Future improvements
 
 DONE
+
+## TO CHECK
+
+1. revisar que ambos script funcionan con los 4 templates. 
+2. un mínimo de alumnos por empresa. (cuando hay más empresas que estudiantes)
+3. hacerlo más usable. (Marc)
+4. Hacer skills eliminatorios, por ejemplo catalán, inglés. 
