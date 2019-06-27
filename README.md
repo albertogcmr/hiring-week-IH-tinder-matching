@@ -46,11 +46,12 @@ Company survey template:
     * If it has already been created previously: ![open sheet](./documentation/02b-open-existing-sheet.png)
 4. Download both spreadsheets in CSV format: ![download csv](./documentation/03-download-csv.png)
 5. Copy both CSVs into the project's input folder. 
-6. Opent the terminal and install the dependencies: 
+6. Opent the terminal and install the dependencies:
+https://realpython.com/python-virtual-environments-a-primer/ 
 ``` 
-$ virtualenv venv 
-$ . venv/bin/activate
-$ pip install -r requirements.txt
+$ python3 -m venv env
+$ source env/bin/activate     (NOTA para cerrar: $ deactivate)
+$ pip3 install -r requirements.txt
 ```
 7. Execute the following instruction in the terminal. 
 ![console](./documentation/04-console.png)
