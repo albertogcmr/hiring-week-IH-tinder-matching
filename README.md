@@ -57,7 +57,8 @@ $ pip3 install -r requirements.txt
 ![console](./documentation/04-console.png)
 For example: 
 ```
-$ python3 matching.py uxui './input/uxui company matchmaking form template (Responses) - Form Responses 1.csv' './input/uxui student matchmaking form template (Responses) - Form Responses 1.csv' 14
+$ python3 matching.py uxui ./input/company-uxui-mad.csv ./input/student-uxui-mad.csv 14
+# $ python3 matching.py web ./input/company-web-mad.csv ./input/student-web-mad.csv 14
 ```
 Being: 
 * **python3** = Python program
