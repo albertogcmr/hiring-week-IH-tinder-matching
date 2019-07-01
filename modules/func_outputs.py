@@ -43,11 +43,12 @@ def create_excel_output(dfs, path='output/output.xlsx'):
     writer.save()
 
 def report_matching(df): 
-    '''
-    Informe de mínimo de entrevistas, máximo de entrevistas, 
-    rondas, etc...
-    '''
-    pass
+    students = df.student.value_counts()
+    companies = df.company.value_counts()
+    num_rondas = df.ronda.nunique()
+    print('entrevistas alumnos (max, min): ({}, {})'.format(students.max(), students.min()))
+    print('entrevistas empresas (max, min): ({}, {})'.format(companies.max(), companies.min()))
+    print('Num. Rondas: {}'.format(num_rondas))
 
 def outputs(rondas, lista_matching): 
     df = pd.DataFrame.from_dict(rondas, orient='columns')
@@ -59,5 +60,4 @@ def outputs(rondas, lista_matching):
     create_excel_output(dfs)
     report_matching(df)
 
-    print('entrevistas alumnos (max, min): ({}, {})')
-    print('entrevistas empresas (max, min): ({}, {})')
+    
