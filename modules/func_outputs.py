@@ -58,3 +58,6 @@ def outputs(rondas, lista_matching):
     dfs = [df, df_matrix, df_matrix2, df_matrix3]
     create_excel_output(dfs)
     report_matching(df)
+
+    print('entrevistas alumnos (max, min): ({}, {})')
+    print('entrevistas empresas (max, min): ({}, {})')
