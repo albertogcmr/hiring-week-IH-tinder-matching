@@ -1,6 +1,6 @@
 
 # uxui
-python3 matching.py uxui ./input/company-uxui-mad.csv ./input/student-uxui-mad.csv 18
+python3 matching.py uxui ./input/company-uxui-mad.csv ./input/student-uxui-mad.csv 12
 
 # web
 python3 matching.py web ./input/company-web-mad.csv ./input/student-web-mad.csv 13
