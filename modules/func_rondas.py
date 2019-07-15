@@ -19,8 +19,11 @@ def get_next_interview(lista_matching_ordenada, used, students_dict_queue):
                     return match # Devuelve el primer match válido, según el orden de least_common()
     return None # Ningún matcha válido
     
-def get_rondas(lista_matching, n_rondas, students, companies): 
+def get_rondas(lista_matching, n_rondas, students, companies, min_interviews_for_company): 
+    print(min_interviews_for_company)
+
     lista_matching_ordenada = sorted(lista_matching, key = lambda x: x['weight'], reverse=True)
+    print(lista_matching_ordenada)
     students_dict_queue = generate_student_interviews(students)
     
     res = []
