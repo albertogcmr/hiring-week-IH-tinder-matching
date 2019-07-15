@@ -69,13 +69,11 @@ Being:
 
 8. An excel file called **output.xlsx** containing the results of the calculated pairings will be generated in the output folder.
 
-## Future improvements
 
-DONE
-
-## TO CHECK
+## TO DO
 
 1. revisar que ambos script funcionan con los 4 templates. 
-2. un mínimo de alumnos por empresa. (cuando hay más empresas que estudiantes)
+2. un mínimo de alumnos por empresa. (cuando hay más empresas que estudiantes). poder definir min de entrevistas de forma paramétrica y que avise si es posible o no. 
 3. hacerlo más usable. (Marc)
 4. Hacer skills eliminatorios, por ejemplo catalán, inglés. 
+5. al elegir entre los alumnos con menos entrevistas que sea random. 
