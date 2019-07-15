@@ -23,8 +23,13 @@ def get_rondas(lista_matching, n_rondas, students, companies, min_interviews_for
     print(min_interviews_for_company)
 
     lista_matching_ordenada = sorted(lista_matching, key = lambda x: x['weight'], reverse=True)
-    print(lista_matching_ordenada)
-    students_dict_queue = generate_student_interviews(students)
+
+    # students & companies dictionary: element: 0
+    students_dict_queue = {student: 0 for student in students}
+    companies_dict_queue = {student: 0 for student in companies}
+
+    # print(students_dict_queue)
+    # print(companies_dict_queue)
     
     res = []
     for ronda in range(n_rondas): # rondas
@@ -42,12 +47,12 @@ def get_rondas(lista_matching, n_rondas, students, companies, min_interviews_for
             students_dict_queue[student] += 1
     return res    
 
-def generate_student_interviews(students_list): 
-    '''
-    input: list of students
-    output: dictionary key (student), value (0)
-    '''
-    return {student: 0 for student in students_list}
+'''
+# def generate_student_interviews(students_list): 
+    # input: list of students
+    # output: dictionary key (student), value (0)
+    # return {student: 0 for student in students_list}
+'''
 
 def shuffle_rondas(lista_interviews): 
     rondas = sorted(list({interview.get('ronda') for interview in lista_interviews}))
