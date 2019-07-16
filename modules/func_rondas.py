@@ -7,7 +7,7 @@ def least_common(queue):
     res = sorted(queue, key=queue.get, reverse=False)
     return res
 
-def get_next_interview_eq_students(lista_matching_ordenada, used, students_dict_queue): 
+def get_next_interview_eq_students(lista_matching_ordenada, used, students_dict_queue, pref_students=True): 
     # https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html
     # Constrained minimization of multivariate scalar functions (minimize)
     
