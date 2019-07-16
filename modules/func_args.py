@@ -9,6 +9,7 @@ def get_args(argv=None):
         args.companiesCSV: path, 
         args.studentsCSV: path, 
         args.rounds: number of rounds for the hiring
+        args.min_interviews_per_company: min interviews per company before students get the token
     '''
     # Example: 
     # $ python3 matching.py web ./input/company-web-mad.csv ./input/student-web-mad.csv 10 -mi 3
