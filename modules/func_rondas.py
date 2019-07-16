@@ -7,7 +7,7 @@ def least_common(queue):
     res = sorted(queue, key=queue.get, reverse=False)
     return res
 
-def get_next_interview(lista_matching_ordenada, used, students_dict_queue): 
+def get_next_interview(lista_matching_ordenada, used, students_dict_queue, companies_dict_queue, min_interviews_per_company): 
     
     # ordena los estudiantes por prioridad según el que tenga menos entrevistas concertadas
     students_ordered = least_common(students_dict_queue) 
@@ -18,33 +18,42 @@ def get_next_interview(lista_matching_ordenada, used, students_dict_queue):
                 if match['company'] not in used and student == match['student']: # TO DO all() 
                     return match # Devuelve el primer match válido, según el orden de least_common()
     return None # Ningún matcha válido
+
+def rondas_preferentes_empresas(): 
+    """ Emparejamos haciendo incapie en que los estudiantes estén con el mismo número de empresas """
+    pass
     
-def get_rondas(lista_matching, n_rondas, students, companies): 
+def get_rondas(lista_matching, n_rondas, students, companies, min_interviews_per_company): 
+
     lista_matching_ordenada = sorted(lista_matching, key = lambda x: x['weight'], reverse=True)
-    students_dict_queue = generate_student_interviews(students)
+    students_dict_queue = {student: 0 for student in students}
+    companies_dict_queue = {company: 0 for company in companies}
+
+    print(students_dict_queue)
+    print(companies_dict_queue)
     
     res = []
+
     for ronda in range(n_rondas): # rondas
         used = []
         for _ in range(len(companies)): # num mesas = num companies
             
-            m = get_next_interview(lista_matching_ordenada, used, students_dict_queue)
-            if m == None: 
+            interview = get_next_interview(lista_matching_ordenada, used, students_dict_queue, companies_dict_queue, min_interviews_per_company)
+            if interview == None: 
                 break
-            student, company, w = m['student'], m['company'], m['weight']
+            student, company, w = interview.get('student'), interview.get('company'), interview.get('weight')
             used.extend([student, company]) # añadimos empresa y compañia para que no vuelvan a aparecer en esta ronda
-            lista_matching_ordenada.remove(m) # eliminamos el matching para que no se repita
+            lista_matching_ordenada.remove(interview) # eliminamos el matching para que no se repita
 
             res.append({'ronda': ronda, 'company': company, 'student': student, 'weight': w})
             students_dict_queue[student] += 1
+            companies_dict_queue[company] += 1
+
+    print(students_dict_queue)
+    print(companies_dict_queue)
+    print(lista_matching_ordenada)
     return res    
 
-def generate_student_interviews(students_list): 
-    '''
-    input: list of students
-    output: dictionary key (student), value (0)
-    '''
-    return {student: 0 for student in students_list}
 
 def shuffle_rondas(lista_interviews): 
     rondas = sorted(list({interview.get('ronda') for interview in lista_interviews}))

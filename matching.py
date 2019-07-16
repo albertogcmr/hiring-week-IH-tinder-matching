@@ -18,8 +18,6 @@ from modules.func_outputs import outputs # , create_matrix_matching
 def main(): 
     # Captura de argumentos. 
     bootcamp, companies_filename, students_filename, n_rondas, min_interviews_per_company = get_args()
-
-    print(min_interviews_per_company)
     
     # DFs limpios
     df_companies, df_students = adquisition_survey(bootcamp, companies_filename, students_filename)
@@ -31,7 +29,7 @@ def main():
     lista_matching = calculate_match(students, companies, bootcamp)
     
     # Función principal para generar la lista de rondas ordenadas
-    lista_interviews = get_rondas(lista_matching, n_rondas, students.index, companies.index)
+    lista_interviews = get_rondas(lista_matching, n_rondas, students.index, companies.index, min_interviews_per_company)
     
     # barajamos para que todos estén igualmente motivados en cada entrevista
     lista_interviews = shuffle_rondas(lista_interviews)
