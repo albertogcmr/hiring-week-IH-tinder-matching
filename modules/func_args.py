@@ -10,7 +10,9 @@ def get_args(argv=None):
         args.studentsCSV: path, 
         args.rounds: number of rounds for the hiring
     '''
-    # $ python3 matching.py web ./input/company-web-mad.csv ./input/student-web-mad.csv 14
+    # Example: 
+    # $ python3 matching.py web ./input/company-web-mad.csv ./input/student-web-mad.csv 10 -mi 3
+    
     valid_bootcamps = ['web', 'uxui', 'data']
 
     parser = argparse.ArgumentParser(description="Arguments for Hiring Fair")
