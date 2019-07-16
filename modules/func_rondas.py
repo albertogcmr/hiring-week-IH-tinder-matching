@@ -7,46 +7,28 @@ def least_common(queue):
     res = sorted(queue, key=queue.get, reverse=False)
     return res
 
-def get_next_interview(lista_matching_ordenada, used, students_dict_queue, companies_dict_queue, min_interviews_per_company): 
+def get_next_interview_eq_students(lista_matching_ordenada, used, students_dict_queue): 
     # https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html
     # Constrained minimization of multivariate scalar functions (minimize)
     
-    print(len(used))
     # ordena los estudiantes por prioridad según el que tenga menos entrevistas concertadas
-    students_ordered = least_common(students_dict_queue) 
-    companies_ordered = least_common(companies_dict_queue) 
-    '''
-    if len(used) == 42: 
-        pass
-        # print(companies_ordered)
-        # print(companies_dict_queue)
-        # print(lista_matching_ordenada)
+    elements_ordered = least_common(students_dict_queue) 
 
-    if min(companies_dict_queue.values()) < min_interviews_per_company: 
-        # todavía no hemos llegado al cupo mínimo de entrevistas para empresas
-        # print('echo', max(companies_dict_queue.values()))
-        for company in companies_ordered: 
-            for match in lista_matching_ordenada: 
-                if company not in used and match.get('student') not in used: 
-                    print('entra')
-                    return match
-                    '''
-    if False: 
-        pass
-    else: 
-        for student in students_ordered: # según el orden de los menos entrevistados
-            if student not in used: 
-                for match in lista_matching_ordenada:
-                    if match['company'] not in used and student == match['student']: # TO DO all() 
-                        return match # Devuelve el primer match válido, según el orden de least_common()
-    """
-    for student in students_ordered: # según el orden de los menos entrevistados
-        if student not in used: 
+    for elem in elements_ordered: # según el orden de los menos entrevistados
+        if elem not in used: 
             for match in lista_matching_ordenada:
-                if match['company'] not in used and student == match['student']: # TO DO all() 
+                if match.get('company') not in used and match.get('student') == elem: # TO DO all() 
                     return match # Devuelve el primer match válido, según el orden de least_common()
-    """
     return None # Ningún match válido
+
+def get_next_interview_eq_companies(lista_matching_ordenada, used, companies_dict_queue): 
+    companies_ordered = least_common(companies_dict_queue) 
+    for company in companies_ordered: 
+        if company not in used: 
+            for match in lista_matching_ordenada: 
+                if match.get('student') not in used and match.get('company') == company: 
+                    return match
+    return None
 
     
 def get_rondas(lista_matching, n_rondas, students, companies, min_interviews_per_company): 
@@ -60,12 +42,20 @@ def get_rondas(lista_matching, n_rondas, students, companies, min_interviews_per
     res = []
 
     for ronda in range(n_rondas): # rondas
+
+        # dentro de cada ronda
         used = []
         for _ in range(len(companies)): # num mesas = num companies
+
+            if min(companies_dict_queue.values()) < min_interviews_per_company: 
+                interview = get_next_interview_eq_companies(lista_matching_ordenada, used, companies_dict_queue)
             
-            interview = get_next_interview(lista_matching_ordenada, used, students_dict_queue, companies_dict_queue, min_interviews_per_company)
+            else: 
+                interview = get_next_interview_eq_students(lista_matching_ordenada, used, students_dict_queue)
+
             if interview == None: 
                 break
+
             student, company, w = interview.get('student'), interview.get('company'), interview.get('weight')
             used.extend([student, company]) # añadimos empresa y compañia para que no vuelvan a aparecer en esta ronda
             lista_matching_ordenada.remove(interview) # eliminamos el matching para que no se repita
@@ -74,9 +64,6 @@ def get_rondas(lista_matching, n_rondas, students, companies, min_interviews_per
             students_dict_queue[student] += 1
             companies_dict_queue[company] += 1
 
-    # print(students_dict_queue)
-    # print(companies_dict_queue)
-    # print(lista_matching_ordenada)
     return res    
 
 
