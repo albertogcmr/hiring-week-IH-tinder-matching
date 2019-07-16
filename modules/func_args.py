@@ -18,9 +18,10 @@ def get_args(argv=None):
     parser.add_argument("companiesCSV", type=str, help="Relative path to companies survey CSV")
     parser.add_argument("studentsCSV", type=str, help="Relative path to students survey CSV")
     parser.add_argument("rounds", type=int, help="Max rounds per hiring fair")
-
+    parser.add_argument("-min_interviews_per_company", "-mi", default=0, type=int, help="Min interviews per company")
     args = parser.parse_args()
-    return (args.bootcamp, args.companiesCSV, args.studentsCSV, args.rounds)
+
+    return (args.bootcamp, args.companiesCSV, args.studentsCSV, args.rounds, args.min_interviews_per_company)
 
 
 def get_args2(): 
