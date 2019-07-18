@@ -46,6 +46,7 @@ def report_matching(df):
     students = df.student.value_counts()
     companies = df.company.value_counts()
     num_rondas = df.ronda.nunique()
+    
     print('entrevistas alumnos (max, min): ({}, {})'.format(students.max(), students.min()))
     print('entrevistas empresas (max, min): ({}, {})'.format(companies.max(), companies.min()))
     print('Num. Rondas: {}'.format(num_rondas))

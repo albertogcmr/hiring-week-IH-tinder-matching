@@ -62,7 +62,7 @@ def get_rondas(lista_matching, n_rondas, students, companies, min_interviews_per
 
 def shuffle_rondas(lista_interviews): 
     rondas = sorted(list({interview.get('ronda') for interview in lista_interviews}))
-    nuevas_rondas = [r for r in rondas]
+    nuevas_rondas = [ronda for ronda in rondas]
     shuffle(nuevas_rondas)
     
     modificacion_rondas = {antigua: nueva for antigua, nueva in zip(rondas, nuevas_rondas)}
