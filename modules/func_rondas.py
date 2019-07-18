@@ -4,41 +4,30 @@ from random import shuffle
 
 def least_common(queue):
     ''' Ordenar por menos número de entrevistas en diccionario input: queue '''
-    res = sorted(queue, key=queue.get, reverse=False)
-    return res
+    return sorted(queue, key=queue.get, reverse=False)
 
-def get_next_interview_eq_students(lista_matching_ordenada, used, students_dict_queue, pref_students=True): 
+def get_next_interview_eq_times(lista_matching_ordenada, used, students_dict_queue, pref_students=True): 
     # https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html
     # Constrained minimization of multivariate scalar functions (minimize)
     
-    # ordena los estudiantes por prioridad según el que tenga menos entrevistas concertadas
-    elements_ordered = least_common(students_dict_queue) 
+    # ordena los estudiantes por prioridad según el que tenga menos entrevistas concertadas 
+    # # y soólo los que no estén en used
+    elements_ordered = [elem for elem in least_common(students_dict_queue) if elem not in used]
+    not_pref, pref = 'company', 'student'
+    if not pref_students: 
+        not_pref, pref = pref, not_pref
 
     for elem in elements_ordered: # según el orden de los menos entrevistados
-        if elem not in used: 
-            for match in lista_matching_ordenada:
-                if match.get('company') not in used and match.get('student') == elem: # TO DO all() 
-                    return match # Devuelve el primer match válido, según el orden de least_common()
+        for match in lista_matching_ordenada:
+            if match.get(pref) == elem and match.get(not_pref) not in used: # TO DO all() 
+                return match # Devuelve el primer match válido, según el orden de least_common()
     return None # Ningún match válido
 
-def get_next_interview_eq_companies(lista_matching_ordenada, used, companies_dict_queue): 
-    companies_ordered = least_common(companies_dict_queue) 
-    for company in companies_ordered: 
-        if company not in used: 
-            for match in lista_matching_ordenada: 
-                if match.get('student') not in used and match.get('company') == company: 
-                    return match
-    return None
-
-    
 def get_rondas(lista_matching, n_rondas, students, companies, min_interviews_per_company): 
 
     lista_matching_ordenada = sorted(lista_matching, key = lambda x: x['weight'], reverse=True)
     students_dict_queue = {student: 0 for student in students}
     companies_dict_queue = {company: 0 for company in companies}
-
-    # print(students_dict_queue)
-    # print(companies_dict_queue)
     res = []
 
     for ronda in range(n_rondas): # rondas
@@ -48,10 +37,12 @@ def get_rondas(lista_matching, n_rondas, students, companies, min_interviews_per
         for _ in range(len(companies)): # num mesas = num companies
 
             if min(companies_dict_queue.values()) < min_interviews_per_company: 
-                interview = get_next_interview_eq_companies(lista_matching_ordenada, used, companies_dict_queue)
+                # interview = get_next_interview_eq_companies(lista_matching_ordenada, used, companies_dict_queue)
+                interview = get_next_interview_eq_times(lista_matching_ordenada, used, companies_dict_queue, pref_students=False)
             
             else: 
-                interview = get_next_interview_eq_students(lista_matching_ordenada, used, students_dict_queue)
+                # interview = get_next_interview_eq_students(lista_matching_ordenada, used, students_dict_queue)
+                interview = get_next_interview_eq_times(lista_matching_ordenada, used, students_dict_queue, pref_students=True)
 
             if interview == None: 
                 break
@@ -61,7 +52,9 @@ def get_rondas(lista_matching, n_rondas, students, companies, min_interviews_per
             lista_matching_ordenada.remove(interview) # eliminamos el matching para que no se repita
 
             res.append({'ronda': ronda, 'company': company, 'student': student, 'weight': w})
-            students_dict_queue[student] += 1
+            students_dict_queue[student] += 1 
+
+            # actualizamos el número de entrevistas que llevan student y company
             companies_dict_queue[company] += 1
 
     return res    
