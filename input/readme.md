@@ -1,4 +1,8 @@
 # examples
+
+# activar venv
+source env/bin/activate
+
 ## uxui
 python3 matching.py uxui ./input/company-uxui-mad.csv ./input/student-uxui-mad.csv 12 -mi 3
 
